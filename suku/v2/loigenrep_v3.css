@@ -79,6 +79,9 @@ body {
   width: 100%;
   /* border: 3px solid green; Remove after test */
   padding: 10px;
+  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headers (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
+  font-size: 14px;
+  line-height: 1;
 }  
   
 /* Center a div. To horizontally center a block element (like <div>), use margin: auto; */
