@@ -52,7 +52,7 @@ body {
   float: left;
   display: block;
   color: #f2f2f2;
-  text-align: center;
+  text-align: auto;
   padding: 14px 16px;
   text-decoration: none;
 }
@@ -103,16 +103,16 @@ header {
   z-index: 10;
   background-color: LIGHTGRAY;
   /* background-color: DodgerBlue; */
-  text-align: center;
+  text-align: auto;
   border-bottom: 1px SOLID BLACK;
   color: BLACK;
-  font-family: Arial; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
+  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
   font-weight: 400; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
   line-height: 5px;
   font-size: 22px;
 }
 
-/* Style the header, NON-fixed position, used in PERSON LIST (individuals.htm) to get letter buttons work correcly */
+/* Style the header, NON-fixed position, used in INDEX OF INDIVIDUALS (individuals.htm) to get letter buttons work correcly */
 .header_non-fixed-position {
   position: absolute;
   left: 0px;
@@ -124,7 +124,7 @@ article, section{
   margin-top: 5px;
   z-index: 1;
   margin-left: 18px;
-  font-family: Arial; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
+  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
   font-size: 16px;
   line-height: 1.2;
 }
@@ -149,7 +149,7 @@ footer {
   letter-spacing : 4px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family : Arial;
+  font-family : Arial, Helvetica, sans-serif;
   /* margin : 5px; */
   margin-left: 0px;
   margin-right: 5px;
@@ -197,7 +197,7 @@ a:visited {
 color : #551A8B;
 }
 
-/* Horizontall line: */
+/* Horizontall line */
 hr {
   display: block;
   position: relative;
