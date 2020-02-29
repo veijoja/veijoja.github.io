@@ -155,16 +155,16 @@ h1, h2, h3, h4, h5, h6 {
   margin-right: 5px;
 }
 h1 {
-font-size : 36px;
+font-size : 26px;
 font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
 }
 h2 {
-font-size : 30px;
+font-size : 24px;
 font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
 padding: 12px 0px;
 }
 h3 {
-font-size : 24px;
+font-size : 22px;
 font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
 }
 h4 {
