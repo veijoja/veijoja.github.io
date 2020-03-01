@@ -1,0 +1,17 @@
+/* February 2020 by vj for genealogy reports */
+
+table.table_1, th.table_heading_in_table_1, td.table_data_in_table_1 {
+  border-collapse: collapse;
+  border: 1px solid grey;
+  width: auto;
+}
+
+th.table_heading_in_table_1, td.table_data_in_table_1 {
+  padding: 5px;
+}
+
+th.table_heading_in_table_1 {
+  text-align: center;
+  background-color: DodgerBlue;
+  color: white;
+}
