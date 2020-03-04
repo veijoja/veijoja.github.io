@@ -13,9 +13,20 @@
 		<link rel="stylesheet" href="loigenrep_v3.css">
 </head>
 <body>
-	<!-- For INDEX OF INDIVIDUALS used header class "header_non-fixed-position" 
-	to move control to correct row when clicked a letter button,
-	and header class "topnav" to set navigation buttons to correct positions: -->
+	<!-- For most pages use header class "topnav" to keep header at top while scrolling the page.
+	For the pages that are externally or internally oblects of href, e.g.
+	---------------------------------------------------------------
+	FILE	HEADING	IS OBLECT OF HREF?
+	---------------------------------------------------------------
+	direct.htm	SU0RAT SUKULAISET | DIRECT RELATIONS	YES
+	individuals.htm	HENKILÖLUETTELO | INDEX OF INDIVIDUALS	YES
+	places.htm	PAIKKALUETTELO | INDEX OF PLACES	YES
+	relationships.htm	SUKULAISUUSSUHTET | RELATIONSHIP PATHS	YES
+	sources.htm	LÄHTEET | SOURCES	YES
+	---------------------------------------------------------------
+	use header class "header_non-fixed-position" to move control to correct row, when clicked an <a href...>,
+	and use header class "topnav" to set navigation buttons to correct positions
+	on the page individuals.htm HENKILÖLUETTELO | INDEX OF INDIVIDUALS: -->
 	<header class="header_non-fixed-position topnav">
 		<!-- <p class="topheading1">LOIMUSALON SUKUKIRJA</p> -->	
 		<!-- <a href="index.html"><img src="frontbut.gif" alt="Aloitussivu" style="width:101px;height:20px;border:1px solid seagreen;"></a> -->
