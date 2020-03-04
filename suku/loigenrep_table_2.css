@@ -1,0 +1,9 @@
+/* March 2020 by vj for genealogy reports */
+
+/* Setting content of table cells to top of cell, to display number of day (e.g. 31.) on the same row 
+as first row of a wrapped description of an event. Used in anniversaries.htm */
+tr {
+  display: table-row; /* By default table-row */
+  vertical-align: top; /* By default inherit */
+  border-color: inherit; /* By default inherit */
+}
