@@ -1,12 +1,6 @@
 /* February 2020 by vj for genealogy reports */
 
-/* December 2017 - February 2020 from http://webdevable.com/w3schools/w3css/4/w3mobile.css 
-W3.CSS Version 4 for mobile applications, a mobile-only style sheet.
-html{box-sizing:border-box}*,*:before,*:after{box-sizing:inherit}
-html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
-2 rows commentd to TEST!!! */
-
-/* Arial: (Alternative tested font families to this purpose are Veranda, "Segoe UI", sans-serif, ...) */
+/* Preferred font-family is Arial. lternative tested font families to this purpose are Veranda, "Segoe UI", ... */
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -14,7 +8,7 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  /* font-family: Arial, Helvetica, sans-serif; */
   background-color: #FAF9F7; /* #FAF9F7 is very light grey */
   /* Alternative backgrounds: */
     /* background-color: lightblue; */
@@ -30,12 +24,13 @@ header {
   top: 0;
   z-index: 1;
   background-color: LIGHTGRAY;
-  /* background-color: DodgerBlue; */
+  /* Alternative background-colors to this purpose: background-color: DodgerBlue; */
   /* text-align: center; */
   border-bottom: 1px SOLID BLACK;
   color: BLACK;
-  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
-  font-weight: 400; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  /* font-weight 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+  font-weight: 400;
   font-size: 22px;
   line-height: 1;
 }
@@ -49,8 +44,8 @@ header {
 
 .topheading1 {
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
-  font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-weight: 600;
   font-size: 22px;
   line-height: 1;
   padding: 0px 0px;
@@ -58,8 +53,8 @@ header {
 
 .topheading2 {
   text-align: left;
-  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
-  font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-weight: 600;
   font-size: 18px;
   line-height: 1;
   padding: 0px 0px;
@@ -68,9 +63,7 @@ header {
 .topnav {
   overflow: hidden;
   background-color: LIGHTGRAY;
-  /* Alternative tested background-colors to this purpose: */
-    /* background-color: DodgerBlue; */
-    /* background-color: LIGHTBLUE; */
+  /* Alternative background-colors to this purpose: background-color: DodgerBlue; */
 }
 
 /* Style the topnav links */
@@ -104,8 +97,8 @@ header {
   width: 100%;
   /* border: 3px solid green; Remove after test */
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
-  font-weight: 400; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-weight: 400;
   font-size: 14px;
   line-height: 1;
   padding: 10px;
@@ -127,7 +120,7 @@ article, section{
   margin-top: 5px;
   margin-left: 18px;
   text-align: left;
-  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
+  /* font-family: Arial, Helvetica, sans-serif; */
   font-size: 16px;
   line-height: 1.2;
   padding: 0px 0px;
@@ -143,8 +136,8 @@ footer {
   border-bottom: 1px SOLID BLACK;
   background-color: LIGHTGRAY;
   text-align: center;
-  font-family: Arial, Helvetica, sans-serif; /* Font_family and other font properties for headings (h1, h2, h3, h4, h5, h6) are defined elsewhere! */
-  font-weight: 400; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+  /* font-family: Arial, Helvetica, sans-serif; */
+  font-weight: 400;
   font-size: 14px;
   line-height: 1;
   /* height: 30px; */
@@ -154,40 +147,41 @@ footer {
   letter-spacing : 4px;
 }
 h1, h2, h3, h4, h5, h6 {
-  font-family : Arial, Helvetica, sans-serif;
+  /* font-family : Arial, Helvetica, sans-serif; */
   /* margin : 5px; */
   margin-left: 0px;
   margin-right: 5px;
 }
 h1 {
 font-size : 26px;
-font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+font-weight: 600;
 }
 h2 {
 font-size : 24px;
-font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+font-weight: 600;
 padding: 12px 0px;
 }
 h3 {
 font-size : 22px;
-font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+font-weight: 600;
 }
 h4 {
 font-size : 20px;
-font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+font-weight: 600;
 }
 h5 {
 font-size : 18px;
-font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+font-weight: 600;
 }
 h6 {
 font-size : 16px;
-font-weight: 600; /* 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
+font-weight: 600;
 }
 
 a:active, a:hover {
 outline-width : 0;
 }
+
 abbr[title] {
 border-bottom : none;
 text-decoration : underline;
@@ -202,18 +196,14 @@ a:visited {
 color : #551A8B;
 }
 
-/* Horizontall line */
-hr {
+hr.hr_black {
   display: block;
-  position: relative;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
-  margin-left: 0px;
+  margin-left: auto;
   margin-right: auto;
-  height: 1px;
-  border-top: 1px SOLID BLACK;
-  border-bottom: 1px SOLID BLACK;
   border-style: inset;
   border-width: 1px;
-  color: BLACK;
+  border-top: 1px SOLID BLACK;
+  /* border-bottom: 1px SOLID BLACK; -- border-top: 1px + border-bottom: 1px = 2px */
 }
