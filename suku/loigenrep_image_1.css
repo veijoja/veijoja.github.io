@@ -1,0 +1,82 @@
+/* March 2020 by vj for genealogy reports */
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: auto;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  /*
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  */
+  text-align: center;
+}
+
+.container:hover .image {
+  opacity: 0.3;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  padding: 11px 11px;
+}
+
+div.div_img_table_1 {
+  display: block;
+  margin-left: 90px;
+  width: 300px;
+}
+
+table.img_table_1, 
+	td.image-karjala_in_img_table_1, 
+	td.empty-column_in_img_table_1, 
+	td.image-keski-suomi_in_img_table_1 {
+  border-collapse: collapse;
+  border: 0; /* border: 1px solid grey; For test only */
+}
+
+th.table_heading_in_img_table_1 {
+  padding: 5px;
+  text-align: center;
+  background-color: white;
+  color: BLACK;
+}
+
+td.image-karjala_in_img_table_1
+	td.empty-column_in_img_table_1, 
+	td.image-keski-suomi_in_img_table_1 {
+  padding: 5px;
+}
+
+td.image-karjala_in_img_table_1 {
+  width: 80px;
+}
+
+td.empty-column_in_img_table_1 {
+  width: 40px;
+}
+
+td.image-keski-suomi_in_img_table_1 {
+  width: 120px;
+}
