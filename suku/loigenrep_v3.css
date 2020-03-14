@@ -126,6 +126,20 @@ article, section{
   padding: 0px 0px;
 }
 
+/* Style a low paragraph */
+p.p_low {
+  display: block;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Style paragraph with margin-left */
+p.p_margin-left {
+  margin-left: 8px;
+}
+
 /* Style the footer */
 footer {
   display: block;
