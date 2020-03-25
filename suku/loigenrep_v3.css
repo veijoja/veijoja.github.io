@@ -26,7 +26,7 @@ header {
   background-color: LIGHTGRAY;
   /* Alternative background-colors to this purpose: background-color: DodgerBlue; */
   /* text-align: center; */
-  border-bottom: 1px SOLID BLACK;
+  border-bottom: 1px SOLID GRAY;
   color: BLACK;
   /* font-family: Arial, Helvetica, sans-serif; */
   /* font-weight 400 is normal, other correct values of font-weight are 100, 200, ..., 900 */
@@ -146,13 +146,14 @@ footer {
   margin-left: 0px;
   margin-top: 1px;
   z-index: 1;
-  border-top: 1px SOLID BLACK;
-  border-bottom: 1px SOLID BLACK;
+  border-top: 1px SOLID GRAY;
+  border-bottom: 1px SOLID GRAY;
   background-color: LIGHTGRAY;
+  color: DIMGRAY;
   text-align: center;
   /* font-family: Arial, Helvetica, sans-serif; */
   font-weight: 400;
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1;
   /* height: 30px; */
 }
