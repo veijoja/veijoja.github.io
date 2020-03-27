@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="fi">
 <head>
 	<!-- O -->
@@ -13,7 +13,23 @@
 		<link rel="stylesheet" href="loigenrep_v3.css">
 </head>
 <body>
-	<header class="topnav">
+	<!-- For most pages use header class "topnav" to keep header at top while scrolling the page.
+	For the pages that are externally or internally oblects of href, e.g.
+	---------------------------------------------------------------
+	FILE	HEADING	IS OBLECT OF HREF?
+	---------------------------------------------------------------
+	direct.htm	SU0RAT SUKULAISET | DIRECT RELATIONS	YES
+	individuals.htm	HENKILÖLUETTELO | INDEX OF INDIVIDUALS	YES
+	maternal.htm	ÄIDIN ESIVANHEMMAT | MATERNAL ANCESTRY	YES
+	paternal.htm	ISÄN ESIVANHEMMAT | PATERNAL ANCESTRY	YES
+	places.htm	PAIKKALUETTELO | INDEX OF PLACES	YES
+	relationships.htm	SUKULAISUUSSUHTET | RELATIONSHIP PATHS	YES
+	sources.htm	LÄHTEET | SOURCES	YES
+	---------------------------------------------------------------
+	use header class "header_non-fixed-position" to move control to correct row, when clicked an <a href...>,
+	and use header class "topnav" to set navigation buttons to correct positions
+	on the page individuals.htm HENKILÖLUETTELO | INDEX OF INDIVIDUALS: -->
+	<header class="header_non-fixed-position topnav">
 		<!-- <p class="topheading1">LOIMUSALON SUKUKIRJA</p> -->	
 		<!-- <a href="index.html"><img src="frontbut.gif" alt="Aloitussivu" style="width:101px;height:20px;border:1px solid seagreen;"></a> -->
 		<a href="contents.htm"><img src="contentsbut.gif" alt="Sis&auml;lt&ouml;" style="width:101px;height:20px;border:1px solid dodgerblue;"></a>
@@ -783,7 +799,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R122"></a>
 122.</td>
-<td width="95%"><a href="direct.htm#I123" style="text-decoration: none"><font color="#3333CC">JOHANNA ERKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I123" style="text-decoration: none"><font color="#3333CC">JOHANNA ERKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -883,7 +899,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R138"></a>
 138.</td>
-<td width="95%"><a href="direct.htm#I139" style="text-decoration: none"><font color="#3333CC">WALBORG LAURENTIUSDOTTER N.N.</font></a>  Isän isän isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I139" style="text-decoration: none"><font color="#3333CC">WALBORG LAURENTIUSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -1525,7 +1541,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R245"></a>
 245.</td>
-<td width="95%"><a href="direct.htm#I246" style="text-decoration: none"><font color="#3333CC">MARIA ANTINTYTÄR N.N.</font></a>  Äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I246" style="text-decoration: none"><font color="#3333CC">MARIA ANTINTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -1667,7 +1683,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R268"></a>
 268.</td>
-<td width="95%"><a href="direct.htm#I269" style="text-decoration: none"><font color="#3333CC">WALBORG PETERSDOTTER N.N.</font></a>  Isän isän isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I269" style="text-decoration: none"><font color="#3333CC">WALBORG PETERSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -1679,7 +1695,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R270"></a>
 270.</td>
-<td width="95%"><a href="direct.htm#I271" style="text-decoration: none"><font color="#3333CC">BEATA HENRICSDOTTER N.N.</font></a>  Isän isän isän äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I271" style="text-decoration: none"><font color="#3333CC">BEATA HENRICSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -1691,7 +1707,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R272"></a>
 272.</td>
-<td width="95%"><a href="direct.htm#I273" style="text-decoration: none"><font color="#3333CC">CATHARINA PETERSDOTTER N.N.</font></a>  Isän isän isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I273" style="text-decoration: none"><font color="#3333CC">CATHARINA PETERSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2207,7 +2223,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R358"></a>
 358.</td>
-<td width="95%"><a href="direct.htm#I359" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 3 N.N.</font></a>  Isän äidin äidin äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I359" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 3  N.N.</font></a>.  Isän äidin äidin äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2279,7 +2295,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R370"></a>
 370.</td>
-<td width="95%"><a href="direct.htm#I371" style="text-decoration: none"><font color="#3333CC">MARIA N.N.</font></a>  Äidin isän isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I371" style="text-decoration: none"><font color="#3333CC">MARIA  N.N.</font></a>.  Äidin isän isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2291,7 +2307,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R372"></a>
 372.</td>
-<td width="95%"><a href="direct.htm#I373" style="text-decoration: none"><font color="#3333CC">ELISABETH N.N.</font></a>  Äidin isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I373" style="text-decoration: none"><font color="#3333CC">ELISABETH  N.N.</font></a>.  Äidin isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2327,7 +2343,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R378"></a>
 378.</td>
-<td width="95%"><a href="direct.htm#I379" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 1 N.N.</font></a>  Äidin isän isän isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I379" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 1  N.N.</font></a>.  Äidin isän isän isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2879,25 +2895,25 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R470"></a>
 470.</td>
-<td width="95%"><a href="direct.htm#I471" style="text-decoration: none"><font color="#3333CC">MARIA JUHONTYTÄR N.N.</font></a>  Äidin äidin äidin isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I471" style="text-decoration: none"><font color="#3333CC">MARIA JUHONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R471"></a>
 471.</td>
-<td width="95%"><a href="direct.htm#I472" style="text-decoration: none"><font color="#3333CC">JUHO LAURINPOIKA N.N.</font></a>  Äidin äidin äidin äidin isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I472" style="text-decoration: none"><font color="#3333CC">JUHO LAURINPOIKA  N.N.</font></a>.  Äidin äidin äidin äidin isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R472"></a>
 472.</td>
-<td width="95%"><a href="direct.htm#I473" style="text-decoration: none"><font color="#3333CC">MARIA JOHANSDOTTER N.N.</font></a>  Äidin äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I473" style="text-decoration: none"><font color="#3333CC">MARIA JOHANSDOTTER  N.N.</font></a>.  Äidin äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R473"></a>
 473.</td>
-<td width="95%"><a href="direct.htm#I474" style="text-decoration: none"><font color="#3333CC">ANTTI ERKINPOIKA N.N.</font></a>  Äidin äidin äidin äidin isän isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I474" style="text-decoration: none"><font color="#3333CC">ANTTI ERKINPOIKA  N.N.</font></a>.  Äidin äidin äidin äidin isän isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2915,7 +2931,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R476"></a>
 476.</td>
-<td width="95%"><a href="direct.htm#I477" style="text-decoration: none"><font color="#3333CC">SARA HENRICSDOTTER N.N.</font></a>  Äidin äidin äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I477" style="text-decoration: none"><font color="#3333CC">SARA HENRICSDOTTER  N.N.</font></a>.  Äidin äidin äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2939,7 +2955,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R480"></a>
 480.</td>
-<td width="95%"><a href="direct.htm#I481" style="text-decoration: none"><font color="#3333CC">LIISA JUHONTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I481" style="text-decoration: none"><font color="#3333CC">LIISA JUHONTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -2991,7 +3007,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R488"></a>
 488.</td>
-<td width="95%"><a href="direct.htm#I489" style="text-decoration: none"><font color="#3333CC">BRIGITA N.N.</font></a>  Isän isän isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I489" style="text-decoration: none"><font color="#3333CC">BRIGITA  N.N.</font></a>.  Isän isän isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3057,7 +3073,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R499"></a>
 499.</td>
-<td width="95%"><a href="direct.htm#I500" style="text-decoration: none"><font color="#3333CC">MARIA PETTERSDOTTER N.N.</font></a>  Isän isän isän isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I500" style="text-decoration: none"><font color="#3333CC">MARIA PETTERSDOTTER  N.N.</font></a>.  Isän isän isän isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3081,7 +3097,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R503"></a>
 503.</td>
-<td width="95%"><a href="direct.htm#I504" style="text-decoration: none"><font color="#3333CC">SOPHIA MATZDOTTER N.N.</font></a>  Isän isän isän isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I504" style="text-decoration: none"><font color="#3333CC">SOPHIA MATZDOTTER  N.N.</font></a>.  Isän isän isän isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3117,7 +3133,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R509"></a>
 509.</td>
-<td width="95%"><a href="direct.htm#I510" style="text-decoration: none"><font color="#3333CC">MARIA HINRICSDOTTER N.N.</font></a>  Isän isän isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I510" style="text-decoration: none"><font color="#3333CC">MARIA HINRICSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3129,13 +3145,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R511"></a>
 511.</td>
-<td width="95%"><a href="direct.htm#I512" style="text-decoration: none"><font color="#3333CC">BRITA ANDERSDOTTER N.N.</font></a>  Isän isän isän äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I512" style="text-decoration: none"><font color="#3333CC">BRITA ANDERSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R512"></a>
 512.</td>
-<td width="95%"><a href="direct.htm#I513" style="text-decoration: none"><font color="#3333CC">HENRIC MATSSON N.N.</font></a>  Isän isän isän äidin isän isän äidin äidin isä.</td>
+<td width="95%"><a href="direct.htm#I513" style="text-decoration: none"><font color="#3333CC">HENRIC MATSSON  N.N.</font></a>.  Isän isän isän äidin isän isän äidin äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3147,7 +3163,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R514"></a>
 514.</td>
-<td width="95%"><a href="direct.htm#I515" style="text-decoration: none"><font color="#3333CC">ANNA MATSDOTTER N.N.</font></a>  Isän isän isän äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I515" style="text-decoration: none"><font color="#3333CC">ANNA MATSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3213,7 +3229,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R525"></a>
 525.</td>
-<td width="95%"><a href="direct.htm#I526" style="text-decoration: none"><font color="#3333CC">ANNA AGNETTA JÖRANSDOTTER N.N.</font></a>  Isän isän äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I526" style="text-decoration: none"><font color="#3333CC">ANNA AGNETTA JÖRANSDOTTER  N.N.</font></a>.  Isän isän äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3237,7 +3253,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R529"></a>
 529.</td>
-<td width="95%"><a href="direct.htm#I530" style="text-decoration: none"><font color="#3333CC">STAFFAN LIPPOSEN VAIMO N.N.</font></a>  Isän isän äidin isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I530" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Isän isän äidin isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3249,7 +3265,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R531"></a>
 531.</td>
-<td width="95%"><a href="direct.htm#I532" style="text-decoration: none"><font color="#3333CC">MARIA PÅHLSDOTTER N.N.</font></a>  Isän isän äidin isän isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I532" style="text-decoration: none"><font color="#3333CC">MARIA PÅHLSDOTTER  N.N.</font></a>.  Isän isän äidin isän isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3261,7 +3277,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R533"></a>
 533.</td>
-<td width="95%"><a href="direct.htm#I534" style="text-decoration: none"><font color="#3333CC">MARIA MATTSDOTTER N.N.</font></a>  Isän isän äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I534" style="text-decoration: none"><font color="#3333CC">MARIA MATTSDOTTER  N.N.</font></a>.  Isän isän äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3417,7 +3433,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R559"></a>
 559.</td>
-<td width="95%"><a href="direct.htm#I560" style="text-decoration: none"><font color="#3333CC">WALBORG N.N.</font></a>  Isän isän äidin äidin isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I560" style="text-decoration: none"><font color="#3333CC">WALBORG  N.N.</font></a>.  Isän isän äidin äidin isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3573,7 +3589,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R585"></a>
 585.</td>
-<td width="95%"><a href="direct.htm#I586" style="text-decoration: none"><font color="#3333CC">MARIA N.N.</font></a>  Isän äidin isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I586" style="text-decoration: none"><font color="#3333CC">MARIA  N.N.</font></a>.  Isän äidin isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3615,7 +3631,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R592"></a>
 592.</td>
-<td width="95%"><a href="direct.htm#I593" style="text-decoration: none"><font color="#3333CC">JOHANNA SIMONSDOTTER N.N.</font></a>  Isän äidin isän isän äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I593" style="text-decoration: none"><font color="#3333CC">JOHANNA SIMONSDOTTER  N.N.</font></a>.  Isän äidin isän isän äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3879,7 +3895,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R636"></a>
 636.</td>
-<td width="95%"><a href="direct.htm#I637" style="text-decoration: none"><font color="#3333CC">MARIA MATTSDOTTER N.N.</font></a>  Isän äidin äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I637" style="text-decoration: none"><font color="#3333CC">MARIA MATTSDOTTER  N.N.</font></a>.  Isän äidin äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3891,7 +3907,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R638"></a>
 638.</td>
-<td width="95%"><a href="direct.htm#I639" style="text-decoration: none"><font color="#3333CC">AGNETTA PETTERSDOTTER N.N.</font></a>  Isän äidin äidin isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I639" style="text-decoration: none"><font color="#3333CC">AGNETTA PETTERSDOTTER  N.N.</font></a>.  Isän äidin äidin isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -3939,7 +3955,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R646"></a>
 646.</td>
-<td width="95%"><a href="direct.htm#I647" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 2 N.N.</font></a>  Isän äidin äidin isän äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I647" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 2  N.N.</font></a>.  Isän äidin äidin isän äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4035,7 +4051,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R662"></a>
 662.</td>
-<td width="95%"><a href="direct.htm#I663" style="text-decoration: none"><font color="#3333CC">MARGARETHA N.N.</font></a>  Isän äidin äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I663" style="text-decoration: none"><font color="#3333CC">MARGARETHA  N.N.</font></a>.  Isän äidin äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4065,7 +4081,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R667"></a>
 667.</td>
-<td width="95%"><a href="direct.htm#I668" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Isän äidin äidin äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I668" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Isän äidin äidin äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4095,7 +4111,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R672"></a>
 672.</td>
-<td width="95%"><a href="direct.htm#I673" style="text-decoration: none"><font color="#3333CC">LARS AKKASEN ÄITI N.N.</font></a>  Äidin isän isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I673" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Äidin isän isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4107,7 +4123,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R674"></a>
 674.</td>
-<td width="95%"><a href="direct.htm#I675" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin isän isän isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I675" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin isän isän isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4203,7 +4219,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R690"></a>
 690.</td>
-<td width="95%"><a href="direct.htm#I691" style="text-decoration: none"><font color="#3333CC">WALBORG N.N.</font></a>  Äidin isän isän äidin isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I691" style="text-decoration: none"><font color="#3333CC">WALBORG  N.N.</font></a>.  Äidin isän isän äidin isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4227,7 +4243,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R694"></a>
 694.</td>
-<td width="95%"><a href="direct.htm#I695" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin isän isän äidin isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I695" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin isän isän äidin isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4311,7 +4327,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R708"></a>
 708.</td>
-<td width="95%"><a href="direct.htm#I709" style="text-decoration: none"><font color="#3333CC">BEATHA JOHANSDOTTER N.N.</font></a>  Äidin isän isän äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I709" style="text-decoration: none"><font color="#3333CC">BEATHA JOHANSDOTTER  N.N.</font></a>.  Äidin isän isän äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4323,7 +4339,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R710"></a>
 710.</td>
-<td width="95%"><a href="direct.htm#I711" style="text-decoration: none"><font color="#3333CC">MARIA LARSDOTTER N.N.</font></a>  Äidin isän äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I711" style="text-decoration: none"><font color="#3333CC">MARIA LARSDOTTER  N.N.</font></a>.  Äidin isän äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4335,7 +4351,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R712"></a>
 712.</td>
-<td width="95%"><a href="direct.htm#I713" style="text-decoration: none"><font color="#3333CC">ANNA HEIKINTYTÄR 2 N.N.</font></a>  Äidin isän äidin isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I713" style="text-decoration: none"><font color="#3333CC">ANNA HEIKINTYTÄR 2  N.N.</font></a>.  Äidin isän äidin isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4509,7 +4525,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R741"></a>
 741.</td>
-<td width="95%"><a href="direct.htm#I742" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 4 N.N.</font></a>  Äidin isän äidin äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I742" style="text-decoration: none"><font color="#3333CC">GERTRUD MATTSDOTTER 4  N.N.</font></a>.  Äidin isän äidin äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4557,7 +4573,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R749"></a>
 749.</td>
-<td width="95%"><a href="direct.htm#I750" style="text-decoration: none"><font color="#3333CC">ANNA HEIKINTYTÄR 1 N.N.</font></a>  Äidin isän äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I750" style="text-decoration: none"><font color="#3333CC">ANNA HEIKINTYTÄR 1  N.N.</font></a>.  Äidin isän äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4617,7 +4633,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R759"></a>
 759.</td>
-<td width="95%"><a href="direct.htm#I760" style="text-decoration: none"><font color="#3333CC">KIRSTI MARTINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I760" style="text-decoration: none"><font color="#3333CC">KIRSTI MARTINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4629,7 +4645,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R761"></a>
 761.</td>
-<td width="95%"><a href="direct.htm#I762" style="text-decoration: none"><font color="#3333CC">SOFIA SIPINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I762" style="text-decoration: none"><font color="#3333CC">SOFIA SIPINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4665,7 +4681,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R767"></a>
 767.</td>
-<td width="95%"><a href="direct.htm#I768" style="text-decoration: none"><font color="#3333CC">RIITTA MATINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I768" style="text-decoration: none"><font color="#3333CC">RIITTA MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4701,7 +4717,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R773"></a>
 773.</td>
-<td width="95%"><a href="direct.htm#I774" style="text-decoration: none"><font color="#3333CC">KIRSTI PAAVONTYTÄR 1 N.N.</font></a>  Äidin äidin isän isän äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I774" style="text-decoration: none"><font color="#3333CC">KIRSTI PAAVONTYTÄR 1  N.N.</font></a>.  Äidin äidin isän isän äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4725,7 +4741,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R777"></a>
 777.</td>
-<td width="95%"><a href="direct.htm#I778" style="text-decoration: none"><font color="#3333CC">AUNE NUUTINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I778" style="text-decoration: none"><font color="#3333CC">AUNE NUUTINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4737,7 +4753,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R779"></a>
 779.</td>
-<td width="95%"><a href="direct.htm#I780" style="text-decoration: none"><font color="#3333CC">KAISA OLAVINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I780" style="text-decoration: none"><font color="#3333CC">KAISA OLAVINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4749,7 +4765,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R781"></a>
 781.</td>
-<td width="95%"><a href="direct.htm#I782" style="text-decoration: none"><font color="#3333CC">KERTTU ESKONTYTÄR 2 N.N.</font></a>  Äidin äidin isän isän äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I782" style="text-decoration: none"><font color="#3333CC">KERTTU ESKONTYTÄR 2  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4773,7 +4789,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R785"></a>
 785.</td>
-<td width="95%"><a href="direct.htm#I786" style="text-decoration: none"><font color="#3333CC">KIRSTI MIKONTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I786" style="text-decoration: none"><font color="#3333CC">KIRSTI MIKONTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4803,7 +4819,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R790"></a>
 790.</td>
-<td width="95%"><a href="direct.htm#I791" style="text-decoration: none"><font color="#3333CC">SOPHIA PEHRSDOTTER N.N.</font></a>  Äidin äidin isän äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I791" style="text-decoration: none"><font color="#3333CC">SOPHIA PEHRSDOTTER  N.N.</font></a>.  Äidin äidin isän äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4863,7 +4879,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R800"></a>
 800.</td>
-<td width="95%"><a href="direct.htm#I801" style="text-decoration: none"><font color="#3333CC">KRISTIINA ANTINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I801" style="text-decoration: none"><font color="#3333CC">KRISTIINA ANTINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4911,7 +4927,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R808"></a>
 808.</td>
-<td width="95%"><a href="direct.htm#I809" style="text-decoration: none"><font color="#3333CC">KIRSTI PAAVONTYTÄR 2 N.N.</font></a>  Äidin äidin isän äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I809" style="text-decoration: none"><font color="#3333CC">KIRSTI PAAVONTYTÄR 2  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4935,7 +4951,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R812"></a>
 812.</td>
-<td width="95%"><a href="direct.htm#I813" style="text-decoration: none"><font color="#3333CC">KERTTU ESKONTYTÄR 1 N.N.</font></a>  Äidin äidin isän äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I813" style="text-decoration: none"><font color="#3333CC">KERTTU ESKONTYTÄR 1  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -4971,7 +4987,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R818"></a>
 818.</td>
-<td width="95%"><a href="direct.htm#I819" style="text-decoration: none"><font color="#3333CC">VALPURI HEIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I819" style="text-decoration: none"><font color="#3333CC">VALPURI HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5031,7 +5047,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R828"></a>
 828.</td>
-<td width="95%"><a href="direct.htm#I829" style="text-decoration: none"><font color="#3333CC">VALPURI ERKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I829" style="text-decoration: none"><font color="#3333CC">VALPURI ERKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5055,19 +5071,19 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R832"></a>
 832.</td>
-<td width="95%"><a href="direct.htm#I833" style="text-decoration: none"><font color="#3333CC">LIISA JUHONTYTÄR N.N.</font></a>  Äidin äidin äidin isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I833" style="text-decoration: none"><font color="#3333CC">LIISA JUHONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R833"></a>
 833.</td>
-<td width="95%"><a href="direct.htm#I834" style="text-decoration: none"><font color="#3333CC">ERKKI JUHONPOIKA N.N.</font></a>  Äidin äidin äidin äidin isän isän äidin isän isä.</td>
+<td width="95%"><a href="direct.htm#I834" style="text-decoration: none"><font color="#3333CC">ERKKI JUHONPOIKA  N.N.</font></a>.  Äidin äidin äidin äidin isän isän äidin isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R834"></a>
 834.</td>
-<td width="95%"><a href="direct.htm#I835" style="text-decoration: none"><font color="#3333CC">ANNA OLAVINTYTÄR N.N.</font></a>  Äidin äidin äidin äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I835" style="text-decoration: none"><font color="#3333CC">ANNA OLAVINTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5091,7 +5107,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R838"></a>
 838.</td>
-<td width="95%"><a href="direct.htm#I839" style="text-decoration: none"><font color="#3333CC">SOFIA JUHONTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I839" style="text-decoration: none"><font color="#3333CC">SOFIA JUHONTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5143,7 +5159,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R846"></a>
 846.</td>
-<td width="95%"><a href="direct.htm#I847" style="text-decoration: none"><font color="#3333CC">MARIA N.N.</font></a>  Isän isän isän isän isän isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I847" style="text-decoration: none"><font color="#3333CC">MARIA  N.N.</font></a>.  Isän isän isän isän isän isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5191,7 +5207,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R854"></a>
 854.</td>
-<td width="95%"><a href="direct.htm#I855" style="text-decoration: none"><font color="#3333CC">CATARINA PHILIPSDOTTER N.N.</font></a>  Isän isän isän isän isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I855" style="text-decoration: none"><font color="#3333CC">CATARINA PHILIPSDOTTER  N.N.</font></a>.  Isän isän isän isän isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5233,7 +5249,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R861"></a>
 861.</td>
-<td width="95%"><a href="direct.htm#I862" style="text-decoration: none"><font color="#3333CC">PETER MATZSON N.N.</font></a>  Isän isän isän isän äidin isän isän isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I862" style="text-decoration: none"><font color="#3333CC">PETER MATZSON  N.N.</font></a>.  Isän isän isän isän äidin isän isän isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5245,7 +5261,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R863"></a>
 863.</td>
-<td width="95%"><a href="direct.htm#I864" style="text-decoration: none"><font color="#3333CC">PETER HÄNNISEN VAIMO N.N.</font></a>  Isän isän isän äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I864" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Isän isän isän äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5257,7 +5273,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R865"></a>
 865.</td>
-<td width="95%"><a href="direct.htm#I866" style="text-decoration: none"><font color="#3333CC">ANNA PAULSDOTTER N.N.</font></a>  Isän isän isän äidin isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I866" style="text-decoration: none"><font color="#3333CC">ANNA PAULSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5269,7 +5285,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R867"></a>
 867.</td>
-<td width="95%"><a href="direct.htm#I868" style="text-decoration: none"><font color="#3333CC">ANNA JOHANSDOTTER N.N.</font></a>  Isän isän isän äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I868" style="text-decoration: none"><font color="#3333CC">ANNA JOHANSDOTTER  N.N.</font></a>.  Isän isän isän äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5305,7 +5321,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R873"></a>
 873.</td>
-<td width="95%"><a href="direct.htm#I874" style="text-decoration: none"><font color="#3333CC">MARGARETHA 1 N.N.</font></a>  Isän isän äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I874" style="text-decoration: none"><font color="#3333CC">MARGARETHA 1  N.N.</font></a>.  Isän isän äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5395,7 +5411,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R888"></a>
 888.</td>
-<td width="95%"><a href="direct.htm#I889" style="text-decoration: none"><font color="#3333CC">MARIA HINDRICSDOTTER N.N.</font></a>  Isän isän äidin isän äidin äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I889" style="text-decoration: none"><font color="#3333CC">MARIA HINDRICSDOTTER  N.N.</font></a>.  Isän isän äidin isän äidin äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5743,7 +5759,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R946"></a>
 946.</td>
-<td width="95%"><a href="direct.htm#I947" style="text-decoration: none"><font color="#3333CC">MARIA MATTZDOTTER N.N.</font></a>  Isän äidin isän äidin isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I947" style="text-decoration: none"><font color="#3333CC">MARIA MATTZDOTTER  N.N.</font></a>.  Isän äidin isän äidin isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5755,7 +5771,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R948"></a>
 948.</td>
-<td width="95%"><a href="direct.htm#I949" style="text-decoration: none"><font color="#3333CC">CATHARINA N.N.</font></a>  Isän äidin isän äidin isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I949" style="text-decoration: none"><font color="#3333CC">CATHARINA  N.N.</font></a>.  Isän äidin isän äidin isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5767,7 +5783,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R950"></a>
 950.</td>
-<td width="95%"><a href="direct.htm#I951" style="text-decoration: none"><font color="#3333CC">JACOB PARKKALIN VAIMO N.N.</font></a>  Isän äidin isän äidin isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I951" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Isän äidin isän äidin isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5797,7 +5813,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R955"></a>
 955.</td>
-<td width="95%"><a href="direct.htm#I956" style="text-decoration: none"><font color="#3333CC">MICHEL KAASALAISEN VAIMO N.N.</font></a>  Isän äidin isän äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I956" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Isän äidin isän äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5893,7 +5909,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R971"></a>
 971.</td>
-<td width="95%"><a href="direct.htm#I972" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Isän äidin äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I972" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Isän äidin äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5905,7 +5921,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R973"></a>
 973.</td>
-<td width="95%"><a href="direct.htm#I974" style="text-decoration: none"><font color="#3333CC">PHILIP 2 KUKON VAIMO N.N.</font></a>  Isän äidin äidin isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I974" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Isän äidin äidin isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -5989,7 +6005,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R987"></a>
 987.</td>
-<td width="95%"><a href="direct.htm#I988" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Isän äidin äidin isän äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I988" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Isän äidin äidin isän äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6001,7 +6017,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R989"></a>
 989.</td>
-<td width="95%"><a href="direct.htm#I990" style="text-decoration: none"><font color="#3333CC">BRITA N.N.</font></a>  Isän äidin äidin isän äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I990" style="text-decoration: none"><font color="#3333CC">BRITA  N.N.</font></a>.  Isän äidin äidin isän äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6067,7 +6083,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1000"></a>
 1000.</td>
-<td width="95%"><a href="direct.htm#I1001" style="text-decoration: none"><font color="#3333CC">MARIA N.N.</font></a>  Isän äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1001" style="text-decoration: none"><font color="#3333CC">MARIA  N.N.</font></a>.  Isän äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6151,7 +6167,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1014"></a>
 1014.</td>
-<td width="95%"><a href="direct.htm#I1015" style="text-decoration: none"><font color="#3333CC">JOHANNA N.N.</font></a>  Äidin isän isän äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1015" style="text-decoration: none"><font color="#3333CC">JOHANNA  N.N.</font></a>.  Äidin isän isän äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6187,7 +6203,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1020"></a>
 1020.</td>
-<td width="95%"><a href="direct.htm#I1021" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin isän isän äidin äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1021" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin isän isän äidin äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6223,7 +6239,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1026"></a>
 1026.</td>
-<td width="95%"><a href="direct.htm#I1027" style="text-decoration: none"><font color="#3333CC">MARIA CLEMENSDOTTER N.N.</font></a>  Äidin isän isän äidin äidin isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1027" style="text-decoration: none"><font color="#3333CC">MARIA CLEMENSDOTTER  N.N.</font></a>.  Äidin isän isän äidin äidin isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6253,7 +6269,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1031"></a>
 1031.</td>
-<td width="95%"><a href="direct.htm#I1032" style="text-decoration: none"><font color="#3333CC">HEIKKI 2 N.N.</font></a>  Äidin isän äidin isän isän isän isän äidin äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1032" style="text-decoration: none"><font color="#3333CC">HEIKKI 2  N.N.</font></a>.  Äidin isän äidin isän isän isän isän äidin äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6307,7 +6323,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1040"></a>
 1040.</td>
-<td width="95%"><a href="direct.htm#I1041" style="text-decoration: none"><font color="#3333CC">ABRAHAM 1 EEVAN VAIMO N.N.</font></a>  Äidin isän äidin isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1041" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Äidin isän äidin isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6343,7 +6359,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1046"></a>
 1046.</td>
-<td width="95%"><a href="direct.htm#I1047" style="text-decoration: none"><font color="#3333CC">DOROTHEA MATTSDOTTER N.N.</font></a>  Äidin isän äidin isän äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1047" style="text-decoration: none"><font color="#3333CC">DOROTHEA MATTSDOTTER  N.N.</font></a>.  Äidin isän äidin isän äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6355,7 +6371,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1048"></a>
 1048.</td>
-<td width="95%"><a href="direct.htm#I1049" style="text-decoration: none"><font color="#3333CC">LIJSA LARSDOTTER N.N.</font></a>  Äidin isän äidin isän äidin isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1049" style="text-decoration: none"><font color="#3333CC">LIJSA LARSDOTTER  N.N.</font></a>.  Äidin isän äidin isän äidin isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6391,7 +6407,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1054"></a>
 1054.</td>
-<td width="95%"><a href="direct.htm#I1055" style="text-decoration: none"><font color="#3333CC">WALBORG JOHANSDOTTER N.N.</font></a>  Äidin isän äidin isän äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1055" style="text-decoration: none"><font color="#3333CC">WALBORG JOHANSDOTTER  N.N.</font></a>.  Äidin isän äidin isän äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6403,7 +6419,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1056"></a>
 1056.</td>
-<td width="95%"><a href="direct.htm#I1057" style="text-decoration: none"><font color="#3333CC">ANNA MATSDOTTER N.N.</font></a>  Äidin isän äidin äidin isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1057" style="text-decoration: none"><font color="#3333CC">ANNA MATSDOTTER  N.N.</font></a>.  Äidin isän äidin äidin isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6451,7 +6467,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1064"></a>
 1064.</td>
-<td width="95%"><a href="direct.htm#I1065" style="text-decoration: none"><font color="#3333CC">DOROTHEA N.N.</font></a>  Äidin isän äidin äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1065" style="text-decoration: none"><font color="#3333CC">DOROTHEA  N.N.</font></a>.  Äidin isän äidin äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6487,7 +6503,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1070"></a>
 1070.</td>
-<td width="95%"><a href="direct.htm#I1071" style="text-decoration: none"><font color="#3333CC">HEIKKI 1 N.N.</font></a>  Äidin isän äidin äidin äidin isän äidin isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1071" style="text-decoration: none"><font color="#3333CC">HEIKKI 1  N.N.</font></a>.  Äidin isän äidin äidin äidin isän äidin isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6505,7 +6521,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1073"></a>
 1073.</td>
-<td width="95%"><a href="direct.htm#I1074" style="text-decoration: none"><font color="#3333CC">MARGARETHA 2 N.N.</font></a>  Äidin isän äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1074" style="text-decoration: none"><font color="#3333CC">MARGARETHA 2  N.N.</font></a>.  Äidin isän äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6541,7 +6557,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1079"></a>
 1079.</td>
-<td width="95%"><a href="direct.htm#I1080" style="text-decoration: none"><font color="#3333CC">BRITA SIMONSDOTTER N.N.</font></a>  Äidin isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1080" style="text-decoration: none"><font color="#3333CC">BRITA SIMONSDOTTER  N.N.</font></a>.  Äidin isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6565,7 +6581,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1083"></a>
 1083.</td>
-<td width="95%"><a href="direct.htm#I1084" style="text-decoration: none"><font color="#3333CC">RIITTA OLAVINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1084" style="text-decoration: none"><font color="#3333CC">RIITTA OLAVINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6577,7 +6593,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1085"></a>
 1085.</td>
-<td width="95%"><a href="direct.htm#I1086" style="text-decoration: none"><font color="#3333CC">MARGARETA N.N.</font></a>  Äidin äidin isän isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1086" style="text-decoration: none"><font color="#3333CC">MARGARETA  N.N.</font></a>.  Äidin äidin isän isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6595,7 +6611,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1088"></a>
 1088.</td>
-<td width="95%"><a href="direct.htm#I1089" style="text-decoration: none"><font color="#3333CC">ANNA NIILONTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1089" style="text-decoration: none"><font color="#3333CC">ANNA NIILONTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6619,7 +6635,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1092"></a>
 1092.</td>
-<td width="95%"><a href="direct.htm#I1093" style="text-decoration: none"><font color="#3333CC">KIRSTI MATINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1093" style="text-decoration: none"><font color="#3333CC">KIRSTI MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6631,7 +6647,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1094"></a>
 1094.</td>
-<td width="95%"><a href="direct.htm#I1095" style="text-decoration: none"><font color="#3333CC">RIITTA ANTINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1095" style="text-decoration: none"><font color="#3333CC">RIITTA ANTINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6655,7 +6671,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1098"></a>
 1098.</td>
-<td width="95%"><a href="direct.htm#I1099" style="text-decoration: none"><font color="#3333CC">AUNE N.N.</font></a>  Äidin äidin isän isän äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1099" style="text-decoration: none"><font color="#3333CC">AUNE  N.N.</font></a>.  Äidin äidin isän isän äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6667,7 +6683,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1100"></a>
 1100.</td>
-<td width="95%"><a href="direct.htm#I1101" style="text-decoration: none"><font color="#3333CC">ELINA HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1101" style="text-decoration: none"><font color="#3333CC">ELINA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6679,7 +6695,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1102"></a>
 1102.</td>
-<td width="95%"><a href="direct.htm#I1103" style="text-decoration: none"><font color="#3333CC">VAPPU LAURINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1103" style="text-decoration: none"><font color="#3333CC">VAPPU LAURINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6703,7 +6719,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1106"></a>
 1106.</td>
-<td width="95%"><a href="direct.htm#I1107" style="text-decoration: none"><font color="#3333CC">RIITTA N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1107" style="text-decoration: none"><font color="#3333CC">RIITTA  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6721,7 +6737,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1109"></a>
 1109.</td>
-<td width="95%"><a href="direct.htm#I1110" style="text-decoration: none"><font color="#3333CC">KAARINA N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1110" style="text-decoration: none"><font color="#3333CC">KAARINA  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6733,7 +6749,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1111"></a>
 1111.</td>
-<td width="95%"><a href="direct.htm#I1112" style="text-decoration: none"><font color="#3333CC">SOFIA LAURINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1112" style="text-decoration: none"><font color="#3333CC">SOFIA LAURINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6751,7 +6767,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1114"></a>
 1114.</td>
-<td width="95%"><a href="direct.htm#I1115" style="text-decoration: none"><font color="#3333CC">ELLI N.N.</font></a>  Äidin äidin isän äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1115" style="text-decoration: none"><font color="#3333CC">ELLI  N.N.</font></a>.  Äidin äidin isän äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6775,7 +6791,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1118"></a>
 1118.</td>
-<td width="95%"><a href="direct.htm#I1119" style="text-decoration: none"><font color="#3333CC">BIRGITTA N.N.</font></a>  Äidin äidin isän äidin isän äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1119" style="text-decoration: none"><font color="#3333CC">BIRGITTA  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6787,7 +6803,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1120"></a>
 1120.</td>
-<td width="95%"><a href="direct.htm#I1121" style="text-decoration: none"><font color="#3333CC">RIITTA PEKANTYTÄR 1 N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1121" style="text-decoration: none"><font color="#3333CC">RIITTA PEKANTYTÄR 1  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6811,7 +6827,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1124"></a>
 1124.</td>
-<td width="95%"><a href="direct.htm#I1125" style="text-decoration: none"><font color="#3333CC">VAPPU JUHONTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1125" style="text-decoration: none"><font color="#3333CC">VAPPU JUHONTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6823,7 +6839,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1126"></a>
 1126.</td>
-<td width="95%"><a href="direct.htm#I1127" style="text-decoration: none"><font color="#3333CC">MARIA N.N.</font></a>  Äidin äidin isän äidin isän äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1127" style="text-decoration: none"><font color="#3333CC">MARIA  N.N.</font></a>.  Äidin äidin isän äidin isän äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6859,7 +6875,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1132"></a>
 1132.</td>
-<td width="95%"><a href="direct.htm#I1133" style="text-decoration: none"><font color="#3333CC">ANNA NUUTINTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1133" style="text-decoration: none"><font color="#3333CC">ANNA NUUTINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6871,7 +6887,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1134"></a>
 1134.</td>
-<td width="95%"><a href="direct.htm#I1135" style="text-decoration: none"><font color="#3333CC">KAISA JAAKONTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1135" style="text-decoration: none"><font color="#3333CC">KAISA JAAKONTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6883,7 +6899,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1136"></a>
 1136.</td>
-<td width="95%"><a href="direct.htm#I1137" style="text-decoration: none"><font color="#3333CC">AUNE YRJÖNTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1137" style="text-decoration: none"><font color="#3333CC">AUNE YRJÖNTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6895,7 +6911,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1138"></a>
 1138.</td>
-<td width="95%"><a href="direct.htm#I1139" style="text-decoration: none"><font color="#3333CC">KAISA MATINTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1139" style="text-decoration: none"><font color="#3333CC">KAISA MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6907,7 +6923,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1140"></a>
 1140.</td>
-<td width="95%"><a href="direct.htm#I1141" style="text-decoration: none"><font color="#3333CC">KAISA N.N.</font></a>  Äidin äidin isän äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1141" style="text-decoration: none"><font color="#3333CC">KAISA  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6919,7 +6935,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1142"></a>
 1142.</td>
-<td width="95%"><a href="direct.htm#I1143" style="text-decoration: none"><font color="#3333CC">KIRSTI N.N.</font></a>  Äidin äidin isän äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1143" style="text-decoration: none"><font color="#3333CC">KIRSTI  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6931,7 +6947,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1144"></a>
 1144.</td>
-<td width="95%"><a href="direct.htm#I1145" style="text-decoration: none"><font color="#3333CC">RIITTA MATINTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1145" style="text-decoration: none"><font color="#3333CC">RIITTA MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6943,7 +6959,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1146"></a>
 1146.</td>
-<td width="95%"><a href="direct.htm#I1147" style="text-decoration: none"><font color="#3333CC">LISA ANDERSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1147" style="text-decoration: none"><font color="#3333CC">LISA ANDERSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6955,7 +6971,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1148"></a>
 1148.</td>
-<td width="95%"><a href="direct.htm#I1149" style="text-decoration: none"><font color="#3333CC">VALPURI MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1149" style="text-decoration: none"><font color="#3333CC">VALPURI MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -6967,7 +6983,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1150"></a>
 1150.</td>
-<td width="95%"><a href="direct.htm#I1151" style="text-decoration: none"><font color="#3333CC">MARGARETA N.N.</font></a>  Äidin äidin äidin isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1151" style="text-decoration: none"><font color="#3333CC">MARGARETA  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7027,7 +7043,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1160"></a>
 1160.</td>
-<td width="95%"><a href="direct.htm#I1161" style="text-decoration: none"><font color="#3333CC">ANNA MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1161" style="text-decoration: none"><font color="#3333CC">ANNA MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7111,7 +7127,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1174"></a>
 1174.</td>
-<td width="95%"><a href="direct.htm#I1175" style="text-decoration: none"><font color="#3333CC">KIRSTI JUHONTYTÄR N.N.</font></a>  Äidin äidin äidin äidin isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1175" style="text-decoration: none"><font color="#3333CC">KIRSTI JUHONTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7135,7 +7151,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1178"></a>
 1178.</td>
-<td width="95%"><a href="direct.htm#I1179" style="text-decoration: none"><font color="#3333CC">CHISTIN ERICSDOTTER N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1179" style="text-decoration: none"><font color="#3333CC">CHISTIN ERICSDOTTER  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7147,7 +7163,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1180"></a>
 1180.</td>
-<td width="95%"><a href="direct.htm#I1181" style="text-decoration: none"><font color="#3333CC">BEATA ELIAANTYTÄ N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1181" style="text-decoration: none"><font color="#3333CC">BEATA ELIAANTYTÄ  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7159,7 +7175,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1182"></a>
 1182.</td>
-<td width="95%"><a href="direct.htm#I1183" style="text-decoration: none"><font color="#3333CC">KERTTU ANTINTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1183" style="text-decoration: none"><font color="#3333CC">KERTTU ANTINTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7171,7 +7187,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1184"></a>
 1184.</td>
-<td width="95%"><a href="direct.htm#I1185" style="text-decoration: none"><font color="#3333CC">KAISA ERIKSDOTTER N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1185" style="text-decoration: none"><font color="#3333CC">KAISA ERIKSDOTTER  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7211,7 +7227,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1190"></a>
 1190.</td>
-<td width="95%"><a href="direct.htm#I1191" style="text-decoration: none"><font color="#3333CC">KARIN N.N.</font></a>  Isän isän isän isän isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1191" style="text-decoration: none"><font color="#3333CC">KARIN  N.N.</font></a>.  Isän isän isän isän isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7235,7 +7251,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1194"></a>
 1194.</td>
-<td width="95%"><a href="direct.htm#I1195" style="text-decoration: none"><font color="#3333CC">MARIA MATTSDOTTER N.N.</font></a>  Isän isän isän isän isän äidin isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1195" style="text-decoration: none"><font color="#3333CC">MARIA MATTSDOTTER  N.N.</font></a>.  Isän isän isän isän isän äidin isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7283,7 +7299,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1202"></a>
 1202.</td>
-<td width="95%"><a href="direct.htm#I1203" style="text-decoration: none"><font color="#3333CC">MARIA THOMASDOTTER N.N.</font></a>  Isän isän äidin äidin äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1203" style="text-decoration: none"><font color="#3333CC">MARIA THOMASDOTTER  N.N.</font></a>.  Isän isän äidin äidin äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7355,7 +7371,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1214"></a>
 1214.</td>
-<td width="95%"><a href="direct.htm#I1215" style="text-decoration: none"><font color="#3333CC">PHILIP 1 KUKON VAIMO N.N.</font></a>  Isän äidin isän äidin äidin äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1215" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Isän äidin isän äidin äidin äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7439,7 +7455,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1228"></a>
 1228.</td>
-<td width="95%"><a href="direct.htm#I1229" style="text-decoration: none"><font color="#3333CC">ABRAHAM 2 EEVAN VAIMO N.N.</font></a>  Äidin isän äidin äidin isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1229" style="text-decoration: none"><font color="#3333CC">N.N.  N.N.</font></a>.  Äidin isän äidin äidin isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7505,7 +7521,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1239"></a>
 1239.</td>
-<td width="95%"><a href="direct.htm#I1240" style="text-decoration: none"><font color="#3333CC">ANNA ANTINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1240" style="text-decoration: none"><font color="#3333CC">ANNA ANTINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7517,7 +7533,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1241"></a>
 1241.</td>
-<td width="95%"><a href="direct.htm#I1242" style="text-decoration: none"><font color="#3333CC">DORDE ERKINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1242" style="text-decoration: none"><font color="#3333CC">DORDE ERKINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7541,7 +7557,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1245"></a>
 1245.</td>
-<td width="95%"><a href="direct.htm#I1246" style="text-decoration: none"><font color="#3333CC">MARKETTA NIILONTYTÄR 2 N.N.</font></a>  Äidin äidin isän isän isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1246" style="text-decoration: none"><font color="#3333CC">MARKETTA NIILONTYTÄR 2  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7553,7 +7569,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1247"></a>
 1247.</td>
-<td width="95%"><a href="direct.htm#I1248" style="text-decoration: none"><font color="#3333CC">LIISA NIILONTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1248" style="text-decoration: none"><font color="#3333CC">LIISA NIILONTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7565,7 +7581,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1249"></a>
 1249.</td>
-<td width="95%"><a href="direct.htm#I1250" style="text-decoration: none"><font color="#3333CC">LIISA N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1250" style="text-decoration: none"><font color="#3333CC">LIISA  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7577,7 +7593,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1251"></a>
 1251.</td>
-<td width="95%"><a href="direct.htm#I1252" style="text-decoration: none"><font color="#3333CC">VAPPU ANTINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1252" style="text-decoration: none"><font color="#3333CC">VAPPU ANTINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7589,7 +7605,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1253"></a>
 1253.</td>
-<td width="95%"><a href="direct.htm#I1254" style="text-decoration: none"><font color="#3333CC">ELINA PAAVONTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1254" style="text-decoration: none"><font color="#3333CC">ELINA PAAVONTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7613,7 +7629,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1257"></a>
 1257.</td>
-<td width="95%"><a href="direct.htm#I1258" style="text-decoration: none"><font color="#3333CC">KAISA HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1258" style="text-decoration: none"><font color="#3333CC">KAISA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7625,7 +7641,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1259"></a>
 1259.</td>
-<td width="95%"><a href="direct.htm#I1260" style="text-decoration: none"><font color="#3333CC">KRISTINA MATINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1260" style="text-decoration: none"><font color="#3333CC">KRISTINA MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7637,7 +7653,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1261"></a>
 1261.</td>
-<td width="95%"><a href="direct.htm#I1262" style="text-decoration: none"><font color="#3333CC">BEATA ERIKSDOTTER N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1262" style="text-decoration: none"><font color="#3333CC">BEATA ERIKSDOTTER  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7649,7 +7665,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1263"></a>
 1263.</td>
-<td width="95%"><a href="direct.htm#I1264" style="text-decoration: none"><font color="#3333CC">KIRSTI N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1264" style="text-decoration: none"><font color="#3333CC">KIRSTI  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7661,7 +7677,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1265"></a>
 1265.</td>
-<td width="95%"><a href="direct.htm#I1266" style="text-decoration: none"><font color="#3333CC">KERTTU RUSINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1266" style="text-decoration: none"><font color="#3333CC">KERTTU RUSINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7673,7 +7689,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1267"></a>
 1267.</td>
-<td width="95%"><a href="direct.htm#I1268" style="text-decoration: none"><font color="#3333CC">MARKETTA HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1268" style="text-decoration: none"><font color="#3333CC">MARKETTA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7685,7 +7701,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1269"></a>
 1269.</td>
-<td width="95%"><a href="direct.htm#I1270" style="text-decoration: none"><font color="#3333CC">ELIN LARSDOTTER 2 N.N.</font></a>  Äidin äidin isän äidin isän isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1270" style="text-decoration: none"><font color="#3333CC">ELIN LARSDOTTER 2  N.N.</font></a>.  Äidin äidin isän äidin isän isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7721,7 +7737,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1275"></a>
 1275.</td>
-<td width="95%"><a href="direct.htm#I1276" style="text-decoration: none"><font color="#3333CC">MARGAREETA MARTINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1276" style="text-decoration: none"><font color="#3333CC">MARGAREETA MARTINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7745,7 +7761,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1279"></a>
 1279.</td>
-<td width="95%"><a href="direct.htm#I1280" style="text-decoration: none"><font color="#3333CC">BARBRO N.N.</font></a>  Äidin äidin isän äidin isän äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1280" style="text-decoration: none"><font color="#3333CC">BARBRO  N.N.</font></a>.  Äidin äidin isän äidin isän äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7757,7 +7773,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1281"></a>
 1281.</td>
-<td width="95%"><a href="direct.htm#I1282" style="text-decoration: none"><font color="#3333CC">RAUNI N.N.</font></a>  Äidin äidin isän äidin isän äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1282" style="text-decoration: none"><font color="#3333CC">RAUNI  N.N.</font></a>.  Äidin äidin isän äidin isän äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7769,7 +7785,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1283"></a>
 1283.</td>
-<td width="95%"><a href="direct.htm#I1284" style="text-decoration: none"><font color="#3333CC">RIITTA HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1284" style="text-decoration: none"><font color="#3333CC">RIITTA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7781,7 +7797,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1285"></a>
 1285.</td>
-<td width="95%"><a href="direct.htm#I1286" style="text-decoration: none"><font color="#3333CC">MARKETTA NIILONTYTÄR 1 N.N.</font></a>  Äidin äidin isän äidin äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1286" style="text-decoration: none"><font color="#3333CC">MARKETTA NIILONTYTÄR 1  N.N.</font></a>.  Äidin äidin isän äidin äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7793,7 +7809,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1287"></a>
 1287.</td>
-<td width="95%"><a href="direct.htm#I1288" style="text-decoration: none"><font color="#3333CC">RIITTA PEKANTYTÄR 3 N.N.</font></a>  Äidin äidin isän äidin äidin isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1288" style="text-decoration: none"><font color="#3333CC">RIITTA PEKANTYTÄR 3  N.N.</font></a>.  Äidin äidin isän äidin äidin isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7805,7 +7821,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1289"></a>
 1289.</td>
-<td width="95%"><a href="direct.htm#I1290" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1290" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7817,7 +7833,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1291"></a>
 1291.</td>
-<td width="95%"><a href="direct.htm#I1292" style="text-decoration: none"><font color="#3333CC">RIITTA PEKANTYTÄR 2 N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1292" style="text-decoration: none"><font color="#3333CC">RIITTA PEKANTYTÄR 2  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7829,7 +7845,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1293"></a>
 1293.</td>
-<td width="95%"><a href="direct.htm#I1294" style="text-decoration: none"><font color="#3333CC">RIITTA N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1294" style="text-decoration: none"><font color="#3333CC">RIITTA  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7841,7 +7857,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1295"></a>
 1295.</td>
-<td width="95%"><a href="direct.htm#I1296" style="text-decoration: none"><font color="#3333CC">ELIN LARSDOTTER 1 N.N.</font></a>  Äidin äidin isän äidin äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1296" style="text-decoration: none"><font color="#3333CC">ELIN LARSDOTTER 1  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7853,7 +7869,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1297"></a>
 1297.</td>
-<td width="95%"><a href="direct.htm#I1298" style="text-decoration: none"><font color="#3333CC">PIRKKO N.N.</font></a>  Äidin äidin isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1298" style="text-decoration: none"><font color="#3333CC">PIRKKO  N.N.</font></a>.  Äidin äidin isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7925,7 +7941,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1309"></a>
 1309.</td>
-<td width="95%"><a href="direct.htm#I1310" style="text-decoration: none"><font color="#3333CC">BEATA N.N.</font></a>  Äidin äidin äidin isän isän äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1310" style="text-decoration: none"><font color="#3333CC">BEATA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7973,7 +7989,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1317"></a>
 1317.</td>
-<td width="95%"><a href="direct.htm#I1318" style="text-decoration: none"><font color="#3333CC">BEATA MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1318" style="text-decoration: none"><font color="#3333CC">BEATA MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -7997,7 +8013,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1321"></a>
 1321.</td>
-<td width="95%"><a href="direct.htm#I1322" style="text-decoration: none"><font color="#3333CC">MARIA SIGFRIDINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1322" style="text-decoration: none"><font color="#3333CC">MARIA SIGFRIDINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8009,7 +8025,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1323"></a>
 1323.</td>
-<td width="95%"><a href="direct.htm#I1324" style="text-decoration: none"><font color="#3333CC">VAPPU ERKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1324" style="text-decoration: none"><font color="#3333CC">VAPPU ERKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8039,7 +8055,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1328"></a>
 1328.</td>
-<td width="95%"><a href="direct.htm#I1329" style="text-decoration: none"><font color="#3333CC">ERKKI MATINPOIKA N.N.</font></a>  Äidin äidin äidin isän äidin isän äidin isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1329" style="text-decoration: none"><font color="#3333CC">ERKKI MATINPOIKA  N.N.</font></a>.  Äidin äidin äidin isän äidin isän äidin isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8069,7 +8085,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1333"></a>
 1333.</td>
-<td width="95%"><a href="direct.htm#I1334" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1334" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8081,19 +8097,19 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1335"></a>
 1335.</td>
-<td width="95%"><a href="direct.htm#I1336" style="text-decoration: none"><font color="#3333CC">MARIA JUHONTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1336" style="text-decoration: none"><font color="#3333CC">MARIA JUHONTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1336"></a>
 1336.</td>
-<td width="95%"><a href="direct.htm#I1337" style="text-decoration: none"><font color="#3333CC">JACOB KNUTSSON N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin äidin isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1337" style="text-decoration: none"><font color="#3333CC">JACOB KNUTSSON  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin äidin isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1337"></a>
 1337.</td>
-<td width="95%"><a href="direct.htm#I1338" style="text-decoration: none"><font color="#3333CC">BEATA N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1338" style="text-decoration: none"><font color="#3333CC">BEATA  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8105,7 +8121,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1339"></a>
 1339.</td>
-<td width="95%"><a href="direct.htm#I1340" style="text-decoration: none"><font color="#3333CC">RIITTA N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1340" style="text-decoration: none"><font color="#3333CC">RIITTA  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8117,7 +8133,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1341"></a>
 1341.</td>
-<td width="95%"><a href="direct.htm#I1342" style="text-decoration: none"><font color="#3333CC">RIITTA YRJÖNTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1342" style="text-decoration: none"><font color="#3333CC">RIITTA YRJÖNTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8129,7 +8145,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1343"></a>
 1343.</td>
-<td width="95%"><a href="direct.htm#I1344" style="text-decoration: none"><font color="#3333CC">VALPURI SIPINTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1344" style="text-decoration: none"><font color="#3333CC">VALPURI SIPINTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8141,7 +8157,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1345"></a>
 1345.</td>
-<td width="95%"><a href="direct.htm#I1346" style="text-decoration: none"><font color="#3333CC">MARGARET N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1346" style="text-decoration: none"><font color="#3333CC">MARGARET  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8153,7 +8169,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1347"></a>
 1347.</td>
-<td width="95%"><a href="direct.htm#I1348" style="text-decoration: none"><font color="#3333CC">AUNE N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1348" style="text-decoration: none"><font color="#3333CC">AUNE  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin äidin äidin äiti.</td>
 </tr>
 </table>
 <br>
@@ -8169,7 +8185,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1349"></a>
 1349.</td>
-<td width="95%"><a href="direct.htm#I1350" style="text-decoration: none"><font color="#3333CC">VALBORG N.N.</font></a>  Isän isän isän isän isän äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1350" style="text-decoration: none"><font color="#3333CC">VALBORG  N.N.</font></a>.  Isän isän isän isän isän äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8193,7 +8209,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1353"></a>
 1353.</td>
-<td width="95%"><a href="direct.htm#I1354" style="text-decoration: none"><font color="#3333CC">HELKA PEKANTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1354" style="text-decoration: none"><font color="#3333CC">HELKA PEKANTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8205,19 +8221,19 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1355"></a>
 1355.</td>
-<td width="95%"><a href="direct.htm#I1356" style="text-decoration: none"><font color="#3333CC">ELINA LAURINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän isän isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1356" style="text-decoration: none"><font color="#3333CC">ELINA LAURINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän isän isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1356"></a>
 1356.</td>
-<td width="95%"><a href="direct.htm#I1357" style="text-decoration: none"><font color="#3333CC">DIDRIK PERSSON N.N.</font></a>  Äidin äidin isän isän isän isän äidin isän isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1357" style="text-decoration: none"><font color="#3333CC">DIDRIK PERSSON  N.N.</font></a>.  Äidin äidin isän isän isän isän äidin isän isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1357"></a>
 1357.</td>
-<td width="95%"><a href="direct.htm#I1358" style="text-decoration: none"><font color="#3333CC">MALIN ERIKSDOTTER N.N.</font></a>  Äidin äidin isän isän isän isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1358" style="text-decoration: none"><font color="#3333CC">MALIN ERIKSDOTTER  N.N.</font></a>.  Äidin äidin isän isän isän isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8229,7 +8245,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1359"></a>
 1359.</td>
-<td width="95%"><a href="direct.htm#I1360" style="text-decoration: none"><font color="#3333CC">ANNA JUHONTYTÄR 2 N.N.</font></a>  Äidin äidin isän isän isän äidin isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1360" style="text-decoration: none"><font color="#3333CC">ANNA JUHONTYTÄR 2  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8241,7 +8257,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1361"></a>
 1361.</td>
-<td width="95%"><a href="direct.htm#I1362" style="text-decoration: none"><font color="#3333CC">MARGETA JAAKONTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1362" style="text-decoration: none"><font color="#3333CC">MARGETA JAAKONTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8253,7 +8269,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1363"></a>
 1363.</td>
-<td width="95%"><a href="direct.htm#I1364" style="text-decoration: none"><font color="#3333CC">RIITTA MARTINTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1364" style="text-decoration: none"><font color="#3333CC">RIITTA MARTINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8265,7 +8281,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1365"></a>
 1365.</td>
-<td width="95%"><a href="direct.htm#I1366" style="text-decoration: none"><font color="#3333CC">PIRKKO SIPINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1366" style="text-decoration: none"><font color="#3333CC">PIRKKO SIPINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8289,7 +8305,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1369"></a>
 1369.</td>
-<td width="95%"><a href="direct.htm#I1370" style="text-decoration: none"><font color="#3333CC">KLAARA MATINTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1370" style="text-decoration: none"><font color="#3333CC">KLAARA MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8301,7 +8317,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1371"></a>
 1371.</td>
-<td width="95%"><a href="direct.htm#I1372" style="text-decoration: none"><font color="#3333CC">BEATA MARKUKSENTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1372" style="text-decoration: none"><font color="#3333CC">BEATA MARKUKSENTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8313,7 +8329,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1373"></a>
 1373.</td>
-<td width="95%"><a href="direct.htm#I1374" style="text-decoration: none"><font color="#3333CC">SUSANNA TUOMAANTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1374" style="text-decoration: none"><font color="#3333CC">SUSANNA TUOMAANTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8325,7 +8341,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1375"></a>
 1375.</td>
-<td width="95%"><a href="direct.htm#I1376" style="text-decoration: none"><font color="#3333CC">ANNA PEKANTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1376" style="text-decoration: none"><font color="#3333CC">ANNA PEKANTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8361,7 +8377,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1381"></a>
 1381.</td>
-<td width="95%"><a href="direct.htm#I1382" style="text-decoration: none"><font color="#3333CC">ELINA PAAVALINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1382" style="text-decoration: none"><font color="#3333CC">ELINA PAAVALINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8373,7 +8389,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1383"></a>
 1383.</td>
-<td width="95%"><a href="direct.htm#I1384" style="text-decoration: none"><font color="#3333CC">KAARINA HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1384" style="text-decoration: none"><font color="#3333CC">KAARINA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8385,7 +8401,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1385"></a>
 1385.</td>
-<td width="95%"><a href="direct.htm#I1386" style="text-decoration: none"><font color="#3333CC">VAPPU HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1386" style="text-decoration: none"><font color="#3333CC">VAPPU HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8409,7 +8425,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1389"></a>
 1389.</td>
-<td width="95%"><a href="direct.htm#I1390" style="text-decoration: none"><font color="#3333CC">ANNA MATINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1390" style="text-decoration: none"><font color="#3333CC">ANNA MATINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8421,7 +8437,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1391"></a>
 1391.</td>
-<td width="95%"><a href="direct.htm#I1392" style="text-decoration: none"><font color="#3333CC">HELKA LAURINTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1392" style="text-decoration: none"><font color="#3333CC">HELKA LAURINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8439,7 +8455,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1394"></a>
 1394.</td>
-<td width="95%"><a href="direct.htm#I1395" style="text-decoration: none"><font color="#3333CC">RIITTA YRJÖNTYTÄR N.N.</font></a>  Äidin äidin isän äidin äidin isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1395" style="text-decoration: none"><font color="#3333CC">RIITTA YRJÖNTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin äidin isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8451,7 +8467,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1396"></a>
 1396.</td>
-<td width="95%"><a href="direct.htm#I1397" style="text-decoration: none"><font color="#3333CC">LIISA N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1397" style="text-decoration: none"><font color="#3333CC">LIISA  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8475,7 +8491,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1400"></a>
 1400.</td>
-<td width="95%"><a href="direct.htm#I1401" style="text-decoration: none"><font color="#3333CC">MARGARETA N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1401" style="text-decoration: none"><font color="#3333CC">MARGARETA  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8487,7 +8503,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1402"></a>
 1402.</td>
-<td width="95%"><a href="direct.htm#I1403" style="text-decoration: none"><font color="#3333CC">KARIN HEIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1403" style="text-decoration: none"><font color="#3333CC">KARIN HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8499,7 +8515,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1404"></a>
 1404.</td>
-<td width="95%"><a href="direct.htm#I1405" style="text-decoration: none"><font color="#3333CC">HELGA MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1405" style="text-decoration: none"><font color="#3333CC">HELGA MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8511,7 +8527,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1406"></a>
 1406.</td>
-<td width="95%"><a href="direct.htm#I1407" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1407" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8559,7 +8575,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1414"></a>
 1414.</td>
-<td width="95%"><a href="direct.htm#I1415" style="text-decoration: none"><font color="#3333CC">GERTRUD JÖRANSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1415" style="text-decoration: none"><font color="#3333CC">GERTRUD JÖRANSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8595,7 +8611,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1420"></a>
 1420.</td>
-<td width="95%"><a href="direct.htm#I1421" style="text-decoration: none"><font color="#3333CC">HEBLA N.N.</font></a>  Äidin äidin äidin isän isän äidin isän äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1421" style="text-decoration: none"><font color="#3333CC">HEBLA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8619,7 +8635,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1424"></a>
 1424.</td>
-<td width="95%"><a href="direct.htm#I1425" style="text-decoration: none"><font color="#3333CC">MAISA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1425" style="text-decoration: none"><font color="#3333CC">MAISA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8631,7 +8647,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1426"></a>
 1426.</td>
-<td width="95%"><a href="direct.htm#I1427" style="text-decoration: none"><font color="#3333CC">HELGA TUOMAANTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1427" style="text-decoration: none"><font color="#3333CC">HELGA TUOMAANTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8643,7 +8659,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1428"></a>
 1428.</td>
-<td width="95%"><a href="direct.htm#I1429" style="text-decoration: none"><font color="#3333CC">VAPPU MARTINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1429" style="text-decoration: none"><font color="#3333CC">VAPPU MARTINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8655,7 +8671,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1430"></a>
 1430.</td>
-<td width="95%"><a href="direct.htm#I1431" style="text-decoration: none"><font color="#3333CC">RIITTA TUOMAANTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1431" style="text-decoration: none"><font color="#3333CC">RIITTA TUOMAANTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8691,7 +8707,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1436"></a>
 1436.</td>
-<td width="95%"><a href="direct.htm#I1437" style="text-decoration: none"><font color="#3333CC">KAISA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1437" style="text-decoration: none"><font color="#3333CC">KAISA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8703,7 +8719,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1438"></a>
 1438.</td>
-<td width="95%"><a href="direct.htm#I1439" style="text-decoration: none"><font color="#3333CC">SOPHIA LAURINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1439" style="text-decoration: none"><font color="#3333CC">SOPHIA LAURINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8751,7 +8767,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1446"></a>
 1446.</td>
-<td width="95%"><a href="direct.htm#I1447" style="text-decoration: none"><font color="#3333CC">MARIA MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän äidin isän äidin isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1447" style="text-decoration: none"><font color="#3333CC">MARIA MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän äidin isän äidin isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8763,7 +8779,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1448"></a>
 1448.</td>
-<td width="95%"><a href="direct.htm#I1449" style="text-decoration: none"><font color="#3333CC">LUCIA N.N.</font></a>  Äidin äidin äidin isän äidin isän äidin isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1449" style="text-decoration: none"><font color="#3333CC">LUCIA  N.N.</font></a>.  Äidin äidin äidin isän äidin isän äidin isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8775,7 +8791,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1450"></a>
 1450.</td>
-<td width="95%"><a href="direct.htm#I1451" style="text-decoration: none"><font color="#3333CC">SOHVI N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1451" style="text-decoration: none"><font color="#3333CC">SOHVI  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8787,7 +8803,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1452"></a>
 1452.</td>
-<td width="95%"><a href="direct.htm#I1453" style="text-decoration: none"><font color="#3333CC">VALPURI N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1453" style="text-decoration: none"><font color="#3333CC">VALPURI  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8799,7 +8815,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1454"></a>
 1454.</td>
-<td width="95%"><a href="direct.htm#I1455" style="text-decoration: none"><font color="#3333CC">VALPURI N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1455" style="text-decoration: none"><font color="#3333CC">VALPURI  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8811,7 +8827,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1456"></a>
 1456.</td>
-<td width="95%"><a href="direct.htm#I1457" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1457" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8823,7 +8839,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1458"></a>
 1458.</td>
-<td width="95%"><a href="direct.htm#I1459" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1459" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8835,7 +8851,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1460"></a>
 1460.</td>
-<td width="95%"><a href="direct.htm#I1461" style="text-decoration: none"><font color="#3333CC">MAISA N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1461" style="text-decoration: none"><font color="#3333CC">MAISA  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8847,7 +8863,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1462"></a>
 1462.</td>
-<td width="95%"><a href="direct.htm#I1463" style="text-decoration: none"><font color="#3333CC">LIISA N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1463" style="text-decoration: none"><font color="#3333CC">LIISA  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 </table>
 <br>
@@ -8881,7 +8897,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1467"></a>
 1467.</td>
-<td width="95%"><a href="direct.htm#I1468" style="text-decoration: none"><font color="#3333CC">BRITA JUHONTYTÄR N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1468" style="text-decoration: none"><font color="#3333CC">BRITA JUHONTYTÄR  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8893,7 +8909,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1469"></a>
 1469.</td>
-<td width="95%"><a href="direct.htm#I1470" style="text-decoration: none"><font color="#3333CC">ANNA N.N.</font></a>  Äidin äidin isän isän isän äidin isän äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1470" style="text-decoration: none"><font color="#3333CC">ANNA  N.N.</font></a>.  Äidin äidin isän isän isän äidin isän äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8917,7 +8933,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1473"></a>
 1473.</td>
-<td width="95%"><a href="direct.htm#I1474" style="text-decoration: none"><font color="#3333CC">MARKUS N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1474" style="text-decoration: none"><font color="#3333CC">MARKUS  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8935,7 +8951,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1476"></a>
 1476.</td>
-<td width="95%"><a href="direct.htm#I1477" style="text-decoration: none"><font color="#3333CC">KAARINA YRJÖNTYTÄR N.N.</font></a>  Äidin äidin isän isän äidin äidin äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1477" style="text-decoration: none"><font color="#3333CC">KAARINA YRJÖNTYTÄR  N.N.</font></a>.  Äidin äidin isän isän äidin äidin äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8947,7 +8963,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1478"></a>
 1478.</td>
-<td width="95%"><a href="direct.htm#I1479" style="text-decoration: none"><font color="#3333CC">MARKETTA HEIKINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän isän isän isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1479" style="text-decoration: none"><font color="#3333CC">MARKETTA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän isän isän isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8959,7 +8975,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1480"></a>
 1480.</td>
-<td width="95%"><a href="direct.htm#I1481" style="text-decoration: none"><font color="#3333CC">ANNA JUHONTYTÄR 1 N.N.</font></a>  Äidin äidin isän äidin isän äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1481" style="text-decoration: none"><font color="#3333CC">ANNA JUHONTYTÄR 1  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -8983,13 +8999,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1484"></a>
 1484.</td>
-<td width="95%"><a href="direct.htm#I1485" style="text-decoration: none"><font color="#3333CC">KRISTIINA OLAVINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1485" style="text-decoration: none"><font color="#3333CC">KRISTIINA OLAVINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1485"></a>
 1485.</td>
-<td width="95%"><a href="direct.htm#I1486" style="text-decoration: none"><font color="#3333CC">MARTTI N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin äidin äidin isän isä.</td>
+<td width="95%"><a href="direct.htm#I1486" style="text-decoration: none"><font color="#3333CC">MARTTI  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin äidin äidin isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9037,7 +9053,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1493"></a>
 1493.</td>
-<td width="95%"><a href="direct.htm#I1494" style="text-decoration: none"><font color="#3333CC">KERTTU N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1494" style="text-decoration: none"><font color="#3333CC">KERTTU  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9049,7 +9065,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1495"></a>
 1495.</td>
-<td width="95%"><a href="direct.htm#I1496" style="text-decoration: none"><font color="#3333CC">N.N. MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1496" style="text-decoration: none"><font color="#3333CC">N.N. MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9061,7 +9077,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1497"></a>
 1497.</td>
-<td width="95%"><a href="direct.htm#I1498" style="text-decoration: none"><font color="#3333CC">MARKETTA LAURINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1498" style="text-decoration: none"><font color="#3333CC">MARKETTA LAURINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9073,7 +9089,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1499"></a>
 1499.</td>
-<td width="95%"><a href="direct.htm#I1500" style="text-decoration: none"><font color="#3333CC">JUDITH ERICSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1500" style="text-decoration: none"><font color="#3333CC">JUDITH ERICSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9085,7 +9101,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1501"></a>
 1501.</td>
-<td width="95%"><a href="direct.htm#I1502" style="text-decoration: none"><font color="#3333CC">WALBORG ERICSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1502" style="text-decoration: none"><font color="#3333CC">WALBORG ERICSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9097,7 +9113,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1503"></a>
 1503.</td>
-<td width="95%"><a href="direct.htm#I1504" style="text-decoration: none"><font color="#3333CC">VALPURI ESKONTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1504" style="text-decoration: none"><font color="#3333CC">VALPURI ESKONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9109,7 +9125,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1505"></a>
 1505.</td>
-<td width="95%"><a href="direct.htm#I1506" style="text-decoration: none"><font color="#3333CC">BIRGIT THOMASDOTTER N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1506" style="text-decoration: none"><font color="#3333CC">BIRGIT THOMASDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9187,7 +9203,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1518"></a>
 1518.</td>
-<td width="95%"><a href="direct.htm#I1519" style="text-decoration: none"><font color="#3333CC">ELISABET JACOBSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1519" style="text-decoration: none"><font color="#3333CC">ELISABET JACOBSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9199,7 +9215,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1520"></a>
 1520.</td>
-<td width="95%"><a href="direct.htm#I1521" style="text-decoration: none"><font color="#3333CC">MARKETTA HEIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin isän äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1521" style="text-decoration: none"><font color="#3333CC">MARKETTA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9211,7 +9227,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1522"></a>
 1522.</td>
-<td width="95%"><a href="direct.htm#I1523" style="text-decoration: none"><font color="#3333CC">AUNE MATINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1523" style="text-decoration: none"><font color="#3333CC">AUNE MATINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9223,7 +9239,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1524"></a>
 1524.</td>
-<td width="95%"><a href="direct.htm#I1525" style="text-decoration: none"><font color="#3333CC">MAISA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1525" style="text-decoration: none"><font color="#3333CC">MAISA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9235,7 +9251,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1526"></a>
 1526.</td>
-<td width="95%"><a href="direct.htm#I1527" style="text-decoration: none"><font color="#3333CC">LUCIA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1527" style="text-decoration: none"><font color="#3333CC">LUCIA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9247,7 +9263,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1528"></a>
 1528.</td>
-<td width="95%"><a href="direct.htm#I1529" style="text-decoration: none"><font color="#3333CC">SKOLASTIKA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1529" style="text-decoration: none"><font color="#3333CC">SKOLASTIKA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9271,7 +9287,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1532"></a>
 1532.</td>
-<td width="95%"><a href="direct.htm#I1533" style="text-decoration: none"><font color="#3333CC">AGNETA JAAKONTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1533" style="text-decoration: none"><font color="#3333CC">AGNETA JAAKONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9283,7 +9299,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1534"></a>
 1534.</td>
-<td width="95%"><a href="direct.htm#I1535" style="text-decoration: none"><font color="#3333CC">ANNA MATTSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1535" style="text-decoration: none"><font color="#3333CC">ANNA MATTSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9295,7 +9311,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1536"></a>
 1536.</td>
-<td width="95%"><a href="direct.htm#I1537" style="text-decoration: none"><font color="#3333CC">ANNA KLEMETINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1537" style="text-decoration: none"><font color="#3333CC">ANNA KLEMETINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9307,7 +9323,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1538"></a>
 1538.</td>
-<td width="95%"><a href="direct.htm#I1539" style="text-decoration: none"><font color="#3333CC">SOFIA HEIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1539" style="text-decoration: none"><font color="#3333CC">SOFIA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9343,7 +9359,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1544"></a>
 1544.</td>
-<td width="95%"><a href="direct.htm#I1545" style="text-decoration: none"><font color="#3333CC">MARGARETA JÖNSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1545" style="text-decoration: none"><font color="#3333CC">MARGARETA JÖNSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9355,13 +9371,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1546"></a>
 1546.</td>
-<td width="95%"><a href="direct.htm#I1547" style="text-decoration: none"><font color="#3333CC">BRITA SVENSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1547" style="text-decoration: none"><font color="#3333CC">BRITA SVENSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1547"></a>
 1547.</td>
-<td width="95%"><a href="direct.htm#I1548" style="text-decoration: none"><font color="#3333CC">ESKO N.N.</font></a>  Äidin äidin äidin isän äidin isän äidin isän isän äidin äidin isän isä.</td>
+<td width="95%"><a href="direct.htm#I1548" style="text-decoration: none"><font color="#3333CC">ESKO  N.N.</font></a>.  Äidin äidin äidin isän äidin isän äidin isän isän äidin äidin isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9373,7 +9389,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1549"></a>
 1549.</td>
-<td width="95%"><a href="direct.htm#I1550" style="text-decoration: none"><font color="#3333CC">KERTTU N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1550" style="text-decoration: none"><font color="#3333CC">KERTTU  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9385,7 +9401,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1551"></a>
 1551.</td>
-<td width="95%"><a href="direct.htm#I1552" style="text-decoration: none"><font color="#3333CC">KERTTU N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1552" style="text-decoration: none"><font color="#3333CC">KERTTU  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9403,7 +9419,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1554"></a>
 1554.</td>
-<td width="95%"><a href="direct.htm#I1555" style="text-decoration: none"><font color="#3333CC">VALPURI ERKINTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1555" style="text-decoration: none"><font color="#3333CC">VALPURI ERKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9415,7 +9431,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1556"></a>
 1556.</td>
-<td width="95%"><a href="direct.htm#I1557" style="text-decoration: none"><font color="#3333CC">ANNA THOMASDOTTER N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1557" style="text-decoration: none"><font color="#3333CC">ANNA THOMASDOTTER  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 </table>
 <br>
@@ -9503,7 +9519,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1570"></a>
 1570.</td>
-<td width="95%"><a href="direct.htm#I1571" style="text-decoration: none"><font color="#3333CC">ANNA ERKINTYTÄR N.N.</font></a>  Äidin äidin isän äidin isän äidin isän äidin äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1571" style="text-decoration: none"><font color="#3333CC">ANNA ERKINTYTÄR  N.N.</font></a>.  Äidin äidin isän äidin isän äidin isän äidin äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9527,7 +9543,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1574"></a>
 1574.</td>
-<td width="95%"><a href="direct.htm#I1575" style="text-decoration: none"><font color="#3333CC">MAISA ESKONTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1575" style="text-decoration: none"><font color="#3333CC">MAISA ESKONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9575,7 +9591,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1582"></a>
 1582.</td>
-<td width="95%"><a href="direct.htm#I1583" style="text-decoration: none"><font color="#3333CC">MARIA ERIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1583" style="text-decoration: none"><font color="#3333CC">MARIA ERIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9599,7 +9615,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1586"></a>
 1586.</td>
-<td width="95%"><a href="direct.htm#I1587" style="text-decoration: none"><font color="#3333CC">CHRISTINA MATTSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1587" style="text-decoration: none"><font color="#3333CC">CHRISTINA MATTSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9623,7 +9639,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1590"></a>
 1590.</td>
-<td width="95%"><a href="direct.htm#I1591" style="text-decoration: none"><font color="#3333CC">KRISTINA HENRIKSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1591" style="text-decoration: none"><font color="#3333CC">KRISTINA HENRIKSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9635,7 +9651,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1592"></a>
 1592.</td>
-<td width="95%"><a href="direct.htm#I1593" style="text-decoration: none"><font color="#3333CC">ANNA GRELSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1593" style="text-decoration: none"><font color="#3333CC">ANNA GRELSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9665,7 +9681,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1597"></a>
 1597.</td>
-<td width="95%"><a href="direct.htm#I1598" style="text-decoration: none"><font color="#3333CC">BARBARA THOMASDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1598" style="text-decoration: none"><font color="#3333CC">BARBARA THOMASDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9677,7 +9693,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1599"></a>
 1599.</td>
-<td width="95%"><a href="direct.htm#I1600" style="text-decoration: none"><font color="#3333CC">BRITA JAAKONTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän isän isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1600" style="text-decoration: none"><font color="#3333CC">BRITA JAAKONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän isän isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9689,7 +9705,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1601"></a>
 1601.</td>
-<td width="95%"><a href="direct.htm#I1602" style="text-decoration: none"><font color="#3333CC">MAISA LAURINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1602" style="text-decoration: none"><font color="#3333CC">MAISA LAURINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9701,7 +9717,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1603"></a>
 1603.</td>
-<td width="95%"><a href="direct.htm#I1604" style="text-decoration: none"><font color="#3333CC">MARGARETA HEIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin isän äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1604" style="text-decoration: none"><font color="#3333CC">MARGARETA HEIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin isän äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9713,7 +9729,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1605"></a>
 1605.</td>
-<td width="95%"><a href="direct.htm#I1606" style="text-decoration: none"><font color="#3333CC">MALIN EERIKINTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1606" style="text-decoration: none"><font color="#3333CC">MALIN EERIKINTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9725,7 +9741,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1607"></a>
 1607.</td>
-<td width="95%"><a href="direct.htm#I1608" style="text-decoration: none"><font color="#3333CC">WALBORG BERTILSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1608" style="text-decoration: none"><font color="#3333CC">WALBORG BERTILSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9749,7 +9765,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1611"></a>
 1611.</td>
-<td width="95%"><a href="direct.htm#I1612" style="text-decoration: none"><font color="#3333CC">BRITA LARSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1612" style="text-decoration: none"><font color="#3333CC">BRITA LARSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9773,7 +9789,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1615"></a>
 1615.</td>
-<td width="95%"><a href="direct.htm#I1616" style="text-decoration: none"><font color="#3333CC">INGEBORG PERSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1616" style="text-decoration: none"><font color="#3333CC">INGEBORG PERSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9797,7 +9813,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1619"></a>
 1619.</td>
-<td width="95%"><a href="direct.htm#I1620" style="text-decoration: none"><font color="#3333CC">KAARINA MARKUNTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1620" style="text-decoration: none"><font color="#3333CC">KAARINA MARKUNTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9815,7 +9831,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1622"></a>
 1622.</td>
-<td width="95%"><a href="direct.htm#I1623" style="text-decoration: none"><font color="#3333CC">INKERI SIMONTYTÄR N.N.</font></a>  Äidin äidin äidin äidin äidin isän äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1623" style="text-decoration: none"><font color="#3333CC">INKERI SIMONTYTÄR  N.N.</font></a>.  Äidin äidin äidin äidin äidin isän äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9833,7 +9849,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1625"></a>
 1625.</td>
-<td width="95%"><a href="direct.htm#I1626" style="text-decoration: none"><font color="#3333CC">MARAGETA ERICHSDOTTER N.N.</font></a>  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1626" style="text-decoration: none"><font color="#3333CC">MARAGETA ERICHSDOTTER  N.N.</font></a>.  Äidin äidin äidin äidin äidin äidin äidin äidin äidin isän isän isän isän äiti.</td>
 </tr>
 </table>
 <br>
@@ -9873,7 +9889,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1631"></a>
 1631.</td>
-<td width="95%"><a href="direct.htm#I1632" style="text-decoration: none"><font color="#3333CC">INGEBORG N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1632" style="text-decoration: none"><font color="#3333CC">INGEBORG  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9909,7 +9925,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1637"></a>
 1637.</td>
-<td width="95%"><a href="direct.htm#I1638" style="text-decoration: none"><font color="#3333CC">KAARINA MARTINTYTÄR TAI MIKONTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän isän isän isän äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1638" style="text-decoration: none"><font color="#3333CC">KAARINA MARTINTYTÄR TAI MIKONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän isän isän isän äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9975,13 +9991,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1648"></a>
 1648.</td>
-<td width="95%"><a href="direct.htm#I1649" style="text-decoration: none"><font color="#3333CC">MATTHAEUS PETRI N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän isän isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1649" style="text-decoration: none"><font color="#3333CC">MATTHAEUS PETRI  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän isän isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1649"></a>
 1649.</td>
-<td width="95%"><a href="direct.htm#I1650" style="text-decoration: none"><font color="#3333CC">N.N. ESCILSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1650" style="text-decoration: none"><font color="#3333CC">N.N. ESCILSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -9999,13 +10015,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1652"></a>
 1652.</td>
-<td width="95%"><a href="direct.htm#I1653" style="text-decoration: none"><font color="#3333CC">BARTOLOMEUS JOHANNIS N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin isän isä.</td>
+<td width="95%"><a href="direct.htm#I1653" style="text-decoration: none"><font color="#3333CC">BARTOLOMEUS JOHANNIS  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1653"></a>
 1653.</td>
-<td width="95%"><a href="direct.htm#I1654" style="text-decoration: none"><font color="#3333CC">MALIN N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1654" style="text-decoration: none"><font color="#3333CC">MALIN  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10023,7 +10039,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1656"></a>
 1656.</td>
-<td width="95%"><a href="direct.htm#I1657" style="text-decoration: none"><font color="#3333CC">ANNA HANSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1657" style="text-decoration: none"><font color="#3333CC">ANNA HANSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10089,7 +10105,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1667"></a>
 1667.</td>
-<td width="95%"><a href="direct.htm#I1668" style="text-decoration: none"><font color="#3333CC">AUNE PAAVONTYTÄR N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1668" style="text-decoration: none"><font color="#3333CC">AUNE PAAVONTYTÄR  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10451,7 +10467,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1726"></a>
 1726.</td>
-<td width="95%"><a href="direct.htm#I1727" style="text-decoration: none"><font color="#3333CC">N.N. SIGFRIDSDOTTER 1 N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1727" style="text-decoration: none"><font color="#3333CC">N.N. SIGFRIDSDOTTER 1  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10575,7 +10591,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1746"></a>
 1746.</td>
-<td width="95%"><a href="direct.htm#I1747" style="text-decoration: none"><font color="#3333CC">N.N. THIDEMANNUSDOTTER 2 N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1747" style="text-decoration: none"><font color="#3333CC">N.N. THIDEMANNUSDOTTER 2  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10647,7 +10663,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1758"></a>
 1758.</td>
-<td width="95%"><a href="direct.htm#I1759" style="text-decoration: none"><font color="#3333CC">KARIN NILSDOTTER N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1759" style="text-decoration: none"><font color="#3333CC">KARIN NILSDOTTER  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10713,7 +10729,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1769"></a>
 1769.</td>
-<td width="95%"><a href="direct.htm#I1770" style="text-decoration: none"><font color="#3333CC">MARGARETA N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1770" style="text-decoration: none"><font color="#3333CC">MARGARETA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10749,7 +10765,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1775"></a>
 1775.</td>
-<td width="95%"><a href="direct.htm#I1776" style="text-decoration: none"><font color="#3333CC">LAURI N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän isän isän isän isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1776" style="text-decoration: none"><font color="#3333CC">LAURI  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin isän äidin isän isän isän isän isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10797,7 +10813,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1783"></a>
 1783.</td>
-<td width="95%"><a href="direct.htm#I1784" style="text-decoration: none"><font color="#3333CC">BRITA TAI BEATA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1784" style="text-decoration: none"><font color="#3333CC">BRITA TAI BEATA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10855,7 +10871,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1792"></a>
 1792.</td>
-<td width="95%"><a href="direct.htm#I1793" style="text-decoration: none"><font color="#3333CC">MATTS N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1793" style="text-decoration: none"><font color="#3333CC">MATTS  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10867,7 +10883,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1794"></a>
 1794.</td>
-<td width="95%"><a href="direct.htm#I1795" style="text-decoration: none"><font color="#3333CC">CATHARINA GUDMUNDSDOTTER N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1795" style="text-decoration: none"><font color="#3333CC">CATHARINA GUDMUNDSDOTTER  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10879,7 +10895,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1796"></a>
 1796.</td>
-<td width="95%"><a href="direct.htm#I1797" style="text-decoration: none"><font color="#3333CC">SOPHIE ERIKSDOTTER N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1797" style="text-decoration: none"><font color="#3333CC">SOPHIE ERIKSDOTTER  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10933,7 +10949,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1805"></a>
 1805.</td>
-<td width="95%"><a href="direct.htm#I1806" style="text-decoration: none"><font color="#3333CC">N.N. SIGFRIDSDOTTER 2 N.N.</font></a>  Äidin äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1806" style="text-decoration: none"><font color="#3333CC">N.N. SIGFRIDSDOTTER 2  N.N.</font></a>.  Äidin äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10957,7 +10973,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1809"></a>
 1809.</td>
-<td width="95%"><a href="direct.htm#I1810" style="text-decoration: none"><font color="#3333CC">N.N. OLOFSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1810" style="text-decoration: none"><font color="#3333CC">N.N. OLOFSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -10993,7 +11009,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1815"></a>
 1815.</td>
-<td width="95%"><a href="direct.htm#I1816" style="text-decoration: none"><font color="#3333CC">KIRSTIN N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1816" style="text-decoration: none"><font color="#3333CC">KIRSTIN  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11029,7 +11045,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1821"></a>
 1821.</td>
-<td width="95%"><a href="direct.htm#I1822" style="text-decoration: none"><font color="#3333CC">MARGARETA OLOFSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1822" style="text-decoration: none"><font color="#3333CC">MARGARETA OLOFSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11041,7 +11057,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1823"></a>
 1823.</td>
-<td width="95%"><a href="direct.htm#I1824" style="text-decoration: none"><font color="#3333CC">ANNA JEPPESDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1824" style="text-decoration: none"><font color="#3333CC">ANNA JEPPESDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11141,7 +11157,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1839"></a>
 1839.</td>
-<td width="95%"><a href="direct.htm#I1840" style="text-decoration: none"><font color="#3333CC">N.N JAKOBSDOTTER N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin isän äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1840" style="text-decoration: none"><font color="#3333CC">N.N. JAKOBSDOTTER  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin isän äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11153,7 +11169,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1841"></a>
 1841.</td>
-<td width="95%"><a href="direct.htm#I1842" style="text-decoration: none"><font color="#3333CC">N.N. THIDEMANNUSDOTTER 1 N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1842" style="text-decoration: none"><font color="#3333CC">N.N. THIDEMANNUSDOTTER 1  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11195,7 +11211,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1848"></a>
 1848.</td>
-<td width="95%"><a href="direct.htm#I1849" style="text-decoration: none"><font color="#3333CC">LUCIA 1 N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1849" style="text-decoration: none"><font color="#3333CC">LUCIA 1  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11207,7 +11223,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1850"></a>
 1850.</td>
-<td width="95%"><a href="direct.htm#I1851" style="text-decoration: none"><font color="#3333CC">N.N. LARSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1851" style="text-decoration: none"><font color="#3333CC">N.N. LARSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11219,7 +11235,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1852"></a>
 1852.</td>
-<td width="95%"><a href="direct.htm#I1853" style="text-decoration: none"><font color="#3333CC">CECILIA 1 N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1853" style="text-decoration: none"><font color="#3333CC">CECILIA 1  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11261,7 +11277,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1859"></a>
 1859.</td>
-<td width="95%"><a href="direct.htm#I1860" style="text-decoration: none"><font color="#3333CC">KADRIN N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1860" style="text-decoration: none"><font color="#3333CC">KADRIN  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11297,7 +11313,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1865"></a>
 1865.</td>
-<td width="95%"><a href="direct.htm#I1866" style="text-decoration: none"><font color="#3333CC">KATARINA HENRIKSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän äidin isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1866" style="text-decoration: none"><font color="#3333CC">KATARINA HENRIKSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän äidin isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11321,7 +11337,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1869"></a>
 1869.</td>
-<td width="95%"><a href="direct.htm#I1870" style="text-decoration: none"><font color="#3333CC">ELIN FILPUSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1870" style="text-decoration: none"><font color="#3333CC">ELIN FILPUSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11375,7 +11391,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1878"></a>
 1878.</td>
-<td width="95%"><a href="direct.htm#I1879" style="text-decoration: none"><font color="#3333CC">LUCIA N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1879" style="text-decoration: none"><font color="#3333CC">LUCIA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11393,7 +11409,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1881"></a>
 1881.</td>
-<td width="95%"><a href="direct.htm#I1882" style="text-decoration: none"><font color="#3333CC">JÖNS BENGTSSON N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän isän äidin isän isän isän isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1882" style="text-decoration: none"><font color="#3333CC">JÖNS BENGTSSON  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin äidin isän isän äidin isän isän isän isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11439,7 +11455,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1888"></a>
 1888.</td>
-<td width="95%"><a href="direct.htm#I1889" style="text-decoration: none"><font color="#3333CC">JACOB ANDREASSON 1 N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin isän äidin isän isän äidin äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1889" style="text-decoration: none"><font color="#3333CC">JACOB ANDREASSON 1  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin isän äidin isän isän äidin äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11469,7 +11485,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1893"></a>
 1893.</td>
-<td width="95%"><a href="direct.htm#I1894" style="text-decoration: none"><font color="#3333CC">CHRISTINA N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1894" style="text-decoration: none"><font color="#3333CC">CHRISTINA  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin isän äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11505,7 +11521,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1899"></a>
 1899.</td>
-<td width="95%"><a href="direct.htm#I1900" style="text-decoration: none"><font color="#3333CC">KRISTINA MAGNUSDOTTER 1 N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1900" style="text-decoration: none"><font color="#3333CC">KRISTINA MAGNUSDOTTER 1  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11529,7 +11545,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1903"></a>
 1903.</td>
-<td width="95%"><a href="direct.htm#I1904" style="text-decoration: none"><font color="#3333CC">MARGIT BENGTSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1904" style="text-decoration: none"><font color="#3333CC">MARGIT BENGTSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11541,7 +11557,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1905"></a>
 1905.</td>
-<td width="95%"><a href="direct.htm#I1906" style="text-decoration: none"><font color="#3333CC">RAGNHILD N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1906" style="text-decoration: none"><font color="#3333CC">RAGNHILD  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11571,7 +11587,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1910"></a>
 1910.</td>
-<td width="95%"><a href="direct.htm#I1911" style="text-decoration: none"><font color="#3333CC">ASSER TORSTENSSON N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän äidin äidin äidin isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1911" style="text-decoration: none"><font color="#3333CC">ASSER TORSTENSSON  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän äidin äidin äidin isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11595,13 +11611,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1914"></a>
 1914.</td>
-<td width="95%"><a href="direct.htm#I1915" style="text-decoration: none"><font color="#3333CC">ELIN N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1915" style="text-decoration: none"><font color="#3333CC">ELIN  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1915"></a>
 1915.</td>
-<td width="95%"><a href="direct.htm#I1916" style="text-decoration: none"><font color="#3333CC">FILPUS IVARSSON N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1916" style="text-decoration: none"><font color="#3333CC">FILPUS IVARSSON  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11613,7 +11629,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1917"></a>
 1917.</td>
-<td width="95%"><a href="direct.htm#I1918" style="text-decoration: none"><font color="#3333CC">TUVE MÅNSSON N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän äidin äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1918" style="text-decoration: none"><font color="#3333CC">TUVE MÅNSSON  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän äidin äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11655,7 +11671,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1924"></a>
 1924.</td>
-<td width="95%"><a href="direct.htm#I1925" style="text-decoration: none"><font color="#3333CC">KARIN N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1925" style="text-decoration: none"><font color="#3333CC">KARIN  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11719,13 +11735,13 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1934"></a>
 1934.</td>
-<td width="95%"><a href="direct.htm#I1935" style="text-decoration: none"><font color="#3333CC">FRELLAV THOMSEN N.N.</font></a>  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän isän isän isän isä.</td>
+<td width="95%"><a href="direct.htm#I1935" style="text-decoration: none"><font color="#3333CC">FRELLAV THOMSEN  N.N.</font></a>.  Äidin äidin isän isän äidin äidin isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän isän isän isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
 <a name="R1935"></a>
 1935.</td>
-<td width="95%"><a href="direct.htm#I1936" style="text-decoration: none"><font color="#3333CC">MAGNUS JACOBSSON N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1936" style="text-decoration: none"><font color="#3333CC">MAGNUS JACOBSSON  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11785,7 +11801,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1945"></a>
 1945.</td>
-<td width="95%"><a href="direct.htm#I1946" style="text-decoration: none"><font color="#3333CC">CECILIA 2 N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän isän isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1946" style="text-decoration: none"><font color="#3333CC">CECILIA 2  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän isän isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11821,7 +11837,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1951"></a>
 1951.</td>
-<td width="95%"><a href="direct.htm#I1952" style="text-decoration: none"><font color="#3333CC">INGEBORG AMUNDSDOTTER N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin äidin isän isän äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1952" style="text-decoration: none"><font color="#3333CC">INGEBORG AMUNDSDOTTER  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin äidin isän isän äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11857,7 +11873,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1957"></a>
 1957.</td>
-<td width="95%"><a href="direct.htm#I1958" style="text-decoration: none"><font color="#3333CC">N.N. KNUTSDOTTER 1 N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
+<td width="95%"><a href="direct.htm#I1958" style="text-decoration: none"><font color="#3333CC">N.N. KNUTSDOTTER 1  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin äidin äidin äidin äidin äidin isän äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11879,7 +11895,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1960"></a>
 1960.</td>
-<td width="95%"><a href="direct.htm#I1961" style="text-decoration: none"><font color="#3333CC">JACOB ANDREASSON 2 N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän äidin isän isä.</td>
+<td width="95%"><a href="direct.htm#I1961" style="text-decoration: none"><font color="#3333CC">JACOB ANDREASSON 2  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän isän äidin isän äidin äidin äidin äidin äidin isän isän äidin isän isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -11951,7 +11967,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1972"></a>
 1972.</td>
-<td width="95%"><a href="direct.htm#I1973" style="text-decoration: none"><font color="#3333CC">N.N. KNUTSDOTTER 2 N.N.</font></a>  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän äidin äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1973" style="text-decoration: none"><font color="#3333CC">N.N. KNUTSDOTTER 2  N.N.</font></a>.  Äidin äidin äidin isän isän äidin äidin äidin äidin isän isän isän isän isän äidin isän äidin isän isän äidin äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -12027,7 +12043,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1984"></a>
 1984.</td>
-<td width="95%"><a href="direct.htm#I1985" style="text-decoration: none"><font color="#3333CC">LUCIA 2 N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän äidin äidin äidin isän äidin äidin äiti.</td>
+<td width="95%"><a href="direct.htm#I1985" style="text-decoration: none"><font color="#3333CC">LUCIA 2  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän isän äidin äidin äidin isän äidin äidin äiti.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -12039,7 +12055,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 <td align="right" width="5%" valign="top">
 <a name="R1986"></a>
 1986.</td>
-<td width="95%"><a href="direct.htm#I1987" style="text-decoration: none"><font color="#3333CC">HARTMAN N.N.</font></a>  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän äidin isän äidin isän äidin äidin äidin isä.</td>
+<td width="95%"><a href="direct.htm#I1987" style="text-decoration: none"><font color="#3333CC">HARTMAN  N.N.</font></a>.  Äidin äidin äidin isän isän äidin isän isän isän isän äidin äidin äidin isän isän isän äidin isän äidin isän äidin äidin äidin isä.</td>
 </tr>
 <tr>
 <td align="right" width="5%" valign="top">
@@ -12108,7 +12124,7 @@ Ristiinviittausten helpottamiseksi sukulaisuussuhteen numero on mainittu henkil�
 	
 	<footer>
 		<!-- <hr> Horizontal line can be defined in css also as border-top and/or border-bottom of the footer. -->
-		<p>Loimusalon sukukirja</p>
+		<p class="p_low">Loimusalon sukukirja</p>
 	</footer>
 </body>
 </html>

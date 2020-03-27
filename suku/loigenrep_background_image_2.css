@@ -1,0 +1,6 @@
+body {
+ background-image: url("hazel_dsc04288_1920x1080.jpg");
+ background-color: #f2f2f2;  /* Used if the image is unavailable */
+ background-repeat: repeat;
+ /* background-size: cover; */ /* Resize the background image to cover the entire container */
+}
