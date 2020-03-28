@@ -36,10 +36,11 @@ header {
   line-height: 1;
 }
 
-/* Style the header, NON-fixed position, used in INDEX OF INDIVIDUALS (individuals.htm) to get letter buttons work correcly */
+/* Style the header, NON-fixed position, used e.g. in INDEX OF INDIVIDUALS (individuals.htm) to get letter buttons work correcly,
+and in a couple of pages to get links work correctly. */
 .header_non-fixed-position {
   position: absolute;
-  left: 0px;
+  left: 8px; /* Like margin-left of body */
   top: 0px; /* NON-fixed to to get letter buttons work correcly */
 }
 
