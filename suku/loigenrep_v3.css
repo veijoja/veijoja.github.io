@@ -19,7 +19,7 @@ body {
 
 /* Style the header, fixed position to keep the header static, always on top while scrolling */
 header {
-  margin-left: 0px;
+  margin-left: -8px; /* Negative left margin as header belongs to body and body has the positive margin 8px */
   position: fixed;
   width: 100%;
   top: 0;
