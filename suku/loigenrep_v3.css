@@ -1,6 +1,6 @@
 /* February 2020 by vj for genealogy reports */
 
-/* Preferred font-family is Arial. lternative tested font families to this purpose are Veranda, "Segoe UI", ... */
+/* Preferred font-family is Arial. Alternative tested font families to this purpose are Veranda, "Segoe UI", ... */
 * {
   box-sizing: border-box;
   font-family: Arial, Helvetica, sans-serif;
@@ -8,6 +8,7 @@
 
 body {
   margin: 0;
+  margin-left: 8px; /* Margin is for generated elements that don't have own margin, e.g. person numbers in GGtextPC.htm */
   /* font-family: Arial, Helvetica, sans-serif; */
   background-color: #FAF9F7; /* #FAF9F7 is very light grey */
   /* Alternative backgrounds: */
@@ -18,7 +19,7 @@ body {
 
 /* Style the header, fixed position to keep the header static, always on top while scrolling */
 header {
-  margin-left: 0px;
+  margin-left: -8px; /* Negative left margin as header belongs to body and body has the positive margin 8px */
   position: fixed;
   width: 100%;
   top: 0;
@@ -35,10 +36,11 @@ header {
   line-height: 1;
 }
 
-/* Style the header, NON-fixed position, used in INDEX OF INDIVIDUALS (individuals.htm) to get letter buttons work correcly */
+/* Style the header, NON-fixed position, used e.g. in INDEX OF INDIVIDUALS (individuals.htm) to get letter buttons work correcly,
+and in a couple of pages to get links work correctly. */
 .header_non-fixed-position {
   position: absolute;
-  left: 0px;
+  left: 8px; /* Like margin-left of body */
   top: 0px; /* NON-fixed to to get letter buttons work correcly */
 }
 
@@ -129,8 +131,8 @@ article, section{
 /* Style a low paragraph */
 p.p_low {
   display: block;
-  margin-top: 3px;
-  margin-bottom: 3px;
+  margin-top: 4px;
+  margin-bottom: 4px;
   margin-left: 0;
   margin-right: 0;
 }
@@ -143,7 +145,7 @@ p.p_margin-left {
 /* Style the footer */
 footer {
   display: block;
-  margin-left: 0px;
+  margin-left: -8px; /* Negative left margin as footer belongs to body and body has the positive margin 8px */
   margin-top: 1px;
   z-index: 1;
   border-top: 1px SOLID GRAY;
