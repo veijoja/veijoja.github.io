@@ -51,7 +51,8 @@
 	<br><br><br><br>
 
 	<!-- CONTACT FORM BEGIN -->
-	<form class="loigen_contact_form" action="https://formspree.io/veijo.jappinen@gmail.com" accept-charset="UTF-8" method="POST">
+	<!-- Used spellcheck="false" to prevent e.g. Chrome's and Firefox's spell checking to underline nearly all words of the content text area with red. -->
+	<form class="loigen_contact_form" action="https://formspree.io/veijo.jappinen@gmail.com" accept-charset="UTF-8" method="POST" spellcheck="false">
 		
 		<!-- WHAT AND WHY? -->
 		<p>
@@ -105,7 +106,7 @@
 		-->
 
 		<!-- WRITE CONTENT (A.K.A. MESSAGE, COMMENTS) OF YOUR EMAIL.
-		Style needs type="text" for textarea, although it is error in HTML Validator -->
+		Style needs type="text" for textarea, although it is error in HTML Validator. -->
 		<label for="contact_content">* Sis&auml;lt&ouml; &#8212; Content:</label>
 		<textarea id="contact_content" type="text" name="content" rows="15" placeholder="Kerro huolesi &#8212; Your Message" required="required" maxlength="60000"></textarea>
 		<br>
