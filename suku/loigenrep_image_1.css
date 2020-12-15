@@ -44,12 +44,14 @@
 
 div.div_img_table_1 {
   display: block;
-  margin-left: 90px;
-  width: 300px;
+  margin-left: 40px;
+  width: 420px;
 }
 
 table.img_table_1, 
 	td.image-karjala_in_img_table_1, 
+	td.empty-column_in_img_table_1, 
+	td.image-hame_in_img_table_1, 
 	td.empty-column_in_img_table_1, 
 	td.image-keski-suomi_in_img_table_1 {
   border-collapse: collapse;
@@ -65,6 +67,8 @@ th.table_heading_in_img_table_1 {
 
 td.image-karjala_in_img_table_1
 	td.empty-column_in_img_table_1, 
+	td.image-hame_in_img_table_1
+	td.empty-column_in_img_table_1,
 	td.image-keski-suomi_in_img_table_1 {
   padding: 5px;
 }
@@ -74,7 +78,11 @@ td.image-karjala_in_img_table_1 {
 }
 
 td.empty-column_in_img_table_1 {
-  width: 40px;
+  width: 80px;
+}
+
+td.image-hame_in_img_table_1 {
+  width: 85px;
 }
 
 td.image-keski-suomi_in_img_table_1 {
