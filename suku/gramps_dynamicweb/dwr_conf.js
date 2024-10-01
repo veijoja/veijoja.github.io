@@ -233,7 +233,7 @@ __ = {
 "Select the shape of graph": "Valitse kaavion muoto",
 "Select the type of graph": "Valitse kaavion tyyppi",
 "Several matches.<br>Precise your search or choose in the lists below.": "Löydetty useita.<br>Tarkenna hakuasi tai valitse alla olevista listoista.",
-"Show _MENU_ entries": "Näytä _MENU_ merkinnät",
+"Show _MENU_ entries": "Näytä _MENU_ riviä",
 "Show duplicates": "Näytä kaksoiskappaleet",
 "Showing 0 to 0 of 0 entries": "Näytetään 0-0 0 merkinnästä",
 "Showing _START_ to _END_ of _TOTAL_ entries": "Näytetään _START_ - _END_ / _TOTAL_ merkinnöille",
