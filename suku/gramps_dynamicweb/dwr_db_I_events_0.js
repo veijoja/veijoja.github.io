@@ -34,7 +34,7 @@ I_events_0 = [
 ],
 "place": 23,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51,7 +51,7 @@ I_events_0 = [
 ],
 "place": 1033,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68,7 +68,7 @@ I_events_0 = [
 ],
 "place": 575,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85,7 +85,7 @@ I_events_0 = [
 ],
 "place": 329,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153,7 +153,7 @@ I_events_0 = [
 ],
 "place": 232,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -203,7 +203,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -221,7 +221,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -273,7 +273,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -326,7 +326,7 @@ I_events_0 = [
 ],
 "place": 23,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -345,7 +345,7 @@ I_events_0 = [
 ],
 "place": 23,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -412,7 +412,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -464,7 +464,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -515,7 +515,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -532,7 +532,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -587,7 +587,7 @@ I_events_0 = [
 ],
 "place": 78,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -656,7 +656,7 @@ I_events_0 = [
 ],
 "place": 175,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -673,7 +673,7 @@ I_events_0 = [
 ],
 "place": 175,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -739,7 +739,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -788,7 +788,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -862,7 +862,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -930,7 +930,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -998,7 +998,7 @@ I_events_0 = [
 ],
 "place": 151,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1066,7 +1066,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1134,7 +1134,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1202,7 +1202,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1321,7 +1321,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1387,7 +1387,7 @@ I_events_0 = [
 ],
 "place": 489,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1404,7 +1404,7 @@ I_events_0 = [
 ],
 "place": 18,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1453,7 +1453,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1503,7 +1503,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1520,7 +1520,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1571,7 +1571,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1588,7 +1588,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1637,7 +1637,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1690,7 +1690,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1740,7 +1740,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1757,7 +1757,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1840,7 +1840,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -1890,7 +1890,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1907,7 +1907,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1924,7 +1924,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1977,7 +1977,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -1994,7 +1994,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2012,7 +2012,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2029,7 +2029,7 @@ I_events_0 = [
 ],
 "place": 772,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2098,7 +2098,7 @@ I_events_0 = [
 ],
 "place": 198,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2201,7 +2201,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2219,7 +2219,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2271,7 +2271,7 @@ I_events_0 = [
 ],
 "place": 100,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2289,7 +2289,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -2339,7 +2339,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2356,7 +2356,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2407,7 +2407,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -2456,7 +2456,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2473,7 +2473,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -2539,7 +2539,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2611,7 +2611,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2628,7 +2628,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2694,7 +2694,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -2743,7 +2743,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2761,7 +2761,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2779,7 +2779,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2797,7 +2797,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2851,7 +2851,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2868,7 +2868,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2936,7 +2936,7 @@ I_events_0 = [
 ],
 "place": 485,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2955,7 +2955,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2972,7 +2972,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -2990,7 +2990,7 @@ I_events_0 = [
 ],
 "place": 413,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3007,7 +3007,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3075,7 +3075,7 @@ I_events_0 = [
 ],
 "place": 622,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3092,7 +3092,7 @@ I_events_0 = [
 ],
 "place": 622,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3113,7 +3113,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3184,7 +3184,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3201,7 +3201,7 @@ I_events_0 = [
 ],
 "place": 288,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3218,7 +3218,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3284,7 +3284,7 @@ I_events_0 = [
 ],
 "place": 168,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3301,7 +3301,7 @@ I_events_0 = [
 ],
 "place": 334,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3318,7 +3318,7 @@ I_events_0 = [
 ],
 "place": 259,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3370,7 +3370,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3419,7 +3419,7 @@ I_events_0 = [
 ],
 "place": 899,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3436,7 +3436,7 @@ I_events_0 = [
 ],
 "place": 899,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3453,7 +3453,7 @@ I_events_0 = [
 ],
 "place": 101,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3470,7 +3470,7 @@ I_events_0 = [
 ],
 "place": 101,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3488,7 +3488,7 @@ I_events_0 = [
 ],
 "place": 83,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3540,7 +3540,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3592,7 +3592,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3659,7 +3659,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3758,7 +3758,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3776,7 +3776,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3826,7 +3826,7 @@ I_events_0 = [
 ],
 "place": 923,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3875,7 +3875,7 @@ I_events_0 = [
 ],
 "place": 887,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3924,7 +3924,7 @@ I_events_0 = [
 ],
 "place": 701,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -3942,7 +3942,7 @@ I_events_0 = [
 ],
 "place": 278,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -3991,7 +3991,7 @@ I_events_0 = [
 ],
 "place": 716,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4042,7 +4042,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -4091,7 +4091,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4109,7 +4109,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -4174,7 +4174,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4191,7 +4191,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4208,7 +4208,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -4260,7 +4260,7 @@ I_events_0 = [
 ],
 "place": 64,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4279,7 +4279,7 @@ I_events_0 = [
 ],
 "place": 64,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4298,7 +4298,7 @@ I_events_0 = [
 ],
 "place": 64,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4365,7 +4365,7 @@ I_events_0 = [
 ],
 "place": 716,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4450,7 +4450,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4552,7 +4552,7 @@ I_events_0 = [
 ],
 "place": 288,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4571,7 +4571,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4589,7 +4589,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4607,7 +4607,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4678,7 +4678,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4696,7 +4696,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4768,7 +4768,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4786,7 +4786,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4872,7 +4872,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4889,7 +4889,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -4958,7 +4958,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -4973,7 +4973,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5039,7 +5039,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5093,7 +5093,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5144,7 +5144,7 @@ I_events_0 = [
 ],
 "place": 392,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5195,7 +5195,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5264,7 +5264,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5282,7 +5282,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5332,7 +5332,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5381,7 +5381,7 @@ I_events_0 = [
 ],
 "place": 391,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5430,7 +5430,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5479,7 +5479,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5497,7 +5497,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5547,7 +5547,7 @@ I_events_0 = [
 ],
 "place": 36,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5596,7 +5596,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5613,7 +5613,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5662,7 +5662,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5680,7 +5680,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5697,7 +5697,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5765,7 +5765,7 @@ I_events_0 = [
 ],
 "place": 336,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5832,7 +5832,7 @@ I_events_0 = [
 ],
 "place": 439,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5849,7 +5849,7 @@ I_events_0 = [
 ],
 "place": 977,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5900,7 +5900,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -5917,7 +5917,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -5967,7 +5967,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6020,7 +6020,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6038,7 +6038,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6055,7 +6055,7 @@ I_events_0 = [
 ],
 "place": 288,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6121,7 +6121,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6139,7 +6139,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6190,7 +6190,7 @@ I_events_0 = [
 ],
 "place": 189,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6207,7 +6207,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6224,7 +6224,7 @@ I_events_0 = [
 ],
 "place": 568,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6241,7 +6241,7 @@ I_events_0 = [
 ],
 "place": 386,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6307,7 +6307,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6325,7 +6325,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6426,7 +6426,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6478,7 +6478,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6547,7 +6547,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6564,7 +6564,7 @@ I_events_0 = [
 ],
 "place": 498,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6633,7 +6633,7 @@ I_events_0 = [
 ],
 "place": 203,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6651,7 +6651,7 @@ I_events_0 = [
 ],
 "place": 203,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6702,7 +6702,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6754,7 +6754,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6804,7 +6804,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6821,7 +6821,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6888,7 +6888,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -6939,7 +6939,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6957,7 +6957,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -6976,7 +6976,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7044,7 +7044,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7062,7 +7062,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7129,7 +7129,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7146,7 +7146,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -7198,7 +7198,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7265,7 +7265,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7282,7 +7282,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7350,7 +7350,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -7420,7 +7420,7 @@ I_events_0 = [
 ],
 "place": 639,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7439,7 +7439,7 @@ I_events_0 = [
 ],
 "place": 297,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7490,7 +7490,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -7541,7 +7541,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -7590,7 +7590,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7610,7 +7610,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7627,7 +7627,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7680,7 +7680,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7697,7 +7697,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7716,7 +7716,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7801,7 +7801,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7820,7 +7820,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7888,7 +7888,7 @@ I_events_0 = [
 ],
 "place": 1051,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -7973,7 +7973,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -7991,7 +7991,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8059,7 +8059,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8126,7 +8126,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8144,7 +8144,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8195,7 +8195,7 @@ I_events_0 = [
 ],
 "place": 602,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8249,7 +8249,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8316,7 +8316,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8334,7 +8334,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8352,7 +8352,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8409,7 +8409,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8427,7 +8427,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8446,7 +8446,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8512,7 +8512,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8529,7 +8529,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8578,7 +8578,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8628,7 +8628,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8645,7 +8645,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8665,7 +8665,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8682,7 +8682,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8801,7 +8801,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8819,7 +8819,7 @@ I_events_0 = [
 ],
 "place": 210,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -8885,7 +8885,7 @@ I_events_0 = [
 ],
 "place": 429,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8934,7 +8934,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -8984,7 +8984,7 @@ I_events_0 = [
 ],
 "place": 103,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9002,7 +9002,7 @@ I_events_0 = [
 ],
 "place": 899,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9051,7 +9051,7 @@ I_events_0 = [
 ],
 "place": 1040,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9087,7 +9087,7 @@ I_events_0 = [
 ],
 "place": 887,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9104,7 +9104,7 @@ I_events_0 = [
 ],
 "place": 708,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9121,7 +9121,7 @@ I_events_0 = [
 ],
 "place": 916,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -9171,7 +9171,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -9220,7 +9220,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9237,7 +9237,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9254,7 +9254,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -9306,7 +9306,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9323,7 +9323,7 @@ I_events_0 = [
 ],
 "place": 821,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9341,7 +9341,7 @@ I_events_0 = [
 ],
 "place": 821,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9409,7 +9409,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9475,7 +9475,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9493,7 +9493,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9559,7 +9559,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9577,7 +9577,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -9675,7 +9675,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9758,7 +9758,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -9810,7 +9810,7 @@ I_events_0 = [
 ],
 "place": 821,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9827,7 +9827,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9844,7 +9844,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9898,7 +9898,7 @@ I_events_0 = [
 ],
 "place": 413,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9964,7 +9964,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -9981,7 +9981,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10032,7 +10032,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10082,7 +10082,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10131,7 +10131,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10148,7 +10148,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10197,7 +10197,7 @@ I_events_0 = [
 ],
 "place": 585,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10281,7 +10281,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10349,7 +10349,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10366,7 +10366,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10418,7 +10418,7 @@ I_events_0 = [
 ],
 "place": 483,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10435,7 +10435,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10502,7 +10502,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10588,7 +10588,7 @@ I_events_0 = [
 ],
 "place": 622,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10607,7 +10607,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10625,7 +10625,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10643,7 +10643,7 @@ I_events_0 = [
 ],
 "place": 653,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10709,7 +10709,7 @@ I_events_0 = [
 ],
 "place": 276,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10760,7 +10760,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10777,7 +10777,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10827,7 +10827,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10878,7 +10878,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10929,7 +10929,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -10979,7 +10979,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -10997,7 +10997,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -11047,7 +11047,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11066,7 +11066,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -11116,7 +11116,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11133,7 +11133,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11200,7 +11200,7 @@ I_events_0 = [
 ],
 "place": 500,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11217,7 +11217,7 @@ I_events_0 = [
 ],
 "place": 500,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11270,7 +11270,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11288,7 +11288,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11305,7 +11305,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11371,7 +11371,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11391,7 +11391,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11408,7 +11408,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11466,7 +11466,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11483,7 +11483,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11552,7 +11552,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -11605,7 +11605,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11671,7 +11671,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -11721,7 +11721,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11738,7 +11738,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11807,7 +11807,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11875,7 +11875,7 @@ I_events_0 = [
 ],
 "place": 1011,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -11941,7 +11941,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -11993,7 +11993,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12010,7 +12010,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12059,7 +12059,7 @@ I_events_0 = [
 ],
 "place": 376,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12111,7 +12111,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12177,7 +12177,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12227,7 +12227,7 @@ I_events_0 = [
 ],
 "place": 564,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12246,7 +12246,7 @@ I_events_0 = [
 ],
 "place": 84,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12296,7 +12296,7 @@ I_events_0 = [
 ],
 "place": 68,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12345,7 +12345,7 @@ I_events_0 = [
 ],
 "place": 290,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12394,7 +12394,7 @@ I_events_0 = [
 ],
 "place": 42,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12445,7 +12445,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12462,7 +12462,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12512,7 +12512,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12529,7 +12529,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -12718,7 +12718,7 @@ I_events_0 = [
 ],
 "place": 878,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12736,7 +12736,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12754,7 +12754,7 @@ I_events_0 = [
 ],
 "place": 820,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12821,7 +12821,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12876,7 +12876,7 @@ I_events_0 = [
 ],
 "place": 743,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -12945,7 +12945,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13013,7 +13013,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13063,7 +13063,7 @@ I_events_0 = [
 ],
 "place": 36,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13112,7 +13112,7 @@ I_events_0 = [
 ],
 "place": 495,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13129,7 +13129,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13146,7 +13146,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13230,7 +13230,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13247,7 +13247,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13264,7 +13264,7 @@ I_events_0 = [
 ],
 "place": 518,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13281,7 +13281,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13298,7 +13298,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13316,7 +13316,7 @@ I_events_0 = [
 ],
 "place": 518,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13333,7 +13333,7 @@ I_events_0 = [
 ],
 "place": 816,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13350,7 +13350,7 @@ I_events_0 = [
 ],
 "place": 869,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13399,7 +13399,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13416,7 +13416,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13468,7 +13468,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13518,7 +13518,7 @@ I_events_0 = [
 ],
 "place": 83,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13536,7 +13536,7 @@ I_events_0 = [
 ],
 "place": 164,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13587,7 +13587,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13605,7 +13605,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13623,7 +13623,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13690,7 +13690,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13739,7 +13739,7 @@ I_events_0 = [
 ],
 "place": 750,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13756,7 +13756,7 @@ I_events_0 = [
 ],
 "place": 672,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -13773,7 +13773,7 @@ I_events_0 = [
 ],
 "place": 621,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13822,7 +13822,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13871,7 +13871,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -13954,7 +13954,7 @@ I_events_0 = [
 ],
 "place": 500,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14004,7 +14004,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14056,7 +14056,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14106,7 +14106,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14160,7 +14160,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14180,7 +14180,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14298,7 +14298,7 @@ I_events_0 = [
 ],
 "place": 309,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14350,7 +14350,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14399,7 +14399,7 @@ I_events_0 = [
 ],
 "place": 198,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14417,7 +14417,7 @@ I_events_0 = [
 ],
 "place": 198,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14435,7 +14435,7 @@ I_events_0 = [
 ],
 "place": 198,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14502,7 +14502,7 @@ I_events_0 = [
 ],
 "place": 163,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14519,7 +14519,7 @@ I_events_0 = [
 ],
 "place": 163,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14569,7 +14569,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14619,7 +14619,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14668,7 +14668,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14685,7 +14685,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14702,7 +14702,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -14753,7 +14753,7 @@ I_events_0 = [
 ],
 "place": 427,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14789,7 +14789,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14806,7 +14806,7 @@ I_events_0 = [
 ],
 "place": 699,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -14892,7 +14892,7 @@ I_events_0 = [
 ],
 "place": 57,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15022,7 +15022,7 @@ I_events_0 = [
 ],
 "place": 429,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -15088,7 +15088,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15105,7 +15105,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -15154,7 +15154,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15171,7 +15171,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -15220,7 +15220,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15272,7 +15272,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15291,7 +15291,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -15342,7 +15342,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15361,7 +15361,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15431,7 +15431,7 @@ I_events_0 = [
 ],
 "place": 632,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15452,7 +15452,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15470,7 +15470,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15487,7 +15487,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15572,7 +15572,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15589,7 +15589,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15608,7 +15608,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15676,7 +15676,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15695,7 +15695,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15782,7 +15782,7 @@ I_events_0 = [
 ],
 "place": 210,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15800,7 +15800,7 @@ I_events_0 = [
 ],
 "place": 210,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15819,7 +15819,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15837,7 +15837,7 @@ I_events_0 = [
 ],
 "place": 562,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15854,7 +15854,7 @@ I_events_0 = [
 ],
 "place": 229,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15920,7 +15920,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -15937,7 +15937,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16037,7 +16037,7 @@ I_events_0 = [
 ],
 "place": 361,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16056,7 +16056,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16125,7 +16125,7 @@ I_events_0 = [
 ],
 "place": 394,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16143,7 +16143,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16194,7 +16194,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16244,7 +16244,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16263,7 +16263,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16312,7 +16312,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16329,7 +16329,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16378,7 +16378,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16396,7 +16396,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16413,7 +16413,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16480,7 +16480,7 @@ I_events_0 = [
 ],
 "place": 278,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16529,7 +16529,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16578,7 +16578,7 @@ I_events_0 = [
 ],
 "place": 887,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16632,7 +16632,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16700,7 +16700,7 @@ I_events_0 = [
 ],
 "place": 744,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16767,7 +16767,7 @@ I_events_0 = [
 ],
 "place": 84,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16784,7 +16784,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16834,7 +16834,7 @@ I_events_0 = [
 ],
 "place": 716,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -16883,7 +16883,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16934,7 +16934,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -16951,7 +16951,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17003,7 +17003,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17070,7 +17070,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17121,7 +17121,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17170,7 +17170,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17188,7 +17188,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17238,7 +17238,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17287,7 +17287,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17304,7 +17304,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17353,7 +17353,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17406,7 +17406,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17424,7 +17424,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17442,7 +17442,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17510,7 +17510,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17559,7 +17559,7 @@ I_events_0 = [
 ],
 "place": 336,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17627,7 +17627,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17694,7 +17694,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17743,7 +17743,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -17827,7 +17827,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17845,7 +17845,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17962,7 +17962,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -17979,7 +17979,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -18028,7 +18028,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -18080,7 +18080,7 @@ I_events_0 = [
 ],
 "place": 647,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18131,7 +18131,7 @@ I_events_0 = [
 ],
 "place": 340,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18150,7 +18150,7 @@ I_events_0 = [
 ],
 "place": 489,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18168,7 +18168,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18221,7 +18221,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18287,7 +18287,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -18338,7 +18338,7 @@ I_events_0 = [
 ],
 "place": 705,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18423,7 +18423,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -18474,7 +18474,7 @@ I_events_0 = [
 ],
 "place": 730,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18541,7 +18541,7 @@ I_events_0 = [
 ],
 "place": 290,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18558,7 +18558,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18575,7 +18575,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -18645,7 +18645,7 @@ I_events_0 = [
 ],
 "place": 1000,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18662,7 +18662,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18679,7 +18679,7 @@ I_events_0 = [
 ],
 "place": 775,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18696,7 +18696,7 @@ I_events_0 = [
 ],
 "place": 595,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18713,7 +18713,7 @@ I_events_0 = [
 ],
 "place": 721,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18730,7 +18730,7 @@ I_events_0 = [
 ],
 "place": 630,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18749,7 +18749,7 @@ I_events_0 = [
 ],
 "place": 618,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18815,7 +18815,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18833,7 +18833,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18900,7 +18900,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18966,7 +18966,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -18983,7 +18983,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19000,7 +19000,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19017,7 +19017,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19086,7 +19086,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19156,7 +19156,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19225,7 +19225,7 @@ I_events_0 = [
 ],
 "place": 141,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19242,7 +19242,7 @@ I_events_0 = [
 ],
 "place": 141,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19348,7 +19348,7 @@ I_events_0 = [
 ],
 "place": 562,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19418,7 +19418,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19485,7 +19485,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19502,7 +19502,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -19572,7 +19572,7 @@ I_events_0 = [
 ],
 "place": 878,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19590,7 +19590,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19608,7 +19608,7 @@ I_events_0 = [
 ],
 "place": 23,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19676,7 +19676,7 @@ I_events_0 = [
 ],
 "place": 566,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19693,7 +19693,7 @@ I_events_0 = [
 ],
 "place": 632,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19710,7 +19710,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19796,7 +19796,7 @@ I_events_0 = [
 ],
 "place": 726,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19814,7 +19814,7 @@ I_events_0 = [
 ],
 "place": 726,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19832,7 +19832,7 @@ I_events_0 = [
 ],
 "place": 982,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19851,7 +19851,7 @@ I_events_0 = [
 ],
 "place": 726,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19869,7 +19869,7 @@ I_events_0 = [
 ],
 "place": 726,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19936,7 +19936,7 @@ I_events_0 = [
 ],
 "place": 285,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -19953,7 +19953,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20023,7 +20023,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20042,7 +20042,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20061,7 +20061,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20180,7 +20180,7 @@ I_events_0 = [
 ],
 "place": 549,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -20233,7 +20233,7 @@ I_events_0 = [
 ],
 "place": 374,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20252,7 +20252,7 @@ I_events_0 = [
 ],
 "place": 374,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20269,7 +20269,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20286,7 +20286,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20353,7 +20353,7 @@ I_events_0 = [
 ],
 "place": 626,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20421,7 +20421,7 @@ I_events_0 = [
 ],
 "place": 13,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20487,7 +20487,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -20538,7 +20538,7 @@ I_events_0 = [
 ],
 "place": 483,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -20589,7 +20589,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -20642,7 +20642,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20710,7 +20710,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -20760,7 +20760,7 @@ I_events_0 = [
 ],
 "place": 586,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20781,7 +20781,7 @@ I_events_0 = [
 ],
 "place": 526,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20798,7 +20798,7 @@ I_events_0 = [
 ],
 "place": 526,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20868,7 +20868,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20885,7 +20885,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20972,7 +20972,7 @@ I_events_0 = [
 ],
 "place": 23,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -20989,7 +20989,7 @@ I_events_0 = [
 ],
 "place": 1033,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21006,7 +21006,7 @@ I_events_0 = [
 ],
 "place": 575,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21023,7 +21023,7 @@ I_events_0 = [
 ],
 "place": 329,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21040,7 +21040,7 @@ I_events_0 = [
 ],
 "place": 329,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21110,7 +21110,7 @@ I_events_0 = [
 ],
 "place": 18,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21128,7 +21128,7 @@ I_events_0 = [
 ],
 "place": 18,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21194,7 +21194,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21212,7 +21212,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21263,7 +21263,7 @@ I_events_0 = [
 ],
 "place": 341,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21312,7 +21312,7 @@ I_events_0 = [
 ],
 "place": 964,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21379,7 +21379,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21396,7 +21396,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21445,7 +21445,7 @@ I_events_0 = [
 ],
 "place": 6,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21494,7 +21494,7 @@ I_events_0 = [
 ],
 "place": 610,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21546,7 +21546,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21564,7 +21564,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21583,7 +21583,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21601,7 +21601,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21699,7 +21699,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21748,7 +21748,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21765,7 +21765,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21799,7 +21799,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -21978,7 +21978,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -21995,7 +21995,7 @@ I_events_0 = [
 ],
 "place": 358,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22012,7 +22012,7 @@ I_events_0 = [
 ],
 "place": 490,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -22110,7 +22110,7 @@ I_events_0 = [
 ],
 "place": 359,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22127,7 +22127,7 @@ I_events_0 = [
 ],
 "place": 359,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -22177,7 +22177,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22194,7 +22194,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -22247,7 +22247,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22266,7 +22266,7 @@ I_events_0 = [
 ],
 "place": 873,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22332,7 +22332,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22349,7 +22349,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -22398,7 +22398,7 @@ I_events_0 = [
 ],
 "place": 813,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -22448,7 +22448,7 @@ I_events_0 = [
 ],
 "place": 154,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22502,7 +22502,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22519,7 +22519,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22539,7 +22539,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22557,7 +22557,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22629,7 +22629,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22646,7 +22646,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22714,7 +22714,7 @@ I_events_0 = [
 ],
 "place": 600,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22732,7 +22732,7 @@ I_events_0 = [
 ],
 "place": 695,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22749,7 +22749,7 @@ I_events_0 = [
 ],
 "place": 695,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22767,7 +22767,7 @@ I_events_0 = [
 ],
 "place": 47,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22836,7 +22836,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22903,7 +22903,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -22920,7 +22920,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -22987,7 +22987,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -23036,7 +23036,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23089,7 +23089,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23109,7 +23109,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23128,7 +23128,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23200,7 +23200,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23286,7 +23286,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23352,7 +23352,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23370,7 +23370,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23388,7 +23388,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23406,7 +23406,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23476,7 +23476,7 @@ I_events_0 = [
 ],
 "place": 872,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23493,7 +23493,7 @@ I_events_0 = [
 ],
 "place": 697,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23562,7 +23562,7 @@ I_events_0 = [
 ],
 "place": 848,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23579,7 +23579,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23599,7 +23599,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23670,7 +23670,7 @@ I_events_0 = [
 ],
 "place": 163,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23726,7 +23726,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23792,7 +23792,7 @@ I_events_0 = [
 ],
 "place": 213,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -23861,7 +23861,7 @@ I_events_0 = [
 ],
 "place": 91,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23878,7 +23878,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23895,7 +23895,7 @@ I_events_0 = [
 ],
 "place": 775,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23912,7 +23912,7 @@ I_events_0 = [
 ],
 "place": 595,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23929,7 +23929,7 @@ I_events_0 = [
 ],
 "place": 721,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23946,7 +23946,7 @@ I_events_0 = [
 ],
 "place": 630,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -23965,7 +23965,7 @@ I_events_0 = [
 ],
 "place": 618,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24033,7 +24033,7 @@ I_events_0 = [
 ],
 "place": 807,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24050,7 +24050,7 @@ I_events_0 = [
 ],
 "place": 807,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24068,7 +24068,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24085,7 +24085,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24104,7 +24104,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24171,7 +24171,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24192,7 +24192,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24258,7 +24258,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24309,7 +24309,7 @@ I_events_0 = [
 ],
 "place": 319,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24356,7 +24356,7 @@ I_events_0 = [
 ],
 "place": 860,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24373,7 +24373,7 @@ I_events_0 = [
 ],
 "place": 213,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24391,7 +24391,7 @@ I_events_0 = [
 ],
 "place": 451,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24442,7 +24442,7 @@ I_events_0 = [
 ],
 "place": 990,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24460,7 +24460,7 @@ I_events_0 = [
 ],
 "place": 67,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24477,7 +24477,7 @@ I_events_0 = [
 ],
 "place": 673,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24530,7 +24530,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24581,7 +24581,7 @@ I_events_0 = [
 ],
 "place": 359,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24630,7 +24630,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24648,7 +24648,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24697,7 +24697,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24716,7 +24716,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24733,7 +24733,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -24818,7 +24818,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24917,7 +24917,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -24967,7 +24967,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -25033,7 +25033,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25050,7 +25050,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -25099,7 +25099,7 @@ I_events_0 = [
 ],
 "place": 346,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25116,7 +25116,7 @@ I_events_0 = [
 ],
 "place": 346,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25169,7 +25169,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25187,7 +25187,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25204,7 +25204,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25261,7 +25261,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25327,7 +25327,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25344,7 +25344,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -25395,7 +25395,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25415,7 +25415,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25432,7 +25432,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25498,7 +25498,7 @@ I_events_0 = [
 ],
 "place": 923,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25517,7 +25517,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25536,7 +25536,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25588,7 +25588,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25608,7 +25608,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25626,7 +25626,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -25679,7 +25679,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25748,7 +25748,7 @@ I_events_0 = [
 ],
 "place": 868,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25766,7 +25766,7 @@ I_events_0 = [
 ],
 "place": 86,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25788,7 +25788,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25857,7 +25857,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25874,7 +25874,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -25972,7 +25972,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -26025,7 +26025,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26092,7 +26092,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26110,7 +26110,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26182,7 +26182,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26271,7 +26271,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26342,7 +26342,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26431,7 +26431,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26548,7 +26548,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26567,7 +26567,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26653,7 +26653,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26670,7 +26670,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26758,7 +26758,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26776,7 +26776,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26860,7 +26860,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26879,7 +26879,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26897,7 +26897,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -26970,7 +26970,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27038,7 +27038,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27056,7 +27056,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27076,7 +27076,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27165,7 +27165,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27234,7 +27234,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27251,7 +27251,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27271,7 +27271,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27288,7 +27288,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27358,7 +27358,7 @@ I_events_0 = [
 ],
 "place": 419,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27447,7 +27447,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27533,7 +27533,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27619,7 +27619,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27638,7 +27638,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27706,7 +27706,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27723,7 +27723,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27810,7 +27810,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27897,7 +27897,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27961,7 +27961,7 @@ I_events_0 = [
 ],
 "place": 913,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27978,7 +27978,7 @@ I_events_0 = [
 ],
 "place": 935,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -27996,7 +27996,7 @@ I_events_0 = [
 ],
 "place": 197,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28033,7 +28033,7 @@ I_events_0 = [
 ],
 "place": 197,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28087,7 +28087,7 @@ I_events_0 = [
 ],
 "place": 198,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28104,7 +28104,7 @@ I_events_0 = [
 ],
 "place": 270,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28121,7 +28121,7 @@ I_events_0 = [
 ],
 "place": 929,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28209,7 +28209,7 @@ I_events_0 = [
 ],
 "place": 303,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28227,7 +28227,7 @@ I_events_0 = [
 ],
 "place": 303,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28246,7 +28246,7 @@ I_events_0 = [
 ],
 "place": 303,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28263,7 +28263,7 @@ I_events_0 = [
 ],
 "place": 303,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28349,7 +28349,7 @@ I_events_0 = [
 ],
 "place": 554,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28366,7 +28366,7 @@ I_events_0 = [
 ],
 "place": 554,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28453,7 +28453,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28520,7 +28520,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28537,7 +28537,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28593,7 +28593,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28696,7 +28696,7 @@ I_events_0 = [
 ],
 "place": 23,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28782,7 +28782,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28874,7 +28874,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -28942,7 +28942,7 @@ I_events_0 = [
 ],
 "place": 25,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -28991,7 +28991,7 @@ I_events_0 = [
 ],
 "place": 928,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29008,7 +29008,7 @@ I_events_0 = [
 ],
 "place": 469,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29026,7 +29026,7 @@ I_events_0 = [
 ],
 "place": 35,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -29095,7 +29095,7 @@ I_events_0 = [
 ],
 "place": 929,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29112,7 +29112,7 @@ I_events_0 = [
 ],
 "place": 1012,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29129,7 +29129,7 @@ I_events_0 = [
 ],
 "place": 929,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29184,7 +29184,7 @@ I_events_0 = [
 ],
 "place": 191,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29219,7 +29219,7 @@ I_events_0 = [
 ],
 "place": 270,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -29270,7 +29270,7 @@ I_events_0 = [
 ],
 "place": 105,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -29337,7 +29337,7 @@ I_events_0 = [
 ],
 "place": 864,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29425,7 +29425,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29517,7 +29517,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29554,7 +29554,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29627,7 +29627,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29661,7 +29661,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29746,7 +29746,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29765,7 +29765,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29783,7 +29783,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29882,7 +29882,7 @@ I_events_0 = [
 ],
 "place": 207,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -29963,7 +29963,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29980,7 +29980,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -29997,7 +29997,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30014,7 +30014,7 @@ I_events_0 = [
 ],
 "place": 682,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30031,7 +30031,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -30097,7 +30097,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30163,7 +30163,7 @@ I_events_0 = [
 ],
 "place": 442,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30181,7 +30181,7 @@ I_events_0 = [
 ],
 "place": 977,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30251,7 +30251,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30268,7 +30268,7 @@ I_events_0 = [
 ],
 "place": 497,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30319,7 +30319,7 @@ I_events_0 = [
 ],
 "place": 439,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30336,7 +30336,7 @@ I_events_0 = [
 ],
 "place": 977,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30387,7 +30387,7 @@ I_events_0 = [
 ],
 "place": 166,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30405,7 +30405,7 @@ I_events_0 = [
 ],
 "place": 439,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30424,7 +30424,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30477,7 +30477,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30495,7 +30495,7 @@ I_events_0 = [
 ],
 "place": 166,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -30545,7 +30545,7 @@ I_events_0 = [
 ],
 "place": 166,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -30597,7 +30597,7 @@ I_events_0 = [
 ],
 "place": 443,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30615,7 +30615,7 @@ I_events_0 = [
 ],
 "place": 631,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30650,7 +30650,7 @@ I_events_0 = [
 ],
 "place": 631,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30701,7 +30701,7 @@ I_events_0 = [
 ],
 "place": 441,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30718,7 +30718,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30735,7 +30735,7 @@ I_events_0 = [
 ],
 "place": 92,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30752,7 +30752,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -30817,7 +30817,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -30881,7 +30881,7 @@ I_events_0 = [
 ],
 "place": 222,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30898,7 +30898,7 @@ I_events_0 = [
 ],
 "place": 688,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30915,7 +30915,7 @@ I_events_0 = [
 ],
 "place": 988,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30932,7 +30932,7 @@ I_events_0 = [
 ],
 "place": 990,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -30951,7 +30951,7 @@ I_events_0 = [
 ],
 "place": 892,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -31000,7 +31000,7 @@ I_events_0 = [
 ],
 "place": 68,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31017,7 +31017,7 @@ I_events_0 = [
 ],
 "place": 893,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31034,7 +31034,7 @@ I_events_0 = [
 ],
 "place": 990,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31085,7 +31085,7 @@ I_events_0 = [
 ],
 "place": 190,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31102,7 +31102,7 @@ I_events_0 = [
 ],
 "place": 962,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31120,7 +31120,7 @@ I_events_0 = [
 ],
 "place": 914,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31138,7 +31138,7 @@ I_events_0 = [
 ],
 "place": 583,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31155,7 +31155,7 @@ I_events_0 = [
 ],
 "place": 471,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31172,7 +31172,7 @@ I_events_0 = [
 ],
 "place": 263,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31224,7 +31224,7 @@ I_events_0 = [
 ],
 "place": 893,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31242,7 +31242,7 @@ I_events_0 = [
 ],
 "place": 68,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -31292,7 +31292,7 @@ I_events_0 = [
 ],
 "place": 471,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31310,7 +31310,7 @@ I_events_0 = [
 ],
 "place": 1047,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -31360,7 +31360,7 @@ I_events_0 = [
 ],
 "place": 587,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -31410,7 +31410,7 @@ I_events_0 = [
 ],
 "place": 266,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31477,7 +31477,7 @@ I_events_0 = [
 ],
 "place": 266,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31495,7 +31495,7 @@ I_events_0 = [
 ],
 "place": 42,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31546,7 +31546,7 @@ I_events_0 = [
 ],
 "place": 266,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31612,7 +31612,7 @@ I_events_0 = [
 ],
 "place": 321,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31684,7 +31684,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31701,7 +31701,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31720,7 +31720,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31738,7 +31738,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31826,7 +31826,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31845,7 +31845,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31931,7 +31931,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31949,7 +31949,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31966,7 +31966,7 @@ I_events_0 = [
 ],
 "place": 45,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -31983,7 +31983,7 @@ I_events_0 = [
 ],
 "place": 802,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32000,7 +32000,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32018,7 +32018,7 @@ I_events_0 = [
 ],
 "place": 50,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32035,7 +32035,7 @@ I_events_0 = [
 ],
 "place": 249,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32053,7 +32053,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32104,7 +32104,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32177,7 +32177,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32246,7 +32246,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32354,7 +32354,7 @@ I_events_0 = [
 ],
 "place": 828,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32514,7 +32514,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32622,7 +32622,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32727,7 +32727,7 @@ I_events_0 = [
 ],
 "place": 959,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32745,7 +32745,7 @@ I_events_0 = [
 ],
 "place": 992,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32762,7 +32762,7 @@ I_events_0 = [
 ],
 "place": 992,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32865,7 +32865,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32920,7 +32920,7 @@ I_events_0 = [
 ],
 "place": 776,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -32986,7 +32986,7 @@ I_events_0 = [
 ],
 "place": 154,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33003,7 +33003,7 @@ I_events_0 = [
 ],
 "place": 539,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33020,7 +33020,7 @@ I_events_0 = [
 ],
 "place": 673,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -33067,7 +33067,7 @@ I_events_0 = [
 ],
 "place": 69,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33084,7 +33084,7 @@ I_events_0 = [
 ],
 "place": 159,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33101,7 +33101,7 @@ I_events_0 = [
 ],
 "place": 331,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33175,7 +33175,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33192,7 +33192,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33258,7 +33258,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -33307,7 +33307,7 @@ I_events_0 = [
 ],
 "place": 409,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33341,7 +33341,7 @@ I_events_0 = [
 ],
 "place": 996,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33358,7 +33358,7 @@ I_events_0 = [
 ],
 "place": 669,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33410,7 +33410,7 @@ I_events_0 = [
 ],
 "place": 153,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -33491,7 +33491,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -33560,7 +33560,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33583,7 +33583,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33601,7 +33601,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33670,7 +33670,7 @@ I_events_0 = [
 ],
 "place": 64,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33689,7 +33689,7 @@ I_events_0 = [
 ],
 "place": 64,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33708,7 +33708,7 @@ I_events_0 = [
 ],
 "place": 64,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33806,7 +33806,7 @@ I_events_0 = [
 ],
 "place": 799,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33823,7 +33823,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33874,7 +33874,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33892,7 +33892,7 @@ I_events_0 = [
 ],
 "place": 960,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33909,7 +33909,7 @@ I_events_0 = [
 ],
 "place": 275,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33927,7 +33927,7 @@ I_events_0 = [
 ],
 "place": 1031,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -33976,7 +33976,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -33993,7 +33993,7 @@ I_events_0 = [
 ],
 "place": 667,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34011,7 +34011,7 @@ I_events_0 = [
 ],
 "place": 893,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34029,7 +34029,7 @@ I_events_0 = [
 ],
 "place": 68,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34099,7 +34099,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34199,7 +34199,7 @@ I_events_0 = [
 ],
 "place": 27,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34216,7 +34216,7 @@ I_events_0 = [
 ],
 "place": 377,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34334,7 +34334,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34352,7 +34352,7 @@ I_events_0 = [
 ],
 "place": 900,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34369,7 +34369,7 @@ I_events_0 = [
 ],
 "place": 833,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34455,7 +34455,7 @@ I_events_0 = [
 ],
 "place": 27,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34531,7 +34531,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34548,7 +34548,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34634,7 +34634,7 @@ I_events_0 = [
 ],
 "place": 601,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34651,7 +34651,7 @@ I_events_0 = [
 ],
 "place": 943,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34672,7 +34672,7 @@ I_events_0 = [
 ],
 "place": 194,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34689,7 +34689,7 @@ I_events_0 = [
 ],
 "place": 601,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34807,7 +34807,7 @@ I_events_0 = [
 ],
 "place": 658,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34825,7 +34825,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34907,7 +34907,7 @@ I_events_0 = [
 ],
 "place": 813,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -34926,7 +34926,7 @@ I_events_0 = [
 ],
 "place": 813,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -34973,7 +34973,7 @@ I_events_0 = [
 ],
 "place": 437,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -34988,7 +34988,7 @@ I_events_0 = [
 ],
 "place": 212,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -35003,7 +35003,7 @@ I_events_0 = [
 ],
 "place": 986,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -35069,7 +35069,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35086,7 +35086,7 @@ I_events_0 = [
 ],
 "place": 212,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -35201,7 +35201,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -35253,7 +35253,7 @@ I_events_0 = [
 ],
 "place": 154,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35325,7 +35325,7 @@ I_events_0 = [
 ],
 "place": 474,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35427,7 +35427,7 @@ I_events_0 = [
 ],
 "place": 48,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35444,7 +35444,7 @@ I_events_0 = [
 ],
 "place": 907,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35461,7 +35461,7 @@ I_events_0 = [
 ],
 "place": 942,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35478,7 +35478,7 @@ I_events_0 = [
 ],
 "place": 279,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35495,7 +35495,7 @@ I_events_0 = [
 ],
 "place": 920,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35513,7 +35513,7 @@ I_events_0 = [
 ],
 "place": 341,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35530,7 +35530,7 @@ I_events_0 = [
 ],
 "place": 563,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35547,7 +35547,7 @@ I_events_0 = [
 ],
 "place": 341,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35564,7 +35564,7 @@ I_events_0 = [
 ],
 "place": 1033,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35581,7 +35581,7 @@ I_events_0 = [
 ],
 "place": 1021,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35599,7 +35599,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35617,7 +35617,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35634,7 +35634,7 @@ I_events_0 = [
 ],
 "place": 326,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35651,7 +35651,7 @@ I_events_0 = [
 ],
 "place": 208,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35668,7 +35668,7 @@ I_events_0 = [
 ],
 "place": 1021,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35685,7 +35685,7 @@ I_events_0 = [
 ],
 "place": 559,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35702,7 +35702,7 @@ I_events_0 = [
 ],
 "place": 774,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35719,7 +35719,7 @@ I_events_0 = [
 ],
 "place": 167,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35736,7 +35736,7 @@ I_events_0 = [
 ],
 "place": 547,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35754,7 +35754,7 @@ I_events_0 = [
 ],
 "place": 939,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35772,7 +35772,7 @@ I_events_0 = [
 ],
 "place": 939,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35789,7 +35789,7 @@ I_events_0 = [
 ],
 "place": 571,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35806,7 +35806,7 @@ I_events_0 = [
 ],
 "place": 704,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35823,7 +35823,7 @@ I_events_0 = [
 ],
 "place": 202,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35874,7 +35874,7 @@ I_events_0 = [
 ],
 "place": 154,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -35925,7 +35925,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -36041,7 +36041,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36109,7 +36109,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36177,7 +36177,7 @@ I_events_0 = [
 ],
 "place": 293,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36194,7 +36194,7 @@ I_events_0 = [
 ],
 "place": 293,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36211,7 +36211,7 @@ I_events_0 = [
 ],
 "place": 293,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36349,7 +36349,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36420,7 +36420,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36507,7 +36507,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36524,7 +36524,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36595,7 +36595,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36664,7 +36664,7 @@ I_events_0 = [
 ],
 "place": 76,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36736,7 +36736,7 @@ I_events_0 = [
 ],
 "place": 78,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -36825,7 +36825,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36895,7 +36895,7 @@ I_events_0 = [
 ],
 "place": 78,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -36986,7 +36986,7 @@ I_events_0 = [
 ],
 "place": 680,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37042,7 +37042,7 @@ I_events_0 = [
 ],
 "place": 680,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37130,7 +37130,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37150,7 +37150,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37217,7 +37217,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37235,7 +37235,7 @@ I_events_0 = [
 ],
 "place": 541,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37282,7 +37282,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37354,7 +37354,7 @@ I_events_0 = [
 ],
 "place": 905,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37389,7 +37389,7 @@ I_events_0 = [
 ],
 "place": 905,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37475,7 +37475,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37494,7 +37494,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37563,7 +37563,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37613,7 +37613,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37630,7 +37630,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37681,7 +37681,7 @@ I_events_0 = [
 ],
 "place": 82,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37730,7 +37730,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37779,7 +37779,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37796,7 +37796,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -37881,7 +37881,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -37949,7 +37949,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38016,7 +38016,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38071,7 +38071,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38138,7 +38138,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38208,7 +38208,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38225,7 +38225,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38293,7 +38293,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38359,7 +38359,7 @@ I_events_0 = [
 ],
 "place": 25,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38377,7 +38377,7 @@ I_events_0 = [
 ],
 "place": 94,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38430,7 +38430,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38483,7 +38483,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38554,7 +38554,7 @@ I_events_0 = [
 ],
 "place": 96,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38620,7 +38620,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38671,7 +38671,7 @@ I_events_0 = [
 ],
 "place": 96,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -38742,7 +38742,7 @@ I_events_0 = [
 ],
 "place": 828,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38810,7 +38810,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38913,7 +38913,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -38980,7 +38980,7 @@ I_events_0 = [
 ],
 "place": 259,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39002,7 +39002,7 @@ I_events_0 = [
 ],
 "place": 100,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39021,7 +39021,7 @@ I_events_0 = [
 ],
 "place": 271,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -39072,7 +39072,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39124,7 +39124,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -39177,7 +39177,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -39229,7 +39229,7 @@ I_events_0 = [
 ],
 "place": 141,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39296,7 +39296,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -39347,7 +39347,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39521,7 +39521,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39591,7 +39591,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39609,7 +39609,7 @@ I_events_0 = [
 ],
 "place": 210,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39678,7 +39678,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -39795,7 +39795,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39812,7 +39812,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39880,7 +39880,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -39898,7 +39898,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40004,7 +40004,7 @@ I_events_0 = [
 ],
 "place": 328,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40107,7 +40107,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40178,7 +40178,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40263,7 +40263,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40383,7 +40383,7 @@ I_events_0 = [
 ],
 "place": 343,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40418,7 +40418,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40437,7 +40437,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40524,7 +40524,7 @@ I_events_0 = [
 ],
 "place": 1041,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40541,7 +40541,7 @@ I_events_0 = [
 ],
 "place": 160,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40558,7 +40558,7 @@ I_events_0 = [
 ],
 "place": 970,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40575,7 +40575,7 @@ I_events_0 = [
 ],
 "place": 355,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40592,7 +40592,7 @@ I_events_0 = [
 ],
 "place": 1010,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40609,7 +40609,7 @@ I_events_0 = [
 ],
 "place": 160,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40661,7 +40661,7 @@ I_events_0 = [
 ],
 "place": 616,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40679,7 +40679,7 @@ I_events_0 = [
 ],
 "place": 616,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40731,7 +40731,7 @@ I_events_0 = [
 ],
 "place": 805,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40748,7 +40748,7 @@ I_events_0 = [
 ],
 "place": 185,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40782,7 +40782,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40799,7 +40799,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40886,7 +40886,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40904,7 +40904,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -40973,7 +40973,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -41045,7 +41045,7 @@ I_events_0 = [
 ],
 "place": 514,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41063,7 +41063,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41130,7 +41130,7 @@ I_events_0 = [
 ],
 "place": 424,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -41181,7 +41181,7 @@ I_events_0 = [
 ],
 "place": 514,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -41270,7 +41270,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41339,7 +41339,7 @@ I_events_0 = [
 ],
 "place": 514,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41444,7 +41444,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41497,7 +41497,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -41546,7 +41546,7 @@ I_events_0 = [
 ],
 "place": 103,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41563,7 +41563,7 @@ I_events_0 = [
 ],
 "place": 55,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41581,7 +41581,7 @@ I_events_0 = [
 ],
 "place": 103,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41635,7 +41635,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41652,7 +41652,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41740,7 +41740,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41895,7 +41895,7 @@ I_events_0 = [
 ],
 "place": 484,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -41998,7 +41998,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42108,7 +42108,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42196,7 +42196,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42306,7 +42306,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42374,7 +42374,7 @@ I_events_0 = [
 ],
 "place": 484,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42497,7 +42497,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42586,7 +42586,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42655,7 +42655,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42672,7 +42672,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42694,7 +42694,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42803,7 +42803,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42821,7 +42821,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42841,7 +42841,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42876,7 +42876,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42893,7 +42893,7 @@ I_events_0 = [
 ],
 "place": 247,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42963,7 +42963,7 @@ I_events_0 = [
 ],
 "place": 459,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -42980,7 +42980,7 @@ I_events_0 = [
 ],
 "place": 823,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -43068,7 +43068,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43208,7 +43208,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43297,7 +43297,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43399,7 +43399,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43416,7 +43416,7 @@ I_events_0 = [
 ],
 "place": 848,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43468,7 +43468,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43485,7 +43485,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -43535,7 +43535,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -43586,7 +43586,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -43638,7 +43638,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43658,7 +43658,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43675,7 +43675,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43694,7 +43694,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43763,7 +43763,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -43836,7 +43836,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43853,7 +43853,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43956,7 +43956,7 @@ I_events_0 = [
 ],
 "place": 631,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -43979,7 +43979,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44065,7 +44065,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44082,7 +44082,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44240,7 +44240,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44347,7 +44347,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44433,7 +44433,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44451,7 +44451,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44557,7 +44557,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44659,7 +44659,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44731,7 +44731,7 @@ I_events_0 = [
 ],
 "place": 350,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44748,7 +44748,7 @@ I_events_0 = [
 ],
 "place": 9,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44767,7 +44767,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44870,7 +44870,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44955,7 +44955,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -44975,7 +44975,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45043,7 +45043,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45113,7 +45113,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45180,7 +45180,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45236,7 +45236,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45254,7 +45254,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45338,7 +45338,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45355,7 +45355,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45429,7 +45429,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45451,7 +45451,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45468,7 +45468,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45535,7 +45535,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45611,7 +45611,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45630,7 +45630,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45696,7 +45696,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45746,7 +45746,7 @@ I_events_0 = [
 ],
 "place": 162,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45795,7 +45795,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45812,7 +45812,7 @@ I_events_0 = [
 ],
 "place": 6,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45829,7 +45829,7 @@ I_events_0 = [
 ],
 "place": 6,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45846,7 +45846,7 @@ I_events_0 = [
 ],
 "place": 6,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -45863,7 +45863,7 @@ I_events_0 = [
 ],
 "place": 6,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -45935,7 +45935,7 @@ I_events_0 = [
 ],
 "place": 163,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46018,7 +46018,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -46069,7 +46069,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -46120,7 +46120,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46141,7 +46141,7 @@ I_events_0 = [
 ],
 "place": 874,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46229,7 +46229,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46246,7 +46246,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46263,7 +46263,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46316,7 +46316,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -46407,7 +46407,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46424,7 +46424,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46441,7 +46441,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46528,7 +46528,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46545,7 +46545,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46637,7 +46637,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46654,7 +46654,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46727,7 +46727,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46846,7 +46846,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46864,7 +46864,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46881,7 +46881,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46968,7 +46968,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -46985,7 +46985,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47051,7 +47051,7 @@ I_events_0 = [
 ],
 "place": 895,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47102,7 +47102,7 @@ I_events_0 = [
 ],
 "place": 225,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47136,7 +47136,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47186,7 +47186,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47203,7 +47203,7 @@ I_events_0 = [
 ],
 "place": 895,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47285,7 +47285,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47334,7 +47334,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47384,7 +47384,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47434,7 +47434,7 @@ I_events_0 = [
 ],
 "place": 173,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -47486,7 +47486,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47503,7 +47503,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47520,7 +47520,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47589,7 +47589,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47662,7 +47662,7 @@ I_events_0 = [
 ],
 "place": 44,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47752,7 +47752,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47842,7 +47842,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47926,7 +47926,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -47993,7 +47993,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -48045,7 +48045,7 @@ I_events_0 = [
 ],
 "place": 285,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48112,7 +48112,7 @@ I_events_0 = [
 ],
 "place": 620,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48131,7 +48131,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48148,7 +48148,7 @@ I_events_0 = [
 ],
 "place": 957,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48167,7 +48167,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -48237,7 +48237,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48322,7 +48322,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48391,7 +48391,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48409,7 +48409,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48475,7 +48475,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -48526,7 +48526,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -48594,7 +48594,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48681,7 +48681,7 @@ I_events_0 = [
 ],
 "place": 464,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48769,7 +48769,7 @@ I_events_0 = [
 ],
 "place": 680,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48786,7 +48786,7 @@ I_events_0 = [
 ],
 "place": 680,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48854,7 +48854,7 @@ I_events_0 = [
 ],
 "place": 483,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -48925,7 +48925,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -48943,7 +48943,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49012,7 +49012,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49029,7 +49029,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49048,7 +49048,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49137,7 +49137,7 @@ I_events_0 = [
 ],
 "place": 419,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49206,7 +49206,7 @@ I_events_0 = [
 ],
 "place": 264,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49223,7 +49223,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49328,7 +49328,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49394,7 +49394,7 @@ I_events_0 = [
 ],
 "place": 1045,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49494,7 +49494,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49562,7 +49562,7 @@ I_events_0 = [
 ],
 "place": 968,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49680,7 +49680,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49750,7 +49750,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49768,7 +49768,7 @@ I_events_0 = [
 ],
 "place": 9,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49785,7 +49785,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -49853,7 +49853,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -49922,7 +49922,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50060,7 +50060,7 @@ I_events_0 = [
 ],
 "place": 163,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50077,7 +50077,7 @@ I_events_0 = [
 ],
 "place": 163,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -50127,7 +50127,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50144,7 +50144,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50196,7 +50196,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -50247,7 +50247,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50316,7 +50316,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50333,7 +50333,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50351,7 +50351,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50438,7 +50438,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50509,7 +50509,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50662,7 +50662,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50747,7 +50747,7 @@ I_events_0 = [
 ],
 "place": 626,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50765,7 +50765,7 @@ I_events_0 = [
 ],
 "place": 626,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50784,7 +50784,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50871,7 +50871,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50940,7 +50940,7 @@ I_events_0 = [
 ],
 "place": 175,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50957,7 +50957,7 @@ I_events_0 = [
 ],
 "place": 175,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -50974,7 +50974,7 @@ I_events_0 = [
 ],
 "place": 175,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51062,7 +51062,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51079,7 +51079,7 @@ I_events_0 = [
 ],
 "place": 577,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51096,7 +51096,7 @@ I_events_0 = [
 ],
 "place": 399,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51114,7 +51114,7 @@ I_events_0 = [
 ],
 "place": 401,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51131,7 +51131,7 @@ I_events_0 = [
 ],
 "place": 898,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51149,7 +51149,7 @@ I_events_0 = [
 ],
 "place": 401,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51220,7 +51220,7 @@ I_events_0 = [
 ],
 "place": 467,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51238,7 +51238,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51256,7 +51256,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51274,7 +51274,7 @@ I_events_0 = [
 ],
 "place": 349,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51381,7 +51381,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51435,7 +51435,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51452,7 +51452,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51522,7 +51522,7 @@ I_events_0 = [
 ],
 "place": 401,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51539,7 +51539,7 @@ I_events_0 = [
 ],
 "place": 535,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51557,7 +51557,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51574,7 +51574,7 @@ I_events_0 = [
 ],
 "place": 349,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51592,7 +51592,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51662,7 +51662,7 @@ I_events_0 = [
 ],
 "place": 86,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51685,7 +51685,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51753,7 +51753,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51772,7 +51772,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51856,7 +51856,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -51957,7 +51957,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52076,7 +52076,7 @@ I_events_0 = [
 ],
 "place": 36,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52228,7 +52228,7 @@ I_events_0 = [
 ],
 "place": 1054,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -52298,7 +52298,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52387,7 +52387,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52459,7 +52459,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52617,7 +52617,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52706,7 +52706,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52773,7 +52773,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -52859,7 +52859,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52933,7 +52933,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -52999,7 +52999,7 @@ I_events_0 = [
 ],
 "place": 1045,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -53069,7 +53069,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53137,7 +53137,7 @@ I_events_0 = [
 ],
 "place": 350,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -53211,7 +53211,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53301,7 +53301,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53371,7 +53371,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53389,7 +53389,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53476,7 +53476,7 @@ I_events_0 = [
 ],
 "place": 350,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53493,7 +53493,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -53546,7 +53546,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53565,7 +53565,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53633,7 +53633,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53650,7 +53650,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53716,7 +53716,7 @@ I_events_0 = [
 ],
 "place": 154,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53805,7 +53805,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53873,7 +53873,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53892,7 +53892,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -53993,7 +53993,7 @@ I_events_0 = [
 ],
 "place": 975,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54095,7 +54095,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54184,7 +54184,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54201,7 +54201,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54270,7 +54270,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54357,7 +54357,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54446,7 +54446,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54463,7 +54463,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -54551,7 +54551,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54638,7 +54638,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54727,7 +54727,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54806,7 +54806,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54913,7 +54913,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -54930,7 +54930,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55033,7 +55033,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55106,7 +55106,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55194,7 +55194,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55261,7 +55261,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -55312,7 +55312,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -55364,7 +55364,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55435,7 +55435,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55507,7 +55507,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55593,7 +55593,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55612,7 +55612,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55629,7 +55629,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55730,7 +55730,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55817,7 +55817,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55835,7 +55835,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55906,7 +55906,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -55974,7 +55974,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56061,7 +56061,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -56121,7 +56121,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56195,7 +56195,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56262,7 +56262,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56280,7 +56280,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56297,7 +56297,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56384,7 +56384,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56455,7 +56455,7 @@ I_events_0 = [
 ],
 "place": 526,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56523,7 +56523,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -56572,7 +56572,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -56639,7 +56639,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56656,7 +56656,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56673,7 +56673,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56743,7 +56743,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56761,7 +56761,7 @@ I_events_0 = [
 ],
 "place": 209,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -56832,7 +56832,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56921,7 +56921,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56941,7 +56941,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56960,7 +56960,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56977,7 +56977,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -56994,7 +56994,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57012,7 +57012,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57081,7 +57081,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57098,7 +57098,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57190,7 +57190,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57280,7 +57280,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57298,7 +57298,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57389,7 +57389,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57406,7 +57406,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57499,7 +57499,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57516,7 +57516,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57626,7 +57626,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57731,7 +57731,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57748,7 +57748,7 @@ I_events_0 = [
 ],
 "place": 45,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57765,7 +57765,7 @@ I_events_0 = [
 ],
 "place": 802,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57782,7 +57782,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -57866,7 +57866,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -57935,7 +57935,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58041,7 +58041,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58058,7 +58058,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58076,7 +58076,7 @@ I_events_0 = [
 ],
 "place": 751,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58145,7 +58145,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58162,7 +58162,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58179,7 +58179,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58247,7 +58247,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58264,7 +58264,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58383,7 +58383,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58470,7 +58470,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58560,7 +58560,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58577,7 +58577,7 @@ I_events_0 = [
 ],
 "place": 326,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58594,7 +58594,7 @@ I_events_0 = [
 ],
 "place": 208,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58611,7 +58611,7 @@ I_events_0 = [
 ],
 "place": 1021,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58628,7 +58628,7 @@ I_events_0 = [
 ],
 "place": 559,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58645,7 +58645,7 @@ I_events_0 = [
 ],
 "place": 774,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58662,7 +58662,7 @@ I_events_0 = [
 ],
 "place": 167,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58679,7 +58679,7 @@ I_events_0 = [
 ],
 "place": 547,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58697,7 +58697,7 @@ I_events_0 = [
 ],
 "place": 939,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58802,7 +58802,7 @@ I_events_0 = [
 ],
 "place": 486,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58819,7 +58819,7 @@ I_events_0 = [
 ],
 "place": 20,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58836,7 +58836,7 @@ I_events_0 = [
 ],
 "place": 152,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58853,7 +58853,7 @@ I_events_0 = [
 ],
 "place": 142,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58870,7 +58870,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58887,7 +58887,7 @@ I_events_0 = [
 ],
 "place": 145,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58904,7 +58904,7 @@ I_events_0 = [
 ],
 "place": 731,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58921,7 +58921,7 @@ I_events_0 = [
 ],
 "place": 571,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58938,7 +58938,7 @@ I_events_0 = [
 ],
 "place": 704,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58955,7 +58955,7 @@ I_events_0 = [
 ],
 "place": 202,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58972,7 +58972,7 @@ I_events_0 = [
 ],
 "place": 145,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -58989,7 +58989,7 @@ I_events_0 = [
 ],
 "place": 202,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59007,7 +59007,7 @@ I_events_0 = [
 ],
 "place": 301,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59025,7 +59025,7 @@ I_events_0 = [
 ],
 "place": 742,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59042,7 +59042,7 @@ I_events_0 = [
 ],
 "place": 4,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59095,7 +59095,7 @@ I_events_0 = [
 ],
 "place": 762,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59149,7 +59149,7 @@ I_events_0 = [
 ],
 "place": 698,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59166,7 +59166,7 @@ I_events_0 = [
 ],
 "place": 1039,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59183,7 +59183,7 @@ I_events_0 = [
 ],
 "place": 593,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59234,7 +59234,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59306,7 +59306,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59377,7 +59377,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59446,7 +59446,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59464,7 +59464,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59564,7 +59564,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59631,7 +59631,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -59682,7 +59682,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -59735,7 +59735,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59823,7 +59823,7 @@ I_events_0 = [
 ],
 "place": 905,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59842,7 +59842,7 @@ I_events_0 = [
 ],
 "place": 905,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -59909,7 +59909,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -59958,7 +59958,7 @@ I_events_0 = [
 ],
 "place": 230,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -60027,7 +60027,7 @@ I_events_0 = [
 ],
 "place": 741,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60044,7 +60044,7 @@ I_events_0 = [
 ],
 "place": 902,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60112,7 +60112,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60198,7 +60198,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60266,7 +60266,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60285,7 +60285,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60373,7 +60373,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60390,7 +60390,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60492,7 +60492,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -60544,7 +60544,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60585,7 +60585,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60655,7 +60655,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60761,7 +60761,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60778,7 +60778,7 @@ I_events_0 = [
 ],
 "place": 741,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60865,7 +60865,7 @@ I_events_0 = [
 ],
 "place": 840,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -60987,7 +60987,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61038,7 +61038,7 @@ I_events_0 = [
 ],
 "place": 741,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61055,7 +61055,7 @@ I_events_0 = [
 ],
 "place": 902,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61159,7 +61159,7 @@ I_events_0 = [
 ],
 "place": 825,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61248,7 +61248,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61339,7 +61339,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61447,7 +61447,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61464,7 +61464,7 @@ I_events_0 = [
 ],
 "place": 741,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61482,7 +61482,7 @@ I_events_0 = [
 ],
 "place": 902,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61569,7 +61569,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61660,7 +61660,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61733,7 +61733,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61826,7 +61826,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -61914,7 +61914,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62003,7 +62003,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62021,7 +62021,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62108,7 +62108,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62193,7 +62193,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62210,7 +62210,7 @@ I_events_0 = [
 ],
 "place": 938,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62347,7 +62347,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62381,7 +62381,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62415,7 +62415,7 @@ I_events_0 = [
 ],
 "place": 247,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62432,7 +62432,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62449,7 +62449,7 @@ I_events_0 = [
 ],
 "place": 927,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62467,7 +62467,7 @@ I_events_0 = [
 ],
 "place": 484,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62484,7 +62484,7 @@ I_events_0 = [
 ],
 "place": 389,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62501,7 +62501,7 @@ I_events_0 = [
 ],
 "place": 66,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62518,7 +62518,7 @@ I_events_0 = [
 ],
 "place": 224,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62634,7 +62634,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62702,7 +62702,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62727,7 +62727,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62744,7 +62744,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62837,7 +62837,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62856,7 +62856,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62945,7 +62945,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -62996,7 +62996,7 @@ I_events_0 = [
 ],
 "place": 292,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63014,7 +63014,7 @@ I_events_0 = [
 ],
 "place": 145,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63031,7 +63031,7 @@ I_events_0 = [
 ],
 "place": 202,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63049,7 +63049,7 @@ I_events_0 = [
 ],
 "place": 301,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63067,7 +63067,7 @@ I_events_0 = [
 ],
 "place": 742,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63084,7 +63084,7 @@ I_events_0 = [
 ],
 "place": 4,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63137,7 +63137,7 @@ I_events_0 = [
 ],
 "place": 762,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63191,7 +63191,7 @@ I_events_0 = [
 ],
 "place": 698,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63208,7 +63208,7 @@ I_events_0 = [
 ],
 "place": 1039,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63225,7 +63225,7 @@ I_events_0 = [
 ],
 "place": 593,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63276,7 +63276,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63386,7 +63386,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63439,7 +63439,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63456,7 +63456,7 @@ I_events_0 = [
 ],
 "place": 793,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63508,7 +63508,7 @@ I_events_0 = [
 ],
 "place": 742,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63577,7 +63577,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63594,7 +63594,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63663,7 +63663,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63764,7 +63764,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63851,7 +63851,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63868,7 +63868,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63951,7 +63951,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63969,7 +63969,7 @@ I_events_0 = [
 ],
 "place": 576,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -63987,7 +63987,7 @@ I_events_0 = [
 ],
 "place": 576,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64076,7 +64076,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64161,7 +64161,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64178,7 +64178,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64195,7 +64195,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64265,7 +64265,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64282,7 +64282,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64388,7 +64388,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64476,7 +64476,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64547,7 +64547,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64698,7 +64698,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -64767,7 +64767,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64837,7 +64837,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -64911,7 +64911,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65017,7 +65017,7 @@ I_events_0 = [
 ],
 "place": 383,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65086,7 +65086,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65162,7 +65162,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65230,7 +65230,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65249,7 +65249,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65317,7 +65317,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65335,7 +65335,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65355,7 +65355,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65424,7 +65424,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65490,7 +65490,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -65561,7 +65561,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65578,7 +65578,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65665,7 +65665,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65683,7 +65683,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65752,7 +65752,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65821,7 +65821,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -65836,7 +65836,7 @@ I_events_0 = [
 ],
 "place": 75,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65853,7 +65853,7 @@ I_events_0 = [
 ],
 "place": 75,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -65973,7 +65973,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66094,7 +66094,7 @@ I_events_0 = [
 ],
 "place": 383,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66215,7 +66215,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66316,7 +66316,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66333,7 +66333,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66351,7 +66351,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66439,7 +66439,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66507,7 +66507,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66524,7 +66524,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66595,7 +66595,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66680,7 +66680,7 @@ I_events_0 = [
 ],
 "place": 502,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66698,7 +66698,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66775,7 +66775,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66863,7 +66863,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -66936,7 +66936,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -66987,7 +66987,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -67040,7 +67040,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67110,7 +67110,7 @@ I_events_0 = [
 ],
 "place": 363,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67127,7 +67127,7 @@ I_events_0 = [
 ],
 "place": 328,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67144,7 +67144,7 @@ I_events_0 = [
 ],
 "place": 328,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67230,7 +67230,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67250,7 +67250,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67268,7 +67268,7 @@ I_events_0 = [
 ],
 "place": 254,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67360,7 +67360,7 @@ I_events_0 = [
 ],
 "place": 254,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67377,7 +67377,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67463,7 +67463,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67483,7 +67483,7 @@ I_events_0 = [
 ],
 "place": 254,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67501,7 +67501,7 @@ I_events_0 = [
 ],
 "place": 254,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67588,7 +67588,7 @@ I_events_0 = [
 ],
 "place": 865,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67605,7 +67605,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67623,7 +67623,7 @@ I_events_0 = [
 ],
 "place": 49,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67640,7 +67640,7 @@ I_events_0 = [
 ],
 "place": 49,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67710,7 +67710,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67727,7 +67727,7 @@ I_events_0 = [
 ],
 "place": 264,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67797,7 +67797,7 @@ I_events_0 = [
 ],
 "place": 707,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67869,7 +67869,7 @@ I_events_0 = [
 ],
 "place": 549,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -67920,7 +67920,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -67988,7 +67988,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68072,7 +68072,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -68139,7 +68139,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -68189,7 +68189,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -68262,7 +68262,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68279,7 +68279,7 @@ I_events_0 = [
 ],
 "place": 250,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -68349,7 +68349,7 @@ I_events_0 = [
 ],
 "place": 265,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68514,7 +68514,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68582,7 +68582,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68599,7 +68599,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68669,7 +68669,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68686,7 +68686,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68703,7 +68703,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68773,7 +68773,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68844,7 +68844,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -68948,7 +68948,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69063,7 +69063,7 @@ I_events_0 = [
 ],
 "place": 267,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69131,7 +69131,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69219,7 +69219,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69237,7 +69237,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69254,7 +69254,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69273,7 +69273,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69291,7 +69291,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69309,7 +69309,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69327,7 +69327,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69416,7 +69416,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69486,7 +69486,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69503,7 +69503,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69597,7 +69597,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69668,7 +69668,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69686,7 +69686,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -69741,7 +69741,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69759,7 +69759,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69782,7 +69782,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69870,7 +69870,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69887,7 +69887,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69905,7 +69905,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69922,7 +69922,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69939,7 +69939,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69957,7 +69957,7 @@ I_events_0 = [
 ],
 "place": 751,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -69975,7 +69975,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70045,7 +70045,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70063,7 +70063,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70085,7 +70085,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70152,7 +70152,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -70202,7 +70202,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -70253,7 +70253,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70321,7 +70321,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70355,7 +70355,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -70405,7 +70405,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -70454,7 +70454,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70471,7 +70471,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70540,7 +70540,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70557,7 +70557,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70574,7 +70574,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70674,7 +70674,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70693,7 +70693,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70711,7 +70711,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70799,7 +70799,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70870,7 +70870,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70888,7 +70888,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -70959,7 +70959,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71030,7 +71030,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71048,7 +71048,7 @@ I_events_0 = [
 ],
 "place": 540,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71065,7 +71065,7 @@ I_events_0 = [
 ],
 "place": 540,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71083,7 +71083,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71101,7 +71101,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71207,7 +71207,7 @@ I_events_0 = [
 ],
 "place": 707,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71279,7 +71279,7 @@ I_events_0 = [
 ],
 "place": 400,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71348,7 +71348,7 @@ I_events_0 = [
 ],
 "place": 149,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -71415,7 +71415,7 @@ I_events_0 = [
 ],
 "place": 290,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71432,7 +71432,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71486,7 +71486,7 @@ I_events_0 = [
 ],
 "place": 290,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -71536,7 +71536,7 @@ I_events_0 = [
 ],
 "place": 290,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -71587,7 +71587,7 @@ I_events_0 = [
 ],
 "place": 290,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -71673,7 +71673,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71690,7 +71690,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -71742,7 +71742,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71830,7 +71830,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71847,7 +71847,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71864,7 +71864,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71881,7 +71881,7 @@ I_events_0 = [
 ],
 "place": 832,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71900,7 +71900,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71971,7 +71971,7 @@ I_events_0 = [
 ],
 "place": 346,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -71989,7 +71989,7 @@ I_events_0 = [
 ],
 "place": 639,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72008,7 +72008,7 @@ I_events_0 = [
 ],
 "place": 297,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72025,7 +72025,7 @@ I_events_0 = [
 ],
 "place": 298,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72113,7 +72113,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72203,7 +72203,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72291,7 +72291,7 @@ I_events_0 = [
 ],
 "place": 303,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72360,7 +72360,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72431,7 +72431,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72448,7 +72448,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72533,7 +72533,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72586,7 +72586,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -72670,7 +72670,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72740,7 +72740,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -72791,7 +72791,7 @@ I_events_0 = [
 ],
 "place": 1011,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72876,7 +72876,7 @@ I_events_0 = [
 ],
 "place": 968,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -72962,7 +72962,7 @@ I_events_0 = [
 ],
 "place": 424,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73030,7 +73030,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73048,7 +73048,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73136,7 +73136,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73153,7 +73153,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73170,7 +73170,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73238,7 +73238,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73327,7 +73327,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73428,7 +73428,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73450,7 +73450,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73552,7 +73552,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73620,7 +73620,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73688,7 +73688,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73705,7 +73705,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73776,7 +73776,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73845,7 +73845,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73930,7 +73930,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73949,7 +73949,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -73966,7 +73966,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74033,7 +74033,7 @@ I_events_0 = [
 ],
 "place": 585,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -74083,7 +74083,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74100,7 +74100,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74118,7 +74118,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74169,7 +74169,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74187,7 +74187,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74204,7 +74204,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -74254,7 +74254,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -74325,7 +74325,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74345,7 +74345,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74363,7 +74363,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74431,7 +74431,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74448,7 +74448,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74514,7 +74514,7 @@ I_events_0 = [
 ],
 "place": 335,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -74564,7 +74564,7 @@ I_events_0 = [
 ],
 "place": 335,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -74638,7 +74638,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74723,7 +74723,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74740,7 +74740,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74763,7 +74763,7 @@ I_events_0 = [
 ],
 "place": 339,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74846,7 +74846,7 @@ I_events_0 = [
 ],
 "place": 342,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -74897,7 +74897,7 @@ I_events_0 = [
 ],
 "place": 592,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -74915,7 +74915,7 @@ I_events_0 = [
 ],
 "place": 428,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75000,7 +75000,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75066,7 +75066,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75226,7 +75226,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75245,7 +75245,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75262,7 +75262,7 @@ I_events_0 = [
 ],
 "place": 192,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75351,7 +75351,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75369,7 +75369,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75386,7 +75386,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75403,7 +75403,7 @@ I_events_0 = [
 ],
 "place": 780,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75420,7 +75420,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75454,7 +75454,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75471,7 +75471,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75505,7 +75505,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75522,7 +75522,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75612,7 +75612,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75629,7 +75629,7 @@ I_events_0 = [
 ],
 "place": 780,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75717,7 +75717,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75785,7 +75785,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75802,7 +75802,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75904,7 +75904,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75921,7 +75921,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -75939,7 +75939,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76028,7 +76028,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76097,7 +76097,7 @@ I_events_0 = [
 ],
 "place": 277,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -76149,7 +76149,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76167,7 +76167,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76254,7 +76254,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76342,7 +76342,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76359,7 +76359,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76376,7 +76376,7 @@ I_events_0 = [
 ],
 "place": 237,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76395,7 +76395,7 @@ I_events_0 = [
 ],
 "place": 858,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76461,7 +76461,7 @@ I_events_0 = [
 ],
 "place": 359,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76527,7 +76527,7 @@ I_events_0 = [
 ],
 "place": 359,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76580,7 +76580,7 @@ I_events_0 = [
 ],
 "place": 267,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76646,7 +76646,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76665,7 +76665,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76737,7 +76737,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76805,7 +76805,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76822,7 +76822,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76924,7 +76924,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -76992,7 +76992,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77064,7 +77064,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77083,7 +77083,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77189,7 +77189,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77206,7 +77206,7 @@ I_events_0 = [
 ],
 "place": 779,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77272,7 +77272,7 @@ I_events_0 = [
 ],
 "place": 442,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77290,7 +77290,7 @@ I_events_0 = [
 ],
 "place": 977,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -77389,7 +77389,7 @@ I_events_0 = [
 ],
 "place": 350,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -77439,7 +77439,7 @@ I_events_0 = [
 ],
 "place": 420,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -77490,7 +77490,7 @@ I_events_0 = [
 ],
 "place": 744,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -77563,7 +77563,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77636,7 +77636,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77723,7 +77723,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77794,7 +77794,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77812,7 +77812,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77880,7 +77880,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77948,7 +77948,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -77965,7 +77965,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78053,7 +78053,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78127,7 +78127,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78181,7 +78181,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78204,7 +78204,7 @@ I_events_0 = [
 ],
 "place": 419,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78293,7 +78293,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78384,7 +78384,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78472,7 +78472,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78570,7 +78570,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -78658,7 +78658,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78746,7 +78746,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78764,7 +78764,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78832,7 +78832,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78849,7 +78849,7 @@ I_events_0 = [
 ],
 "place": 744,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78917,7 +78917,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -78939,7 +78939,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79005,7 +79005,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79056,7 +79056,7 @@ I_events_0 = [
 ],
 "place": 966,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79105,7 +79105,7 @@ I_events_0 = [
 ],
 "place": 314,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79155,7 +79155,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79175,7 +79175,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79192,7 +79192,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79242,7 +79242,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79261,7 +79261,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79313,7 +79313,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79333,7 +79333,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79387,7 +79387,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79454,7 +79454,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79472,7 +79472,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79526,7 +79526,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79581,7 +79581,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79632,7 +79632,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -79709,7 +79709,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79814,7 +79814,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79882,7 +79882,7 @@ I_events_0 = [
 ],
 "place": 533,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79903,7 +79903,7 @@ I_events_0 = [
 ],
 "place": 97,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -79920,7 +79920,7 @@ I_events_0 = [
 ],
 "place": 97,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80009,7 +80009,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80082,7 +80082,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80148,7 +80148,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -80200,7 +80200,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80271,7 +80271,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80288,7 +80288,7 @@ I_events_0 = [
 ],
 "place": 288,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80393,7 +80393,7 @@ I_events_0 = [
 ],
 "place": 87,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80410,7 +80410,7 @@ I_events_0 = [
 ],
 "place": 577,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80427,7 +80427,7 @@ I_events_0 = [
 ],
 "place": 399,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80445,7 +80445,7 @@ I_events_0 = [
 ],
 "place": 815,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80462,7 +80462,7 @@ I_events_0 = [
 ],
 "place": 898,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80480,7 +80480,7 @@ I_events_0 = [
 ],
 "place": 401,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80582,7 +80582,7 @@ I_events_0 = [
 ],
 "place": 288,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80601,7 +80601,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80619,7 +80619,7 @@ I_events_0 = [
 ],
 "place": 390,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80694,7 +80694,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80762,7 +80762,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -80862,7 +80862,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81016,7 +81016,7 @@ I_events_0 = [
 ],
 "place": 784,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81033,7 +81033,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81050,7 +81050,7 @@ I_events_0 = [
 ],
 "place": 592,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81136,7 +81136,7 @@ I_events_0 = [
 ],
 "place": 864,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81153,7 +81153,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81259,7 +81259,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81277,7 +81277,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81364,7 +81364,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81384,7 +81384,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81401,7 +81401,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81472,7 +81472,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81541,7 +81541,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81560,7 +81560,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81628,7 +81628,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81646,7 +81646,7 @@ I_events_0 = [
 ],
 "place": 419,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81713,7 +81713,7 @@ I_events_0 = [
 ],
 "place": 514,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -81764,7 +81764,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81781,7 +81781,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81867,7 +81867,7 @@ I_events_0 = [
 ],
 "place": 400,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81885,7 +81885,7 @@ I_events_0 = [
 ],
 "place": 629,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -81973,7 +81973,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82042,7 +82042,7 @@ I_events_0 = [
 ],
 "place": 502,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82130,7 +82130,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82201,7 +82201,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82218,7 +82218,7 @@ I_events_0 = [
 ],
 "place": 502,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82236,7 +82236,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82375,7 +82375,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82393,7 +82393,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82479,7 +82479,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82584,7 +82584,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82653,7 +82653,7 @@ I_events_0 = [
 ],
 "place": 1051,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82742,7 +82742,7 @@ I_events_0 = [
 ],
 "place": 328,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82828,7 +82828,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82846,7 +82846,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -82966,7 +82966,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83036,7 +83036,7 @@ I_events_0 = [
 ],
 "place": 363,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83054,7 +83054,7 @@ I_events_0 = [
 ],
 "place": 328,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83120,7 +83120,7 @@ I_events_0 = [
 ],
 "place": 149,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83137,7 +83137,7 @@ I_events_0 = [
 ],
 "place": 640,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83209,7 +83209,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83293,7 +83293,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83385,7 +83385,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83453,7 +83453,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83506,7 +83506,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -83577,7 +83577,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83596,7 +83596,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83683,7 +83683,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -83754,7 +83754,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83773,7 +83773,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83825,7 +83825,7 @@ I_events_0 = [
 ],
 "place": 84,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83842,7 +83842,7 @@ I_events_0 = [
 ],
 "place": 84,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83859,7 +83859,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -83927,7 +83927,7 @@ I_events_0 = [
 ],
 "place": 427,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83945,7 +83945,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83962,7 +83962,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -83980,7 +83980,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84030,7 +84030,7 @@ I_events_0 = [
 ],
 "place": 338,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84103,7 +84103,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84120,7 +84120,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84138,7 +84138,7 @@ I_events_0 = [
 ],
 "place": 413,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84157,7 +84157,7 @@ I_events_0 = [
 ],
 "place": 413,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84245,7 +84245,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84313,7 +84313,7 @@ I_events_0 = [
 ],
 "place": 485,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84332,7 +84332,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84382,7 +84382,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84399,7 +84399,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84468,7 +84468,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84486,7 +84486,7 @@ I_events_0 = [
 ],
 "place": 821,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84504,7 +84504,7 @@ I_events_0 = [
 ],
 "place": 821,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84572,7 +84572,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84591,7 +84591,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84642,7 +84642,7 @@ I_events_0 = [
 ],
 "place": 415,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84696,7 +84696,7 @@ I_events_0 = [
 ],
 "place": 417,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84779,7 +84779,7 @@ I_events_0 = [
 ],
 "place": 417,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84797,7 +84797,7 @@ I_events_0 = [
 ],
 "place": 417,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84846,7 +84846,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -84898,7 +84898,7 @@ I_events_0 = [
 ],
 "place": 426,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84917,7 +84917,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -84985,7 +84985,7 @@ I_events_0 = [
 ],
 "place": 649,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85054,7 +85054,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85071,7 +85071,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85089,7 +85089,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85107,7 +85107,7 @@ I_events_0 = [
 ],
 "place": 446,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85124,7 +85124,7 @@ I_events_0 = [
 ],
 "place": 446,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85212,7 +85212,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85229,7 +85229,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85295,7 +85295,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -85347,7 +85347,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85413,7 +85413,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -85467,7 +85467,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85527,7 +85527,7 @@ I_events_0 = [
 ],
 "place": 419,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85629,7 +85629,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85647,7 +85647,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85715,7 +85715,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85734,7 +85734,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85751,7 +85751,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85855,7 +85855,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85939,7 +85939,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -85957,7 +85957,7 @@ I_events_0 = [
 ],
 "place": 411,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86009,7 +86009,7 @@ I_events_0 = [
 ],
 "place": 429,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -86062,7 +86062,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -86129,7 +86129,7 @@ I_events_0 = [
 ],
 "place": 626,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86253,7 +86253,7 @@ I_events_0 = [
 ],
 "place": 770,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86319,7 +86319,7 @@ I_events_0 = [
 ],
 "place": 626,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86387,7 +86387,7 @@ I_events_0 = [
 ],
 "place": 514,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86406,7 +86406,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86495,7 +86495,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86512,7 +86512,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86578,7 +86578,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86596,7 +86596,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86667,7 +86667,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86735,7 +86735,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86807,7 +86807,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -86876,7 +86876,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -86927,7 +86927,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -86978,7 +86978,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -87048,7 +87048,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87066,7 +87066,7 @@ I_events_0 = [
 ],
 "place": 21,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87086,7 +87086,7 @@ I_events_0 = [
 ],
 "place": 21,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87156,7 +87156,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87176,7 +87176,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87261,7 +87261,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87279,7 +87279,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87296,7 +87296,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87313,7 +87313,7 @@ I_events_0 = [
 ],
 "place": 378,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -87381,7 +87381,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87399,7 +87399,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -87450,7 +87450,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87470,7 +87470,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87487,7 +87487,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87559,7 +87559,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87647,7 +87647,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87747,7 +87747,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87765,7 +87765,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87782,7 +87782,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87800,7 +87800,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87817,7 +87817,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87885,7 +87885,7 @@ I_events_0 = [
 ],
 "place": 690,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87971,7 +87971,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -87988,7 +87988,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88005,7 +88005,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88079,7 +88079,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88145,7 +88145,7 @@ I_events_0 = [
 ],
 "place": 451,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88162,7 +88162,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88289,7 +88289,7 @@ I_events_0 = [
 ],
 "place": 192,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88307,7 +88307,7 @@ I_events_0 = [
 ],
 "place": 637,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88412,7 +88412,7 @@ I_events_0 = [
 ],
 "place": 864,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88481,7 +88481,7 @@ I_events_0 = [
 ],
 "place": 592,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88588,7 +88588,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88675,7 +88675,7 @@ I_events_0 = [
 ],
 "place": 428,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88745,7 +88745,7 @@ I_events_0 = [
 ],
 "place": 872,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88828,7 +88828,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -88879,7 +88879,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -88913,7 +88913,7 @@ I_events_0 = [
 ],
 "place": 371,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -88980,7 +88980,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -89047,7 +89047,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -89098,7 +89098,7 @@ I_events_0 = [
 ],
 "place": 462,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89115,7 +89115,7 @@ I_events_0 = [
 ],
 "place": 371,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -89166,7 +89166,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89237,7 +89237,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89326,7 +89326,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89343,7 +89343,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89410,7 +89410,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89463,7 +89463,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89552,7 +89552,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89624,7 +89624,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89696,7 +89696,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89783,7 +89783,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89800,7 +89800,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89868,7 +89868,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89888,7 +89888,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -89957,7 +89957,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90045,7 +90045,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90131,7 +90131,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90197,7 +90197,7 @@ I_events_0 = [
 ],
 "place": 470,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90249,7 +90249,7 @@ I_events_0 = [
 ],
 "place": 604,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -90300,7 +90300,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90317,7 +90317,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90402,7 +90402,7 @@ I_events_0 = [
 ],
 "place": 78,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90419,7 +90419,7 @@ I_events_0 = [
 ],
 "place": 78,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90493,7 +90493,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90577,7 +90577,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -90629,7 +90629,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -90696,7 +90696,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -90747,7 +90747,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90764,7 +90764,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -90816,7 +90816,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90833,7 +90833,7 @@ I_events_0 = [
 ],
 "place": 476,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -90905,7 +90905,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90923,7 +90923,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90978,7 +90978,7 @@ I_events_0 = [
 ],
 "place": 1011,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -90997,7 +90997,7 @@ I_events_0 = [
 ],
 "place": 1011,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91086,7 +91086,7 @@ I_events_0 = [
 ],
 "place": 339,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91172,7 +91172,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91228,7 +91228,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91314,7 +91314,7 @@ I_events_0 = [
 ],
 "place": 477,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91392,7 +91392,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91411,7 +91411,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91497,7 +91497,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91588,7 +91588,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91688,7 +91688,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91707,7 +91707,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91725,7 +91725,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91810,7 +91810,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91827,7 +91827,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91920,7 +91920,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -91938,7 +91938,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92026,7 +92026,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92095,7 +92095,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92112,7 +92112,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92176,7 +92176,7 @@ I_events_0 = [
 ],
 "place": 574,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92289,7 +92289,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92377,7 +92377,7 @@ I_events_0 = [
 ],
 "place": 825,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92448,7 +92448,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92466,7 +92466,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92551,7 +92551,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92625,7 +92625,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92640,7 +92640,7 @@ I_events_0 = [
 ],
 "place": 387,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92714,7 +92714,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92732,7 +92732,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92747,7 +92747,7 @@ I_events_0 = [
 ],
 "place": 387,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -92814,7 +92814,7 @@ I_events_0 = [
 ],
 "place": 493,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92867,7 +92867,7 @@ I_events_0 = [
 ],
 "place": 493,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92919,7 +92919,7 @@ I_events_0 = [
 ],
 "place": 376,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -92971,7 +92971,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93060,7 +93060,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93081,7 +93081,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93172,7 +93172,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93191,7 +93191,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93280,7 +93280,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93349,7 +93349,7 @@ I_events_0 = [
 ],
 "place": 500,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93366,7 +93366,7 @@ I_events_0 = [
 ],
 "place": 500,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93434,7 +93434,7 @@ I_events_0 = [
 ],
 "place": 500,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93521,7 +93521,7 @@ I_events_0 = [
 ],
 "place": 57,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93621,7 +93621,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93640,7 +93640,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93741,7 +93741,7 @@ I_events_0 = [
 ],
 "place": 602,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93844,7 +93844,7 @@ I_events_0 = [
 ],
 "place": 619,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93913,7 +93913,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -93999,7 +93999,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -94070,7 +94070,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94089,7 +94089,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94178,7 +94178,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94195,7 +94195,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94262,7 +94262,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94349,7 +94349,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94366,7 +94366,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94441,7 +94441,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94510,7 +94510,7 @@ I_events_0 = [
 ],
 "place": 270,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94529,7 +94529,7 @@ I_events_0 = [
 ],
 "place": 929,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94548,7 +94548,7 @@ I_events_0 = [
 ],
 "place": 1012,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94636,7 +94636,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94654,7 +94654,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94689,7 +94689,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94723,7 +94723,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -94955,7 +94955,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95008,7 +95008,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -95064,7 +95064,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95085,7 +95085,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95172,7 +95172,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -95240,7 +95240,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -95309,7 +95309,7 @@ I_events_0 = [
 ],
 "place": 516,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95327,7 +95327,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95398,7 +95398,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95421,7 +95421,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95438,7 +95438,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95524,7 +95524,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95590,7 +95590,7 @@ I_events_0 = [
 ],
 "place": 150,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95607,7 +95607,7 @@ I_events_0 = [
 ],
 "place": 766,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -95679,7 +95679,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95697,7 +95697,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95717,7 +95717,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95784,7 +95784,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -95852,7 +95852,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -95903,7 +95903,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95920,7 +95920,7 @@ I_events_0 = [
 ],
 "place": 6,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -95972,7 +95972,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -96023,7 +96023,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96040,7 +96040,7 @@ I_events_0 = [
 ],
 "place": 523,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -96093,7 +96093,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96176,7 +96176,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96194,7 +96194,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96262,7 +96262,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96352,7 +96352,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96369,7 +96369,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96439,7 +96439,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96529,7 +96529,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96599,7 +96599,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96677,7 +96677,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96746,7 +96746,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96835,7 +96835,7 @@ I_events_0 = [
 ],
 "place": 277,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96903,7 +96903,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96921,7 +96921,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -96938,7 +96938,7 @@ I_events_0 = [
 ],
 "place": 692,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -97009,7 +97009,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97080,7 +97080,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97170,7 +97170,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97189,7 +97189,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97277,7 +97277,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97295,7 +97295,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97366,7 +97366,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97386,7 +97386,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97479,7 +97479,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97567,7 +97567,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97585,7 +97585,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97656,7 +97656,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97675,7 +97675,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97781,7 +97781,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97849,7 +97849,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -97917,7 +97917,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98004,7 +98004,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98071,7 +98071,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -98120,7 +98120,7 @@ I_events_0 = [
 ],
 "place": 380,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98154,7 +98154,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -98206,7 +98206,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98223,7 +98223,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98301,7 +98301,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98368,7 +98368,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -98421,7 +98421,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98489,7 +98489,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98506,7 +98506,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98523,7 +98523,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98540,7 +98540,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98594,7 +98594,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98664,7 +98664,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98752,7 +98752,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98769,7 +98769,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98786,7 +98786,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98876,7 +98876,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98894,7 +98894,7 @@ I_events_0 = [
 ],
 "place": 540,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -98962,7 +98962,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -99046,7 +99046,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99065,7 +99065,7 @@ I_events_0 = [
 ],
 "place": 151,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99132,7 +99132,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -99202,7 +99202,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99220,7 +99220,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99238,7 +99238,7 @@ I_events_0 = [
 ],
 "place": 349,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99310,7 +99310,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99381,7 +99381,7 @@ I_events_0 = [
 ],
 "place": 540,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99399,7 +99399,7 @@ I_events_0 = [
 ],
 "place": 540,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99499,7 +99499,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99519,7 +99519,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99604,7 +99604,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99621,7 +99621,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99694,7 +99694,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99794,7 +99794,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99811,7 +99811,7 @@ I_events_0 = [
 ],
 "place": 145,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99828,7 +99828,7 @@ I_events_0 = [
 ],
 "place": 731,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99845,7 +99845,7 @@ I_events_0 = [
 ],
 "place": 571,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99862,7 +99862,7 @@ I_events_0 = [
 ],
 "place": 704,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99879,7 +99879,7 @@ I_events_0 = [
 ],
 "place": 283,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -99949,7 +99949,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100015,7 +100015,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100084,7 +100084,7 @@ I_events_0 = [
 ],
 "place": 719,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -100154,7 +100154,7 @@ I_events_0 = [
 ],
 "place": 548,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -100224,7 +100224,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100242,7 +100242,7 @@ I_events_0 = [
 ],
 "place": 1015,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100308,7 +100308,7 @@ I_events_0 = [
 ],
 "place": 84,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100331,7 +100331,7 @@ I_events_0 = [
 ],
 "place": 548,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100419,7 +100419,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100471,7 +100471,7 @@ I_events_0 = [
 ],
 "place": 923,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100544,7 +100544,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100563,7 +100563,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100580,7 +100580,7 @@ I_events_0 = [
 ],
 "place": 937,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100665,7 +100665,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100682,7 +100682,7 @@ I_events_0 = [
 ],
 "place": 529,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100753,7 +100753,7 @@ I_events_0 = [
 ],
 "place": 310,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -100804,7 +100804,7 @@ I_events_0 = [
 ],
 "place": 104,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100823,7 +100823,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100909,7 +100909,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100928,7 +100928,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -100947,7 +100947,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101035,7 +101035,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101052,7 +101052,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101140,7 +101140,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101157,7 +101157,7 @@ I_events_0 = [
 ],
 "place": 311,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101175,7 +101175,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101261,7 +101261,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101278,7 +101278,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101351,7 +101351,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101371,7 +101371,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101438,7 +101438,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101490,7 +101490,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -101564,7 +101564,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101581,7 +101581,7 @@ I_events_0 = [
 ],
 "place": 9,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101653,7 +101653,7 @@ I_events_0 = [
 ],
 "place": 203,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101741,7 +101741,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101758,7 +101758,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101826,7 +101826,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101899,7 +101899,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -101989,7 +101989,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102006,7 +102006,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102094,7 +102094,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102226,7 +102226,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102294,7 +102294,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102363,7 +102363,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102431,7 +102431,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102546,7 +102546,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -102595,7 +102595,7 @@ I_events_0 = [
 ],
 "place": 105,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102757,7 +102757,7 @@ I_events_0 = [
 ],
 "place": 409,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -102813,7 +102813,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -102936,7 +102936,7 @@ I_events_0 = [
 ],
 "place": 897,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103040,7 +103040,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103057,7 +103057,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103177,7 +103177,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103248,7 +103248,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103267,7 +103267,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103287,7 +103287,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103342,7 +103342,7 @@ I_events_0 = [
 ],
 "place": 1011,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103360,7 +103360,7 @@ I_events_0 = [
 ],
 "place": 1011,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103428,7 +103428,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103483,7 +103483,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103520,7 +103520,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103589,7 +103589,7 @@ I_events_0 = [
 ],
 "place": 592,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103606,7 +103606,7 @@ I_events_0 = [
 ],
 "place": 1003,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103623,7 +103623,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103641,7 +103641,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103700,7 +103700,7 @@ I_events_0 = [
 ],
 "place": 285,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103778,7 +103778,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103795,7 +103795,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103863,7 +103863,7 @@ I_events_0 = [
 ],
 "place": 566,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103880,7 +103880,7 @@ I_events_0 = [
 ],
 "place": 632,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103897,7 +103897,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103914,7 +103914,7 @@ I_events_0 = [
 ],
 "place": 307,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103931,7 +103931,7 @@ I_events_0 = [
 ],
 "place": 372,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -103984,7 +103984,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104003,7 +104003,7 @@ I_events_0 = [
 ],
 "place": 182,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104088,7 +104088,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -104144,7 +104144,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -104198,7 +104198,7 @@ I_events_0 = [
 ],
 "place": 569,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104251,7 +104251,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104320,7 +104320,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104408,7 +104408,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104526,7 +104526,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104545,7 +104545,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104615,7 +104615,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104632,7 +104632,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104701,7 +104701,7 @@ I_events_0 = [
 ],
 "place": 216,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104718,7 +104718,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104737,7 +104737,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104838,7 +104838,7 @@ I_events_0 = [
 ],
 "place": 498,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104855,7 +104855,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -104923,7 +104923,7 @@ I_events_0 = [
 ],
 "place": 604,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -104976,7 +104976,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105050,7 +105050,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105119,7 +105119,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105136,7 +105136,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105224,7 +105224,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105290,7 +105290,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -105343,7 +105343,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105360,7 +105360,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105379,7 +105379,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105451,7 +105451,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105571,7 +105571,7 @@ I_events_0 = [
 ],
 "place": 604,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -105642,7 +105642,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105659,7 +105659,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105745,7 +105745,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105763,7 +105763,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105831,7 +105831,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -105900,7 +105900,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105971,7 +105971,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -105991,7 +105991,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106081,7 +106081,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106099,7 +106099,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106188,7 +106188,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106274,7 +106274,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106363,7 +106363,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106432,7 +106432,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -106483,7 +106483,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106570,7 +106570,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106638,7 +106638,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106744,7 +106744,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106830,7 +106830,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106947,7 +106947,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106966,7 +106966,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -106983,7 +106983,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107069,7 +107069,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107154,7 +107154,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107171,7 +107171,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107240,7 +107240,7 @@ I_events_0 = [
 ],
 "place": 483,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107257,7 +107257,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107342,7 +107342,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107359,7 +107359,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107426,7 +107426,7 @@ I_events_0 = [
 ],
 "place": 585,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -107496,7 +107496,7 @@ I_events_0 = [
 ],
 "place": 158,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -107566,7 +107566,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107635,7 +107635,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107652,7 +107652,7 @@ I_events_0 = [
 ],
 "place": 498,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107669,7 +107669,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107755,7 +107755,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107772,7 +107772,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107861,7 +107861,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -107949,7 +107949,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108035,7 +108035,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108102,7 +108102,7 @@ I_events_0 = [
 ],
 "place": 586,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108120,7 +108120,7 @@ I_events_0 = [
 ],
 "place": 526,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -108173,7 +108173,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108291,7 +108291,7 @@ I_events_0 = [
 ],
 "place": 780,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108362,7 +108362,7 @@ I_events_0 = [
 ],
 "place": 677,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108382,7 +108382,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108399,7 +108399,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108486,7 +108486,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108585,7 +108585,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -108637,7 +108637,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108654,7 +108654,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108675,7 +108675,7 @@ I_events_0 = [
 ],
 "place": 613,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108761,7 +108761,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108779,7 +108779,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108845,7 +108845,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108862,7 +108862,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -108880,7 +108880,7 @@ I_events_0 = [
 ],
 "place": 609,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -108949,7 +108949,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -109002,7 +109002,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109020,7 +109020,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109111,7 +109111,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109199,7 +109199,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109303,7 +109303,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109393,7 +109393,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109459,7 +109459,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -109513,7 +109513,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109530,7 +109530,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109619,7 +109619,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109687,7 +109687,7 @@ I_events_0 = [
 ],
 "place": 709,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109771,7 +109771,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -109837,7 +109837,7 @@ I_events_0 = [
 ],
 "place": 150,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -109910,7 +109910,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110032,7 +110032,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110100,7 +110100,7 @@ I_events_0 = [
 ],
 "place": 149,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110117,7 +110117,7 @@ I_events_0 = [
 ],
 "place": 640,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110185,7 +110185,7 @@ I_events_0 = [
 ],
 "place": 149,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110206,7 +110206,7 @@ I_events_0 = [
 ],
 "place": 640,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110308,7 +110308,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110328,7 +110328,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110416,7 +110416,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -110467,7 +110467,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110501,7 +110501,7 @@ I_events_0 = [
 ],
 "place": 325,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110518,7 +110518,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110535,7 +110535,7 @@ I_events_0 = [
 ],
 "place": 156,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110552,7 +110552,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110570,7 +110570,7 @@ I_events_0 = [
 ],
 "place": 705,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110670,7 +110670,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110687,7 +110687,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110774,7 +110774,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110794,7 +110794,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110867,7 +110867,7 @@ I_events_0 = [
 ],
 "place": 277,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -110953,7 +110953,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111053,7 +111053,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111126,7 +111126,7 @@ I_events_0 = [
 ],
 "place": 277,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111280,7 +111280,7 @@ I_events_0 = [
 ],
 "place": 348,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111298,7 +111298,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111318,7 +111318,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111384,7 +111384,7 @@ I_events_0 = [
 ],
 "place": 910,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111419,7 +111419,7 @@ I_events_0 = [
 ],
 "place": 313,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111437,7 +111437,7 @@ I_events_0 = [
 ],
 "place": 313,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111455,7 +111455,7 @@ I_events_0 = [
 ],
 "place": 957,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111547,7 +111547,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111636,7 +111636,7 @@ I_events_0 = [
 ],
 "place": 311,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111653,7 +111653,7 @@ I_events_0 = [
 ],
 "place": 311,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111674,7 +111674,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111764,7 +111764,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111853,7 +111853,7 @@ I_events_0 = [
 ],
 "place": 419,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111921,7 +111921,7 @@ I_events_0 = [
 ],
 "place": 626,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -111941,7 +111941,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112009,7 +112009,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112026,7 +112026,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112043,7 +112043,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112129,7 +112129,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112147,7 +112147,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112232,7 +112232,7 @@ I_events_0 = [
 ],
 "place": 719,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112369,7 +112369,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112455,7 +112455,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112473,7 +112473,7 @@ I_events_0 = [
 ],
 "place": 383,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112490,7 +112490,7 @@ I_events_0 = [
 ],
 "place": 383,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112593,7 +112593,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112660,7 +112660,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -112728,7 +112728,7 @@ I_events_0 = [
 ],
 "place": 144,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -112797,7 +112797,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -112846,7 +112846,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -112896,7 +112896,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -112945,7 +112945,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -112997,7 +112997,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -113068,7 +113068,7 @@ I_events_0 = [
 ],
 "place": 635,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -113138,7 +113138,7 @@ I_events_0 = [
 ],
 "place": 96,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113155,7 +113155,7 @@ I_events_0 = [
 ],
 "place": 96,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113224,7 +113224,7 @@ I_events_0 = [
 ],
 "place": 356,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113242,7 +113242,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113329,7 +113329,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113346,7 +113346,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113364,7 +113364,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113381,7 +113381,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113503,7 +113503,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113588,7 +113588,7 @@ I_events_0 = [
 ],
 "place": 780,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113607,7 +113607,7 @@ I_events_0 = [
 ],
 "place": 1026,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113642,7 +113642,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113660,7 +113660,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113677,7 +113677,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113694,7 +113694,7 @@ I_events_0 = [
 ],
 "place": 780,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113711,7 +113711,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113745,7 +113745,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113762,7 +113762,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113796,7 +113796,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113813,7 +113813,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -113884,7 +113884,7 @@ I_events_0 = [
 ],
 "place": 619,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114114,7 +114114,7 @@ I_events_0 = [
 ],
 "place": 828,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114202,7 +114202,7 @@ I_events_0 = [
 ],
 "place": 427,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114236,7 +114236,7 @@ I_events_0 = [
 ],
 "place": 865,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114253,7 +114253,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114271,7 +114271,7 @@ I_events_0 = [
 ],
 "place": 49,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114358,7 +114358,7 @@ I_events_0 = [
 ],
 "place": 637,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114431,7 +114431,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114448,7 +114448,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114570,7 +114570,7 @@ I_events_0 = [
 ],
 "place": 49,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114660,7 +114660,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114679,7 +114679,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114696,7 +114696,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114807,7 +114807,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114913,7 +114913,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -114930,7 +114930,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115000,7 +115000,7 @@ I_events_0 = [
 ],
 "place": 514,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115018,7 +115018,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115085,7 +115085,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115102,7 +115102,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115222,7 +115222,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115290,7 +115290,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115359,7 +115359,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115428,7 +115428,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115447,7 +115447,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115464,7 +115464,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115534,7 +115534,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115632,7 +115632,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115649,7 +115649,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -115786,7 +115786,7 @@ I_events_0 = [
 ],
 "place": 214,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115853,7 +115853,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115870,7 +115870,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -115954,7 +115954,7 @@ I_events_0 = [
 ],
 "place": 655,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116059,7 +116059,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116077,7 +116077,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116146,7 +116146,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116163,7 +116163,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116251,7 +116251,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116269,7 +116269,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116373,7 +116373,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116394,7 +116394,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116512,7 +116512,7 @@ I_events_0 = [
 ],
 "place": 839,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116529,7 +116529,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116616,7 +116616,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116684,7 +116684,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116702,7 +116702,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116720,7 +116720,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116855,7 +116855,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116927,7 +116927,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116944,7 +116944,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -116961,7 +116961,7 @@ I_events_0 = [
 ],
 "place": 839,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117029,7 +117029,7 @@ I_events_0 = [
 ],
 "place": 968,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117046,7 +117046,7 @@ I_events_0 = [
 ],
 "place": 382,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117136,7 +117136,7 @@ I_events_0 = [
 ],
 "place": 709,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117204,7 +117204,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117222,7 +117222,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117290,7 +117290,7 @@ I_events_0 = [
 ],
 "place": 709,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117398,7 +117398,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117466,7 +117466,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117553,7 +117553,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117619,7 +117619,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -117687,7 +117687,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117804,7 +117804,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117822,7 +117822,7 @@ I_events_0 = [
 ],
 "place": 891,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117842,7 +117842,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117860,7 +117860,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117932,7 +117932,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -117986,7 +117986,7 @@ I_events_0 = [
 ],
 "place": 394,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118006,7 +118006,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118023,7 +118023,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118114,7 +118114,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118238,7 +118238,7 @@ I_events_0 = [
 ],
 "place": 776,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118256,7 +118256,7 @@ I_events_0 = [
 ],
 "place": 776,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118274,7 +118274,7 @@ I_events_0 = [
 ],
 "place": 992,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118363,7 +118363,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118436,7 +118436,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118540,7 +118540,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118606,7 +118606,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118691,7 +118691,7 @@ I_events_0 = [
 ],
 "place": 428,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118709,7 +118709,7 @@ I_events_0 = [
 ],
 "place": 1004,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118726,7 +118726,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118794,7 +118794,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118813,7 +118813,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -118881,7 +118881,7 @@ I_events_0 = [
 ],
 "place": 678,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119041,7 +119041,7 @@ I_events_0 = [
 ],
 "place": 680,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119059,7 +119059,7 @@ I_events_0 = [
 ],
 "place": 680,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119146,7 +119146,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119250,7 +119250,7 @@ I_events_0 = [
 ],
 "place": 96,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119268,7 +119268,7 @@ I_events_0 = [
 ],
 "place": 959,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119286,7 +119286,7 @@ I_events_0 = [
 ],
 "place": 992,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119303,7 +119303,7 @@ I_events_0 = [
 ],
 "place": 992,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119390,7 +119390,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119408,7 +119408,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -119459,7 +119459,7 @@ I_events_0 = [
 ],
 "place": 968,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119476,7 +119476,7 @@ I_events_0 = [
 ],
 "place": 382,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119493,7 +119493,7 @@ I_events_0 = [
 ],
 "place": 619,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119599,7 +119599,7 @@ I_events_0 = [
 ],
 "place": 968,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119684,7 +119684,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119755,7 +119755,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119823,7 +119823,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119840,7 +119840,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -119910,7 +119910,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -119927,7 +119927,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120045,7 +120045,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120131,7 +120131,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120150,7 +120150,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120240,7 +120240,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120400,7 +120400,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120489,7 +120489,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120591,7 +120591,7 @@ I_events_0 = [
 ],
 "place": 224,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120608,7 +120608,7 @@ I_events_0 = [
 ],
 "place": 56,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -120664,7 +120664,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120735,7 +120735,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120838,7 +120838,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120855,7 +120855,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -120872,7 +120872,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121026,7 +121026,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121045,7 +121045,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121136,7 +121136,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121205,7 +121205,7 @@ I_events_0 = [
 ],
 "place": 216,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121222,7 +121222,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121330,7 +121330,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121433,7 +121433,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121567,7 +121567,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121655,7 +121655,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121746,7 +121746,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121832,7 +121832,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121902,7 +121902,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -121990,7 +121990,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122077,7 +122077,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122162,7 +122162,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122179,7 +122179,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122249,7 +122249,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122266,7 +122266,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122387,7 +122387,7 @@ I_events_0 = [
 ],
 "place": 840,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122474,7 +122474,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122544,7 +122544,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122614,7 +122614,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122632,7 +122632,7 @@ I_events_0 = [
 ],
 "place": 677,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122753,7 +122753,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122840,7 +122840,7 @@ I_events_0 = [
 ],
 "place": 634,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122857,7 +122857,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122874,7 +122874,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122891,7 +122891,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122908,7 +122908,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122925,7 +122925,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122942,7 +122942,7 @@ I_events_0 = [
 ],
 "place": 293,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122959,7 +122959,7 @@ I_events_0 = [
 ],
 "place": 293,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -122976,7 +122976,7 @@ I_events_0 = [
 ],
 "place": 293,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123060,7 +123060,7 @@ I_events_0 = [
 ],
 "place": 465,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123078,7 +123078,7 @@ I_events_0 = [
 ],
 "place": 465,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123096,7 +123096,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -123148,7 +123148,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123233,7 +123233,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123301,7 +123301,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123322,7 +123322,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123458,7 +123458,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123546,7 +123546,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123612,7 +123612,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -123690,7 +123690,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123777,7 +123777,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123794,7 +123794,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123811,7 +123811,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123884,7 +123884,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -123974,7 +123974,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124046,7 +124046,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124116,7 +124116,7 @@ I_events_0 = [
 ],
 "place": 975,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124202,7 +124202,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124219,7 +124219,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124236,7 +124236,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124306,7 +124306,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124324,7 +124324,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124342,7 +124342,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124360,7 +124360,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124377,7 +124377,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124463,7 +124463,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -124516,7 +124516,7 @@ I_events_0 = [
 ],
 "place": 705,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124633,7 +124633,7 @@ I_events_0 = [
 ],
 "place": 325,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124650,7 +124650,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124667,7 +124667,7 @@ I_events_0 = [
 ],
 "place": 156,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124684,7 +124684,7 @@ I_events_0 = [
 ],
 "place": 611,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124772,7 +124772,7 @@ I_events_0 = [
 ],
 "place": 319,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124789,7 +124789,7 @@ I_events_0 = [
 ],
 "place": 832,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124807,7 +124807,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124826,7 +124826,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124895,7 +124895,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124916,7 +124916,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -124984,7 +124984,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125085,7 +125085,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125104,7 +125104,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125188,7 +125188,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125254,7 +125254,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -125325,7 +125325,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125410,7 +125410,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125428,7 +125428,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125445,7 +125445,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125462,7 +125462,7 @@ I_events_0 = [
 ],
 "place": 839,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125479,7 +125479,7 @@ I_events_0 = [
 ],
 "place": 839,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125569,7 +125569,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125673,7 +125673,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125763,7 +125763,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125835,7 +125835,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125902,7 +125902,7 @@ I_events_0 = [
 ],
 "place": 846,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -125953,7 +125953,7 @@ I_events_0 = [
 ],
 "place": 716,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -125970,7 +125970,7 @@ I_events_0 = [
 ],
 "place": 268,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126025,7 +126025,7 @@ I_events_0 = [
 ],
 "place": 716,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126042,7 +126042,7 @@ I_events_0 = [
 ],
 "place": 268,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126096,7 +126096,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126116,7 +126116,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126192,7 +126192,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126283,7 +126283,7 @@ I_events_0 = [
 ],
 "place": 254,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126353,7 +126353,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126453,7 +126453,7 @@ I_events_0 = [
 ],
 "place": 846,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126470,7 +126470,7 @@ I_events_0 = [
 ],
 "place": 1018,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126487,7 +126487,7 @@ I_events_0 = [
 ],
 "place": 753,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126540,7 +126540,7 @@ I_events_0 = [
 ],
 "place": 753,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126557,7 +126557,7 @@ I_events_0 = [
 ],
 "place": 900,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126574,7 +126574,7 @@ I_events_0 = [
 ],
 "place": 193,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126644,7 +126644,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126662,7 +126662,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126715,7 +126715,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126735,7 +126735,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126803,7 +126803,7 @@ I_events_0 = [
 ],
 "place": 634,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -126905,7 +126905,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126923,7 +126923,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -126997,7 +126997,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127098,7 +127098,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127134,7 +127134,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127151,7 +127151,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127254,7 +127254,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127321,7 +127321,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -127375,7 +127375,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127461,7 +127461,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127530,7 +127530,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127548,7 +127548,7 @@ I_events_0 = [
 ],
 "place": 997,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127566,7 +127566,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127583,7 +127583,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127650,7 +127650,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127667,7 +127667,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127736,7 +127736,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127753,7 +127753,7 @@ I_events_0 = [
 ],
 "place": 722,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127845,7 +127845,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127863,7 +127863,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -127947,7 +127947,7 @@ I_events_0 = [
 ],
 "place": 57,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128036,7 +128036,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128053,7 +128053,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128070,7 +128070,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128092,7 +128092,7 @@ I_events_0 = [
 ],
 "place": 499,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128161,7 +128161,7 @@ I_events_0 = [
 ],
 "place": 726,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128228,7 +128228,7 @@ I_events_0 = [
 ],
 "place": 661,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -128260,7 +128260,7 @@ I_events_0 = [
 ],
 "place": 918,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128365,7 +128365,7 @@ I_events_0 = [
 ],
 "place": 732,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -128475,7 +128475,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128545,7 +128545,7 @@ I_events_0 = [
 ],
 "place": 864,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128563,7 +128563,7 @@ I_events_0 = [
 ],
 "place": 96,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128667,7 +128667,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128736,7 +128736,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128805,7 +128805,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128892,7 +128892,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -128962,7 +128962,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129031,7 +129031,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129065,7 +129065,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129133,7 +129133,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129152,7 +129152,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129255,7 +129255,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129344,7 +129344,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129430,7 +129430,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129447,7 +129447,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129533,7 +129533,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129601,7 +129601,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129678,7 +129678,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129748,7 +129748,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129836,7 +129836,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129857,7 +129857,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -129947,7 +129947,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -130019,7 +130019,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130036,7 +130036,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130089,7 +130089,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -130160,7 +130160,7 @@ I_events_0 = [
 ],
 "place": 303,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130231,7 +130231,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130248,7 +130248,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -130297,7 +130297,7 @@ I_events_0 = [
 ],
 "place": 647,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130316,7 +130316,7 @@ I_events_0 = [
 ],
 "place": 548,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130335,7 +130335,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130407,7 +130407,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130428,7 +130428,7 @@ I_events_0 = [
 ],
 "place": 1013,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130494,7 +130494,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130513,7 +130513,7 @@ I_events_0 = [
 ],
 "place": 735,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130531,7 +130531,7 @@ I_events_0 = [
 ],
 "place": 857,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130603,7 +130603,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130621,7 +130621,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130709,7 +130709,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130727,7 +130727,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130795,7 +130795,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -130848,7 +130848,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130865,7 +130865,7 @@ I_events_0 = [
 ],
 "place": 736,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130918,7 +130918,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -130936,7 +130936,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -130990,7 +130990,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131007,7 +131007,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131024,7 +131024,7 @@ I_events_0 = [
 ],
 "place": 518,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131041,7 +131041,7 @@ I_events_0 = [
 ],
 "place": 674,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131058,7 +131058,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131076,7 +131076,7 @@ I_events_0 = [
 ],
 "place": 518,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131093,7 +131093,7 @@ I_events_0 = [
 ],
 "place": 816,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131160,7 +131160,7 @@ I_events_0 = [
 ],
 "place": 824,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131226,7 +131226,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131318,7 +131318,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131335,7 +131335,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131439,7 +131439,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131495,7 +131495,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131581,7 +131581,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131649,7 +131649,7 @@ I_events_0 = [
 ],
 "place": 707,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -131839,7 +131839,7 @@ I_events_0 = [
 ],
 "place": 649,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131857,7 +131857,7 @@ I_events_0 = [
 ],
 "place": 649,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -131941,7 +131941,7 @@ I_events_0 = [
 ],
 "place": 428,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132039,7 +132039,7 @@ I_events_0 = [
 ],
 "place": 649,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -132138,7 +132138,7 @@ I_events_0 = [
 ],
 "place": 149,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132158,7 +132158,7 @@ I_events_0 = [
 ],
 "place": 396,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132176,7 +132176,7 @@ I_events_0 = [
 ],
 "place": 640,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132242,7 +132242,7 @@ I_events_0 = [
 ],
 "place": 179,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132299,7 +132299,7 @@ I_events_0 = [
 ],
 "place": 383,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132367,7 +132367,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132435,7 +132435,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132453,7 +132453,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132471,7 +132471,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132540,7 +132540,7 @@ I_events_0 = [
 ],
 "place": 759,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132557,7 +132557,7 @@ I_events_0 = [
 ],
 "place": 648,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132574,7 +132574,7 @@ I_events_0 = [
 ],
 "place": 513,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132591,7 +132591,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132609,7 +132609,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132662,7 +132662,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132750,7 +132750,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132819,7 +132819,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132907,7 +132907,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -132924,7 +132924,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133012,7 +133012,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133029,7 +133029,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133046,7 +133046,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133133,7 +133133,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133214,7 +133214,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133282,7 +133282,7 @@ I_events_0 = [
 ],
 "place": 629,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133299,7 +133299,7 @@ I_events_0 = [
 ],
 "place": 591,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133317,7 +133317,7 @@ I_events_0 = [
 ],
 "place": 629,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133334,7 +133334,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133440,7 +133440,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133545,7 +133545,7 @@ I_events_0 = [
 ],
 "place": 0,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133562,7 +133562,7 @@ I_events_0 = [
 ],
 "place": 886,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133636,7 +133636,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133687,7 +133687,7 @@ I_events_0 = [
 ],
 "place": 400,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133704,7 +133704,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -133776,7 +133776,7 @@ I_events_0 = [
 ],
 "place": 446,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133844,7 +133844,7 @@ I_events_0 = [
 ],
 "place": 707,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133861,7 +133861,7 @@ I_events_0 = [
 ],
 "place": 56,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133945,7 +133945,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133963,7 +133963,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -133980,7 +133980,7 @@ I_events_0 = [
 ],
 "place": 519,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134046,7 +134046,7 @@ I_events_0 = [
 ],
 "place": 400,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -134098,7 +134098,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134116,7 +134116,7 @@ I_events_0 = [
 ],
 "place": 446,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134204,7 +134204,7 @@ I_events_0 = [
 ],
 "place": 446,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134289,7 +134289,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134375,7 +134375,7 @@ I_events_0 = [
 ],
 "place": 446,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134412,7 +134412,7 @@ I_events_0 = [
 ],
 "place": 629,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134499,7 +134499,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134536,7 +134536,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134624,7 +134624,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134713,7 +134713,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134814,7 +134814,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134834,7 +134834,7 @@ I_events_0 = [
 ],
 "place": 745,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -134969,7 +134969,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135106,7 +135106,7 @@ I_events_0 = [
 ],
 "place": 336,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135191,7 +135191,7 @@ I_events_0 = [
 ],
 "place": 943,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135211,7 +135211,7 @@ I_events_0 = [
 ],
 "place": 194,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -135260,7 +135260,7 @@ I_events_0 = [
 ],
 "place": 654,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135277,7 +135277,7 @@ I_events_0 = [
 ],
 "place": 766,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -135332,7 +135332,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135352,7 +135352,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135405,7 +135405,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135426,7 +135426,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135498,7 +135498,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135590,7 +135590,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135658,7 +135658,7 @@ I_events_0 = [
 ],
 "place": 758,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135677,7 +135677,7 @@ I_events_0 = [
 ],
 "place": 200,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135746,7 +135746,7 @@ I_events_0 = [
 ],
 "place": 270,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135763,7 +135763,7 @@ I_events_0 = [
 ],
 "place": 929,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135780,7 +135780,7 @@ I_events_0 = [
 ],
 "place": 270,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135897,7 +135897,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135915,7 +135915,7 @@ I_events_0 = [
 ],
 "place": 218,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -135933,7 +135933,7 @@ I_events_0 = [
 ],
 "place": 776,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136020,7 +136020,7 @@ I_events_0 = [
 ],
 "place": 226,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136111,7 +136111,7 @@ I_events_0 = [
 ],
 "place": 1015,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136198,7 +136198,7 @@ I_events_0 = [
 ],
 "place": 1015,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136216,7 +136216,7 @@ I_events_0 = [
 ],
 "place": 429,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136233,7 +136233,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136251,7 +136251,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136268,7 +136268,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -136317,7 +136317,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136390,7 +136390,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136459,7 +136459,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136477,7 +136477,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136546,7 +136546,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136633,7 +136633,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136650,7 +136650,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136668,7 +136668,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136736,7 +136736,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136754,7 +136754,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136771,7 +136771,7 @@ I_events_0 = [
 ],
 "place": 573,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -136840,7 +136840,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137016,7 +137016,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137091,7 +137091,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137157,7 +137157,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137247,7 +137247,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137336,7 +137336,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137353,7 +137353,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137440,7 +137440,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137457,7 +137457,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137476,7 +137476,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137564,7 +137564,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137668,7 +137668,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137773,7 +137773,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137790,7 +137790,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137811,7 +137811,7 @@ I_events_0 = [
 ],
 "place": 889,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137845,7 +137845,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -137932,7 +137932,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138008,7 +138008,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138125,7 +138125,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138228,7 +138228,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138245,7 +138245,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138331,7 +138331,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138348,7 +138348,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138366,7 +138366,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138466,7 +138466,7 @@ I_events_0 = [
 ],
 "place": 248,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138555,7 +138555,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138677,7 +138677,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138763,7 +138763,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138780,7 +138780,7 @@ I_events_0 = [
 ],
 "place": 427,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -138831,7 +138831,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -138950,7 +138950,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139033,7 +139033,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139051,7 +139051,7 @@ I_events_0 = [
 ],
 "place": 576,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139109,7 +139109,7 @@ I_events_0 = [
 ],
 "place": 281,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139182,7 +139182,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139199,7 +139199,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139219,7 +139219,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139236,7 +139236,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139326,7 +139326,7 @@ I_events_0 = [
 ],
 "place": 186,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139343,7 +139343,7 @@ I_events_0 = [
 ],
 "place": 348,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139362,7 +139362,7 @@ I_events_0 = [
 ],
 "place": 560,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139379,7 +139379,7 @@ I_events_0 = [
 ],
 "place": 215,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139396,7 +139396,7 @@ I_events_0 = [
 ],
 "place": 255,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139415,7 +139415,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139505,7 +139505,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139523,7 +139523,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139627,7 +139627,7 @@ I_events_0 = [
 ],
 "place": 823,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -139714,7 +139714,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139733,7 +139733,7 @@ I_events_0 = [
 ],
 "place": 873,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139752,7 +139752,7 @@ I_events_0 = [
 ],
 "place": 215,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139842,7 +139842,7 @@ I_events_0 = [
 ],
 "place": 560,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139859,7 +139859,7 @@ I_events_0 = [
 ],
 "place": 215,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139876,7 +139876,7 @@ I_events_0 = [
 ],
 "place": 255,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139895,7 +139895,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139914,7 +139914,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139932,7 +139932,7 @@ I_events_0 = [
 ],
 "place": 801,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -139967,7 +139967,7 @@ I_events_0 = [
 ],
 "place": 822,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140055,7 +140055,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140072,7 +140072,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140141,7 +140141,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140159,7 +140159,7 @@ I_events_0 = [
 ],
 "place": 679,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140177,7 +140177,7 @@ I_events_0 = [
 ],
 "place": 679,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140194,7 +140194,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140211,7 +140211,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140229,7 +140229,7 @@ I_events_0 = [
 ],
 "place": 679,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140247,7 +140247,7 @@ I_events_0 = [
 ],
 "place": 269,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140264,7 +140264,7 @@ I_events_0 = [
 ],
 "place": 269,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140331,7 +140331,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140348,7 +140348,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -140415,7 +140415,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140433,7 +140433,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -140484,7 +140484,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -140574,7 +140574,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140592,7 +140592,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140680,7 +140680,7 @@ I_events_0 = [
 ],
 "place": 332,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140748,7 +140748,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140769,7 +140769,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140839,7 +140839,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -140905,7 +140905,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -140954,7 +140954,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -140972,7 +140972,7 @@ I_events_0 = [
 ],
 "place": 259,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -141023,7 +141023,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -141091,7 +141091,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -141162,7 +141162,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141180,7 +141180,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141250,7 +141250,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141323,7 +141323,7 @@ I_events_0 = [
 ],
 "place": 982,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141343,7 +141343,7 @@ I_events_0 = [
 ],
 "place": 726,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141409,7 +141409,7 @@ I_events_0 = [
 ],
 "place": 831,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -141507,7 +141507,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141524,7 +141524,7 @@ I_events_0 = [
 ],
 "place": 845,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141611,7 +141611,7 @@ I_events_0 = [
 ],
 "place": 403,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141680,7 +141680,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141766,7 +141766,7 @@ I_events_0 = [
 ],
 "place": 85,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -141833,7 +141833,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -141850,7 +141850,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -141937,7 +141937,7 @@ I_events_0 = [
 ],
 "place": 1015,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142004,7 +142004,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142090,7 +142090,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142143,7 +142143,7 @@ I_events_0 = [
 ],
 "place": 835,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -142225,7 +142225,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142242,7 +142242,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -142295,7 +142295,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142313,7 +142313,7 @@ I_events_0 = [
 ],
 "place": 537,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142418,7 +142418,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142505,7 +142505,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142524,7 +142524,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142634,7 +142634,7 @@ I_events_0 = [
 ],
 "place": 1005,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142651,7 +142651,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142740,7 +142740,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142757,7 +142757,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142774,7 +142774,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142792,7 +142792,7 @@ I_events_0 = [
 ],
 "place": 817,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142810,7 +142810,7 @@ I_events_0 = [
 ],
 "place": 7,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142876,7 +142876,7 @@ I_events_0 = [
 ],
 "place": 906,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142895,7 +142895,7 @@ I_events_0 = [
 ],
 "place": 624,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142913,7 +142913,7 @@ I_events_0 = [
 ],
 "place": 624,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142931,7 +142931,7 @@ I_events_0 = [
 ],
 "place": 46,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -142998,7 +142998,7 @@ I_events_0 = [
 ],
 "place": 546,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143015,7 +143015,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -143030,7 +143030,7 @@ I_events_0 = [
 ],
 "place": 450,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143049,7 +143049,7 @@ I_events_0 = [
 ],
 "place": 451,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143101,7 +143101,7 @@ I_events_0 = [
 ],
 "place": 1029,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143119,7 +143119,7 @@ I_events_0 = [
 ],
 "place": 451,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143136,7 +143136,7 @@ I_events_0 = [
 ],
 "place": 906,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143154,7 +143154,7 @@ I_events_0 = [
 ],
 "place": 164,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143207,7 +143207,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143259,7 +143259,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143293,7 +143293,7 @@ I_events_0 = [
 ],
 "place": 556,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143310,7 +143310,7 @@ I_events_0 = [
 ],
 "place": 36,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143328,7 +143328,7 @@ I_events_0 = [
 ],
 "place": 168,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143396,7 +143396,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143513,7 +143513,7 @@ I_events_0 = [
 ],
 "place": 1009,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143530,7 +143530,7 @@ I_events_0 = [
 ],
 "place": 595,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143548,7 +143548,7 @@ I_events_0 = [
 ],
 "place": 801,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143565,7 +143565,7 @@ I_events_0 = [
 ],
 "place": 801,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143584,7 +143584,7 @@ I_events_0 = [
 ],
 "place": 801,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143669,7 +143669,7 @@ I_events_0 = [
 ],
 "place": 988,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143705,7 +143705,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nYlioppilasmatrikkelin mukaan noin 1685 syntynyt Andreas Strandman oli Pyh\u00e4j\u00e4rven ja K\u00e4kisalmen yhteinen kirkkoherra vuodesta 1721, vuodesta 1735 vain Pyh\u00e4j\u00e4rven kirkkoherra, ja erotettiin juopottelun ym. takia 1751. \n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143822,7 +143822,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -143872,7 +143872,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143889,7 +143889,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -143959,7 +143959,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -143977,7 +143977,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -144026,7 +144026,7 @@ I_events_0 = [
 ],
 "place": 449,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144043,7 +144043,7 @@ I_events_0 = [
 ],
 "place": 313,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144060,7 +144060,7 @@ I_events_0 = [
 ],
 "place": 313,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144077,7 +144077,7 @@ I_events_0 = [
 ],
 "place": 852,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144144,7 +144144,7 @@ I_events_0 = [
 ],
 "place": 829,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -144198,7 +144198,7 @@ I_events_0 = [
 ],
 "place": 643,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144215,7 +144215,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144234,7 +144234,7 @@ I_events_0 = [
 ],
 "place": 5,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144300,7 +144300,7 @@ I_events_0 = [
 ],
 "place": 294,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144335,7 +144335,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144422,7 +144422,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144440,7 +144440,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144458,7 +144458,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144563,7 +144563,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144580,7 +144580,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144666,7 +144666,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144684,7 +144684,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144770,7 +144770,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144841,7 +144841,7 @@ I_events_0 = [
 ],
 "place": 251,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144858,7 +144858,7 @@ I_events_0 = [
 ],
 "place": 75,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -144998,7 +144998,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145017,7 +145017,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145102,7 +145102,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145119,7 +145119,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145185,7 +145185,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145205,7 +145205,7 @@ I_events_0 = [
 ],
 "place": 863,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -145277,7 +145277,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145297,7 +145297,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145365,7 +145365,7 @@ I_events_0 = [
 ],
 "place": 865,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145450,7 +145450,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145468,7 +145468,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145485,7 +145485,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145618,7 +145618,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145637,7 +145637,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145707,7 +145707,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145725,7 +145725,7 @@ I_events_0 = [
 ],
 "place": 498,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145793,7 +145793,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145832,7 +145832,7 @@ I_events_0 = [
 ],
 "place": 498,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -145850,7 +145850,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146018,7 +146018,7 @@ I_events_0 = [
 ],
 "place": 315,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146037,7 +146037,7 @@ I_events_0 = [
 ],
 "place": 634,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146120,7 +146120,7 @@ I_events_0 = [
 ],
 "place": 232,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -146186,7 +146186,7 @@ I_events_0 = [
 ],
 "place": 451,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -146254,7 +146254,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146273,7 +146273,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146290,7 +146290,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -146357,7 +146357,7 @@ I_events_0 = [
 ],
 "place": 561,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146423,7 +146423,7 @@ I_events_0 = [
 ],
 "place": 1040,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146442,7 +146442,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -146510,7 +146510,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146529,7 +146529,7 @@ I_events_0 = [
 ],
 "place": 880,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146595,7 +146595,7 @@ I_events_0 = [
 ],
 "place": 12,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146612,7 +146612,7 @@ I_events_0 = [
 ],
 "place": 373,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -146661,7 +146661,7 @@ I_events_0 = [
 ],
 "place": 409,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146746,7 +146746,7 @@ I_events_0 = [
 ],
 "place": 511,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146763,7 +146763,7 @@ I_events_0 = [
 ],
 "place": 164,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146780,7 +146780,7 @@ I_events_0 = [
 ],
 "place": 190,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146797,7 +146797,7 @@ I_events_0 = [
 ],
 "place": 962,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146814,7 +146814,7 @@ I_events_0 = [
 ],
 "place": 934,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146831,7 +146831,7 @@ I_events_0 = [
 ],
 "place": 908,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146848,7 +146848,7 @@ I_events_0 = [
 ],
 "place": 409,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146865,7 +146865,7 @@ I_events_0 = [
 ],
 "place": 672,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -146914,7 +146914,7 @@ I_events_0 = [
 ],
 "place": 511,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146948,7 +146948,7 @@ I_events_0 = [
 ],
 "place": 33,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146965,7 +146965,7 @@ I_events_0 = [
 ],
 "place": 811,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -146982,7 +146982,7 @@ I_events_0 = [
 ],
 "place": 962,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -147087,7 +147087,7 @@ I_events_0 = [
 ],
 "place": 638,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147180,7 +147180,7 @@ I_events_0 = [
 ],
 "place": 565,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147267,7 +147267,7 @@ I_events_0 = [
 ],
 "place": 872,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147285,7 +147285,7 @@ I_events_0 = [
 ],
 "place": 697,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147353,7 +147353,7 @@ I_events_0 = [
 ],
 "place": 913,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147404,7 +147404,7 @@ I_events_0 = [
 ],
 "place": 913,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147422,7 +147422,7 @@ I_events_0 = [
 ],
 "place": 480,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147440,7 +147440,7 @@ I_events_0 = [
 ],
 "place": 915,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147511,7 +147511,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147528,7 +147528,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147617,7 +147617,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147634,7 +147634,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147783,7 +147783,7 @@ I_events_0 = [
 ],
 "place": 489,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147800,7 +147800,7 @@ I_events_0 = [
 ],
 "place": 18,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147821,7 +147821,7 @@ I_events_0 = [
 ],
 "place": 18,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147839,7 +147839,7 @@ I_events_0 = [
 ],
 "place": 18,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147942,7 +147942,7 @@ I_events_0 = [
 ],
 "place": 28,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -147961,7 +147961,7 @@ I_events_0 = [
 ],
 "place": 874,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148027,7 +148027,7 @@ I_events_0 = [
 ],
 "place": 9,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -148078,7 +148078,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148186,7 +148186,7 @@ I_events_0 = [
 ],
 "place": 709,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148203,7 +148203,7 @@ I_events_0 = [
 ],
 "place": 709,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148289,7 +148289,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148307,7 +148307,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148375,7 +148375,7 @@ I_events_0 = [
 ],
 "place": 694,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148392,7 +148392,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148410,7 +148410,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148427,7 +148427,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148516,7 +148516,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148602,7 +148602,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148619,7 +148619,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148638,7 +148638,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148655,7 +148655,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148673,7 +148673,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148742,7 +148742,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148762,7 +148762,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148848,7 +148848,7 @@ I_events_0 = [
 ],
 "place": 950,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148969,7 +148969,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -148988,7 +148988,7 @@ I_events_0 = [
 ],
 "place": 353,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149005,7 +149005,7 @@ I_events_0 = [
 ],
 "place": 192,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149094,7 +149094,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149113,7 +149113,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149199,7 +149199,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149287,7 +149287,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149375,7 +149375,7 @@ I_events_0 = [
 ],
 "place": 1024,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149494,7 +149494,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149580,7 +149580,7 @@ I_events_0 = [
 ],
 "place": 709,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149667,7 +149667,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149735,7 +149735,7 @@ I_events_0 = [
 ],
 "place": 424,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149801,7 +149801,7 @@ I_events_0 = [
 ],
 "place": 1040,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149818,7 +149818,7 @@ I_events_0 = [
 ],
 "place": 862,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149837,7 +149837,7 @@ I_events_0 = [
 ],
 "place": 286,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149855,7 +149855,7 @@ I_events_0 = [
 ],
 "place": 16,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -149905,7 +149905,7 @@ I_events_0 = [
 ],
 "place": 451,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -149923,7 +149923,7 @@ I_events_0 = [
 ],
 "place": 206,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -149972,7 +149972,7 @@ I_events_0 = [
 ],
 "place": 520,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -150021,7 +150021,7 @@ I_events_0 = [
 ],
 "place": 1031,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150142,7 +150142,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150160,7 +150160,7 @@ I_events_0 = [
 ],
 "place": 848,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150232,7 +150232,7 @@ I_events_0 = [
 ],
 "place": 502,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150252,7 +150252,7 @@ I_events_0 = [
 ],
 "place": 703,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150324,7 +150324,7 @@ I_events_0 = [
 ],
 "place": 392,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150412,7 +150412,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150429,7 +150429,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150446,7 +150446,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150515,7 +150515,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150636,7 +150636,7 @@ I_events_0 = [
 ],
 "place": 670,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150766,7 +150766,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -150959,7 +150959,7 @@ I_events_0 = [
 ],
 "place": 337,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -150991,7 +150991,7 @@ I_events_0 = [
 ],
 "place": 597,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -151024,7 +151024,7 @@ I_events_0 = [
 ],
 "place": 484,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151041,7 +151041,7 @@ I_events_0 = [
 ],
 "place": 944,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151058,7 +151058,7 @@ I_events_0 = [
 ],
 "place": 80,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151174,7 +151174,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -151259,7 +151259,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151398,7 +151398,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151416,7 +151416,7 @@ I_events_0 = [
 ],
 "place": 889,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151434,7 +151434,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151454,7 +151454,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151560,7 +151560,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151631,7 +151631,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151719,7 +151719,7 @@ I_events_0 = [
 ],
 "place": 219,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -151836,7 +151836,7 @@ I_events_0 = [
 ],
 "place": 256,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152011,7 +152011,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152029,7 +152029,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152046,7 +152046,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152070,7 +152070,7 @@ I_events_0 = [
 ],
 "place": 889,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152138,7 +152138,7 @@ I_events_0 = [
 ],
 "place": 693,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152238,7 +152238,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152257,7 +152257,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152327,7 +152327,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152345,7 +152345,7 @@ I_events_0 = [
 ],
 "place": 344,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152497,7 +152497,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152516,7 +152516,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152536,7 +152536,7 @@ I_events_0 = [
 ],
 "place": 482,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152622,7 +152622,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152639,7 +152639,7 @@ I_events_0 = [
 ],
 "place": 780,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152656,7 +152656,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152674,7 +152674,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152691,7 +152691,7 @@ I_events_0 = [
 ],
 "place": 994,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152759,7 +152759,7 @@ I_events_0 = [
 ],
 "place": 364,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152776,7 +152776,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152794,7 +152794,7 @@ I_events_0 = [
 ],
 "place": 330,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152930,7 +152930,7 @@ I_events_0 = [
 ],
 "place": 66,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -152994,7 +152994,7 @@ I_events_0 = [
 ],
 "place": 819,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153046,7 +153046,7 @@ I_events_0 = [
 ],
 "place": 737,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -153098,7 +153098,7 @@ I_events_0 = [
 ],
 "place": 97,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153116,7 +153116,7 @@ I_events_0 = [
 ],
 "place": 392,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153237,7 +153237,7 @@ I_events_0 = [
 ],
 "place": 864,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153308,7 +153308,7 @@ I_events_0 = [
 ],
 "place": 350,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153327,7 +153327,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153414,7 +153414,7 @@ I_events_0 = [
 ],
 "place": 444,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153432,7 +153432,7 @@ I_events_0 = [
 ],
 "place": 21,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153450,7 +153450,7 @@ I_events_0 = [
 ],
 "place": 21,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153536,7 +153536,7 @@ I_events_0 = [
 ],
 "place": 362,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153554,7 +153554,7 @@ I_events_0 = [
 ],
 "place": 210,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153573,7 +153573,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153591,7 +153591,7 @@ I_events_0 = [
 ],
 "place": 562,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153677,7 +153677,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153694,7 +153694,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153762,7 +153762,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153828,7 +153828,7 @@ I_events_0 = [
 ],
 "place": -1,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153846,7 +153846,7 @@ I_events_0 = [
 ],
 "place": 631,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153952,7 +153952,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153971,7 +153971,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -153988,7 +153988,7 @@ I_events_0 = [
 ],
 "place": 257,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154076,7 +154076,7 @@ I_events_0 = [
 ],
 "place": 401,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154093,7 +154093,7 @@ I_events_0 = [
 ],
 "place": 535,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154111,7 +154111,7 @@ I_events_0 = [
 ],
 "place": 147,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154128,7 +154128,7 @@ I_events_0 = [
 ],
 "place": 349,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154146,7 +154146,7 @@ I_events_0 = [
 ],
 "place": 746,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154233,7 +154233,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154250,7 +154250,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154320,7 +154320,7 @@ I_events_0 = [
 ],
 "place": 832,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154339,7 +154339,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154358,7 +154358,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154485,7 +154485,7 @@ I_events_0 = [
 ],
 "place": 947,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154563,7 +154563,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154650,7 +154650,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154669,7 +154669,7 @@ I_events_0 = [
 ],
 "place": 760,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154738,7 +154738,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154824,7 +154824,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -154991,7 +154991,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155010,7 +155010,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155098,7 +155098,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155166,7 +155166,7 @@ I_events_0 = [
 ],
 "place": 9,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155183,7 +155183,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155282,7 +155282,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155369,7 +155369,7 @@ I_events_0 = [
 ],
 "place": 784,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155388,7 +155388,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155491,7 +155491,7 @@ I_events_0 = [
 ],
 "place": 966,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155509,7 +155509,7 @@ I_events_0 = [
 ],
 "place": 995,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155527,7 +155527,7 @@ I_events_0 = [
 ],
 "place": 995,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155546,7 +155546,7 @@ I_events_0 = [
 ],
 "place": 874,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155563,7 +155563,7 @@ I_events_0 = [
 ],
 "place": 874,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -155616,7 +155616,7 @@ I_events_0 = [
 ],
 "place": 576,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155635,7 +155635,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155704,7 +155704,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155721,7 +155721,7 @@ I_events_0 = [
 ],
 "place": 352,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155812,7 +155812,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155917,7 +155917,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -155936,7 +155936,7 @@ I_events_0 = [
 ],
 "place": 552,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156042,7 +156042,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156128,7 +156128,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156146,7 +156146,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156213,7 +156213,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156231,7 +156231,7 @@ I_events_0 = [
 ],
 "place": 492,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -156304,7 +156304,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156325,7 +156325,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156413,7 +156413,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -156483,7 +156483,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -156534,7 +156534,7 @@ I_events_0 = [
 ],
 "place": 976,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -156653,7 +156653,7 @@ I_events_0 = [
 ],
 "place": 797,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156671,7 +156671,7 @@ I_events_0 = [
 ],
 "place": 316,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156688,7 +156688,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156705,7 +156705,7 @@ I_events_0 = [
 ],
 "place": 527,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156722,7 +156722,7 @@ I_events_0 = [
 ],
 "place": 184,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156739,7 +156739,7 @@ I_events_0 = [
 ],
 "place": 596,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156756,7 +156756,7 @@ I_events_0 = [
 ],
 "place": 316,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156774,7 +156774,7 @@ I_events_0 = [
 ],
 "place": 616,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156809,7 +156809,7 @@ I_events_0 = [
 ],
 "place": 805,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156826,7 +156826,7 @@ I_events_0 = [
 ],
 "place": 185,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156843,7 +156843,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156861,7 +156861,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156878,7 +156878,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156947,7 +156947,7 @@ I_events_0 = [
 ],
 "place": 632,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156967,7 +156967,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -156985,7 +156985,7 @@ I_events_0 = [
 ],
 "place": 985,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -157056,7 +157056,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157126,7 +157126,7 @@ I_events_0 = [
 ],
 "place": 888,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157192,7 +157192,7 @@ I_events_0 = [
 ],
 "place": 855,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157211,7 +157211,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157265,7 +157265,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157282,7 +157282,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157335,7 +157335,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157354,7 +157354,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157371,7 +157371,7 @@ I_events_0 = [
 ],
 "place": 231,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -157472,7 +157472,7 @@ I_events_0 = [
 ],
 "place": 572,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157543,7 +157543,7 @@ I_events_0 = [
 ],
 "place": 544,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157629,7 +157629,7 @@ I_events_0 = [
 ],
 "place": 63,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157701,7 +157701,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157718,7 +157718,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157822,7 +157822,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157841,7 +157841,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157909,7 +157909,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157977,7 +157977,7 @@ I_events_0 = [
 ],
 "place": 533,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -157994,7 +157994,7 @@ I_events_0 = [
 ],
 "place": 97,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158063,7 +158063,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158135,7 +158135,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158152,7 +158152,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158257,7 +158257,7 @@ I_events_0 = [
 ],
 "place": 49,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158274,7 +158274,7 @@ I_events_0 = [
 ],
 "place": 49,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158417,7 +158417,7 @@ I_events_0 = [
 ],
 "place": 146,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158505,7 +158505,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158525,7 +158525,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158592,7 +158592,7 @@ I_events_0 = [
 ],
 "place": 90,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -158646,7 +158646,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158750,7 +158750,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158821,7 +158821,7 @@ I_events_0 = [
 ],
 "place": 683,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -158912,7 +158912,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159000,7 +159000,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159070,7 +159070,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159145,7 +159145,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159215,7 +159215,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159283,7 +159283,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159302,7 +159302,7 @@ I_events_0 = [
 ],
 "place": 795,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -159353,7 +159353,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159370,7 +159370,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159387,7 +159387,7 @@ I_events_0 = [
 ],
 "place": 1006,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159475,7 +159475,7 @@ I_events_0 = [
 ],
 "place": 317,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159542,7 +159542,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159559,7 +159559,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -159629,7 +159629,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159715,7 +159715,7 @@ I_events_0 = [
 ],
 "place": 664,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159733,7 +159733,7 @@ I_events_0 = [
 ],
 "place": 1015,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159799,7 +159799,7 @@ I_events_0 = [
 ],
 "place": 76,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -159848,7 +159848,7 @@ I_events_0 = [
 ],
 "place": 1016,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159870,7 +159870,7 @@ I_events_0 = [
 ],
 "place": 76,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -159956,7 +159956,7 @@ I_events_0 = [
 ],
 "place": 397,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160024,7 +160024,7 @@ I_events_0 = [
 ],
 "place": 783,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160142,7 +160142,7 @@ I_events_0 = [
 ],
 "place": 336,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160232,7 +160232,7 @@ I_events_0 = [
 ],
 "place": 38,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160247,7 +160247,7 @@ I_events_0 = [
 ],
 "place": 38,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160298,7 +160298,7 @@ I_events_0 = [
 ],
 "place": 422,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160315,7 +160315,7 @@ I_events_0 = [
 ],
 "place": 509,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160332,7 +160332,7 @@ I_events_0 = [
 ],
 "place": 509,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160404,7 +160404,7 @@ I_events_0 = [
 ],
 "place": 38,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160489,7 +160489,7 @@ I_events_0 = [
 ],
 "place": 37,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160506,7 +160506,7 @@ I_events_0 = [
 ],
 "place": 925,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160568,7 +160568,7 @@ I_events_0 = [
 ],
 "place": 501,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160583,7 +160583,7 @@ I_events_0 = [
 ],
 "place": 37,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160598,7 +160598,7 @@ I_events_0 = [
 ],
 "place": 932,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160688,7 +160688,7 @@ I_events_0 = [
 ],
 "place": 508,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -160773,7 +160773,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160792,7 +160792,7 @@ I_events_0 = [
 ],
 "place": 52,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160860,7 +160860,7 @@ I_events_0 = [
 ],
 "place": 714,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160962,7 +160962,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -160980,7 +160980,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161046,7 +161046,7 @@ I_events_0 = [
 ],
 "place": 809,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -161119,7 +161119,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161141,7 +161141,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161158,7 +161158,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161176,7 +161176,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161194,7 +161194,7 @@ I_events_0 = [
 ],
 "place": 242,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161262,7 +161262,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161282,7 +161282,7 @@ I_events_0 = [
 ],
 "place": 1034,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161371,7 +161371,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161390,7 +161390,7 @@ I_events_0 = [
 ],
 "place": 718,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161498,7 +161498,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161517,7 +161517,7 @@ I_events_0 = [
 ],
 "place": 1035,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161604,7 +161604,7 @@ I_events_0 = [
 ],
 "place": 821,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161621,7 +161621,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161638,7 +161638,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161715,7 +161715,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161801,7 +161801,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161821,7 +161821,7 @@ I_events_0 = [
 ],
 "place": 1036,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161911,7 +161911,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -161929,7 +161929,7 @@ I_events_0 = [
 ],
 "place": 536,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162004,7 +162004,7 @@ I_events_0 = [
 ],
 "place": 273,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162091,7 +162091,7 @@ I_events_0 = [
 ],
 "place": 412,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [],
@@ -162168,7 +162168,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162274,7 +162274,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162292,7 +162292,7 @@ I_events_0 = [
 ],
 "place": 1050,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162360,7 +162360,7 @@ I_events_0 = [
 ],
 "place": 171,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162378,7 +162378,7 @@ I_events_0 = [
 ],
 "place": 1012,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162395,7 +162395,7 @@ I_events_0 = [
 ],
 "place": 270,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162513,7 +162513,7 @@ I_events_0 = [
 ],
 "place": 360,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162531,7 +162531,7 @@ I_events_0 = [
 ],
 "place": 769,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162632,7 +162632,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162705,7 +162705,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162773,7 +162773,7 @@ I_events_0 = [
 ],
 "place": 8,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162861,7 +162861,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162878,7 +162878,7 @@ I_events_0 = [
 ],
 "place": 1044,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -162965,7 +162965,7 @@ I_events_0 = [
 ],
 "place": 748,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163074,7 +163074,7 @@ I_events_0 = [
 ],
 "place": 73,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163162,7 +163162,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163180,7 +163180,7 @@ I_events_0 = [
 ],
 "place": 972,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163248,7 +163248,7 @@ I_events_0 = [
 ],
 "place": 1055,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163265,7 +163265,7 @@ I_events_0 = [
 ],
 "place": 1055,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163282,7 +163282,7 @@ I_events_0 = [
 ],
 "place": 1005,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
@@ -163299,7 +163299,7 @@ I_events_0 = [
 ],
 "place": 227,
 "text": "",
-"type": "Ammatti"
+"type": "Ammatti tai asema"
 },
 {
 "cita": [
