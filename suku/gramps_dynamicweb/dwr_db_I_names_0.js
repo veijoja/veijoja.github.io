@@ -696,6 +696,24 @@ I_names_0 = [
 ""
 ],
 "title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Anna Johansdotter",
+"given": "Anna",
+"nick": "",
+"note": "",
+"suffix": "Johansdotter",
+"surnames": [
+""
+],
+"title": "",
 "type": "Tuntematon"
 }
 ],
@@ -975,6 +993,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Ari",
+"given": "Ari",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Arvid",
 "given": "Arvid",
 "nick": "",
@@ -1232,6 +1268,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "Henricsdotter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Beata Johansdotter",
+"given": "Beata",
+"nick": "",
+"note": "",
+"suffix": "Johansdotter",
 "surnames": [
 ""
 ],
@@ -1667,6 +1721,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tuntematon"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Brita Knutsdotter",
+"given": "Brita",
+"nick": "",
+"note": "",
+"suffix": "Knutsdotter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -2215,6 +2287,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Chirstin Michelsdotter",
+"given": "Chirstin",
+"nick": "",
+"note": "",
+"suffix": "Michelsdotter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Chirstin Olsdotter",
 "given": "Chirstin",
 "nick": "",
@@ -2611,6 +2701,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Elin Mattsdotter",
+"given": "Elin",
+"nick": "",
+"note": "",
+"suffix": "Mattsdotter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Elin Pavelsdotter",
 "given": "Elin",
 "nick": "",
@@ -2655,6 +2763,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Elina Juhantyt\u00e4r",
+"given": "Elina",
+"nick": "",
+"note": "",
+"suffix": "Juhantyt\u00e4r",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -3095,6 +3221,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Hedvig Kristiina Erkintyt\u00e4r",
+"given": "Hedvig Kristiina",
+"nick": "",
+"note": "",
+"suffix": "Erkintyt\u00e4r",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Heikki",
+"given": "Heikki",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Helena",
 "given": "Helena",
 "nick": "",
@@ -3352,6 +3514,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "Larsson",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Johanna",
+"given": "Johanna",
+"nick": "",
+"note": "",
+"suffix": "",
 "surnames": [
 ""
 ],
@@ -3910,6 +4090,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "Andersdotter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Kirstin Jacobsdotter",
+"given": "Kirstin",
+"nick": "",
+"note": "",
+"suffix": "Jacobsdotter",
 "surnames": [
 ""
 ],
@@ -5825,6 +6023,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Mauno",
+"given": "Mauno",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Michel Hinckasson",
 "given": "Michel",
 "nick": "",
@@ -5961,6 +6177,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tuntematon"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Pia",
+"given": "Pia",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -6647,6 +6881,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Vilhelmiina Kallentyt\u00e4r",
+"given": "Vilhelmiina",
+"nick": "",
+"note": "",
+"suffix": "Kallentyt\u00e4r",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Walborg",
 "given": "Walborg",
 "nick": "",
@@ -6814,6 +7066,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "Henricsdotter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Walborg Henriksdotter",
+"given": "Walborg",
+"nick": "",
+"note": "",
+"suffix": "Henriksdotter",
 "surnames": [
 ""
 ],
@@ -7323,6 +7593,42 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Alakangas, Anna Maria Akselintyt\u00e4r",
+"given": "Anna Maria",
+"nick": "",
+"note": "",
+"suffix": "Akselintyt\u00e4r",
+"surnames": [
+"Alakangas"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Amnelin, Anna",
+"given": "Anna",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Amnelin"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -7943,6 +8249,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Cavall, Otto Gustafsson",
+"given": "Otto",
+"nick": "",
+"note": "",
+"suffix": "Gustafsson",
+"surnames": [
+"Cavall"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Crawford (Williams), Elsie Ellen",
 "given": "Elsie Ellen",
 "nick": "",
@@ -8357,6 +8681,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Ekbom, Johanna",
+"given": "Johanna",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Ekbom"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Ekel\u00f6f, Margareta Eriksdotter",
 "given": "Margareta",
 "nick": "",
@@ -8382,6 +8724,60 @@ I_names_0 = [
 "suffix": "Larsson",
 "surnames": [
 "Ekel\u00f6f i G\u00e4sterby"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Ekkil\u00e4, Leena Eliaantyt\u00e4r",
+"given": "Leena",
+"nick": "",
+"note": "",
+"suffix": "Eliaantyt\u00e4r",
+"surnames": [
+"Ekkil\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elfvenberg, Susanna Elisabet",
+"given": "Susanna Elisabet",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Elfvenberg"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Elg, Anna Carlsdotter",
+"given": "Anna",
+"nick": "",
+"note": "",
+"suffix": "Carlsdotter",
+"surnames": [
+"Elg"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -8812,6 +9208,42 @@ I_names_0 = [
 "suffix": "Sigfridi",
 "surnames": [
 "Forssk\u00e5hl"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Friis, Christina Henriksdotter",
+"given": "Christina",
+"nick": "",
+"note": "",
+"suffix": "Henriksdotter",
+"surnames": [
+"Friis"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Friis, Henrich",
+"given": "Henrich",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Friis"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -10887,6 +11319,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Hirvel\u00e4, Eeva Margareta Matintyt\u00e4r",
+"given": "Eeva Margareta",
+"nick": "",
+"note": "",
+"suffix": "Matintyt\u00e4r",
+"surnames": [
+"Hirvel\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Hoffman, Margareta",
+"given": "Margareta",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Hoffman"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Hohtari, Carl Martinsson",
 "given": "Carl",
 "nick": "",
@@ -11205,8 +11673,8 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-3625,
-3627
+3891,
+3893
 ],
 "date": "",
 "fam_nick": "",
@@ -11858,6 +12326,58 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Hulipas, Henrik Johansson",
+"given": "Henrik",
+"nick": "",
+"note": "",
+"suffix": "Johansson",
+"surnames": [
+"Hulipas"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Hulipas, Simo Heikinpoika",
+"given": "Simo",
+"nick": "",
+"note": "",
+"suffix": "Heikinpoika",
+"surnames": [
+"Hulipas"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "P\u00e4rri",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"P\u00e4rri"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Humalainen, Katarina Johansdotter",
 "given": "Katarina",
 "nick": "",
@@ -11868,6 +12388,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Huntila, Matts S\u00f6fringsson",
+"given": "Matts",
+"nick": "",
+"note": "",
+"suffix": "S\u00f6fringsson",
+"surnames": [
+"Huntila"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -12341,6 +12879,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "Erichsdotter",
+"surnames": [
+"H\u00e4kkinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "H\u00e4kkinen, Elin Simonsdotter",
+"given": "Elin",
+"nick": "",
+"note": "",
+"suffix": "Simonsdotter",
 "surnames": [
 "H\u00e4kkinen"
 ],
@@ -14518,9 +15074,9 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "J\u00e4ppinen, Aino",
-"given": "Aino",
-"nick": "",
+"full": "J\u00e4ppinen, Aina",
+"given": "Aina",
+"nick": "Aino",
 "note": "",
 "suffix": "",
 "surnames": [
@@ -15018,6 +15574,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "J\u00e4rvenp\u00e4\u00e4, Vilhelmina Juhontyt\u00e4r",
+"given": "Vilhelmina",
+"nick": "",
+"note": "",
+"suffix": "Juhontyt\u00e4r",
+"surnames": [
+"J\u00e4rvenp\u00e4\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "J\u00e4rvensivu, Eric Johan Johansson",
 "given": "Eric Johan",
 "nick": "",
@@ -15147,6 +15721,24 @@ I_names_0 = [
 "suffix": "Johansson",
 "surnames": [
 "J\u00e4rvensivu"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "J\u00e4rvinen, Anian Juhonpoika",
+"given": "Anian",
+"nick": "",
+"note": "",
+"suffix": "Juhonpoika",
+"surnames": [
+"J\u00e4rvinen"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -18164,6 +18756,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Koppeloj\u00e4rvi, Kustaava Manuntyt\u00e4r",
+"given": "Kustaava",
+"nick": "",
+"note": "",
+"suffix": "Manuntyt\u00e4r",
+"surnames": [
+"Koppeloj\u00e4rvi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Kopra, Maria",
 "given": "Maria",
 "nick": "",
@@ -18910,6 +19520,40 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kukkula, Justinus Justinuksenpoika",
+"given": "Justinus",
+"nick": "",
+"note": "",
+"suffix": "Justinuksenpoika",
+"surnames": [
+"Kukkula"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rautanen",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rautanen"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -20078,6 +20722,112 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Laaksi, Akseli Erkki",
+"given": "Akseli Erkki",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "M\u00e4kel\u00e4",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"M\u00e4kel\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laaksi, Emanuel Johansson",
+"given": "Emanuel",
+"nick": "",
+"note": "",
+"suffix": "Johansson",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laaksi, Johan Johansson",
+"given": "Johan",
+"nick": "",
+"note": "",
+"suffix": "Johansson",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laaksi, Johan Thomasson",
+"given": "Johan",
+"nick": "",
+"note": "",
+"suffix": "Thomasson",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laaksi, J\u00f6ren Ohlsson",
+"given": "J\u00f6ren",
+"nick": "",
+"note": "",
+"suffix": "Ohlsson",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Laaksi, J\u00f6ren P\u00e5fwelsson",
 "given": "J\u00f6ren",
 "nick": "",
@@ -20130,6 +20880,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Laaksi, Olof P\u00e5hlsson",
+"given": "Olof",
+"nick": "",
+"note": "",
+"suffix": "P\u00e5hlsson",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Laaksi, P\u00e5fwel J\u00f6ransson",
 "given": "P\u00e5fwel",
 "nick": "",
@@ -20174,6 +20942,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laaksi, Thomas J\u00f6ransson",
+"given": "Thomas",
+"nick": "",
+"note": "",
+"suffix": "J\u00f6ransson",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -20578,6 +21364,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Lepp\u00e4j\u00e4rvi, Stina Liisa Kustaantyt\u00e4r",
+"given": "Stina Liisa",
+"nick": "",
+"note": "",
+"suffix": "Kustaantyt\u00e4r",
+"surnames": [
+"Lepp\u00e4j\u00e4rvi"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Lepp\u00e4nen, Anders",
 "given": "Anders",
 "nick": "",
@@ -20675,6 +21479,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Liimatta"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Lilius, Maria Elisabeth",
+"given": "Maria Elisabeth",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lilius"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -22152,6 +22974,110 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Mattila, Ida Juhontyt\u00e4r",
+"given": "Ida",
+"nick": "",
+"note": "",
+"suffix": "Juhontyt\u00e4r",
+"surnames": [
+"Mattila"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mattila, Juho Yrj\u00f6npoika",
+"given": "Juho",
+"nick": "",
+"note": "",
+"suffix": "Yrj\u00f6npoika",
+"surnames": [
+"Mattila"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mattila, Juho Kustaa Juhonpoika",
+"given": "Juho Kustaa",
+"nick": "",
+"note": "",
+"suffix": "Juhonpoika",
+"surnames": [
+"Mattila"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Mattila, Juho Oskar Juhonpoika",
+"given": "Juho Oskar",
+"nick": "",
+"note": "",
+"suffix": "Juhonpoika",
+"surnames": [
+"Mattila"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kangasniemi",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Kangasniemi"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "J\u00e4rvenp\u00e4\u00e4",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"J\u00e4rvenp\u00e4\u00e4"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Mattila, Kalle Kustaanpoika",
 "given": "Kalle",
 "nick": "",
@@ -22641,6 +23567,58 @@ I_names_0 = [
 "suffix": "J\u00f6ransson",
 "surnames": [
 "Minkkinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Moisio, Aino",
+"given": "Aino",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Moisio"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "J\u00e4rvinen",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"J\u00e4rvinen"
+],
+"title": "",
+"type": "Avionimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Moisio, Juho Vilhelm Kustaanpoika",
+"given": "Juho Vilhelm",
+"nick": "",
+"note": "",
+"suffix": "Kustaanpoika",
+"surnames": [
+"Moisio"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -23712,6 +24690,60 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "M\u00e4kel\u00e4, Kaarle Henrik Samulinpoika",
+"given": "Kaarle Henrik",
+"nick": "",
+"note": "",
+"suffix": "Samulinpoika",
+"surnames": [
+"M\u00e4kel\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "M\u00e4kel\u00e4, Samuli Tuomaanpoika",
+"given": "Samuli",
+"nick": "",
+"note": "",
+"suffix": "Tuomaanpoika",
+"surnames": [
+"M\u00e4kel\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "M\u00e4kel\u00e4, Tuomas Manunpoika",
+"given": "Tuomas",
+"nick": "",
+"note": "",
+"suffix": "Manunpoika",
+"surnames": [
+"M\u00e4kel\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "M\u00e4kel\u00e4inen, Helga Helena Frantzdotter",
 "given": "Helga Helena",
 "nick": "",
@@ -23824,6 +24856,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "M\u00e4ki-Siukola, Kustaa Adolf Joonaanpoika",
+"given": "Kustaa Adolf",
+"nick": "",
+"note": "",
+"suffix": "Joonaanpoika",
+"surnames": [
+"M\u00e4ki-Siukola"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -23990,11 +25040,47 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "M\u00e4ntt\u00e4, Heta Kristiina Juhontyt\u00e4r",
+"given": "Heta Kristiina",
+"nick": "",
+"note": "",
+"suffix": "Juhontyt\u00e4r",
+"surnames": [
+"M\u00e4ntt\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "M\u00e4ntt\u00e4, Johan Marcusson",
 "given": "Johan",
 "nick": "",
 "note": "",
 "suffix": "Marcusson",
+"surnames": [
+"M\u00e4ntt\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "M\u00e4ntt\u00e4, Juho Markuksenpoika",
+"given": "Juho",
+"nick": "",
+"note": "",
+"suffix": "Markuksenpoika",
 "surnames": [
 "M\u00e4ntt\u00e4"
 ],
@@ -24710,6 +25796,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Nikin-Eskola, Kalle Matinpoika",
+"given": "Kalle",
+"nick": "",
+"note": "",
+"suffix": "Matinpoika",
+"surnames": [
+"Nikin-Eskola"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Nikkil\u00e4, Christina Urbanusdotter",
 "given": "Christina",
 "nick": "",
@@ -25399,6 +26503,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Nurkka"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Nyman, Antti Kustaa Antinpoika",
+"given": "Antti Kustaa",
+"nick": "",
+"note": "",
+"suffix": "Antinpoika",
+"surnames": [
+"Nyman"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -27252,6 +28374,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Penttil\u00e4, Matts J\u00f6ransson",
+"given": "Matts",
+"nick": "",
+"note": "",
+"suffix": "J\u00f6ransson",
+"surnames": [
+"Penttil\u00e4"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Penttinen, Catharina Mattsdotter",
 "given": "Catharina",
 "nick": "",
@@ -27277,6 +28417,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Penttinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Perttula, Maria Andersdotter",
+"given": "Maria",
+"nick": "",
+"note": "",
+"suffix": "Andersdotter",
+"surnames": [
+"Perttula"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -27422,6 +28580,56 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Pirttisarka, Emanuel Matinpoika",
+"given": "Emanuel",
+"nick": "Manu",
+"note": "",
+"suffix": "Matinpoika",
+"surnames": [
+"Pirttisarka"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "P\u00e4rri",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"P\u00e4rri"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Rassi",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Rassi"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -28558,6 +29766,60 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Pyk\u00e4list\u00f6, Heta Liisa Juhontyt\u00e4r",
+"given": "Heta Liisa",
+"nick": "",
+"note": "",
+"suffix": "Juhontyt\u00e4r",
+"surnames": [
+"Pyk\u00e4list\u00f6"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Pylkki, Benjamin Antinpoika",
+"given": "Benjamin",
+"nick": "",
+"note": "",
+"suffix": "Antinpoika",
+"surnames": [
+"Pylkki"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Pylkki, Johan Erik Andersson",
+"given": "Johan Erik",
+"nick": "",
+"note": "",
+"suffix": "Andersson",
+"surnames": [
+"Pylkki"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Pyykk\u00f6, Walborg Michelsdotter",
 "given": "Walborg",
 "nick": "",
@@ -28565,6 +29827,42 @@ I_names_0 = [
 "suffix": "Michelsdotter",
 "surnames": [
 "Pyykk\u00f6"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "P\u00e4rri, Johanna Kustaava Simontyt\u00e4r",
+"given": "Johanna Kustaava",
+"nick": "",
+"note": "",
+"suffix": "Simontyt\u00e4r",
+"surnames": [
+"P\u00e4rri"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "P\u00e4rri, Maria Heikintyt\u00e4r",
+"given": "Maria",
+"nick": "",
+"note": "",
+"suffix": "Heikintyt\u00e4r",
+"surnames": [
+"P\u00e4rri"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -31872,6 +33170,60 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Salvenius, Anders Johan",
+"given": "Anders Johan",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Salvenius"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Salvenius, Christina Elisabeth Andersdotter",
+"given": "Christina Elisabeth",
+"nick": "",
+"note": "",
+"suffix": "Andersdotter",
+"surnames": [
+"Salvenius"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Salvenius, Erik Mattson",
+"given": "Erik",
+"nick": "",
+"note": "",
+"suffix": "Mattson",
+"surnames": [
+"Salvenius"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Sandb\u00e4ck, Matts Mattsson",
 "given": "Matts",
 "nick": "",
@@ -33637,6 +34989,42 @@ I_names_0 = [
 "suffix": "Henrichsdotter",
 "surnames": [
 "Suluslahti"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sundstr\u00f6m, Henrik Mattsson",
+"given": "Henrik",
+"nick": "",
+"note": "",
+"suffix": "Mattsson",
+"surnames": [
+"Sundstr\u00f6m"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Sundstr\u00f6m, Maria Elisabeth Henricsdotter",
+"given": "Maria Elisabeth",
+"nick": "",
+"note": "",
+"suffix": "Henricsdotter",
+"surnames": [
+"Sundstr\u00f6m"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -35568,6 +36956,40 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Tuominen, Aili Sisko",
+"given": "Aili Sisko",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Tuominen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laaksi",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Laaksi"
+],
+"title": "",
+"type": "Avionimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Tuottinen, Knut",
 "given": "Knut",
 "nick": "",
@@ -35629,6 +37051,60 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Turve"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "T\u00f6rnqvist, Johan",
+"given": "Johan",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"T\u00f6rnqvist"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "T\u00f6rnqvist, Johan Johansson",
+"given": "Johan",
+"nick": "",
+"note": "",
+"suffix": "Johansson",
+"surnames": [
+"T\u00f6rnqvist"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "T\u00f6rnqvist, Johanna Johansdotter",
+"given": "Johanna",
+"nick": "",
+"note": "",
+"suffix": "Johansdotter",
+"surnames": [
+"T\u00f6rnqvist"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -36113,6 +37589,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "Mattsson",
+"surnames": [
+"Vessari"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Vessari, Brita Andreasdotter",
+"given": "Brita",
+"nick": "",
+"note": "",
+"suffix": "Andreasdotter",
 "surnames": [
 "Vessari"
 ],
@@ -37463,6 +38957,42 @@ I_names_0 = [
 "suffix": "Gabrielsdotter",
 "surnames": [
 "Yl\u00e4-H\u00e4kkinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Yl\u00e4-Nikkil\u00e4, Johanna Heikintyt\u00e4r",
+"given": "Johanna",
+"nick": "",
+"note": "",
+"suffix": "Heikintyt\u00e4r",
+"surnames": [
+"Yl\u00e4-Nikkil\u00e4"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Yrj\u00f6l\u00e4, Amanda Mathilda Erkintyt\u00e4r",
+"given": "Amanda Mathilda",
+"nick": "Manta Tilta",
+"note": "",
+"suffix": "Erkintyt\u00e4r",
+"surnames": [
+"Yrj\u00f6l\u00e4"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"

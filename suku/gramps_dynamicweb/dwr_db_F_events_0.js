@@ -4,7 +4,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2286
+2441
 ],
 "date": "1754-12-26",
 "date_sdn": 2362055,
@@ -13,7 +13,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 23,
+"place": 29,
 "text": "",
 "type": "Avioliitto"
 }
@@ -21,7 +21,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2020
+2157
 ],
 "date": "1751-12-09",
 "date_sdn": 2360942,
@@ -30,7 +30,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 362,
+"place": 405,
 "text": "",
 "type": "Avioliitto"
 }
@@ -129,7 +129,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4619
+4981
 ],
 "date": "1720-06-02",
 "date_sdn": 2349430,
@@ -138,7 +138,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 622,
+"place": 678,
 "text": "",
 "type": "Avioliitto"
 }
@@ -150,6 +150,21 @@ F_events_0 = [
 "date_sdn": 0,
 "descr": "",
 "gid": "E06995",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E08661",
 "media": [],
 "part_family": [],
 "part_person": [],
@@ -178,7 +193,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4824
+5202
 ],
 "date": "1721-12-15",
 "date_sdn": 2349991,
@@ -187,7 +202,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 141,
+"place": 156,
 "text": "",
 "type": "Avioliitto"
 }
@@ -195,7 +210,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5042
+5440
 ],
 "date": "1760-10-12",
 "date_sdn": 2364172,
@@ -204,7 +219,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 878,
+"place": 965,
 "text": "",
 "type": "Avioliitto"
 }
@@ -261,7 +276,7 @@ F_events_0 = [
 [
 {
 "cita": [
-64
+70
 ],
 "date": "1642",
 "date_sdn": 2320789,
@@ -270,7 +285,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 101,
+"place": 115,
 "text": "",
 "type": "Avioliitto"
 }
@@ -358,7 +373,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2737
+2929
 ],
 "date": "1802-11-07",
 "date_sdn": 2379537,
@@ -367,7 +382,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 214,
+"place": 245,
 "text": "",
 "type": "Avioliitto"
 }
@@ -387,6 +402,7 @@ F_events_0 = [
 "type": "Avioliitto"
 }
 ],
+[],
 [],
 [
 {
@@ -421,8 +437,8 @@ F_events_0 = [
 [
 {
 "cita": [
-60,
-5806
+66,
+6244
 ],
 "date": "1536",
 "date_sdn": 2282072,
@@ -485,7 +501,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1990
+2125
 ],
 "date": "noin 1600",
 "date_sdn": 2305448,
@@ -502,7 +518,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3637
+3903
 ],
 "date": "1781-06-04",
 "date_sdn": 2371712,
@@ -511,7 +527,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1000,
+"place": 1095,
 "text": "",
 "type": "Avioliitto"
 }
@@ -534,7 +550,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3010
+3229
 ],
 "date": "1779-12-01",
 "date_sdn": 2371161,
@@ -543,7 +559,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 713,
+"place": 783,
 "text": "",
 "type": "Avioliitto"
 }
@@ -612,7 +628,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6346
+6788
 ],
 "date": "1756-12-15",
 "date_sdn": 2362775,
@@ -621,7 +637,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -659,7 +675,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6394
+6836
 ],
 "date": "1763-12-14",
 "date_sdn": 2365330,
@@ -668,7 +684,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -676,7 +692,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6357
+6799
 ],
 "date": "1773-12-15",
 "date_sdn": 2368984,
@@ -685,7 +701,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -693,7 +709,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3640
+3906
 ],
 "date": "1733-12-26",
 "date_sdn": 2354385,
@@ -702,7 +718,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 714,
+"place": 784,
 "text": "",
 "type": "Avioliitto"
 }
@@ -755,7 +771,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6232
+6674
 ],
 "date": "1786-05-24",
 "date_sdn": 2373527,
@@ -764,7 +780,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -772,7 +788,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6273
+6715
 ],
 "date": "1753-01-17",
 "date_sdn": 2361347,
@@ -781,7 +797,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -895,7 +911,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2817
+3015
 ],
 "date": "1756-06-24",
 "date_sdn": 2362601,
@@ -904,7 +920,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 961,
+"place": 1055,
 "text": "",
 "type": "Avioliitto"
 }
@@ -912,7 +928,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2071
+2214
 ],
 "date": "1791-10-13",
 "date_sdn": 2375495,
@@ -921,7 +937,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 499,
+"place": 546,
 "text": "",
 "type": "Avioliitto"
 }
@@ -929,7 +945,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2046
+2186
 ],
 "date": "1785-01-30",
 "date_sdn": 2373048,
@@ -938,7 +954,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 478,
+"place": 523,
 "text": "",
 "type": "Avioliitto"
 }
@@ -961,7 +977,7 @@ F_events_0 = [
 [
 {
 "cita": [
-130
+138
 ],
 "date": "noin 1681",
 "date_sdn": 2335034,
@@ -1098,6 +1114,23 @@ F_events_0 = [
 ],
 [
 {
+"cita": [
+3974
+],
+"date": "1782-12-27",
+"date_sdn": 2372283,
+"descr": "",
+"gid": "E05770",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 201,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
@@ -1191,7 +1224,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2642
+2821
 ],
 "date": "1831-07-07",
 "date_sdn": 2390006,
@@ -1200,7 +1233,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 361,
+"place": 404,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1208,7 +1241,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2674
+2859
 ],
 "date": "1796-06-24",
 "date_sdn": 2377211,
@@ -1217,7 +1250,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 179,
+"place": 200,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1240,7 +1273,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3008
+3227
 ],
 "date": "1767-01-25",
 "date_sdn": 2366468,
@@ -1249,7 +1282,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 783,
+"place": 860,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1257,7 +1290,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4361
+4676
 ],
 "date": "1743-12-28",
 "date_sdn": 2358039,
@@ -1266,7 +1299,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 987,
+"place": 1081,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1319,7 +1352,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5146
+5549
 ],
 "date": "1834-12-26",
 "date_sdn": 2391274,
@@ -1328,7 +1361,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 96,
+"place": 110,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1336,7 +1369,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2081
+2226
 ],
 "date": "1791-12-28",
 "date_sdn": 2375571,
@@ -1345,7 +1378,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 465,
+"place": 510,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1353,7 +1386,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4084
+4380
 ],
 "date": "1811-02-12",
 "date_sdn": 2382556,
@@ -1362,7 +1395,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 783,
+"place": 860,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1522,7 +1555,7 @@ F_events_0 = [
 [
 {
 "cita": [
-121
+129
 ],
 "date": "noin 1557",
 "date_sdn": 2289743,
@@ -1569,7 +1602,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2253
+2408
 ],
 "date": "1745-12-29",
 "date_sdn": 2358771,
@@ -1578,7 +1611,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 600,
+"place": 655,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1643,6 +1676,23 @@ F_events_0 = [
 "type": "Avioliitto"
 }
 ],
+[
+{
+"cita": [
+460
+],
+"date": "1689-10-12",
+"date_sdn": 2338240,
+"descr": "",
+"gid": "E06654",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 949,
+"text": "",
+"type": "Avioliitto"
+}
+],
 [],
 [],
 [
@@ -1694,7 +1744,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6198
+6640
 ],
 "date": "1765-12-11",
 "date_sdn": 2366058,
@@ -1703,7 +1753,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1711,7 +1761,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6249
+6691
 ],
 "date": "1792-12-12",
 "date_sdn": 2375921,
@@ -1720,7 +1770,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1728,8 +1778,8 @@ F_events_0 = [
 [
 {
 "cita": [
-4056,
-4660
+4348,
+5031
 ],
 "date": "1722-12-26",
 "date_sdn": 2350367,
@@ -1738,7 +1788,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1746,7 +1796,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5047
+5445
 ],
 "date": "1816-12-26",
 "date_sdn": 2384700,
@@ -1755,7 +1805,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 709,
+"place": 779,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1763,7 +1813,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2368
+2530
 ],
 "date": "1824-12-26",
 "date_sdn": 2387622,
@@ -1772,7 +1822,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1048,
+"place": 1147,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1781,7 +1831,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2576
+2749
 ],
 "date": "1731-03-08",
 "date_sdn": 2353361,
@@ -1790,7 +1840,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 476,
+"place": 521,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1813,7 +1863,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4752
+5127
 ],
 "date": "1730-11-30",
 "date_sdn": 2353263,
@@ -1822,7 +1872,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 680,
+"place": 747,
 "text": "",
 "type": "Avioliitto"
 }
@@ -1868,7 +1918,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 732,
+"place": 803,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2032,7 +2082,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2494
+2664
 ],
 "date": "1759-12-19",
 "date_sdn": 2363874,
@@ -2041,7 +2091,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 352,
+"place": 394,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2172,7 +2222,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4825
+5203
 ],
 "date": "1746-11-30",
 "date_sdn": 2359107,
@@ -2181,7 +2231,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 780,
+"place": 857,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2204,7 +2254,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5633
+6067
 ],
 "date": "1869-04-25",
 "date_sdn": 2403813,
@@ -2213,7 +2263,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 146,
+"place": 162,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2221,7 +2271,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4617
+4978
 ],
 "date": "1723-04-12",
 "date_sdn": 2350474,
@@ -2230,7 +2280,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2238,7 +2288,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4620
+4982
 ],
 "date": "1744-12-09",
 "date_sdn": 2358386,
@@ -2247,7 +2297,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 783,
+"place": 860,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2271,7 +2321,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5409
+5833
 ],
 "date": "noin 1789",
 "date_sdn": 2374480,
@@ -2288,7 +2338,7 @@ F_events_0 = [
 [
 {
 "cita": [
-64
+70
 ],
 "date": "1637",
 "date_sdn": 2318963,
@@ -2297,7 +2347,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 101,
+"place": 115,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2305,7 +2355,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6216
+6658
 ],
 "date": "1768-12-14",
 "date_sdn": 2367157,
@@ -2314,7 +2364,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2322,7 +2372,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1910
+2041
 ],
 "date": "1725-12-26",
 "date_sdn": 2351463,
@@ -2331,7 +2381,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2339,7 +2389,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2962
+3178
 ],
 "date": "1799-12-11",
 "date_sdn": 2378476,
@@ -2348,7 +2398,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2356,7 +2406,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5134
+5536
 ],
 "date": "1905-06-18",
 "date_sdn": 2417015,
@@ -2365,7 +2415,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2373,7 +2423,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4334
+4647
 ],
 "date": "1838-12-26",
 "date_sdn": 2392735,
@@ -2382,7 +2432,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2390,7 +2440,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2810
+3007
 ],
 "date": "1885-06-28",
 "date_sdn": 2409721,
@@ -2399,7 +2449,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 972,
+"place": 1066,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2407,7 +2457,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5371
+5793
 ],
 "date": "1867-02-10",
 "date_sdn": 2403008,
@@ -2416,7 +2466,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2499,7 +2549,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5414
+5838
 ],
 "date": "1868-07-05",
 "date_sdn": 2403519,
@@ -2508,7 +2558,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2516,7 +2566,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3592
+3857
 ],
 "date": "1888-10-21",
 "date_sdn": 2410932,
@@ -2525,7 +2575,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2565,7 +2615,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5045
+5443
 ],
 "date": "1805-12-10",
 "date_sdn": 2380666,
@@ -2574,7 +2624,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 383,
+"place": 427,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2582,7 +2632,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6249
+6691
 ],
 "date": "1792-12-12",
 "date_sdn": 2375921,
@@ -2591,7 +2641,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2599,7 +2649,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3640
+3906
 ],
 "date": "1733-12-26",
 "date_sdn": 2354385,
@@ -2608,7 +2658,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 706,
+"place": 776,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2616,7 +2666,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1747
+1863
 ],
 "date": "1808-12-13",
 "date_sdn": 2381765,
@@ -2625,7 +2675,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2633,7 +2683,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2568
+2741
 ],
 "date": "1842-06-24",
 "date_sdn": 2394011,
@@ -2642,7 +2692,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 544,
+"place": 593,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2650,7 +2700,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3907
+4189
 ],
 "date": "1834-06-29",
 "date_sdn": 2391094,
@@ -2659,7 +2709,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2667,7 +2717,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5354
+5772
 ],
 "date": "1744",
 "date_sdn": 2358043,
@@ -2676,7 +2726,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1024,
+"place": 1120,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2684,7 +2734,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3130
+3366
 ],
 "date": "1769-12-13",
 "date_sdn": 2367521,
@@ -2693,7 +2743,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 75,
+"place": 88,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2701,7 +2751,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4865
+5248
 ],
 "date": "1709-03-23",
 "date_sdn": 2345341,
@@ -2710,7 +2760,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 350,
+"place": 392,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2718,7 +2768,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6341
+6783
 ],
 "date": "1771-12-11",
 "date_sdn": 2368249,
@@ -2727,7 +2777,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2812,7 +2862,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2978
+3196
 ],
 "date": "1745-04-08",
 "date_sdn": 2358506,
@@ -2821,7 +2871,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 30,
+"place": 37,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2862,7 +2912,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2070
+2212
 ],
 "date": "1734-12-28",
 "date_sdn": 2354752,
@@ -2871,7 +2921,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 18,
+"place": 22,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2879,7 +2929,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2237
+2391
 ],
 "date": "1763-09-29",
 "date_sdn": 2365254,
@@ -2888,7 +2938,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 995,
+"place": 1090,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2927,7 +2977,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6229
+6671
 ],
 "date": "1785-12-14",
 "date_sdn": 2373366,
@@ -2936,7 +2986,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2944,7 +2994,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3640
+3906
 ],
 "date": "1733-12-26",
 "date_sdn": 2354385,
@@ -2953,7 +3003,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -2976,7 +3026,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2240
+2394
 ],
 "date": "1813-12-26",
 "date_sdn": 2383604,
@@ -2985,7 +3035,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 73,
+"place": 85,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3038,7 +3088,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5245
+5655
 ],
 "date": "noin 1656",
 "date_sdn": 2325902,
@@ -3190,6 +3240,59 @@ F_events_0 = [
 ],
 [
 {
+"cita": [
+3721
+],
+"date": "1778-04-05",
+"date_sdn": 2370556,
+"descr": "",
+"gid": "E05665",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 704,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+1845,
+4837
+],
+"date": "noin 1818-09-07",
+"date_sdn": 2385320,
+"descr": "",
+"gid": "E05841",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 604,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+3295
+],
+"date": "1812-07-12",
+"date_sdn": 2383072,
+"descr": "",
+"gid": "E05824",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 773,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[],
+[
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
@@ -3268,7 +3371,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6357
+6799
 ],
 "date": "1773-01-20",
 "date_sdn": 2368655,
@@ -3277,7 +3380,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 419,
+"place": 463,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3330,7 +3433,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5046
+5444
 ],
 "date": "1724-12-26",
 "date_sdn": 2351098,
@@ -3339,7 +3442,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 706,
+"place": 776,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3408,7 +3511,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3640
+3906
 ],
 "date": "1733-12-26",
 "date_sdn": 2354385,
@@ -3417,7 +3520,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3440,7 +3543,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6394
+6836
 ],
 "date": "1763-12-14",
 "date_sdn": 2365330,
@@ -3449,7 +3552,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3472,7 +3575,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4368
+4683
 ],
 "date": "1769-11-22",
 "date_sdn": 2367500,
@@ -3481,7 +3584,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 86,
+"place": 100,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3489,7 +3592,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3131
+3367
 ],
 "date": "1840-11-22",
 "date_sdn": 2393432,
@@ -3498,7 +3601,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 147,
+"place": 163,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3506,7 +3609,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4376
+4692
 ],
 "date": "1820-05-22",
 "date_sdn": 2385943,
@@ -3515,7 +3618,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 947,
+"place": 1039,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3538,7 +3641,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5151
+5554
 ],
 "date": "1741-06-14",
 "date_sdn": 2357112,
@@ -3547,7 +3650,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 86,
+"place": 100,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3555,7 +3658,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4737
+5112
 ],
 "date": "1729",
 "date_sdn": 2352565,
@@ -3564,7 +3667,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 531,
+"place": 580,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3617,7 +3720,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3979
+4266
 ],
 "date": "1810-01-23",
 "date_sdn": 2382171,
@@ -3626,7 +3729,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 592,
+"place": 647,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3634,7 +3737,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2816
+3014
 ],
 "date": "1796-12-28",
 "date_sdn": 2377398,
@@ -3643,7 +3746,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3681,7 +3784,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4581
+4939
 ],
 "date": "1821-11-18",
 "date_sdn": 2386488,
@@ -3690,7 +3793,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3699,7 +3802,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2494
+2664
 ],
 "date": "1760-01-02",
 "date_sdn": 2363888,
@@ -3708,7 +3811,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 784,
+"place": 861,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3747,7 +3850,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4847
+5228
 ],
 "date": "1705-02-12",
 "date_sdn": 2343841,
@@ -3756,7 +3859,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 89,
+"place": 103,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3764,7 +3867,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4941
+5328
 ],
 "date": "1721-05-31",
 "date_sdn": 2349793,
@@ -3773,7 +3876,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 728,
+"place": 799,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3781,7 +3884,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6346
+6788
 ],
 "date": "1757-04-20",
 "date_sdn": 2362901,
@@ -3790,7 +3893,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 315,
+"place": 356,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3798,7 +3901,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6329
+6771
 ],
 "date": "1755-03-05",
 "date_sdn": 2362124,
@@ -3807,7 +3910,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 315,
+"place": 356,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3845,7 +3948,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2609
+2785
 ],
 "date": "1727-12-26",
 "date_sdn": 2352193,
@@ -3854,7 +3957,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 315,
+"place": 356,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3922,7 +4025,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6394
+6836
 ],
 "date": "1763-12-14",
 "date_sdn": 2365330,
@@ -3931,7 +4034,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 694,
+"place": 761,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3939,7 +4042,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4008
+4298
 ],
 "date": "1736-12-26",
 "date_sdn": 2355481,
@@ -3948,7 +4051,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3956,7 +4059,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6375
+6817
 ],
 "date": "1760-12-10",
 "date_sdn": 2364231,
@@ -3965,7 +4068,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -3988,7 +4091,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6216
+6658
 ],
 "date": "1768-12-14",
 "date_sdn": 2367157,
@@ -3997,7 +4100,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4005,7 +4108,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3069
+3293
 ],
 "date": "1729-12-26",
 "date_sdn": 2352924,
@@ -4014,7 +4117,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4022,7 +4125,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6346
+6788
 ],
 "date": "1756-12-15",
 "date_sdn": 2362775,
@@ -4031,7 +4134,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4040,7 +4143,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6195
+6637
 ],
 "date": "1776-12-26",
 "date_sdn": 2370091,
@@ -4049,7 +4152,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4057,7 +4160,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6375
+6817
 ],
 "date": "1760-12-10",
 "date_sdn": 2364231,
@@ -4066,7 +4169,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 694,
+"place": 761,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4149,7 +4252,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5159
+5562
 ],
 "date": "1905-07-17",
 "date_sdn": 2417044,
@@ -4158,7 +4261,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 760,
+"place": 834,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4167,7 +4270,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2970
+3188
 ],
 "date": "1721-10-08",
 "date_sdn": 2349923,
@@ -4176,7 +4279,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4184,7 +4287,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1754
+1870
 ],
 "date": "1725-12-26",
 "date_sdn": 2351463,
@@ -4193,7 +4296,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4201,7 +4304,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4704
+5079
 ],
 "date": "1856-10-19",
 "date_sdn": 2399242,
@@ -4210,7 +4313,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 353,
+"place": 395,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4218,7 +4321,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2357
+2518
 ],
 "date": "1840-12-27",
 "date_sdn": 2393467,
@@ -4227,7 +4330,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4235,7 +4338,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6253
+6695
 ],
 "date": "1793-12-11",
 "date_sdn": 2376285,
@@ -4244,7 +4347,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4252,7 +4355,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5303
+5716
 ],
 "date": "1808-12-13",
 "date_sdn": 2381765,
@@ -4261,7 +4364,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 694,
+"place": 761,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4299,7 +4402,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2961
+3176
 ],
 "date": "1734-12-26",
 "date_sdn": 2354750,
@@ -4308,7 +4411,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 758,
+"place": 832,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4323,7 +4426,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1016,
+"place": 1112,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4421,7 +4524,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4369
+4684
 ],
 "date": "1775-01-05",
 "date_sdn": 2369370,
@@ -4430,7 +4533,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 162,
+"place": 181,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4438,7 +4541,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4650
+5020
 ],
 "date": "1831-11-27",
 "date_sdn": 2390149,
@@ -4447,7 +4550,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 44,
+"place": 51,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4500,7 +4603,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2857
+3059
 ],
 "date": "1811-06-24",
 "date_sdn": 2382688,
@@ -4509,7 +4612,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 482,
+"place": 527,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4518,7 +4621,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4635
+4999
 ],
 "date": "1831-07-17",
 "date_sdn": 2390016,
@@ -4527,7 +4630,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 227,
+"place": 259,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4612,7 +4715,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3764
+4039
 ],
 "date": "1828-12-28",
 "date_sdn": 2389085,
@@ -4621,7 +4724,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 537,
+"place": 586,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4629,7 +4732,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6258
+6700
 ],
 "date": "1796-12-14",
 "date_sdn": 2377384,
@@ -4638,7 +4741,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4646,7 +4749,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4855
+5238
 ],
 "date": "1858-10-10",
 "date_sdn": 2399963,
@@ -4655,7 +4758,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4693,7 +4796,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6198
+6640
 ],
 "date": "1764-12-12",
 "date_sdn": 2365694,
@@ -4702,7 +4805,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4710,7 +4813,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2009
+2146
 ],
 "date": "1914-07-12",
 "date_sdn": 2420326,
@@ -4719,7 +4822,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4727,7 +4830,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4722
+5097
 ],
 "date": "1899-05-28",
 "date_sdn": 2414803,
@@ -4736,7 +4839,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4744,7 +4847,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5768
+6206
 ],
 "date": "1952-04-13",
 "date_sdn": 2434116,
@@ -4753,7 +4856,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 177,
+"place": 198,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4761,7 +4864,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6219
+6661
 ],
 "date": "1769-01-06",
 "date_sdn": 2367180,
@@ -4770,7 +4873,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4778,7 +4881,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5295
+5708
 ],
 "date": "1788-12-17",
 "date_sdn": 2374465,
@@ -4787,7 +4890,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 75,
+"place": 88,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4795,7 +4898,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5354
+5772
 ],
 "date": "1744",
 "date_sdn": 2358043,
@@ -4804,7 +4907,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4812,7 +4915,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2067
+2209
 ],
 "date": "1840-07-12",
 "date_sdn": 2393299,
@@ -4821,7 +4924,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4829,7 +4932,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2880
+3086
 ],
 "date": "1909-07-18",
 "date_sdn": 2418506,
@@ -4838,7 +4941,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4876,7 +4979,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5250
+5660
 ],
 "date": "1739",
 "date_sdn": 2356217,
@@ -4885,7 +4988,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4893,7 +4996,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4796
+5173
 ],
 "date": "1804-12-11",
 "date_sdn": 2380302,
@@ -4902,7 +5005,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 251,
+"place": 289,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4910,7 +5013,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1927
+2058
 ],
 "date": "1875-06-24",
 "date_sdn": 2406064,
@@ -4919,7 +5022,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4942,7 +5045,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5852
+6290
 ],
 "date": "1948-06-27",
 "date_sdn": 2432730,
@@ -4951,7 +5054,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 389,
+"place": 433,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4959,7 +5062,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2135
+2285
 ],
 "date": "1788-10-14",
 "date_sdn": 2374401,
@@ -4968,7 +5071,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 242,
+"place": 278,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4976,7 +5079,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2783
+2979
 ],
 "date": "1751-04-01",
 "date_sdn": 2360690,
@@ -4985,7 +5088,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 242,
+"place": 278,
 "text": "",
 "type": "Avioliitto"
 }
@@ -4993,7 +5096,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3073
+3298
 ],
 "date": "1817-04-01",
 "date_sdn": 2384796,
@@ -5002,7 +5105,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 199,
+"place": 226,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5010,7 +5113,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5634
+6068
 ],
 "date": "1871-11-03",
 "date_sdn": 2404735,
@@ -5019,7 +5122,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 202,
+"place": 229,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5027,7 +5130,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5629
+6062
 ],
 "date": "1843-06-19",
 "date_sdn": 2394371,
@@ -5036,7 +5139,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 499,
+"place": 546,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5056,10 +5159,11 @@ F_events_0 = [
 "type": "Avioliitto"
 }
 ],
+[],
 [
 {
 "cita": [
-6210
+6652
 ],
 "date": "1767-12-16",
 "date_sdn": 2366793,
@@ -5068,7 +5172,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 748,
+"place": 822,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5122,7 +5226,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6375
+6817
 ],
 "date": "1761-12-16",
 "date_sdn": 2364602,
@@ -5131,7 +5235,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 383,
+"place": 427,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5154,7 +5258,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3767
+4043
 ],
 "date": "1734-12-26",
 "date_sdn": 2354750,
@@ -5163,7 +5267,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 315,
+"place": 356,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5186,7 +5290,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1754
+1870
 ],
 "date": "1725-12-26",
 "date_sdn": 2351463,
@@ -5195,7 +5299,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 692,
+"place": 759,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5218,7 +5322,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6326
+6768
 ],
 "date": "1771-12-11",
 "date_sdn": 2368249,
@@ -5227,7 +5331,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 694,
+"place": 761,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5236,7 +5340,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3457
+3716
 ],
 "date": "1732-12-26",
 "date_sdn": 2354020,
@@ -5245,7 +5349,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 537,
+"place": 586,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5268,7 +5372,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6245
+6687
 ],
 "date": "1752-01-06",
 "date_sdn": 2360970,
@@ -5277,7 +5381,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5301,7 +5405,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5317
+5732
 ],
 "date": "1762-12",
 "date_sdn": 2364952,
@@ -5310,7 +5414,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 483,
+"place": 528,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5318,7 +5422,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4824
+5202
 ],
 "date": "1721-12-11",
 "date_sdn": 2349987,
@@ -5327,7 +5431,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 265,
+"place": 303,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5380,7 +5484,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4470
+4802
 ],
 "date": "1834-07-14",
 "date_sdn": 2391109,
@@ -5389,7 +5493,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 656,
+"place": 717,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5397,7 +5501,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1472
+1563
 ],
 "date": "",
 "date_sdn": 0,
@@ -5414,7 +5518,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5377
+5799
 ],
 "date": "1839-12-26",
 "date_sdn": 2393100,
@@ -5423,7 +5527,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5453,7 +5557,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 651,
+"place": 710,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5538,7 +5642,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2609
+2785
 ],
 "date": "1727-12-26",
 "date_sdn": 2352193,
@@ -5547,7 +5651,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 8,
+"place": 10,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5557,7 +5661,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3239
+3487
 ],
 "date": "1822-12-26",
 "date_sdn": 2386891,
@@ -5566,7 +5670,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5574,7 +5678,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2375
+2538
 ],
 "date": "1773-12-15",
 "date_sdn": 2368984,
@@ -5583,7 +5687,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 997,
+"place": 1092,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5698,7 +5802,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2247
+2401
 ],
 "date": "1726-12-26",
 "date_sdn": 2351828,
@@ -5707,7 +5811,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 888,
+"place": 975,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5715,7 +5819,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6195
+6637
 ],
 "date": "1776-12-11",
 "date_sdn": 2370076,
@@ -5724,7 +5828,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 888,
+"place": 975,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5732,7 +5836,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4059
+4351
 ],
 "date": "1729-01-01",
 "date_sdn": 2352565,
@@ -5741,7 +5845,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 719,
+"place": 789,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5826,7 +5930,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4893
+5279
 ],
 "date": "1728-12-01",
 "date_sdn": 2352534,
@@ -5835,7 +5939,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 460,
+"place": 505,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5858,7 +5962,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2611
+2788
 ],
 "date": "1743-12-28",
 "date_sdn": 2358039,
@@ -5867,7 +5971,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 21,
+"place": 27,
 "text": "",
 "type": "Avioliitto"
 }
@@ -5950,7 +6054,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2367
+2529
 ],
 "date": "1758-05-24",
 "date_sdn": 2363300,
@@ -5959,7 +6063,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 328,
+"place": 369,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6027,7 +6131,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4397
+4715
 ],
 "date": "1796-05-29",
 "date_sdn": 2377185,
@@ -6036,7 +6140,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 562,
+"place": 615,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6105,7 +6209,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1823
+1948
 ],
 "date": "1729-10-28",
 "date_sdn": 2352865,
@@ -6114,7 +6218,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 997,
+"place": 1092,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6155,7 +6259,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2907
+3115
 ],
 "date": "1883-02-11",
 "date_sdn": 2408853,
@@ -6164,7 +6268,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 994,
+"place": 1089,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6172,7 +6276,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4634
+4998
 ],
 "date": "1856-10-03",
 "date_sdn": 2399226,
@@ -6181,7 +6285,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 959,
+"place": 1053,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6189,7 +6293,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2607
+2783
 ],
 "date": "1795-12-26",
 "date_sdn": 2377030,
@@ -6198,7 +6302,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 864,
+"place": 951,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6206,7 +6310,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1795
+1916
 ],
 "date": "1870-07-10",
 "date_sdn": 2404254,
@@ -6215,7 +6319,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 364,
+"place": 407,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6238,7 +6342,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3008
+3227
 ],
 "date": "1767-12-26",
 "date_sdn": 2366803,
@@ -6247,7 +6351,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 994,
+"place": 1089,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6255,7 +6359,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4958
+5347
 ],
 "date": "1830-12-26",
 "date_sdn": 2389813,
@@ -6264,7 +6368,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 711,
+"place": 781,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6272,7 +6376,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4618
+4980
 ],
 "date": "1841-08-01",
 "date_sdn": 2393684,
@@ -6281,7 +6385,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1004,
+"place": 1100,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6289,7 +6393,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3506
+3767
 ],
 "date": "1826-08-20",
 "date_sdn": 2388224,
@@ -6298,7 +6402,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6306,7 +6410,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4700
+5074
 ],
 "date": "1857-10-18",
 "date_sdn": 2399606,
@@ -6315,7 +6419,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 783,
+"place": 860,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6353,7 +6457,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3457
+3716
 ],
 "date": "1732-12-26",
 "date_sdn": 2354020,
@@ -6362,7 +6466,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6385,7 +6489,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6394
+6836
 ],
 "date": "1762-12-08",
 "date_sdn": 2364959,
@@ -6394,7 +6498,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6478,7 +6582,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1754
+1870
 ],
 "date": "1725-03-29",
 "date_sdn": 2351191,
@@ -6487,7 +6591,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6495,7 +6599,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2248
+2402
 ],
 "date": "1757-10-30",
 "date_sdn": 2363094,
@@ -6504,7 +6608,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 683,
+"place": 750,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6527,7 +6631,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5296
+5709
 ],
 "date": "1750-12-16",
 "date_sdn": 2360584,
@@ -6536,7 +6640,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6544,7 +6648,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3070
+3294
 ],
 "date": "1768-12-14",
 "date_sdn": 2367157,
@@ -6553,7 +6657,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 783,
+"place": 860,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6561,7 +6665,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5365
+5787
 ],
 "date": "1746",
 "date_sdn": 2358774,
@@ -6570,7 +6674,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6592,6 +6696,23 @@ F_events_0 = [
 ],
 [],
 [],
+[
+{
+"cita": [
+4374
+],
+"date": "1899-10-15",
+"date_sdn": 2414943,
+"descr": "",
+"gid": "E05384",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 4,
+"text": "",
+"type": "Avioliitto"
+}
+],
 [
 {
 "cita": [],
@@ -6762,7 +6883,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3578
+3840
 ],
 "date": "1747-11-30",
 "date_sdn": 2359472,
@@ -6771,7 +6892,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 390,
+"place": 434,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6779,7 +6900,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3903
+4185
 ],
 "date": "1735-01-26",
 "date_sdn": 2354781,
@@ -6788,7 +6909,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6796,7 +6917,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6329
+6771
 ],
 "date": "1756-02-04",
 "date_sdn": 2362460,
@@ -6805,7 +6926,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6828,7 +6949,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4060
+4352
 ],
 "date": "1738-12-31",
 "date_sdn": 2356216,
@@ -6837,7 +6958,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 218,
+"place": 249,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6860,7 +6981,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2600
+2775
 ],
 "date": "1746-09-29",
 "date_sdn": 2359045,
@@ -6869,7 +6990,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 28,
+"place": 35,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6877,7 +6998,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1745
+1861
 ],
 "date": "1758-12-26",
 "date_sdn": 2363516,
@@ -6886,7 +7007,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 874,
+"place": 961,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6894,7 +7015,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5261
+5671
 ],
 "date": "1756-06-07",
 "date_sdn": 2362584,
@@ -6903,7 +7024,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1017,
+"place": 1113,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6911,7 +7032,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3593
+3858
 ],
 "date": "1817-12-28",
 "date_sdn": 2385067,
@@ -6920,7 +7041,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 703,
+"place": 771,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6928,7 +7049,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3064
+3287
 ],
 "date": "1813-12-19",
 "date_sdn": 2383597,
@@ -6937,7 +7058,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 703,
+"place": 771,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6945,7 +7066,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4976
+5369
 ],
 "date": "1736-12-04",
 "date_sdn": 2355459,
@@ -6954,7 +7075,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 392,
+"place": 436,
 "text": "",
 "type": "Avioliitto"
 }
@@ -6977,7 +7098,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4993
+5390
 ],
 "date": "1724-12-26",
 "date_sdn": 2351098,
@@ -6986,7 +7107,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 203,
+"place": 230,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7009,7 +7130,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4873
+5257
 ],
 "date": "1733-11-30",
 "date_sdn": 2354359,
@@ -7018,7 +7139,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 502,
+"place": 549,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7041,7 +7162,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2082
+2227
 ],
 "date": "1755-03-05",
 "date_sdn": 2362124,
@@ -7050,7 +7171,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 363,
+"place": 406,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7103,7 +7224,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2070
+2212
 ],
 "date": "1735-05-26",
 "date_sdn": 2354901,
@@ -7112,7 +7233,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 736,
+"place": 808,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7166,7 +7287,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2951
+3165
 ],
 "date": "1782-06-30",
 "date_sdn": 2372103,
@@ -7175,7 +7296,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 411,
+"place": 455,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7258,6 +7379,106 @@ F_events_0 = [
 ],
 [
 {
+"cita": [
+14,
+6101
+],
+"date": "1932-07-31",
+"date_sdn": 2426920,
+"descr": "",
+"gid": "E05196",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 432,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+5205
+],
+"date": "1797-10-22",
+"date_sdn": 2377696,
+"descr": "",
+"gid": "E08007",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 873,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E08652",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [],
+"date": "",
+"date_sdn": 0,
+"descr": "",
+"gid": "E08651",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": -1,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2213
+],
+"date": "1761-12-21",
+"date_sdn": 2364607,
+"descr": "",
+"gid": "E08631",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 214,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+5019
+],
+"date": "1736-11-01",
+"date_sdn": 2355426,
+"descr": "",
+"gid": "E08630",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 1070,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[],
+[
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
@@ -7286,6 +7507,7 @@ F_events_0 = [
 "type": "Avioliitto"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -7302,6 +7524,23 @@ F_events_0 = [
 }
 ],
 [],
+[
+{
+"cita": [
+4944
+],
+"date": "1709-11-01",
+"date_sdn": 2345564,
+"descr": "",
+"gid": "E08654",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 296,
+"text": "",
+"type": "Avioliitto"
+}
+],
 [],
 [],
 [],
@@ -7323,7 +7562,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2247
+2401
 ],
 "date": "1726-12-26",
 "date_sdn": 2351828,
@@ -7332,7 +7571,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7340,7 +7579,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5046
+5444
 ],
 "date": "1724-12-26",
 "date_sdn": 2351098,
@@ -7349,7 +7588,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7357,7 +7596,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2345
+2505
 ],
 "date": "noin 1744",
 "date_sdn": 2358043,
@@ -7366,7 +7605,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 419,
+"place": 463,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7389,7 +7628,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5211
+5617
 ],
 "date": "1756-12-01",
 "date_sdn": 2362761,
@@ -7398,7 +7637,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 643,
+"place": 701,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7421,7 +7660,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5048
+5446
 ],
 "date": "1746-01-06",
 "date_sdn": 2358779,
@@ -7430,7 +7669,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 175,
+"place": 194,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7468,7 +7707,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5378
+5800
 ],
 "date": "1746",
 "date_sdn": 2358774,
@@ -7477,7 +7716,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7485,7 +7724,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2069
+2211
 ],
 "date": "1882-10-01",
 "date_sdn": 2408720,
@@ -7494,7 +7733,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7520,7 +7759,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4030
+4322
 ],
 "date": "1712-06-11",
 "date_sdn": 2346517,
@@ -7529,7 +7768,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 561,
+"place": 614,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7552,7 +7791,7 @@ F_events_0 = [
 [
 {
 "cita": [
-285
+295
 ],
 "date": "noin 1673",
 "date_sdn": 2332112,
@@ -7561,7 +7800,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 368,
+"place": 411,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7584,7 +7823,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3767
+4043
 ],
 "date": "1734-12-26",
 "date_sdn": 2354750,
@@ -7593,7 +7832,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7616,7 +7855,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5752
+6190
 ],
 "date": "1946",
 "date_sdn": 2431822,
@@ -7625,7 +7864,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 357,
+"place": 400,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7649,7 +7888,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2494
+2664
 ],
 "date": "1759-12-28",
 "date_sdn": 2363883,
@@ -7658,7 +7897,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 592,
+"place": 647,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7666,7 +7905,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2975
+3193
 ],
 "date": "1736",
 "date_sdn": 2355121,
@@ -7675,7 +7914,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 649,
+"place": 708,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7774,7 +8013,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3245
+3493
 ],
 "date": "1730-12-26",
 "date_sdn": 2353289,
@@ -7783,7 +8022,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7791,7 +8030,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4617
+4978
 ],
 "date": "1723-12-26",
 "date_sdn": 2350732,
@@ -7800,7 +8039,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7808,7 +8047,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6193
+6635
 ],
 "date": "1750-12-16",
 "date_sdn": 2360584,
@@ -7817,7 +8056,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -7825,7 +8064,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6220
+6662
 ],
 "date": "1783-12-10",
 "date_sdn": 2372631,
@@ -7834,7 +8073,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8038,7 +8277,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4012
+4303
 ],
 "date": "1702-04-27",
 "date_sdn": 2342819,
@@ -8047,7 +8286,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 662,
+"place": 725,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8055,7 +8294,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5260
+5670
 ],
 "date": "1795-12-27",
 "date_sdn": 2377031,
@@ -8064,7 +8303,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 402,
+"place": 446,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8087,7 +8326,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2045
+2185
 ],
 "date": "1769-05-17",
 "date_sdn": 2367311,
@@ -8096,7 +8335,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 482,
+"place": 527,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8104,7 +8343,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3903
+4185
 ],
 "date": "1735-12-26",
 "date_sdn": 2355115,
@@ -8113,7 +8352,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 360,
+"place": 403,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8197,6 +8436,74 @@ F_events_0 = [
 ],
 [
 {
+"cita": [
+4301
+],
+"date": "1826-06-11",
+"date_sdn": 2388154,
+"descr": "",
+"gid": "E05416",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 61,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+5005
+],
+"date": "1851-12-14",
+"date_sdn": 2397471,
+"descr": "",
+"gid": "E05374",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 773,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+4991
+],
+"date": "1884-08-22",
+"date_sdn": 2409411,
+"descr": "",
+"gid": "E05564",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 901,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+4926
+],
+"date": "1884-05-27",
+"date_sdn": 2409324,
+"descr": "",
+"gid": "E05377",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 398,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
@@ -8213,7 +8520,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2936
+3148
 ],
 "date": "1820-06-18",
 "date_sdn": 2385970,
@@ -8222,7 +8529,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 482,
+"place": 527,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8230,7 +8537,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3195
+3437
 ],
 "date": "1765-02-03",
 "date_sdn": 2365747,
@@ -8239,7 +8546,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 880,
+"place": 967,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8277,7 +8584,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4064
+4356
 ],
 "date": "1700-04-22",
 "date_sdn": 2342084,
@@ -8286,7 +8593,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 623,
+"place": 679,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8294,7 +8601,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3577
+3839
 ],
 "date": "1697-12-05",
 "date_sdn": 2341216,
@@ -8303,7 +8610,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 180,
+"place": 202,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8342,7 +8649,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2815
+3013
 ],
 "date": "1764-05-23",
 "date_sdn": 2365491,
@@ -8351,7 +8658,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 226,
+"place": 258,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8374,7 +8681,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4514
+4859
 ],
 "date": "1722-09-21",
 "date_sdn": 2350271,
@@ -8383,7 +8690,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 335,
+"place": 376,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8391,7 +8698,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2754
+2947
 ],
 "date": "1742-02-19",
 "date_sdn": 2357362,
@@ -8400,7 +8707,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 171,
+"place": 190,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8512,6 +8819,23 @@ F_events_0 = [
 ],
 [
 {
+"cita": [
+3040
+],
+"date": "1879-12-21",
+"date_sdn": 2407705,
+"descr": "",
+"gid": "E07031",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 897,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
@@ -8528,7 +8852,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4737
+5112
 ],
 "date": "1730-06-07",
 "date_sdn": 2353087,
@@ -8537,7 +8861,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 654,
+"place": 713,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8592,7 +8916,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5318
+5733
 ],
 "date": "1740",
 "date_sdn": 2356582,
@@ -8601,7 +8925,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8609,7 +8933,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4353
+4668
 ],
 "date": "1803-12-13",
 "date_sdn": 2379938,
@@ -8618,7 +8942,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8641,7 +8965,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6373
+6815
 ],
 "date": "1774-12-14",
 "date_sdn": 2369348,
@@ -8650,7 +8974,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8658,7 +8982,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4051
+4343
 ],
 "date": "1801-12-15",
 "date_sdn": 2379210,
@@ -8667,7 +8991,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8675,7 +8999,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5378
+5800
 ],
 "date": "1746",
 "date_sdn": 2358774,
@@ -8684,7 +9008,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8708,7 +9032,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2070
+2212
 ],
 "date": "1736-09-02",
 "date_sdn": 2355366,
@@ -8717,7 +9041,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 755,
+"place": 829,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8725,7 +9049,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1895
+2025
 ],
 "date": "1761-01-04",
 "date_sdn": 2364256,
@@ -8734,7 +9058,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 189,
+"place": 214,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8742,7 +9066,7 @@ F_events_0 = [
 [
 {
 "cita": [
-441
+451
 ],
 "date": "1800-01-23",
 "date_sdn": 2378519,
@@ -8751,7 +9075,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 536,
+"place": 585,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8804,7 +9128,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4620
+4982
 ],
 "date": "1745-07-28",
 "date_sdn": 2358617,
@@ -8813,7 +9137,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 381,
+"place": 425,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8822,7 +9146,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2979
+3197
 ],
 "date": "1796-11-29",
 "date_sdn": 2377369,
@@ -8831,7 +9155,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 147,
+"place": 163,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8900,7 +9224,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4962
+5352
 ],
 "date": "1746-12-26",
 "date_sdn": 2359133,
@@ -8909,7 +9233,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 654,
+"place": 713,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8917,7 +9241,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3064
+3287
 ],
 "date": "1813-12-12",
 "date_sdn": 2383590,
@@ -8926,7 +9250,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 150,
+"place": 166,
 "text": "",
 "type": "Avioliitto"
 }
@@ -8964,7 +9288,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4690
+5064
 ],
 "date": "1859-11-14",
 "date_sdn": 2400363,
@@ -8973,7 +9297,59 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 142,
+"place": 157,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2913,
+4690
+],
+"date": "1871-05-08",
+"date_sdn": 2404556,
+"descr": "",
+"gid": "E05215",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 433,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+3993
+],
+"date": "1846-06-29",
+"date_sdn": 2395477,
+"descr": "",
+"gid": "E05229",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 18,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2787
+],
+"date": "1823-10-20",
+"date_sdn": 2387189,
+"descr": "",
+"gid": "E07845",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 482,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9004,6 +9380,40 @@ F_events_0 = [
 "part_family": [],
 "part_person": [],
 "place": -1,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+1884
+],
+"date": "1848-06-13",
+"date_sdn": 2396192,
+"descr": "",
+"gid": "E06973",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 30,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2851
+],
+"date": "1866-11-02",
+"date_sdn": 2402908,
+"descr": "",
+"gid": "E06979",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 275,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9103,7 +9513,41 @@ F_events_0 = [
 [
 {
 "cita": [
-4914
+4178
+],
+"date": "1820-09-20",
+"date_sdn": 2386064,
+"descr": "",
+"gid": "E06784",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 178,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+5652
+],
+"date": "1800-01-21",
+"date_sdn": 2378517,
+"descr": "",
+"gid": "E06785",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 433,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+5300
 ],
 "date": "1766-12-26",
 "date_sdn": 2366438,
@@ -9112,7 +9556,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 976,
+"place": 1070,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9180,7 +9624,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5251
+5661
 ],
 "date": "1738",
 "date_sdn": 2355852,
@@ -9189,7 +9633,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9212,7 +9656,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6208
+6650
 ],
 "date": "1777-12-10",
 "date_sdn": 2370440,
@@ -9221,7 +9665,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 8,
+"place": 10,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9229,7 +9673,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2910
+3118
 ],
 "date": "1818-12-27",
 "date_sdn": 2385431,
@@ -9238,7 +9682,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9264,7 +9708,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5251
+5661
 ],
 "date": "1737",
 "date_sdn": 2355487,
@@ -9273,7 +9717,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 897,
+"place": 984,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9430,6 +9874,40 @@ F_events_0 = [
 ],
 [
 {
+"cita": [
+2922
+],
+"date": "1871-12-17",
+"date_sdn": 2404779,
+"descr": "",
+"gid": "E07834",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 621,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+1925
+],
+"date": "1853-01-01",
+"date_sdn": 2397855,
+"descr": "",
+"gid": "E07339",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 1134,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
 "cita": [],
 "date": "",
 "date_sdn": 0,
@@ -9462,7 +9940,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4192
+4496
 ],
 "date": "noin 1637",
 "date_sdn": 2318963,
@@ -9525,7 +10003,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2608
+2784
 ],
 "date": "1762-01-01",
 "date_sdn": 2364618,
@@ -9534,7 +10012,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 264,
+"place": 302,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9602,7 +10080,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3312
+3562
 ],
 "date": "1773-08-04",
 "date_sdn": 2368851,
@@ -9611,7 +10089,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 953,
+"place": 1047,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9650,7 +10128,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4353
+4668
 ],
 "date": "1802-12-14",
 "date_sdn": 2379574,
@@ -9659,7 +10137,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9682,7 +10160,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4362
+4677
 ],
 "date": "1748-03-25",
 "date_sdn": 2359588,
@@ -9691,7 +10169,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 576,
+"place": 631,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9699,7 +10177,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2367
+2529
 ],
 "date": "1758-12-12",
 "date_sdn": 2363502,
@@ -9708,7 +10186,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 994,
+"place": 1089,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9716,7 +10194,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2240
+2394
 ],
 "date": "1813-12-26",
 "date_sdn": 2383604,
@@ -9725,7 +10203,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9733,7 +10211,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3909
+4193
 ],
 "date": "1836-12-26",
 "date_sdn": 2392005,
@@ -9742,7 +10220,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 760,
+"place": 834,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9751,7 +10229,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3974
+4261
 ],
 "date": "1890-11-09",
 "date_sdn": 2411681,
@@ -9760,7 +10238,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 353,
+"place": 395,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9768,7 +10246,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4056
+4348
 ],
 "date": "1722-12-26",
 "date_sdn": 2350367,
@@ -9777,7 +10255,24 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 537,
+"place": 586,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+4959
+],
+"date": "1886-11-12",
+"date_sdn": 2410223,
+"descr": "",
+"gid": "E07265",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 335,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9830,7 +10325,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6341
+6783
 ],
 "date": "1771-12-11",
 "date_sdn": 2368249,
@@ -9839,7 +10334,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9847,7 +10342,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2911
+3119
 ],
 "date": "1728-12-26",
 "date_sdn": 2352559,
@@ -9856,7 +10351,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9879,7 +10374,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3567
+3829
 ],
 "date": "1738-12-28",
 "date_sdn": 2356213,
@@ -9888,7 +10383,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9896,7 +10391,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3929
+4214
 ],
 "date": "1831-01-02",
 "date_sdn": 2389820,
@@ -9905,7 +10400,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 317,
+"place": 358,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9913,7 +10408,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1900
+2030
 ],
 "date": "1809-12-12",
 "date_sdn": 2382129,
@@ -9922,7 +10417,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 317,
+"place": 358,
 "text": "",
 "type": "Avioliitto"
 }
@@ -9930,7 +10425,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4166
+4469
 ],
 "date": "1849-07-15",
 "date_sdn": 2396589,
@@ -9939,7 +10434,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10022,7 +10517,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4624
+4987
 ],
 "date": "1736-03-21",
 "date_sdn": 2355201,
@@ -10031,7 +10526,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 609,
+"place": 664,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10069,7 +10564,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3360
+3613
 ],
 "date": "1731-12-26",
 "date_sdn": 2353654,
@@ -10078,7 +10573,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 8,
+"place": 10,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10086,7 +10581,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6239
+6681
 ],
 "date": "1790-12-15",
 "date_sdn": 2375193,
@@ -10095,7 +10590,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10103,7 +10598,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6361
+6803
 ],
 "date": "1758-12-13",
 "date_sdn": 2363503,
@@ -10112,7 +10607,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10120,7 +10615,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3640
+3906
 ],
 "date": "1733-12-26",
 "date_sdn": 2354385,
@@ -10129,7 +10624,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10212,7 +10707,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4946
+5334
 ],
 "date": "1735-12-26",
 "date_sdn": 2355115,
@@ -10221,7 +10716,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 410,
+"place": 454,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10260,7 +10755,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5342
+5757
 ],
 "date": "1743-12-26",
 "date_sdn": 2358037,
@@ -10269,7 +10764,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10292,7 +10787,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2885
+3091
 ],
 "date": "1817-07-20",
 "date_sdn": 2384906,
@@ -10301,7 +10796,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 822,
+"place": 903,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10384,7 +10879,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4062
+4354
 ],
 "date": "1756-12-26",
 "date_sdn": 2362786,
@@ -10393,7 +10888,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 250,
+"place": 287,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10401,7 +10896,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2070
+2212
 ],
 "date": "1736-05-16",
 "date_sdn": 2355257,
@@ -10410,7 +10905,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 852,
+"place": 935,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10418,7 +10913,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2248
+2402
 ],
 "date": "1757-01-06",
 "date_sdn": 2362797,
@@ -10427,7 +10922,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 428,
+"place": 472,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10435,7 +10930,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4744
+5119
 ],
 "date": "1695-12-05",
 "date_sdn": 2340485,
@@ -10444,7 +10939,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 385,
+"place": 429,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10548,7 +11043,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4169
+4473
 ],
 "date": "1852-12-26",
 "date_sdn": 2397849,
@@ -10557,7 +11052,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10565,7 +11060,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5353
+5771
 ],
 "date": "1866-10-21",
 "date_sdn": 2402896,
@@ -10574,7 +11069,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10582,7 +11077,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4144
+4447
 ],
 "date": "1812-11-23",
 "date_sdn": 2383206,
@@ -10591,7 +11086,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 745,
+"place": 818,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10614,12 +11109,46 @@ F_events_0 = [
 [
 {
 "cita": [
-4823
+5201
 ],
 "date": "1785-01-01",
 "date_sdn": 2373019,
 "descr": "",
 "gid": "E06117",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 394,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2227
+],
+"date": "1756-01-01",
+"date_sdn": 2362426,
+"descr": "",
+"gid": "E06118",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 804,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2596
+],
+"date": "1879-10-05",
+"date_sdn": 2407628,
+"descr": "",
+"gid": "E06528",
 "media": [],
 "part_family": [],
 "part_person": [],
@@ -10631,43 +11160,9 @@ F_events_0 = [
 [
 {
 "cita": [
-2082
-],
-"date": "1756-01-01",
-"date_sdn": 2362426,
-"descr": "",
-"gid": "E06118",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 733,
-"text": "",
-"type": "Avioliitto"
-}
-],
-[
-{
-"cita": [
-2427
-],
-"date": "1879-10-05",
-"date_sdn": 2407628,
-"descr": "",
-"gid": "E06528",
-"media": [],
-"part_family": [],
-"part_person": [],
-"place": 311,
-"text": "",
-"type": "Avioliitto"
-}
-],
-[
-{
-"cita": [
-440,
-2194,
-3051
+450,
+2344,
+3274
 ],
 "date": "1869-07-09",
 "date_sdn": 2403888,
@@ -10676,13 +11171,13 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 327,
+"place": 368,
 "text": "",
 "type": "Avioliitto"
 },
 {
 "cita": [
-3051
+3274
 ],
 "date": "1875-06-15",
 "date_sdn": 2406055,
@@ -10691,7 +11186,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 908,
+"place": 997,
 "text": "",
 "type": "Avioero"
 }
@@ -10699,7 +11194,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5815
+6253
 ],
 "date": "1786-12-31",
 "date_sdn": 2373748,
@@ -10708,7 +11203,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 852,
+"place": 935,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10716,7 +11211,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1763
+1880
 ],
 "date": "1818-01-04",
 "date_sdn": 2385074,
@@ -10725,7 +11220,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 374,
+"place": 417,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10733,7 +11228,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5631
+6065
 ],
 "date": "1917-08-13",
 "date_sdn": 2421454,
@@ -10742,7 +11237,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 146,
+"place": 162,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10750,7 +11245,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1895
+2025
 ],
 "date": "1760-12-14",
 "date_sdn": 2364235,
@@ -10759,7 +11254,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 852,
+"place": 935,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10767,7 +11262,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3940
+4226
 ],
 "date": "1829-07-18",
 "date_sdn": 2389287,
@@ -10776,7 +11271,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 638,
+"place": 695,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10830,7 +11325,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5394
+5817
 ],
 "date": "1747-12-26",
 "date_sdn": 2359498,
@@ -10839,11 +11334,12 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 694,
+"place": 761,
 "text": "",
 "type": "Avioliitto"
 }
 ],
+[],
 [
 {
 "cita": [],
@@ -10922,8 +11418,23 @@ F_events_0 = [
 ],
 [
 {
+"cita": [],
+"date": "1840-11-01",
+"date_sdn": 2393411,
+"descr": "",
+"gid": "E05832",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 773,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
 "cita": [
-3639
+3905
 ],
 "date": "1846-06-24",
 "date_sdn": 2395472,
@@ -10932,7 +11443,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10940,7 +11451,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4621
+4983
 ],
 "date": "1752-08-16",
 "date_sdn": 2361193,
@@ -10949,7 +11460,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 576,
+"place": 631,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10972,7 +11483,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6391
+6833
 ],
 "date": "1776-12-11",
 "date_sdn": 2370076,
@@ -10981,7 +11492,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 972,
+"place": 1066,
 "text": "",
 "type": "Avioliitto"
 }
@@ -10989,7 +11500,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6213
+6655
 ],
 "date": "1780-01-26",
 "date_sdn": 2371217,
@@ -10998,7 +11509,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 972,
+"place": 1066,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11006,7 +11517,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2073
+2216
 ],
 "date": "1812-06-10",
 "date_sdn": 2383040,
@@ -11015,7 +11526,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 972,
+"place": 1066,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11023,7 +11534,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6235
+6677
 ],
 "date": "1788-12-10",
 "date_sdn": 2374458,
@@ -11032,7 +11543,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11040,7 +11551,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2656
+2835
 ],
 "date": "1781-12-12",
 "date_sdn": 2371903,
@@ -11049,7 +11560,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1048,
+"place": 1147,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11102,7 +11613,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6210
+6652
 ],
 "date": "1767-12-16",
 "date_sdn": 2366793,
@@ -11111,7 +11622,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11194,7 +11705,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4360
+4675
 ],
 "date": "1783-12-26",
 "date_sdn": 2372647,
@@ -11203,7 +11714,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 226,
+"place": 258,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11301,7 +11812,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5251
+5661
 ],
 "date": "1737",
 "date_sdn": 2355487,
@@ -11310,7 +11821,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11318,7 +11829,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4916
+5302
 ],
 "date": "1902-06-15",
 "date_sdn": 2415916,
@@ -11327,7 +11838,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11335,7 +11846,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4826
+5204
 ],
 "date": "1789-12-16",
 "date_sdn": 2374829,
@@ -11344,7 +11855,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 544,
+"place": 593,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11367,7 +11878,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5354
+5772
 ],
 "date": "1744",
 "date_sdn": 2358043,
@@ -11376,7 +11887,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 360,
+"place": 403,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11399,7 +11910,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6394
+6836
 ],
 "date": "1763-06-24",
 "date_sdn": 2365157,
@@ -11408,7 +11919,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 748,
+"place": 822,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11416,7 +11927,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3903
+4185
 ],
 "date": "1735-12-26",
 "date_sdn": 2355115,
@@ -11425,7 +11936,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11464,7 +11975,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4620
+4982
 ],
 "date": "1745-05-26",
 "date_sdn": 2358554,
@@ -11473,7 +11984,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11481,7 +11992,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2970
+3188
 ],
 "date": "1721-11-09",
 "date_sdn": 2349955,
@@ -11490,7 +12001,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11498,7 +12009,41 @@ F_events_0 = [
 [
 {
 "cita": [
-6346
+3303
+],
+"date": "1843-04-26",
+"date_sdn": 2394317,
+"descr": "",
+"gid": "E05406",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 545,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+4783
+],
+"date": "1864-06-20",
+"date_sdn": 2402043,
+"descr": "",
+"gid": "E07235",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 773,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+6788
 ],
 "date": "1757-12-14",
 "date_sdn": 2363139,
@@ -11507,7 +12052,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11530,7 +12075,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3764
+4039
 ],
 "date": "1828-10-05",
 "date_sdn": 2389001,
@@ -11539,7 +12084,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11547,7 +12092,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6235
+6677
 ],
 "date": "1788-12-10",
 "date_sdn": 2374458,
@@ -11556,7 +12101,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11579,7 +12124,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4056
+4348
 ],
 "date": "1722-12-26",
 "date_sdn": 2350367,
@@ -11588,7 +12133,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 315,
+"place": 356,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11627,7 +12172,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2236
+2390
 ],
 "date": "1883-03-27",
 "date_sdn": 2408897,
@@ -11636,7 +12181,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 293,
+"place": 333,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11659,7 +12204,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6361
+6803
 ],
 "date": "1759-12-12",
 "date_sdn": 2363867,
@@ -11668,7 +12213,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11677,7 +12222,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4051
+4343
 ],
 "date": "1800-12-09",
 "date_sdn": 2378839,
@@ -11686,7 +12231,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11694,7 +12239,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5394
+5817
 ],
 "date": "1748-12-26",
 "date_sdn": 2359864,
@@ -11703,7 +12248,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11726,7 +12271,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2813
+3011
 ],
 "date": "1728-12-26",
 "date_sdn": 2352559,
@@ -11735,7 +12280,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 692,
+"place": 759,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11743,7 +12288,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2067
+2209
 ],
 "date": "1840-10-04",
 "date_sdn": 2393383,
@@ -11752,7 +12297,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 315,
+"place": 356,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11760,7 +12305,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6258
+6700
 ],
 "date": "1795-12-16",
 "date_sdn": 2377020,
@@ -11769,7 +12314,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11822,7 +12367,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3571
+3833
 ],
 "date": "1754-12-04",
 "date_sdn": 2362033,
@@ -11831,7 +12376,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 325,
+"place": 366,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11839,7 +12384,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4361
+4676
 ],
 "date": "1742-11-30",
 "date_sdn": 2357646,
@@ -11848,7 +12393,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11871,7 +12416,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6249
+6691
 ],
 "date": "1792-12-12",
 "date_sdn": 2375921,
@@ -11880,7 +12425,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11889,7 +12434,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6235
+6677
 ],
 "date": "1787-12-12",
 "date_sdn": 2374094,
@@ -11898,7 +12443,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 972,
+"place": 1066,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11921,7 +12466,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6245
+6687
 ],
 "date": "1752-01-26",
 "date_sdn": 2360990,
@@ -11930,7 +12475,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -11999,7 +12544,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5814
+6252
 ],
 "date": "1803-01-01",
 "date_sdn": 2379592,
@@ -12008,7 +12553,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 718,
+"place": 788,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12031,7 +12576,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5923
+6362
 ],
 "date": "ennen 1530",
 "date_sdn": 2279881,
@@ -12048,7 +12593,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6245
+6687
 ],
 "date": "1752-11-08",
 "date_sdn": 2361277,
@@ -12057,7 +12602,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 218,
+"place": 249,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12065,7 +12610,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5251
+5661
 ],
 "date": "1737",
 "date_sdn": 2355487,
@@ -12074,7 +12619,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12082,7 +12627,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5354
+5772
 ],
 "date": "1744",
 "date_sdn": 2358043,
@@ -12091,7 +12636,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 706,
+"place": 776,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12130,7 +12675,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4056
+4348
 ],
 "date": "1722-01-16",
 "date_sdn": 2350023,
@@ -12139,7 +12684,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12147,7 +12692,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4620
+4982
 ],
 "date": "1744-03-26",
 "date_sdn": 2358128,
@@ -12156,7 +12701,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 465,
+"place": 510,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12179,7 +12724,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1823
+1948
 ],
 "date": "1729-03-30",
 "date_sdn": 2352653,
@@ -12188,7 +12733,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 526,
+"place": 575,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12226,7 +12771,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4065
+4357
 ],
 "date": "1727-05-24",
 "date_sdn": 2351977,
@@ -12235,7 +12780,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 969,
+"place": 1063,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12259,7 +12804,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2705
+2891
 ],
 "date": "1763-05-25",
 "date_sdn": 2365127,
@@ -12268,7 +12813,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 352,
+"place": 394,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12291,7 +12836,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4931
+5318
 ],
 "date": "1859-11-06",
 "date_sdn": 2400355,
@@ -12300,7 +12845,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12308,8 +12853,8 @@ F_events_0 = [
 [
 {
 "cita": [
-1944,
-5456
+2076,
+5883
 ],
 "date": "1798-12-12",
 "date_sdn": 2378112,
@@ -12318,7 +12863,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 694,
+"place": 761,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12326,7 +12871,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2910
+3118
 ],
 "date": "1818-12-27",
 "date_sdn": 2385431,
@@ -12335,7 +12880,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 73,
+"place": 85,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12358,7 +12903,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3123
+3358
 ],
 "date": "1820-12-26",
 "date_sdn": 2386161,
@@ -12367,7 +12912,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12375,7 +12920,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6326
+6768
 ],
 "date": "1771-12-11",
 "date_sdn": 2368249,
@@ -12384,7 +12929,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12392,7 +12937,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5342
+5757
 ],
 "date": "1743-12-26",
 "date_sdn": 2358037,
@@ -12401,7 +12946,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12424,7 +12969,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2813
+3011
 ],
 "date": "1728-12-26",
 "date_sdn": 2352559,
@@ -12433,7 +12978,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 692,
+"place": 759,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12441,7 +12986,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2488
+2658
 ],
 "date": "1745-04-14",
 "date_sdn": 2358512,
@@ -12450,7 +12995,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 339,
+"place": 380,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12458,7 +13003,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2486
+2656
 ],
 "date": "1769-11-12",
 "date_sdn": 2367490,
@@ -12467,7 +13012,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 411,
+"place": 455,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12490,7 +13035,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2817
+3015
 ],
 "date": "1756-07-04",
 "date_sdn": 2362611,
@@ -12499,7 +13044,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 303,
+"place": 344,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12643,7 +13188,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5211
+5617
 ],
 "date": "1756-11-30",
 "date_sdn": 2362760,
@@ -12652,7 +13197,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 603,
+"place": 658,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12660,7 +13205,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2977
+3195
 ],
 "date": "1761-12-02",
 "date_sdn": 2364588,
@@ -12669,7 +13214,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1011,
+"place": 1107,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12707,7 +13252,7 @@ F_events_0 = [
 [
 {
 "cita": [
-450
+461
 ],
 "date": "1917-10-24",
 "date_sdn": 2421526,
@@ -12716,7 +13261,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 707,
+"place": 777,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12754,7 +13299,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5371
+5793
 ],
 "date": "1866-11-25",
 "date_sdn": 2402931,
@@ -12763,7 +13308,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12786,7 +13331,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3566
+3828
 ],
 "date": "1736-12-28",
 "date_sdn": 2355483,
@@ -12795,7 +13340,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 994,
+"place": 1089,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12803,7 +13348,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2905
+3113
 ],
 "date": "1784-12-08",
 "date_sdn": 2372995,
@@ -12812,7 +13357,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12820,7 +13365,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1723
+1838
 ],
 "date": "1787-12-05",
 "date_sdn": 2374087,
@@ -12829,7 +13374,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 519,
+"place": 567,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12860,7 +13405,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 932,
+"place": 1021,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12868,7 +13413,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4720
+5095
 ],
 "date": "1729-11-30",
 "date_sdn": 2352898,
@@ -12877,7 +13422,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 400,
+"place": 444,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12900,7 +13445,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4018
+4310
 ],
 "date": "1776-05-23",
 "date_sdn": 2369874,
@@ -12909,7 +13454,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 636,
+"place": 693,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12917,7 +13462,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5169
+5574
 ],
 "date": "1754-11-30",
 "date_sdn": 2362029,
@@ -12926,7 +13471,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 203,
+"place": 230,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12949,7 +13494,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3579
+3841
 ],
 "date": "1796-12-16",
 "date_sdn": 2377386,
@@ -12958,7 +13503,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 400,
+"place": 444,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12966,7 +13511,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2072
+2215
 ],
 "date": "1809-12-05",
 "date_sdn": 2382122,
@@ -12975,7 +13520,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 5,
+"place": 6,
 "text": "",
 "type": "Avioliitto"
 }
@@ -12983,7 +13528,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5211
+5617
 ],
 "date": "1756-12-01",
 "date_sdn": 2362761,
@@ -12992,7 +13537,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 680,
+"place": 747,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13000,7 +13545,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4354
+4669
 ],
 "date": "1833-09-01",
 "date_sdn": 2390793,
@@ -13009,7 +13554,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 703,
+"place": 771,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13017,7 +13562,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2332
+2491
 ],
 "date": "1868-12-27",
 "date_sdn": 2403694,
@@ -13026,7 +13571,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 591,
+"place": 646,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13034,7 +13579,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4115
+4414
 ],
 "date": "1885-10-25",
 "date_sdn": 2409840,
@@ -13043,7 +13588,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 349,
+"place": 391,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13051,7 +13596,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2081
+2226
 ],
 "date": "1790-12-26",
 "date_sdn": 2375204,
@@ -13060,7 +13605,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 994,
+"place": 1089,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13113,8 +13658,8 @@ F_events_0 = [
 [
 {
 "cita": [
-448,
-5590
+458,
+6023
 ],
 "date": "1681-04-08",
 "date_sdn": 2335131,
@@ -13123,7 +13668,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 336,
+"place": 377,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13161,7 +13706,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5152
+5555
 ],
 "date": "1752-11-29",
 "date_sdn": 2361298,
@@ -13170,7 +13715,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 281,
+"place": 320,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13178,7 +13723,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4598
+4958
 ],
 "date": "1789-12-09",
 "date_sdn": 2374822,
@@ -13187,7 +13732,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 281,
+"place": 320,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13195,7 +13740,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5019
+5416
 ],
 "date": "1790-12-08",
 "date_sdn": 2375186,
@@ -13204,7 +13749,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 281,
+"place": 320,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13242,7 +13787,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4620
+4982
 ],
 "date": "1743-12-28",
 "date_sdn": 2358039,
@@ -13251,11 +13796,63 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 506,
+"place": 553,
 "text": "",
 "type": "Avioliitto"
 }
 ],
+[
+{
+"cita": [
+2594
+],
+"date": "1782-03-12",
+"date_sdn": 2371993,
+"descr": "",
+"gid": "E06796",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 677,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2231
+],
+"date": "1784-03-08",
+"date_sdn": 2372720,
+"descr": "",
+"gid": "E06792",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 550,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+3672
+],
+"date": "1776-06-27",
+"date_sdn": 2369909,
+"descr": "",
+"gid": "E06377",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 937,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[],
 [
 {
 "cita": [],
@@ -13274,7 +13871,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2360
+2521
 ],
 "date": "1741-02-01",
 "date_sdn": 2356979,
@@ -13283,7 +13880,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1015,
+"place": 1111,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13306,7 +13903,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2706
+2892
 ],
 "date": "1773-04-30",
 "date_sdn": 2368755,
@@ -13315,7 +13912,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 735,
+"place": 806,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13323,7 +13920,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1894
+2024
 ],
 "date": "1840-06-28",
 "date_sdn": 2393285,
@@ -13332,7 +13929,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13370,7 +13967,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1754
+1870
 ],
 "date": "1725-12-26",
 "date_sdn": 2351463,
@@ -13379,7 +13976,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13417,7 +14014,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5365
+5787
 ],
 "date": "1745-12-26",
 "date_sdn": 2358768,
@@ -13426,7 +14023,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13434,7 +14031,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2489
+2659
 ],
 "date": "1814-12-26",
 "date_sdn": 2383969,
@@ -13443,7 +14040,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13451,7 +14048,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5318
+5733
 ],
 "date": "1742-12-26",
 "date_sdn": 2357672,
@@ -13460,7 +14057,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 514,
+"place": 561,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13468,7 +14065,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6375
+6817
 ],
 "date": "1761-04-18",
 "date_sdn": 2364360,
@@ -13477,7 +14074,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13485,7 +14082,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6391
+6833
 ],
 "date": "1775-12-27",
 "date_sdn": 2369726,
@@ -13494,7 +14091,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13502,7 +14099,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6224
+6666
 ],
 "date": "1770-12-12",
 "date_sdn": 2367885,
@@ -13511,7 +14108,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13519,7 +14116,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6258
+6700
 ],
 "date": "1796-12-14",
 "date_sdn": 2377384,
@@ -13528,7 +14125,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13536,7 +14133,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2974
+3192
 ],
 "date": "1736-12-28",
 "date_sdn": 2355483,
@@ -13545,7 +14142,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1006,
+"place": 1102,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13570,7 +14167,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2609
+2785
 ],
 "date": "1727-12-26",
 "date_sdn": 2352193,
@@ -13579,7 +14176,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 248,
+"place": 285,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13587,7 +14184,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2721
+2909
 ],
 "date": "1799-11-03",
 "date_sdn": 2378438,
@@ -13596,7 +14193,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 558,
+"place": 611,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13604,7 +14201,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5752
+6190
 ],
 "date": "noin 1945",
 "date_sdn": 2431457,
@@ -13613,7 +14210,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 389,
+"place": 433,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13621,7 +14218,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2926
+3135
 ],
 "date": "1770-05-31",
 "date_sdn": 2367690,
@@ -13630,7 +14227,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 908,
+"place": 997,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13776,7 +14373,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5302
+5715
 ],
 "date": "1736-05-30",
 "date_sdn": 2355271,
@@ -13785,7 +14382,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 961,
+"place": 1055,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13900,7 +14497,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1894
+2024
 ],
 "date": "1840-06-08",
 "date_sdn": 2393265,
@@ -13909,7 +14506,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13932,7 +14529,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5354
+5772
 ],
 "date": "1744",
 "date_sdn": 2358043,
@@ -13941,7 +14538,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 888,
+"place": 975,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13949,7 +14546,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3000
+3218
 ],
 "date": "1773-12-26",
 "date_sdn": 2368995,
@@ -13958,7 +14555,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 562,
+"place": 615,
 "text": "",
 "type": "Avioliitto"
 }
@@ -13966,7 +14563,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4827
+5206
 ],
 "date": "1805-12-15",
 "date_sdn": 2380671,
@@ -13975,7 +14572,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1005,
+"place": 1101,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14073,7 +14670,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2620
+2797
 ],
 "date": "1830-04-12",
 "date_sdn": 2389555,
@@ -14082,7 +14679,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 822,
+"place": 903,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14090,7 +14687,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4617
+4978
 ],
 "date": "1723-02-07",
 "date_sdn": 2350410,
@@ -14099,7 +14696,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14115,6 +14712,23 @@ F_events_0 = [
 "part_family": [],
 "part_person": [],
 "place": -1,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[
+{
+"cita": [
+2533
+],
+"date": "1750-10-11",
+"date_sdn": 2360518,
+"descr": "",
+"gid": "E06821",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 937,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14153,7 +14767,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6216
+6658
 ],
 "date": "1767-12-16",
 "date_sdn": 2366793,
@@ -14162,7 +14776,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 693,
+"place": 760,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14215,7 +14829,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3454
+3713
 ],
 "date": "1875-06-25",
 "date_sdn": 2406065,
@@ -14224,7 +14838,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 254,
+"place": 292,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14248,7 +14862,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5251
+5661
 ],
 "date": "1739",
 "date_sdn": 2356217,
@@ -14257,7 +14871,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 344,
+"place": 385,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14280,7 +14894,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2008
+2144
 ],
 "date": "",
 "date_sdn": 0,
@@ -14447,7 +15061,7 @@ F_events_0 = [
 [
 {
 "cita": [
-103
+111
 ],
 "date": "1610",
 "date_sdn": 2309101,
@@ -14464,7 +15078,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5394
+5817
 ],
 "date": "1747-12-26",
 "date_sdn": 2359498,
@@ -14473,7 +15087,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 714,
+"place": 784,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14542,7 +15156,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5386
+5808
 ],
 "date": "1867-07-07",
 "date_sdn": 2403155,
@@ -14551,7 +15165,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14574,7 +15188,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6217
+6659
 ],
 "date": "1781-12-12",
 "date_sdn": 2371903,
@@ -14583,7 +15197,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14606,7 +15220,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3457
+3716
 ],
 "date": "1732-12-26",
 "date_sdn": 2354020,
@@ -14615,7 +15229,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14623,7 +15237,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6329
+6771
 ],
 "date": "1754-01-16",
 "date_sdn": 2361711,
@@ -14632,7 +15246,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 950,
+"place": 1044,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14640,7 +15254,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5134
+5536
 ],
 "date": "1905-04-24",
 "date_sdn": 2416960,
@@ -14649,7 +15263,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 353,
+"place": 395,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14657,7 +15271,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4796
+5173
 ],
 "date": "1804-12-11",
 "date_sdn": 2380302,
@@ -14666,7 +15280,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14674,7 +15288,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3594
+3859
 ],
 "date": "1826-12-26",
 "date_sdn": 2388352,
@@ -14683,7 +15297,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 769,
+"place": 843,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14691,7 +15305,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3907
+4189
 ],
 "date": "1833-12-26",
 "date_sdn": 2390909,
@@ -14700,7 +15314,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 760,
+"place": 834,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14708,7 +15322,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2813
+3011
 ],
 "date": "1728-12-26",
 "date_sdn": 2352559,
@@ -14717,7 +15331,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 360,
+"place": 403,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14725,7 +15339,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6375
+6817
 ],
 "date": "1760-12-10",
 "date_sdn": 2364231,
@@ -14734,7 +15348,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 63,
+"place": 74,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14802,7 +15416,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4774
+5149
 ],
 "date": "1739-06-11",
 "date_sdn": 2356378,
@@ -14811,7 +15425,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 97,
+"place": 111,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14834,7 +15448,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1679
+1789
 ],
 "date": "1939-04-30",
 "date_sdn": 2429384,
@@ -14843,7 +15457,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 530,
+"place": 579,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14882,7 +15496,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6216
+6658
 ],
 "date": "1767-12-16",
 "date_sdn": 2366793,
@@ -14891,7 +15505,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14899,7 +15513,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4876
+5260
 ],
 "date": "1901-09-22",
 "date_sdn": 2415650,
@@ -14908,7 +15522,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14916,7 +15530,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3589
+3854
 ],
 "date": "1845-12-28",
 "date_sdn": 2395294,
@@ -14925,7 +15539,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14933,7 +15547,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3184
+3426
 ],
 "date": "1821-03-25",
 "date_sdn": 2386250,
@@ -14942,7 +15556,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14950,7 +15564,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2073
+2216
 ],
 "date": "1811-05-28",
 "date_sdn": 2382661,
@@ -14959,7 +15573,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14967,7 +15581,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4008
+4298
 ],
 "date": "1736-12-26",
 "date_sdn": 2355481,
@@ -14976,7 +15590,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -14984,7 +15598,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1986
+2121
 ],
 "date": "1878-10-13",
 "date_sdn": 2407271,
@@ -14993,7 +15607,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 714,
+"place": 784,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15016,7 +15630,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4234
+4541
 ],
 "date": "1731-03-07",
 "date_sdn": 2353360,
@@ -15025,7 +15639,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 662,
+"place": 725,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15033,7 +15647,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1767
+1885
 ],
 "date": "1870-05-15",
 "date_sdn": 2404198,
@@ -15042,7 +15656,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 330,
+"place": 371,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15066,7 +15680,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3511
+3772
 ],
 "date": "1778-01-07",
 "date_sdn": 2370468,
@@ -15075,7 +15689,25 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 428,
+"place": 472,
+"text": "",
+"type": "Avioliitto"
+}
+],
+[],
+[
+{
+"cita": [
+5331
+],
+"date": "1713-06-24",
+"date_sdn": 2346895,
+"descr": "",
+"gid": "E06694",
+"media": [],
+"part_family": [],
+"part_person": [],
+"place": 115,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15083,7 +15715,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2092
+2238
 ],
 "date": "1752-11-29",
 "date_sdn": 2361298,
@@ -15092,7 +15724,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 210,
+"place": 238,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15115,7 +15747,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2085
+2230
 ],
 "date": "1756-05-26",
 "date_sdn": 2362572,
@@ -15124,7 +15756,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 297,
+"place": 338,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15132,7 +15764,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3708
+3978
 ],
 "date": "1786-05-31",
 "date_sdn": 2373534,
@@ -15141,7 +15773,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 319,
+"place": 360,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15194,7 +15826,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5318
+5733
 ],
 "date": "1740",
 "date_sdn": 2356582,
@@ -15203,7 +15835,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 216,
+"place": 247,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15227,7 +15859,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6208
+6650
 ],
 "date": "1778-12-09",
 "date_sdn": 2370804,
@@ -15236,7 +15868,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1044,
+"place": 1142,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15244,7 +15876,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1754
+1870
 ],
 "date": "1725-06-19",
 "date_sdn": 2351273,
@@ -15253,7 +15885,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 537,
+"place": 586,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15291,7 +15923,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3566
+3828
 ],
 "date": "1738-05-07",
 "date_sdn": 2355978,
@@ -15300,7 +15932,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 218,
+"place": 249,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15323,7 +15955,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1917
+2048
 ],
 "date": "1740-12-26",
 "date_sdn": 2356942,
@@ -15332,7 +15964,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 466,
+"place": 511,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15370,7 +16002,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4672
+5043
 ],
 "date": "1700-05-21",
 "date_sdn": 2342113,
@@ -15379,7 +16011,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 849,
+"place": 932,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15583,7 +16215,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5648
+6083
 ],
 "date": "1895-03-03",
 "date_sdn": 2413256,
@@ -15592,7 +16224,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 146,
+"place": 162,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15616,7 +16248,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2973
+3191
 ],
 "date": "1779-12-26",
 "date_sdn": 2371186,
@@ -15625,7 +16257,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 683,
+"place": 750,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15633,7 +16265,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3645
+3911
 ],
 "date": "1806-06-24",
 "date_sdn": 2380862,
@@ -15642,7 +16274,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 90,
+"place": 104,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15650,7 +16282,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3903
+4185
 ],
 "date": "1735-12-26",
 "date_sdn": 2355115,
@@ -15659,7 +16291,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 219,
+"place": 250,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15667,7 +16299,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2970
+3188
 ],
 "date": "1721-11-09",
 "date_sdn": 2349955,
@@ -15676,7 +16308,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15684,7 +16316,7 @@ F_events_0 = [
 [
 {
 "cita": [
-6219
+6661
 ],
 "date": "1769-12-13",
 "date_sdn": 2367521,
@@ -15693,7 +16325,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15701,7 +16333,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5378
+5800
 ],
 "date": "1747-12-26",
 "date_sdn": 2359498,
@@ -15710,7 +16342,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 795,
+"place": 872,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15808,7 +16440,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3069
+3293
 ],
 "date": "1729-12-26",
 "date_sdn": 2352924,
@@ -15817,7 +16449,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 52,
+"place": 59,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15870,7 +16502,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2600
+2775
 ],
 "date": "1746-12-14",
 "date_sdn": 2359121,
@@ -15879,7 +16511,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 311,
+"place": 352,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15887,7 +16519,7 @@ F_events_0 = [
 [
 {
 "cita": [
-2610
+2786
 ],
 "date": "1769-12-26",
 "date_sdn": 2367534,
@@ -15896,7 +16528,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 1035,
+"place": 1131,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15919,7 +16551,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4586
+4944
 ],
 "date": "1715-06-08",
 "date_sdn": 2347609,
@@ -15928,7 +16560,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 848,
+"place": 931,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15936,7 +16568,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3895
+4176
 ],
 "date": "1738-12-26",
 "date_sdn": 2356211,
@@ -15945,7 +16577,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 23,
+"place": 29,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15968,7 +16600,7 @@ F_events_0 = [
 [
 {
 "cita": [
-4535
+4886
 ],
 "date": "1704-10-23",
 "date_sdn": 2343729,
@@ -15977,7 +16609,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 492,
+"place": 537,
 "text": "",
 "type": "Avioliitto"
 }
@@ -15985,7 +16617,7 @@ F_events_0 = [
 [
 {
 "cita": [
-3724
+3996
 ],
 "date": "1846-07-19",
 "date_sdn": 2395497,
@@ -15994,7 +16626,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 412,
+"place": 456,
 "text": "",
 "type": "Avioliitto"
 }
@@ -16017,7 +16649,7 @@ F_events_0 = [
 [
 {
 "cita": [
-1797
+1918
 ],
 "date": "1723-11-01",
 "date_sdn": 2350677,
@@ -16026,7 +16658,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 997,
+"place": 1092,
 "text": "",
 "type": "Avioliitto"
 }
@@ -16064,7 +16696,7 @@ F_events_0 = [
 [
 {
 "cita": [
-5378
+5800
 ],
 "date": "1747-12-26",
 "date_sdn": 2359498,
@@ -16073,7 +16705,7 @@ F_events_0 = [
 "media": [],
 "part_family": [],
 "part_person": [],
-"place": 73,
+"place": 85,
 "text": "",
 "type": "Avioliitto"
 }

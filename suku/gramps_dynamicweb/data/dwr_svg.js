@@ -309,7 +309,7 @@ function SvgInit()
 	$('#svg-zoom-out').click(SvgZoomOut);
 	$('#svg-expand').click(SvgToggleExpand);
 	$('#svg-config').click(Dwr.svgConfRef);
-	// to comment 2024-09-27/vj:	$('#svg-saveas').click(Dwr.svgSaveRef);
+	// to comment 2024-11-20/vj:	$('#svg-saveas').click(Dwr.svgSaveRef);
 	$('#svg-help').click(Dwr.svgHelpRef);
 	// Setup event handlers
 	$(window).mouseup(SvgMouseUpWindow)

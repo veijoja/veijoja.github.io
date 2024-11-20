@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Niina ja Maria Loimusalon esivanhemmat";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 6563,
-    "F": 1142,
-    "I": 1964,
+    "C": 7005,
+    "F": 1187,
+    "I": 2041,
     "M": 0,
-    "N": 461,
-    "P": 1057,
-    "R": 79,
-    "S": 1045
+    "N": 495,
+    "P": 1158,
+    "R": 86,
+    "S": 1133
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'>&copy; 2024 Veijo Jäppinen</p>";
+COPYRIGHT="";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
