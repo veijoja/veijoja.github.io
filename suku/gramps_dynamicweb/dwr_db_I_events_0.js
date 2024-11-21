@@ -66606,7 +66606,7 @@ I_events_0 = [
 828
 ],
 "place": 129,
-"text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHautausluettelon mukaan J\u00e4rvensivun vanha is\u00e4nt\u00e4 Mattz Johansson haudattiin kirkon alle ensimm\u00e4iseen osaan paarivaatteissa laulun ja kellonsoiton kera (i 1:a afdelningen under kyrckan, med s\u00e5ng, ringning och b\u00e5rkl\u00e4de).\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHautausluettelon mukaan J\u00e4rvensivun vanha is\u00e4nt\u00e4 Mattz Johansson haudattiin kirkon alle ensimm\u00e4iseen osaan käärinliinoissa laulun ja kellonsoiton kera (i 1:a afdelningen under kyrckan, med s\u00e5ng, ringning och b\u00e5rkl\u00e4de).\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "type": "Hautaus"
 }
 ],
