@@ -4,17 +4,17 @@ DWR_VERSION_410 = true;
 DWR_VERSION_412 = true;
 DWR_VERSION_420 = true;
 DWR_VERSION_500 = true;
-TITLE = "Niina ja Maria Loimusalon esivanhemmat";
+TITLE = "Jämsän seudun ja Karjalankannaksen väkeä";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 7005,
-    "F": 1187,
-    "I": 2041,
+    "C": 8699,
+    "F": 1591,
+    "I": 2720,
     "M": 0,
-    "N": 495,
-    "P": 1158,
-    "R": 86,
-    "S": 1133
+    "N": 575,
+    "P": 1324,
+    "R": 90,
+    "S": 1231
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];
@@ -33,8 +33,8 @@ SVG_TREE_BACKGROUND_PERIOD = 4;
 SVG_TREE_BACKGROUND_WHITE = 5;
 SVG_TREE_BACKGROUND_SCHEME1 = 6;
 SVG_TREE_BACKGROUND_SCHEME2 = 7;
-SVG_TREE_TYPE = 0;
-SVG_TREE_SHAPE = 3;
+SVG_TREE_TYPE = 4;
+SVG_TREE_SHAPE = 0;
 SVG_TREE_DISTRIB_ASC = 0;
 SVG_TREE_DISTRIB_DSC = 0;
 SVG_TREE_BACKGROUND = 1;
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2025 Veijo Jäppinen</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
@@ -214,7 +214,7 @@ __ = {
 "Relationship": "Suhde",
 "Repositories Index": "Repositories Index",
 "Repositories": "Arkistot",
-"Repository": "Arkisto",
+"Repository": "Tietovarasto",
 "Restore": "Palauta",
 "Restore default settings": "Palauta oletusasetukset",
 "Show last modification time": "Näytä viimeinen muutosaika",

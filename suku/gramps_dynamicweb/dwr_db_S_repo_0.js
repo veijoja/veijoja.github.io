@@ -6,7 +6,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 12
+"r_idx": 13
 }
 ],
 [
@@ -14,7 +14,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -46,7 +46,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -54,7 +54,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -262,7 +262,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -270,7 +270,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -278,7 +278,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -286,7 +286,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -302,7 +302,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -310,7 +310,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -318,7 +318,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -326,7 +326,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 55
+"r_idx": 58
 }
 ],
 [
@@ -334,45 +334,13 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
 {
 "call_number": "",
 "media_type": "Aikakauslehti",
-"note": "",
-"r_idx": 5
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
 "note": "",
 "r_idx": 6
 }
@@ -382,7 +350,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -396,65 +372,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 7
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 7
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 8
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 8
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 8
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 8
-}
-],
-[
-{
-"call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 20
+"r_idx": 48
 }
 ],
 [
@@ -462,7 +382,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 9
+"r_idx": 8
 }
 ],
 [
@@ -470,7 +390,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 9
+"r_idx": 8
 }
 ],
 [
@@ -478,103 +398,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 9
+"r_idx": 8
 }
 ],
 [
@@ -614,7 +438,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 21
 }
 ],
 [
@@ -654,7 +478,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 10
 }
 ],
 [
@@ -662,7 +486,111 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 10
 }
 ],
 [
@@ -670,7 +598,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -678,7 +606,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -686,7 +614,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 11
 }
 ],
 [
@@ -694,7 +622,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 13
+"r_idx": 11
 }
 ],
 [
@@ -702,7 +630,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 13
+"r_idx": 11
 }
 ],
 [
@@ -710,7 +638,47 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 13
+"r_idx": 11
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -735,38 +703,6 @@ S_repo_0 = [
 "media_type": "Kirja",
 "note": "",
 "r_idx": 14
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 15
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 15
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 15
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 15
 }
 ],
 [
@@ -806,6 +742,54 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
+"r_idx": 16
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 16
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 16
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 16
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 16
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 16
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
 "r_idx": 17
 }
 ],
@@ -822,7 +806,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 18
+"r_idx": 19
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 19
 }
 ],
 [
@@ -830,7 +822,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -838,7 +830,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 12
 }
 ],
 [
@@ -846,7 +838,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 48
 }
 ],
 [
@@ -854,7 +846,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -862,7 +854,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -870,7 +862,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -878,7 +870,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -886,7 +878,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -894,7 +886,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -902,7 +894,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -910,7 +902,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -918,7 +910,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -926,7 +918,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -934,7 +926,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -942,7 +934,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -950,7 +942,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -958,7 +950,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -966,7 +958,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -974,7 +966,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -982,7 +974,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -990,7 +982,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -998,7 +990,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1006,7 +998,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1014,7 +1006,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1022,7 +1014,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1030,7 +1022,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1038,7 +1030,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1046,7 +1038,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1054,7 +1046,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1062,7 +1054,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1070,7 +1062,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1078,7 +1070,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1086,7 +1078,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1094,7 +1086,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1102,7 +1094,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1110,7 +1102,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1118,7 +1110,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1126,7 +1118,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1134,7 +1126,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1142,7 +1134,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1150,7 +1142,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1158,7 +1150,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1166,7 +1158,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1174,7 +1166,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1182,7 +1174,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1190,7 +1182,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1198,7 +1190,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1206,7 +1198,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1214,7 +1206,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1222,7 +1214,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1230,7 +1222,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1238,7 +1230,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1246,7 +1238,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1254,7 +1246,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1262,7 +1254,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1270,7 +1262,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1278,7 +1270,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1286,7 +1278,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1294,7 +1286,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 20
 }
 ],
 [
@@ -1302,7 +1294,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1310,7 +1302,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1318,7 +1310,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1326,7 +1318,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 22
 }
 ],
 [
@@ -1334,7 +1326,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1342,7 +1334,39 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 20
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 20
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 20
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 20
 }
 ],
 [],
@@ -1351,7 +1375,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1359,7 +1383,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1367,7 +1391,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1375,7 +1399,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1383,7 +1407,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 19
+"r_idx": 20
 }
 ],
 [
@@ -1391,7 +1415,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [],
@@ -1400,7 +1424,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1408,7 +1432,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1416,7 +1440,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1424,7 +1448,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1432,7 +1456,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1440,7 +1464,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1448,7 +1472,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 21
+"r_idx": 22
 }
 ],
 [
@@ -1456,7 +1480,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 11
+"r_idx": 12
 }
 ],
 [
@@ -1464,256 +1488,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 22
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -1727,17 +1502,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Kirja",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 23
 }
 ],
 [
@@ -1745,15 +1512,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 67
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 23
 }
 ],
 [
@@ -1761,7 +1520,71 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 23
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -1801,15 +1624,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 11
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 11
+"r_idx": 24
 }
 ],
 [
@@ -1817,23 +1632,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 11
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 24
 }
 ],
 [
@@ -1841,7 +1640,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 25
+"r_idx": 24
 }
 ],
 [
@@ -1849,7 +1648,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 25
+"r_idx": 24
 }
 ],
 [
@@ -1857,7 +1656,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 25
+"r_idx": 24
 }
 ],
 [
@@ -1865,7 +1664,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 25
+"r_idx": 24
 }
 ],
 [
@@ -1873,239 +1672,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 25
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
+"r_idx": 24
 }
 ],
 [
@@ -2121,15 +1688,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 28
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Sanomalehti",
-"note": "",
-"r_idx": 31
+"r_idx": 24
 }
 ],
 [
@@ -2137,7 +1696,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 11
+"r_idx": 24
 }
 ],
 [
@@ -2145,7 +1704,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 11
+"r_idx": 24
 }
 ],
 [
@@ -2153,7 +1712,119 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 11
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 24
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 25
 }
 ],
 [
@@ -2161,7 +1832,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -2169,7 +1848,375 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 29
+"r_idx": 71
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 26
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 26
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 26
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 26
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 27
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -2191,648 +2238,48 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Paperidokumentti",
-"note": "",
-"r_idx": 31
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Paperidokumentti",
-"note": "",
-"r_idx": 31
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Paperidokumentti",
-"note": "",
-"r_idx": 31
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Paperidokumentti",
-"note": "",
-"r_idx": 31
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Paperidokumentti",
-"note": "",
-"r_idx": 31
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 32
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 33
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 34
-}
-],
-[
-{
-"call_number": "",
 "media_type": "Sanomalehti",
 "note": "",
+"r_idx": 33
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
 "r_idx": 31
 }
 ],
@@ -2841,7 +2288,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 31
 }
 ],
 [
@@ -2849,7 +2296,47 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 32
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Paperidokumentti",
+"note": "",
+"r_idx": 33
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Paperidokumentti",
+"note": "",
+"r_idx": 33
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Paperidokumentti",
+"note": "",
+"r_idx": 33
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Paperidokumentti",
+"note": "",
+"r_idx": 33
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Paperidokumentti",
+"note": "",
+"r_idx": 33
 }
 ],
 [
@@ -2857,7 +2344,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2865,7 +2352,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2873,7 +2360,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2881,7 +2368,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2889,7 +2376,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2897,7 +2384,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2905,7 +2392,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2913,7 +2400,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2921,7 +2408,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2929,7 +2416,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2937,7 +2424,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
 }
 ],
 [
@@ -2945,7 +2432,279 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 37
+"r_idx": 34
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 35
 }
 ],
 [
@@ -3009,7 +2768,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -3025,15 +2784,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 36
 }
 ],
 [
@@ -3041,7 +2792,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 38
+"r_idx": 36
 }
 ],
 [
@@ -3049,7 +2800,223 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 49
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 36
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Sanomalehti",
+"note": "",
+"r_idx": 33
 }
 ],
 [
@@ -3065,7 +3032,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 39
 }
 ],
 [
@@ -3073,15 +3040,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 49
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 39
 }
 ],
 [
@@ -3089,7 +3048,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 39
 }
 ],
 [
@@ -3097,7 +3056,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3105,7 +3064,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3113,7 +3072,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3121,7 +3080,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3129,7 +3088,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3137,7 +3096,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3145,7 +3104,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3153,7 +3112,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3161,7 +3120,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3169,7 +3128,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 39
 }
 ],
 [
@@ -3177,7 +3136,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 37
 }
 ],
 [
@@ -3185,7 +3144,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 37
 }
 ],
 [
@@ -3193,7 +3152,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
+"r_idx": 37
 }
 ],
 [
@@ -3201,15 +3160,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 40
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 37
 }
 ],
 [
@@ -3217,7 +3168,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 37
 }
 ],
 [
@@ -3225,7 +3176,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 70
+"r_idx": 37
 }
 ],
 [
@@ -3233,255 +3184,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 70
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 49
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 42
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 43
+"r_idx": 37
 }
 ],
 [
@@ -3489,7 +3192,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -3497,7 +3200,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 38
 }
 ],
 [
@@ -3505,15 +3208,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 49
+"r_idx": 48
 }
 ],
 [
@@ -3521,7 +3216,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -3529,7 +3224,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 44
+"r_idx": 40
 }
 ],
 [
@@ -3537,7 +3232,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 44
+"r_idx": 52
 }
 ],
 [
@@ -3545,7 +3240,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 44
+"r_idx": 41
 }
 ],
 [
@@ -3553,7 +3248,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 44
+"r_idx": 48
 }
 ],
 [
@@ -3561,7 +3256,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 44
+"r_idx": 52
 }
 ],
 [
@@ -3569,319 +3264,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 44
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Aikakauslehti",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -3889,7 +3272,127 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 42
 }
 ],
 [
@@ -3897,13 +3400,213 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 74
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 74
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 52
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
 "r_idx": 45
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 45
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
 "note": "",
 "r_idx": 45
 }
@@ -3921,7 +3624,55 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 46
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 46
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 46
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 46
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 46
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 46
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 46
 }
 ],
 [
@@ -3929,7 +3680,119 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 44
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 44
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 44
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 44
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 52
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 47
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 47
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 47
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 47
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 47
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 47
 }
 ],
 [
@@ -4233,14 +4096,6 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Aikakauslehti",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
 "r_idx": 48
 }
 ],
@@ -4255,9 +4110,41 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 69
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 49
 }
 ],
 [
@@ -4271,9 +4158,361 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 50
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Aikakauslehti",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 51
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 51
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 51
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 51
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 51
 }
 ],
 [],
@@ -4282,7 +4521,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4290,7 +4529,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4298,7 +4537,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4306,7 +4545,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4314,7 +4553,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4322,7 +4561,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4330,7 +4569,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4338,7 +4577,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4346,7 +4585,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
 }
 ],
 [
@@ -4354,7 +4593,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 48
+"r_idx": 51
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 51
 }
 ],
 [
@@ -4370,7 +4617,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -4378,7 +4625,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 20
+"r_idx": 21
 }
 ],
 [
@@ -4386,135 +4633,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 50
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 50
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 51
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 52
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 52
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 52
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 52
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kartta",
-"note": "",
-"r_idx": 41
+"r_idx": 53
 }
 ],
 [
@@ -4538,7 +4657,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 54
 }
 ],
 [
@@ -4546,15 +4665,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 54
 }
 ],
 [
@@ -4562,7 +4673,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 56
+"r_idx": 54
 }
 ],
 [
@@ -4570,7 +4681,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 56
+"r_idx": 54
 }
 ],
 [
@@ -4578,7 +4689,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 56
+"r_idx": 54
 }
 ],
 [
@@ -4586,7 +4697,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 56
+"r_idx": 54
 }
 ],
 [
@@ -4594,439 +4705,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 56
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 11
+"r_idx": 54
 }
 ],
 [
@@ -5034,7 +4713,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 11
+"r_idx": 48
 }
 ],
 [
@@ -5042,7 +4721,151 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 11
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 55
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 55
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 55
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 55
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 43
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 43
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kartta",
+"note": "",
+"r_idx": 43
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 43
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 43
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 43
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 56
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 57
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 57
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 57
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 57
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 57
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 28
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 28
 }
 ],
 [
@@ -5050,199 +4873,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 57
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -5291,6 +4922,454 @@ S_repo_0 = [
 "media_type": "Kirja",
 "note": "",
 "r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 59
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -5328,9 +5407,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 60
 }
 ],
 [
@@ -5338,7 +5417,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 61
+"r_idx": 60
 }
 ],
 [
@@ -5346,7 +5425,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 61
+"r_idx": 60
 }
 ],
 [
@@ -5354,7 +5433,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 61
+"r_idx": 60
 }
 ],
 [
@@ -5362,159 +5441,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 61
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 11
+"r_idx": 60
 }
 ],
 [
@@ -5522,7 +5449,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -5530,7 +5457,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5538,7 +5465,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5546,7 +5473,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5554,7 +5481,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5562,7 +5489,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5570,7 +5497,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5578,7 +5505,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5586,7 +5513,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5594,7 +5521,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5602,7 +5529,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5610,7 +5537,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5618,7 +5545,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5626,7 +5553,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 61
 }
 ],
 [
@@ -5634,7 +5561,23 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -5642,7 +5585,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 48
 }
 ],
 [
@@ -5650,7 +5593,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5658,7 +5601,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5666,7 +5609,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5674,7 +5617,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5682,7 +5625,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5690,7 +5633,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5698,7 +5641,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5706,7 +5649,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5714,7 +5657,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5722,7 +5665,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5730,7 +5673,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5738,7 +5681,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5746,7 +5689,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5754,7 +5697,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5762,7 +5705,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5770,7 +5713,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5778,7 +5721,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5786,7 +5729,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5794,23 +5737,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 63
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 63
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 63
+"r_idx": 62
 }
 ],
 [
@@ -5850,15 +5777,135 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Kirja",
 "note": "",
-"r_idx": 3
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 64
 }
 ],
 [
@@ -5874,7 +5921,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 69
+"r_idx": 65
 }
 ],
 [
@@ -5882,7 +5929,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 69
+"r_idx": 65
 }
 ],
 [
@@ -5890,7 +5937,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 69
+"r_idx": 65
 }
 ],
 [
@@ -5898,7 +5945,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 69
+"r_idx": 65
 }
 ],
 [
@@ -5906,7 +5953,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 69
+"r_idx": 65
 }
 ],
 [
@@ -5914,1727 +5961,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 63
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 62
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 69
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 67
+"r_idx": 12
 }
 ],
 [
@@ -7642,23 +5969,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -7666,7 +5977,319 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 66
 }
 ],
 [
@@ -7674,7 +6297,23 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 58
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 3
 }
 ],
 [
@@ -7688,26 +6327,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[],
-[
-{
-"call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 49
+"r_idx": 73
 }
 ],
 [
@@ -7715,23 +6337,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 73
 }
 ],
 [
@@ -7739,21 +6345,613 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 73
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 73
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "Sanomalehti",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
 "note": "",
 "r_idx": 66
 }
@@ -7763,7 +6961,1375 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 71
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 65
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 73
 }
 ],
 [
@@ -7777,9 +8343,49 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 71
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -7793,17 +8399,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 72
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 11
+"r_idx": 48
 }
 ],
 [
@@ -7811,7 +8409,16 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 52
 }
 ],
 [
@@ -7819,39 +8426,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 73
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 73
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 73
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 73
+"r_idx": 48
 }
 ],
 [
@@ -7859,7 +8434,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -7867,7 +8442,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -7875,151 +8458,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "Kartta",
+"media_type": "Sanomalehti",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 74
+"r_idx": 70
 }
 ],
 [
@@ -8033,9 +8480,49 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 75
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 75
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 76
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 76
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 12
+}
+],
+[
+{
+"call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -8043,151 +8530,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 76
+"r_idx": 48
 }
 ],
 [
@@ -8203,7 +8546,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 78
+"r_idx": 77
 }
 ],
 [
@@ -8211,7 +8554,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 78
+"r_idx": 77
 }
 ],
 [
@@ -8219,143 +8562,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 78
+"r_idx": 77
 }
 ],
 [
@@ -8363,7 +8570,191 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 11
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kartta",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 78
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 52
 }
 ],
 [
@@ -8377,41 +8768,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -8564,110 +8923,6 @@ S_repo_0 = [
 "media_type": "Kirja",
 "note": "",
 "r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 80
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 45
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 81
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 81
-}
-],
-[
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
-"r_idx": 81
 }
 ],
 [
@@ -8732,6 +8987,119 @@ S_repo_0 = [
 "media_type": "Kirja",
 "note": "",
 "r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 82
+}
+],
+[],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 12
 }
 ],
 [
@@ -8747,7 +9115,23 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 83
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -8755,7 +9139,15 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 83
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -8777,9 +9169,9 @@ S_repo_0 = [
 [
 {
 "call_number": "",
-"media_type": "Aikakauslehti",
+"media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 84
 }
 ],
 [
@@ -8787,13 +9179,213 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 49
+"r_idx": 84
 }
 ],
 [
 {
 "call_number": "",
-"media_type": "Aikakauslehti",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 84
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
 "note": "",
 "r_idx": 85
 }
@@ -8801,9 +9393,177 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 85
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 85
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 85
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 86
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 87
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 87
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 87
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 88
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 88
+}
+],
+[
+{
+"call_number": "",
 "media_type": "Aikakauslehti",
 "note": "",
-"r_idx": 45
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 52
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Aikakauslehti",
+"note": "",
+"r_idx": 89
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Aikakauslehti",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 5
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 5
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 5
 }
 ],
 [
@@ -8811,7 +9571,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -8819,7 +9579,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Verkkotietosanakirja",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -8827,7 +9587,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 45
+"r_idx": 48
 }
 ],
 [
@@ -8835,7 +9595,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 64
+"r_idx": 67
 }
 ],
 [
@@ -8843,7 +9603,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 64
+"r_idx": 67
 }
 ],
 [
@@ -8851,7 +9611,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 64
+"r_idx": 67
 }
 ],
 [
@@ -8859,7 +9619,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 64
+"r_idx": 67
 }
 ],
 [
@@ -8867,7 +9627,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 64
+"r_idx": 67
 }
 ],
 [
@@ -8875,7 +9635,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 64
+"r_idx": 67
 }
 ],
 [
@@ -8883,7 +9643,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8891,7 +9651,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8899,7 +9659,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8907,7 +9667,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8915,7 +9675,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8923,7 +9683,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8931,7 +9691,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8939,7 +9699,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8947,7 +9707,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8955,7 +9715,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8963,7 +9723,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8971,7 +9731,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8979,7 +9739,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8987,7 +9747,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -8995,7 +9755,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -9003,7 +9763,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -9011,7 +9771,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -9019,7 +9779,7 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
 }
 ],
 [
@@ -9027,7 +9787,31 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"r_idx": 26
+"r_idx": 28
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 28
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 28
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 28
 }
 ]
 ]
