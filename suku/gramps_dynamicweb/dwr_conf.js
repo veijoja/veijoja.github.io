@@ -18,8 +18,8 @@ DB_SIZES = {
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];
-PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "medias.html", "places.html", "repositories.html", "address.html"];
-PAGES_TITLE_INDEX = ["Sukunimet", "Henkilöt", "Perheet", "Lähteet", "Mediat", "Paikat", "Arkistot", "Osoitteet"];
+PAGES_FILE_INDEX = ["surnames.html", "persons.html", "families.html", "sources.html", "places.html", "repositories.html"];
+PAGES_TITLE_INDEX = ["Sukunimet", "Henkilöt", "Perheet", "Lähteet", "Paikat", "Arkistot"];
 SVG_TREE_TYPES_NAMES = ["Esivanhempien sukupuu", "Jälkeläisten sukupuu", "Jälkeläisten sukupuu puolisot mukana", "Jälkeläisten ja esivanhempien sukupuu", "Jälkeläisten ja esivanhempien sukupuu puolisoiden kanssa"];
 SVG_TREE_SHAPES_NAMES = ["Alaspäin (↓)", "Ylöspäin (↑)", "Oikealle (→)", "Vasemmalle (←)", "Ympyrä", "Puoliympyrä", "Sektori"];
 SVG_TREE_DISTRIB_ASC_NAMES = ["Koko suhteessa esivanhempien määrään", "Tasainen vanhempien jakautuma"];
@@ -86,11 +86,11 @@ SHOW_ALL_SIBLINGS=false;
 INC_EVENTS=false;
 INC_FAMILIES=true;
 INC_SOURCES=true;
-INC_MEDIA=true;
+INC_MEDIA=false;
 INC_PLACES=true;
 INC_REPOSITORIES=true;
 INC_NOTES=true;
-INC_ADDRESSES=true;
+INC_ADDRESSES=false;
 MAP_PLACE=true;
 MAP_FAMILY=false;
 MAP_SERVICE="OpenStreetMap";
@@ -212,7 +212,7 @@ __ = {
 "Relationship to Father": "Suhde isään",
 "Relationship to Mother": "Suhde äitiin",
 "Relationship": "Suhde",
-"Repositories Index": "Repositories Index",
+"Repositories Index": "Arkistohakemisto",
 "Repositories": "Arkistot",
 "Repository": "Tietovarasto",
 "Restore": "Palauta",
@@ -240,7 +240,7 @@ __ = {
 "Siblings": "Sisarukset",
 "Sort by:": "Lajittelujärjestys:",
 "Source": "Lähde",
-"Sources Index": "Lähteet valikko",
+"Sources Index": "Lähdehakemisto",
 "Sources": "Lähteet",
 "Spouses": "Puolisot",
 "Suppress Gramps ID": "Jätä pois Gramps ID",
