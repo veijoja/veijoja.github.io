@@ -1,6 +1,7 @@
 // This file is generated
 
 C_note_1 = [
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5812107345&amp;aineistoId=1839958726\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9449653088&amp;aineistoId=1226852526\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450066364&amp;aineistoId=1226581908\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5918356172&amp;aineistoId=1227407437\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -2784,6 +2785,7 @@ C_note_1 = [
 "<div>\n<i class=\"NoteType\">\nLainaus\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://katiha.kansallisarkisto.fi/henkilotieto.php?keyId=0339V19170021935\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://kokkolakarleby.blogspot.com/2012/09/hautakivien-kertomaa-kavelykierros.html\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://kaino.kotus.fi/www/verkkojulkaisut/julk54/Kannaksen_kylat.pdf\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"",
 "",
 "",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://www.ruovedenkotiseutuyhdistys.fi/muistomerkit_kuvat.html\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",

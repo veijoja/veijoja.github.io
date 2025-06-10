@@ -9813,6 +9813,14 @@ S_repo_0 = [
 "note": "",
 "r_idx": 28
 }
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 33
+}
 ]
 ]
 Dwr.ScriptLoaded('dwr_db_S_repo_0.js');

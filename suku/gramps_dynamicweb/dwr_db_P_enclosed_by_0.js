@@ -48,7 +48,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1211
+"pdx": 1212
 }
 ],
 [
@@ -97,7 +97,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1226
+"pdx": 1227
 }
 ],
 [
@@ -146,7 +146,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1312
+"pdx": 1313
 }
 ],
 [],
@@ -269,7 +269,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1309
+"pdx": 1310
 }
 ],
 [
@@ -443,7 +443,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1281
+"pdx": 1282
 }
 ],
 [
@@ -534,7 +534,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1277
+"pdx": 1278
 }
 ],
 [
@@ -619,7 +619,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1210
+"pdx": 1211
 }
 ],
 [
@@ -848,7 +848,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1319
+"pdx": 1320
 }
 ],
 [
@@ -904,7 +904,7 @@ P_enclosed_by_0 = [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1250
+"pdx": 1251
 },
 {
 "date": "1200 - 1219-06-14",
@@ -929,17 +929,17 @@ P_enclosed_by_0 = [
 {
 "date": "1721-08-30 - 1918-02-23",
 "date_sdn": 2349884,
-"pdx": 1217
+"pdx": 1218
 },
 {
 "date": "1918-02-24 - 1940-07-31",
 "date_sdn": 2421649,
-"pdx": 1250
+"pdx": 1251
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
@@ -1292,7 +1292,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1225
+"pdx": 1226
 }
 ],
 [
@@ -1501,7 +1501,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1211
+"pdx": 1212
 }
 ],
 [
@@ -1754,7 +1754,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1268
+"pdx": 1269
 }
 ],
 [
@@ -1808,7 +1808,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1276
+"pdx": 1277
 }
 ],
 [
@@ -1872,7 +1872,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1638-12-31",
 "date_sdn": 2319692,
-"pdx": 1201
+"pdx": 1202
 }
 ],
 [
@@ -1886,7 +1886,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1276
+"pdx": 1277
 }
 ],
 [
@@ -1926,7 +1926,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1237
+"pdx": 1238
 }
 ],
 [
@@ -2013,7 +2013,7 @@ P_enclosed_by_0 = [
 {
 "date": "1721-08-30 j\u00e4lkeen",
 "date_sdn": 2349884,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
@@ -2272,7 +2272,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1246
+"pdx": 1247
 }
 ],
 [
@@ -2326,7 +2326,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1251
+"pdx": 1252
 }
 ],
 [
@@ -2654,7 +2654,7 @@ P_enclosed_by_0 = [
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1200
+"pdx": 1201
 }
 ],
 [
@@ -2762,7 +2762,7 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1323
+"pdx": 1324
 },
 {
 "date": "ennen 1925-12-31",
@@ -2852,7 +2852,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1311
+"pdx": 1312
 }
 ],
 [
@@ -2866,7 +2866,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1242
+"pdx": 1243
 }
 ],
 [
@@ -3063,7 +3063,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1212
+"pdx": 1213
 }
 ],
 [
@@ -3314,7 +3314,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -3460,7 +3460,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1320
+"pdx": 1321
 }
 ],
 [
@@ -3714,7 +3714,7 @@ P_enclosed_by_0 = [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1258
+"pdx": 1259
 },
 {
 "date": "ennen 1920-12-31",
@@ -3759,7 +3759,7 @@ P_enclosed_by_0 = [
 {
 "date": "1954 j\u00e4lkeen",
 "date_sdn": 2434744,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -3830,7 +3830,7 @@ P_enclosed_by_0 = [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -3854,7 +3854,7 @@ P_enclosed_by_0 = [
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 1311
+"pdx": 1312
 }
 ],
 [
@@ -4289,7 +4289,7 @@ P_enclosed_by_0 = [
 {
 "date": "1721 j\u00e4lkeen",
 "date_sdn": 2349643,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
@@ -4385,7 +4385,7 @@ P_enclosed_by_0 = [
 {
 "date": "1937 j\u00e4lkeen",
 "date_sdn": 2428535,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -4482,7 +4482,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1237
+"pdx": 1238
 }
 ],
 [
@@ -4649,7 +4649,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1276
+"pdx": 1277
 }
 ],
 [
@@ -4733,7 +4733,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1251
+"pdx": 1252
 }
 ],
 [
@@ -5034,7 +5034,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1309
+"pdx": 1310
 }
 ],
 [
@@ -5048,7 +5048,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1319
+"pdx": 1320
 }
 ],
 [
@@ -5067,7 +5067,7 @@ P_enclosed_by_0 = [
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1251
+"pdx": 1252
 }
 ],
 [
@@ -5100,7 +5100,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1230
+"pdx": 1231
 }
 ],
 [
@@ -5251,7 +5251,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1319
+"pdx": 1320
 }
 ],
 [
@@ -5321,7 +5321,7 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1323
+"pdx": 1324
 },
 {
 "date": "ennen 1925-12-31",
@@ -5374,7 +5374,7 @@ P_enclosed_by_0 = [
 {
 "date": "1904 - 1921-12-31",
 "date_sdn": 2416481,
-"pdx": 1247
+"pdx": 1248
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -5414,7 +5414,7 @@ P_enclosed_by_0 = [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1250
+"pdx": 1251
 },
 {
 "date": "ennen 1345-12-31",
@@ -5434,17 +5434,17 @@ P_enclosed_by_0 = [
 {
 "date": "1704 - 1920-10-13",
 "date_sdn": 2343433,
-"pdx": 1217
+"pdx": 1218
 },
 {
 "date": "1920-10-14 - 1940-07-31",
 "date_sdn": 2422612,
-"pdx": 1250
+"pdx": 1251
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
@@ -5465,7 +5465,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1276
+"pdx": 1277
 }
 ],
 [],
@@ -5515,7 +5515,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1276
+"pdx": 1277
 }
 ],
 [
@@ -5620,7 +5620,7 @@ P_enclosed_by_0 = [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1258
+"pdx": 1259
 },
 {
 "date": "ennen 1920-12-31",
@@ -5721,14 +5721,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1319
+"pdx": 1320
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1208
+"pdx": 1209
 }
 ],
 [
@@ -5784,7 +5784,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1300
+"pdx": 1301
 }
 ],
 [
@@ -5798,7 +5798,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1298
+"pdx": 1299
 }
 ],
 [
@@ -5908,7 +5908,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1319
+"pdx": 1320
 }
 ],
 [
@@ -6016,7 +6016,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1298
+"pdx": 1299
 }
 ],
 [
@@ -6297,7 +6297,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1319
+"pdx": 1320
 }
 ],
 [
@@ -6550,7 +6550,7 @@ P_enclosed_by_0 = [
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -6694,7 +6694,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1224
+"pdx": 1225
 }
 ],
 [
@@ -6862,7 +6862,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1299
+"pdx": 1300
 }
 ],
 [
@@ -6944,7 +6944,7 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1323
+"pdx": 1324
 },
 {
 "date": "ennen 1925-12-31",
@@ -7096,7 +7096,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1206
+"pdx": 1207
 }
 ],
 [
@@ -7449,14 +7449,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1273
+"pdx": 1274
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1273
+"pdx": 1274
 }
 ],
 [
@@ -7477,7 +7477,7 @@ P_enclosed_by_0 = [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1258
+"pdx": 1259
 },
 {
 "date": "ennen 1920-12-31",
@@ -7530,14 +7530,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1224
+"pdx": 1225
 }
 ],
 [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1250
+"pdx": 1251
 },
 {
 "date": "1200 - 1219-06-14",
@@ -7562,17 +7562,17 @@ P_enclosed_by_0 = [
 {
 "date": "1721-08-30 - 1918-02-23",
 "date_sdn": 2349884,
-"pdx": 1217
+"pdx": 1218
 },
 {
 "date": "1918-02-24 - 1940-07-31",
 "date_sdn": 2421649,
-"pdx": 1250
+"pdx": 1251
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
@@ -7817,7 +7817,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1230
+"pdx": 1231
 }
 ],
 [
@@ -7974,7 +7974,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -8307,7 +8307,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1321
+"pdx": 1322
 }
 ],
 [
@@ -8345,7 +8345,7 @@ P_enclosed_by_0 = [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -8526,7 +8526,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -8944,7 +8944,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1276
+"pdx": 1277
 }
 ],
 [
@@ -9201,7 +9201,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 1237
+"pdx": 1238
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -9299,6 +9299,13 @@ P_enclosed_by_0 = [
 "date": "",
 "date_sdn": 0,
 "pdx": 982
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 105
 }
 ],
 [
@@ -9463,7 +9470,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1265
+"pdx": 1266
 }
 ],
 [
@@ -9489,7 +9496,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1224
+"pdx": 1225
 }
 ],
 [
@@ -9538,7 +9545,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1229
+"pdx": 1230
 }
 ],
 [
@@ -9571,7 +9578,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1234
+"pdx": 1235
 }
 ],
 [
@@ -9782,12 +9789,12 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1323
+"pdx": 1324
 },
 {
 "date": "ennen 1925-12-31",
 "date_sdn": 2424516,
-"pdx": 1258
+"pdx": 1259
 }
 ],
 [
@@ -9907,7 +9914,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1218
+"pdx": 1219
 }
 ],
 [
@@ -9928,7 +9935,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1284
+"pdx": 1285
 }
 ],
 [
@@ -9965,7 +9972,7 @@ P_enclosed_by_0 = [
 {
 "date": "1919 - 1933-01-29",
 "date_sdn": 2421960,
-"pdx": 1279
+"pdx": 1280
 },
 {
 "date": "1933-01-30 - 1945-07-04",
@@ -10001,7 +10008,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1286
+"pdx": 1287
 }
 ],
 [
@@ -10022,21 +10029,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1309
+"pdx": 1310
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1312
+"pdx": 1313
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1253
+"pdx": 1254
 }
 ],
 [
@@ -10092,7 +10099,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1226
+"pdx": 1227
 }
 ],
 [
@@ -10113,7 +10120,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1305
+"pdx": 1306
 }
 ],
 [
@@ -10158,7 +10165,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1307
+"pdx": 1308
 }
 ],
 [
@@ -10226,7 +10233,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1246
+"pdx": 1247
 }
 ],
 [
@@ -10259,7 +10266,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1270
+"pdx": 1271
 }
 ],
 [

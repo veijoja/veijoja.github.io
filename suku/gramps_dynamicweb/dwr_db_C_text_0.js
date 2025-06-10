@@ -4,6 +4,7 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-06-03\n</p><p>\n<b>\nSivu: \n</b>\n\"Sk\u00e4lm eller Balk.\" [Skalm] Tab I barn M\u00e5rten J\u00f6nsson till B\u00f6le, etc.\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-06-03\n</p><p>\n<b>\nSivu: \n</b>\n\"Sk\u00e4lm eller Balk.\" [Skalm] Tab I J\u00f6ns Benktsson p\u00e5 Attu i Pargas\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-01-21\n</p><p>\n<b>\nSivu: \n</b>\n\"Stjernkors.\" jatkuu, \"Stjernkors. Holma-sl\u00e4ktenk\" Tab I J\u00f6ns Benktsson p\u00e5 Attu i Pargas, barn M\u00e5rten J\u00f6nsson till B\u00f6le\n</p>",
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-06-04\n</p><p>\n<b>\nSivu: \n</b>\n1.2.2017, sivu 5: Kuolleet\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-07-07\n</p><p>\n<b>\nSivu: \n</b>\n15.3.1994 sivu 2: Sotien historia el\u00e4v\u00e4ksi haastatteluin, mm. Johanna Matilainen haastatteli mummoaan Ilmi\u00e4\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-10-17\n</p><p>\n<b>\nSivu: \n</b>\n15.4.1937 no 15 sivu 3: mm. Aili Laaksin juhlapuhe Lahdenkyll\u00e4n mattojen juhlassa Kuokkalassa 29.3.1937\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-21\n</p><p>\n<b>\nSivu: \n</b>\n168 Samlingar i landtm\u00e4teri, kommissionslandtm\u00e4taren i Tavastehus l\u00e4n Gabriel Barck: Min fader Daniel Barck... och hans fader...\n</p>",
@@ -4999,7 +5000,6 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-01-01\n</p><p>\n<b>\nSivu: \n</b>\njakso 324, sivu 672: Yl\u00e4j\u00e4rvi N:o 5 Inkinen\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-10-18\n</p><p>\n<b>\nSivu: \n</b>\njakso 324, sivu x: vihityt 1846 huhtikuu - kes\u00e4kuu, viimeinen merkint\u00e4 jatkuu seuraavassa jaksossa\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-18\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu 320: Yll\u00e4j\u00e4rvi No 1\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2021-04-05\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu 652-653: D\u00f6de och begrafne \u00e5r 1830 April - Julii\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-07-19\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu x: vihityt 1846 kes\u00e4kuu - hein\u00e4kuu\n</p>"
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2021-04-05\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu 652-653: D\u00f6de och begrafne \u00e5r 1830 April - Julii\n</p>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_text_0.js');

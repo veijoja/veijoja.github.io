@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Jämsän seudun ja Karjalankannaksen väkeä";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 8699,
+    "C": 8701,
     "F": 1591,
-    "I": 2720,
+    "I": 2722,
     "M": 0,
     "N": 575,
-    "P": 1324,
+    "P": 1325,
     "R": 90,
-    "S": 1231
+    "S": 1232
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];
@@ -127,7 +127,7 @@ __ = {
 "Burial": "Hautaus",
 "Call Name": "Kutsumanimi",
 "Call Number": "Arkiston viitenumero",
-"Cause Of Death": "Kuolinsyy",
+"Cause Of Death": "Kuolinsyy tai oire",
 "Children": "Lapset",
 "Christening": "Ristiäiset",
 "Citation": "Lainaus",
@@ -284,7 +284,7 @@ __ = {
 "Bas Mitzvah": "Bat Mitzvah",
 "Blessing": "Siunaus",
 "Burial": "Hautaus",
-"Cause Of Death": "Kuolinsyy",
+"Cause Of Death": "Kuolinsyy tai oire",
 "Census": "Väestönlaskenta",
 "Christening": "Ristiäiset",
 "Confirmation": "Konfirmaatio",

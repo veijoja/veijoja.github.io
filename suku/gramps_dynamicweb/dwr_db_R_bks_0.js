@@ -1807,6 +1807,12 @@ R_bks_0 = [
 "media_type": "Sanomalehti",
 "note": "",
 "s_idx": 378
+},
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"s_idx": 1231
 }
 ],
 [

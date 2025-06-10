@@ -5003,24 +5003,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": ", Heikki",
-"given": "Heikki",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-""
-],
-"title": "",
-"type": "Syntym\u00e4nimi"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": ", Helena",
 "given": "Helena",
 "nick": "",
@@ -16943,8 +16925,8 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-4881,
-4883
+4882,
+4884
 ],
 "date": "",
 "fam_nick": "",
@@ -22074,6 +22056,76 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "J\u00e4rvinen, Anni",
+"given": "Anni",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"J\u00e4rvinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "J\u00e4rvinen, Heikki Johannes",
+"given": "Heikki Johannes",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"J\u00e4rvinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "J\u00e4rvinen, Valma Ranni",
+"given": "Valma",
+"nick": "",
+"note": "",
+"suffix": "Ranni",
+"surnames": [
+"J\u00e4rvinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Lepola",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lepola"
+],
+"title": "",
+"type": "Avionimi"
 }
 ],
 [
@@ -28480,8 +28532,8 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Lahnajoki, Hedvig Kristiina Erkintyt\u00e4r",
-"given": "Hedvig Kristiina",
+"full": "Lahnajoki, Heta Kristiina Erkintyt\u00e4r",
+"given": "Heta Kristiina",
 "nick": "",
 "note": "",
 "suffix": "Erkintyt\u00e4r",

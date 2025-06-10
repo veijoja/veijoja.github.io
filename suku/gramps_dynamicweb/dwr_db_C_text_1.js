@@ -1,6 +1,7 @@
 // This file is generated
 
 C_text_1 = [
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-07-19\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu x: vihityt 1846 kes\u00e4kuu - hein\u00e4kuu\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-19\n</p><p>\n<b>\nSivu: \n</b>\njakso 326, sivu 1159: T\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-18\n</p><p>\n<b>\nSivu: \n</b>\njakso 326, sivu 320: Yl\u00e4j\u00e4rvi 4\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2020-12-27\n</p><p>\n<b>\nSivu: \n</b>\njakso 326, sivu 652-653: kuolleet ja haudatut 1830 hein\u00e4kuu -  joulukuu\n</p>",
@@ -2784,6 +2785,7 @@ C_text_1 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-17\n</p><p>\n<b>\nSivu: \n</b>\nMikko Vilhelminpoika Romun ja Maria Tuomaantyt\u00e4r R\u00e4m\u00f6n vikiminen\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2020-10-05\n</p><p>\n<b>\nSivu: \n</b>\nMinna Heikkil\u00e4 2012-09-20\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-10-02\n</p><p>\n<b>\nSivu: \n</b>\nMoiniemi\n</p>",
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-06-04\n</p><p>\n<b>\nSivu: \n</b>\nMuistinvarainen tieto\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2020-11-19\n</p><p>\n<b>\nSivu: \n</b>\nMuistinvarainen tieto\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2020-11-24\n</p><p>\n<b>\nSivu: \n</b>\nMuistinvarainen tieto sukulaisilta Juho R\u00e4m\u00f6st\u00e4 ja Maria J\u00e4ppisest\u00e4\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-01-11\n</p><p>\n<b>\nSivu: \n</b>\nMuistomerkit kuvina: Asutuksen muistokivi Kekkosella, \"Jo 1500 luvulla Suur-Ruoveden pit\u00e4j\u00e4n ensimm\u00e4inen keskuspaikka Kekkosen nimismiestalo ja kestikievari...\"\n</p>",

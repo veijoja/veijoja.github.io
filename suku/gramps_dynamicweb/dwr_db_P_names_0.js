@@ -1059,7 +1059,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Hauhon srk"
+"name": "Hauhon seurakunta"
 }
 ],
 [
@@ -1456,7 +1456,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Hein\u00e4vehmas torp"
+"name": "Hein\u00e4vehmas torp."
 }
 ],
 [
@@ -1984,7 +1984,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Iitin srk"
+"name": "Iitin seurakunta"
 }
 ],
 [
@@ -2041,7 +2041,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Ilola torp"
+"name": "Ilola torp."
 },
 {
 "date": "",
@@ -2453,7 +2453,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "J\u00e4ms\u00e4n srk"
+"name": "J\u00e4ms\u00e4n seurakunta"
 }
 ],
 [
@@ -2680,7 +2680,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Kangasalan srk"
+"name": "Kangasalan seurakunta"
 }
 ],
 [
@@ -3205,7 +3205,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Keuruun srk"
+"name": "Keuruun seurakunta"
 }
 ],
 [
@@ -3783,7 +3783,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Kuhmoisten srk"
+"name": "Kuhmoisten seurakunta"
 }
 ],
 [
@@ -3924,7 +3924,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Kuoreveden srk"
+"name": "Kuoreveden seurakunta"
 }
 ],
 [
@@ -4359,7 +4359,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Lemp\u00e4\u00e4l\u00e4n srk"
+"name": "Lemp\u00e4\u00e4l\u00e4n seurakunta"
 }
 ],
 [
@@ -4725,7 +4725,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "L\u00e4ngelm\u00e4en srk"
+"name": "L\u00e4ngelm\u00e4en seurakunta"
 }
 ],
 [
@@ -4781,7 +4781,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Maarian srk"
+"name": "Maarian seurakunta"
 }
 ],
 [
@@ -4978,7 +4978,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Maunukkala torp"
+"name": "Maunukkala torp."
 }
 ],
 [
@@ -5053,7 +5053,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Messukyl\u00e4n srk"
+"name": "Messukyl\u00e4n seurakunta"
 }
 ],
 [
@@ -5409,7 +5409,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Muuransuo trp"
+"name": "Muuransuo torp."
 }
 ],
 [
@@ -6033,7 +6033,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Oriveden srk"
+"name": "Oriveden seurakunta"
 }
 ],
 [
@@ -6594,7 +6594,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Pihlajaveden srk"
+"name": "Pihlajaveden seurakunta"
 }
 ],
 [
@@ -6627,7 +6627,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Piikki\u00f6n srk"
+"name": "Piikki\u00f6n seurakunta"
 }
 ],
 [
@@ -6653,7 +6653,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Pirkkalan srk"
+"name": "Pirkkalan seurakunta"
 }
 ],
 [
@@ -7011,7 +7011,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Pyh\u00e4j\u00e4rven (Vpl) srk"
+"name": "Pyh\u00e4j\u00e4rven (Vpl) seurakunta"
 }
 ],
 [
@@ -7102,7 +7102,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "P\u00e4lk\u00e4neen srk"
+"name": "P\u00e4lk\u00e4neen seurakunta"
 }
 ],
 [
@@ -7316,7 +7316,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Raudun srk"
+"name": "Raudun seurakunta"
 }
 ],
 [
@@ -7495,7 +7495,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Riihihuhti torp"
+"name": "Riihihuhti torp."
 },
 {
 "date": "",
@@ -7648,7 +7648,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Ruoveden srk"
+"name": "Ruoveden seurakunta"
 }
 ],
 [
@@ -7669,7 +7669,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Ruskealan srk"
+"name": "Ruskealan seurakunta"
 }
 ],
 [
@@ -7891,7 +7891,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Sahalahden srk"
+"name": "Sahalahden seurakunta"
 }
 ],
 [
@@ -7954,7 +7954,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Sakkolan srk"
+"name": "Sakkolan seurakunta"
 }
 ],
 [
@@ -8266,7 +8266,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Sauvon srk"
+"name": "Sauvon seurakunta"
 }
 ],
 [
@@ -8563,14 +8563,14 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Somerniemen srk"
+"name": "Somerniemen seurakunta"
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Someron srk"
+"name": "Someron seurakunta"
 }
 ],
 [
@@ -9820,6 +9820,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Valmet Lentokoneteollisuus"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Vammala"
 }
 ],
@@ -10607,7 +10614,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Wexford"
+"name": "Wexford County"
 }
 ],
 [
@@ -10929,7 +10936,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "\u00c4nkk\u00e4 torp"
+"name": "\u00c4nkk\u00e4 torp."
 }
 ],
 [

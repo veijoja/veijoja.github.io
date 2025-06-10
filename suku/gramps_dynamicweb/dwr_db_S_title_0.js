@@ -1231,6 +1231,7 @@ S_title_0 = [
 "Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1735-1735 (KO a:48)",
 "Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1744-1744 (KO a:61)",
 "Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1745-1745 (KO a:62)",
-"Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1746-1746 (KO a:63)"
+"Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1746-1746 (KO a:63)",
+"Yl\u00f6j\u00e4rven Uutiset -sanomalehti"
 ]
 Dwr.ScriptLoaded('dwr_db_S_title_0.js');
