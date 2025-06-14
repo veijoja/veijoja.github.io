@@ -10323,6 +10323,18 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Vilppulan maamieskoulu"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Pohjois-H\u00e4meen maamieskoulu"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Vinni"
 },
 {

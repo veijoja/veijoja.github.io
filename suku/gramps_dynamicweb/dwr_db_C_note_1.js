@@ -2786,8 +2786,6 @@ C_note_1 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://kokkolakarleby.blogspot.com/2012/09/hautakivien-kertomaa-kavelykierros.html\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://kaino.kotus.fi/www/verkkojulkaisut/julk54/Kannaksen_kylat.pdf\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "",
-"",
-"",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://www.ruovedenkotiseutuyhdistys.fi/muistomerkit_kuvat.html\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://hiski.genealogia.fi/seurakunnat/srk?CMD=SRK&amp;ID=337&amp;TYPE=HTML&amp;LANG=FI\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://www.seurakunnat.genealogia.fi/post/multia\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",

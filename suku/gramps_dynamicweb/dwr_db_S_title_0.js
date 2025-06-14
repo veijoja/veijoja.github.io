@@ -581,7 +581,7 @@ S_title_0 = [
 "Padasjoen srk - syntyneet, vihityt ja kuolleet 1795-1824",
 "Pappilankulma, www.pappilankulma.net",
 "Paunasalon sukututkimussivut, karin.kapsi.fi",
-"Perim\u00e4tieto tai aikalaistieto",
+"Perim\u00e4tieto ja aikalaistieto",
 "Pet\u00e4j\u00e4veden srk - perukirjat ja aviokuulutusten liitteet 1778-1835",
 "Pet\u00e4j\u00e4veden srk - syntyneet, vihityt ja kuolleet 1801-1841",
 "Pihlajaveden srk - kuolleet 1834-1905",

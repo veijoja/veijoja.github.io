@@ -1250,6 +1250,7 @@ P_type_0 = [
 "Tila tai talo",
 "Kyl\u00e4",
 "Paikkakunta",
+"Oppilaitos",
 "Tila tai talo",
 "Kyl\u00e4",
 "Valtio tai liittovaltio",

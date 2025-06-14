@@ -1250,6 +1250,7 @@ P_name_0 = [
 "Viljainen, Rym\u00e4ttyl\u00e4, Naantali, Suomi",
 "Vilkkil\u00e4, J\u00e4ms\u00e4, Suomi",
 "Vilppula, M\u00e4ntt\u00e4-Vilppula, Suomi",
+"Vilppulan maamieskoulu, Vilppula, M\u00e4ntt\u00e4-Vilppula, Suomi",
 "Vinni, Hahkala, J\u00e4ms\u00e4, Suomi",
 "Virkaj\u00e4rvi, J\u00e4ms\u00e4, Suomi",
 "Viro",

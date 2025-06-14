@@ -51,7 +51,7 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -173,7 +173,7 @@ I_events_0 = [
 "part_person": [
 1
 ],
-"place": 1288,
+"place": 1289,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -264,7 +264,7 @@ I_events_0 = [
 "cita": [
 216,
 2641,
-8662
+8660
 ],
 "date": "noin 1560",
 "date_sdn": 2290838,
@@ -389,7 +389,7 @@ I_events_0 = [
 "part_person": [
 4
 ],
-"place": 1267,
+"place": 1268,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -475,7 +475,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -492,7 +492,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -509,7 +509,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Kuolema"
 },
@@ -668,7 +668,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8648
+8646
 ],
 "date": "noin 1678",
 "date_sdn": 2333938,
@@ -702,7 +702,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8648
+8646
 ],
 "date": "1732-03-11",
 "date_sdn": 2353730,
@@ -1059,7 +1059,7 @@ I_events_0 = [
 {
 "cita": [
 3987,
-8125
+8123
 ],
 "date": "1700 - 1720",
 "date_sdn": 2341973,
@@ -1265,7 +1265,7 @@ I_events_0 = [
 {
 "cita": [
 5642,
-8615
+8613
 ],
 "date": "1634 - 1636",
 "date_sdn": 2317867,
@@ -1282,7 +1282,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8615
+8613
 ],
 "date": "noin 1636",
 "date_sdn": 2318597,
@@ -1401,7 +1401,7 @@ I_events_0 = [
 {
 "cita": [
 5269,
-8097
+8095
 ],
 "date": "1695",
 "date_sdn": 2340147,
@@ -2151,7 +2151,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8435
+8433
 ],
 "date": "noin 1685",
 "date_sdn": 2336495,
@@ -2185,7 +2185,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8435
+8433
 ],
 "date": "1750-09-14",
 "date_sdn": 2360491,
@@ -2315,7 +2315,7 @@ I_events_0 = [
 "part_person": [
 31
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2332,7 +2332,7 @@ I_events_0 = [
 "part_person": [
 31
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -2383,7 +2383,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2400,7 +2400,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -2858,7 +2858,7 @@ I_events_0 = [
 "cita": [
 6136,
 6137,
-8609
+8607
 ],
 "date": "1639 - 1654",
 "date_sdn": 2319693,
@@ -3989,7 +3989,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4011,7 +4011,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4028,7 +4028,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Kuolema"
 },
@@ -4858,7 +4858,7 @@ I_events_0 = [
 "part_person": [
 68
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4875,7 +4875,7 @@ I_events_0 = [
 "part_person": [
 68
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Kuolema"
 }
@@ -5658,7 +5658,7 @@ I_events_0 = [
 {
 "cita": [
 115,
-7891
+7889
 ],
 "date": "1634 j\u00e4lkeen",
 "date_sdn": 2317867,
@@ -5675,7 +5675,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7891
+7889
 ],
 "date": "1634 j\u00e4lkeen",
 "date_sdn": 2317867,
@@ -5692,7 +5692,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7891
+7889
 ],
 "date": "1634 j\u00e4lkeen",
 "date_sdn": 2317867,
@@ -5709,7 +5709,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7891
+7889
 ],
 "date": "1657 ja 1669 v\u00e4lill\u00e4",
 "date_sdn": 2326268,
@@ -6382,7 +6382,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8032
+8030
 ],
 "date": "1693 - 1703",
 "date_sdn": 2339417,
@@ -6664,7 +6664,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7870
+7868
 ],
 "date": "1553 - 1574",
 "date_sdn": 2288282,
@@ -6748,7 +6748,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7849
+7847
 ],
 "date": "noin 1624",
 "date_sdn": 2314214,
@@ -7515,7 +7515,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7533,7 +7533,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7550,7 +7550,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Kuolema"
 },
@@ -8230,7 +8230,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8521
+8519
 ],
 "date": "noin 1682",
 "date_sdn": 2335399,
@@ -8264,7 +8264,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8521
+8519
 ],
 "date": "1752-12-31",
 "date_sdn": 2361330,
@@ -8599,7 +8599,7 @@ I_events_0 = [
 {
 "cita": [
 165,
-8273
+8271
 ],
 "date": "1554 - 1564",
 "date_sdn": 2288647,
@@ -8884,7 +8884,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7852
+7850
 ],
 "date": "noin 1510",
 "date_sdn": 2272576,
@@ -8901,7 +8901,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8033
+8031
 ],
 "date": "1565 - 1568",
 "date_sdn": 2292665,
@@ -10152,7 +10152,7 @@ I_events_0 = [
 "part_person": [
 140
 ],
-"place": 1277,
+"place": 1278,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -10255,7 +10255,7 @@ I_events_0 = [
 "part_person": [
 141
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10830,7 +10830,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8170
+8168
 ],
 "date": "noin 1732",
 "date_sdn": 2353660,
@@ -11461,7 +11461,7 @@ I_events_0 = [
 "cita": [
 5642,
 5643,
-8615
+8613
 ],
 "date": "1637 - 1665",
 "date_sdn": 2318963,
@@ -11497,7 +11497,7 @@ I_events_0 = [
 {
 "cita": [
 4277,
-8615
+8613
 ],
 "date": "1681-11",
 "date_sdn": 2335338,
@@ -12078,7 +12078,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8405
+8403
 ],
 "date": "noin 1670",
 "date_sdn": 2331016,
@@ -12113,7 +12113,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-03-15",
 "date_sdn": 2360308,
@@ -13035,7 +13035,7 @@ I_events_0 = [
 "part_person": [
 177
 ],
-"place": 1319,
+"place": 1320,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13566,7 +13566,7 @@ I_events_0 = [
 "part_person": [
 184
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13581,7 +13581,7 @@ I_events_0 = [
 "part_person": [
 184
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Kuolema"
 }
@@ -13970,7 +13970,7 @@ I_events_0 = [
 "part_person": [
 188
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14925,7 +14925,7 @@ I_events_0 = [
 {
 "cita": [
 78,
-7864
+7862
 ],
 "date": "1616 - 1636",
 "date_sdn": 2311292,
@@ -15003,7 +15003,7 @@ I_events_0 = [
 "part_person": [
 203
 ],
-"place": 1302,
+"place": 1303,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -16497,7 +16497,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -16514,7 +16514,7 @@ I_events_0 = [
 "part_person": [
 223
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -17123,7 +17123,7 @@ I_events_0 = [
 "cita": [
 6331,
 7004,
-8231
+8229
 ],
 "date": "1884 - 1890",
 "date_sdn": 2409177,
@@ -17405,7 +17405,7 @@ I_events_0 = [
 "part_person": [
 234
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -17422,7 +17422,7 @@ I_events_0 = [
 "part_person": [
 234
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -17446,7 +17446,7 @@ I_events_0 = [
 {
 "cita": [
 3359,
-8405
+8403
 ],
 "date": "noin 1681",
 "date_sdn": 2335034,
@@ -17497,7 +17497,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-02-06",
 "date_sdn": 2360271,
@@ -17696,7 +17696,7 @@ I_events_0 = [
 {
 "cita": [
 170,
-8270
+8268
 ],
 "date": "1463 - 1477",
 "date_sdn": 2255410,
@@ -17904,7 +17904,7 @@ I_events_0 = [
 {
 "cita": [
 5760,
-8100
+8098
 ],
 "date": "1696 - 1709",
 "date_sdn": 2340512,
@@ -18321,7 +18321,7 @@ I_events_0 = [
 {
 "cita": [
 3607,
-8666
+8664
 ],
 "date": "1656 - 1666",
 "date_sdn": 2325902,
@@ -18338,7 +18338,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8666
+8664
 ],
 "date": "1666",
 "date_sdn": 2329555,
@@ -19329,7 +19329,7 @@ I_events_0 = [
 "part_person": [
 261
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -19346,7 +19346,7 @@ I_events_0 = [
 "part_person": [
 261
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -19363,7 +19363,7 @@ I_events_0 = [
 "part_person": [
 261
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Kuolema"
 }
@@ -20195,7 +20195,7 @@ I_events_0 = [
 "part_person": [
 274
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -20212,7 +20212,7 @@ I_events_0 = [
 "part_person": [
 274
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Kuolema"
 },
@@ -20351,7 +20351,7 @@ I_events_0 = [
 4888,
 4889,
 4890,
-8616
+8614
 ],
 "date": "1644 - 1676",
 "date_sdn": 2321519,
@@ -20566,7 +20566,7 @@ I_events_0 = [
 "part_person": [
 280
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -20912,7 +20912,7 @@ I_events_0 = [
 "part_person": [
 285
 ],
-"place": 1320,
+"place": 1321,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -21882,7 +21882,7 @@ I_events_0 = [
 "part_person": [
 299
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -21899,7 +21899,7 @@ I_events_0 = [
 "part_person": [
 299
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 }
@@ -22178,7 +22178,7 @@ I_events_0 = [
 "cita": [
 5640,
 5641,
-8612
+8610
 ],
 "date": "1634 - 1654",
 "date_sdn": 2317867,
@@ -22228,7 +22228,7 @@ I_events_0 = [
 {
 "cita": [
 165,
-8264
+8262
 ],
 "date": "noin 1530",
 "date_sdn": 2279881,
@@ -22490,7 +22490,7 @@ I_events_0 = [
 "part_person": [
 309
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -23171,7 +23171,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8221
+8219
 ],
 "date": "1630-01-30",
 "date_sdn": 2316435,
@@ -23599,7 +23599,7 @@ I_events_0 = [
 "part_person": [
 325
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -24093,7 +24093,7 @@ I_events_0 = [
 "part_person": [
 333
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -24111,7 +24111,7 @@ I_events_0 = [
 "part_person": [
 333
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -24268,7 +24268,7 @@ I_events_0 = [
 {
 "cita": [
 3607,
-8666
+8664
 ],
 "date": "1667 - 1674",
 "date_sdn": 2329920,
@@ -25222,7 +25222,7 @@ I_events_0 = [
 "part_person": [
 351
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -26774,7 +26774,7 @@ I_events_0 = [
 "part_person": [
 370
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -28309,7 +28309,7 @@ I_events_0 = [
 {
 "cita": [
 161,
-7855
+7853
 ],
 "date": "1634 - 1638",
 "date_sdn": 2317867,
@@ -28425,7 +28425,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8666
+8664
 ],
 "date": "1678 - 1683",
 "date_sdn": 2333938,
@@ -28442,7 +28442,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8666
+8664
 ],
 "date": "noin 1683",
 "date_sdn": 2335764,
@@ -28612,7 +28612,7 @@ I_events_0 = [
 {
 "cita": [
 5641,
-8612
+8610
 ],
 "date": "1661 - 1669",
 "date_sdn": 2327729,
@@ -28640,7 +28640,7 @@ I_events_0 = [
 "part_person": [
 398
 ],
-"place": 1269,
+"place": 1270,
 "text": "",
 "type": "Kuolema"
 }
@@ -28674,7 +28674,7 @@ I_events_0 = [
 "part_person": [
 399
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -29648,7 +29648,7 @@ I_events_0 = [
 "part_person": [
 415
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -30122,7 +30122,7 @@ I_events_0 = [
 {
 "cita": [
 2714,
-8065
+8063
 ],
 "date": "1674 - 1675",
 "date_sdn": 2332477,
@@ -31164,7 +31164,7 @@ I_events_0 = [
 "part_person": [
 439
 ],
-"place": 1250,
+"place": 1251,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -32764,7 +32764,7 @@ I_events_0 = [
 "part_person": [
 456
 ],
-"place": 1301,
+"place": 1302,
 "text": "",
 "type": "Kuolema"
 },
@@ -33160,7 +33160,7 @@ I_events_0 = [
 "part_person": [
 460
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -33184,7 +33184,7 @@ I_events_0 = [
 "part_person": [
 460
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -33201,7 +33201,7 @@ I_events_0 = [
 "part_person": [
 460
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -33905,7 +33905,7 @@ I_events_0 = [
 "part_person": [
 470
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -33979,7 +33979,7 @@ I_events_0 = [
 {
 "cita": [
 2267,
-8126
+8124
 ],
 "date": "1705 - 1709",
 "date_sdn": 2343799,
@@ -34475,13 +34475,13 @@ I_events_0 = [
 "part_person": [
 477
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8466
+8464
 ],
 "date": "1751-11-05",
 "date_sdn": 2360908,
@@ -34492,7 +34492,7 @@ I_events_0 = [
 "part_person": [
 477
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -34579,7 +34579,7 @@ I_events_0 = [
 "part_person": [
 478
 ],
-"place": 1288,
+"place": 1289,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -35401,7 +35401,9 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
+"cita": [
+7784
+],
 "date": "1937",
 "date_sdn": 2428535,
 "descr": "",
@@ -35416,7 +35418,43 @@ I_events_0 = [
 "type": "Syntym\u00e4"
 },
 {
-"cita": [],
+"cita": [
+7784
+],
+"date": "ennen 1971",
+"date_sdn": 2440953,
+"descr": "maatalouskonetekniikan opettaja",
+"gid": "E10368",
+"media": [],
+"part_family": [],
+"part_person": [
+490
+],
+"place": 1249,
+"text": "",
+"type": "Ammatti tai asema"
+},
+{
+"cita": [
+7784
+],
+"date": "1973 - 2000",
+"date_sdn": 2441684,
+"descr": "maataloussihteeri",
+"gid": "E10620",
+"media": [],
+"part_family": [],
+"part_person": [
+490
+],
+"place": 489,
+"text": "",
+"type": "Ammatti tai asema"
+},
+{
+"cita": [
+7784
+],
 "date": "2024",
 "date_sdn": 2460311,
 "descr": "",
@@ -35657,7 +35695,7 @@ I_events_0 = [
 "part_person": [
 494
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -35940,7 +35978,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7994
+7992
 ],
 "date": "1565 - 1568",
 "date_sdn": 2292665,
@@ -36536,7 +36574,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7871
+7869
 ],
 "date": "1568 - 1573",
 "date_sdn": 2293760,
@@ -37220,7 +37258,7 @@ I_events_0 = [
 {
 "cita": [
 6611,
-8220
+8218
 ],
 "date": "1763 - 1790",
 "date_sdn": 2364983,
@@ -38036,7 +38074,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8213
+8211
 ],
 "date": "1762-02-21 j\u00e4lkeen",
 "date_sdn": 2364669,
@@ -38945,7 +38983,7 @@ I_events_0 = [
 "part_person": [
 538
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -39361,7 +39399,7 @@ I_events_0 = [
 "part_person": [
 542
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -39381,7 +39419,7 @@ I_events_0 = [
 "part_person": [
 542
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -39399,7 +39437,7 @@ I_events_0 = [
 "part_person": [
 542
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Kuolema"
 },
@@ -40149,7 +40187,9 @@ I_events_0 = [
 ],
 [
 {
-"cita": [],
+"cita": [
+7784
+],
 "date": "1941",
 "date_sdn": 2429996,
 "descr": "",
@@ -40162,6 +40202,23 @@ I_events_0 = [
 "place": -1,
 "text": "",
 "type": "Syntym\u00e4"
+},
+{
+"cita": [
+7784
+],
+"date": "1964 - 2000",
+"date_sdn": 2438396,
+"descr": "kotitalousopettaja",
+"gid": "E10621",
+"media": [],
+"part_family": [],
+"part_person": [
+551
+],
+"place": -1,
+"text": "",
+"type": "Ammatti tai asema"
 }
 ],
 [
@@ -40626,7 +40683,7 @@ I_events_0 = [
 "cita": [
 4888,
 5504,
-8616
+8614
 ],
 "date": "1634 - 1639",
 "date_sdn": 2317867,
@@ -40896,7 +40953,7 @@ I_events_0 = [
 {
 "cita": [
 4657,
-8249
+8247
 ],
 "date": "1553 - 1556",
 "date_sdn": 2288282,
@@ -40945,7 +41002,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1949",
 "date_sdn": 2432918,
@@ -42471,7 +42528,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8615
+8613
 ],
 "date": "1621 - 1633",
 "date_sdn": 2313119,
@@ -42810,7 +42867,7 @@ I_events_0 = [
 "part_person": [
 590
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -42830,7 +42887,7 @@ I_events_0 = [
 "part_person": [
 590
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -42847,7 +42904,7 @@ I_events_0 = [
 "part_person": [
 590
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -42864,7 +42921,7 @@ I_events_0 = [
 "part_person": [
 590
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Kuolema"
 },
@@ -43608,7 +43665,7 @@ I_events_0 = [
 "part_person": [
 600
 ],
-"place": 1267,
+"place": 1268,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -43625,7 +43682,7 @@ I_events_0 = [
 "part_person": [
 600
 ],
-"place": 1267,
+"place": 1268,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -44564,7 +44621,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8542
+8540
 ],
 "date": "1791-02-04",
 "date_sdn": 2375244,
@@ -44721,7 +44778,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8442
+8440
 ],
 "date": "1778-11-22",
 "date_sdn": 2370787,
@@ -44755,7 +44812,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8541
+8539
 ],
 "date": "1764-11-14",
 "date_sdn": 2365666,
@@ -44970,7 +45027,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8492
+8490
 ],
 "date": "1783-02-23",
 "date_sdn": 2372341,
@@ -45064,7 +45121,7 @@ I_events_0 = [
 "part_person": [
 620
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -45081,7 +45138,7 @@ I_events_0 = [
 "part_person": [
 620
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -45100,13 +45157,13 @@ I_events_0 = [
 "part_person": [
 620
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8363
+8361
 ],
 "date": "1797-06-07",
 "date_sdn": 2377559,
@@ -45117,7 +45174,7 @@ I_events_0 = [
 "part_person": [
 620
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -45209,7 +45266,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8441
+8439
 ],
 "date": "1766-11-07",
 "date_sdn": 2366389,
@@ -45243,7 +45300,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8455
+8453
 ],
 "date": "1757-02-03",
 "date_sdn": 2362825,
@@ -45419,7 +45476,7 @@ I_events_0 = [
 {
 "cita": [
 4249,
-8562
+8560
 ],
 "date": "1790 - 1799",
 "date_sdn": 2374845,
@@ -45509,7 +45566,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8468
+8466
 ],
 "date": "1781-02-04",
 "date_sdn": 2371592,
@@ -45650,7 +45707,7 @@ I_events_0 = [
 {
 "cita": [
 2484,
-8376
+8374
 ],
 "date": "noin 1702",
 "date_sdn": 2342703,
@@ -45698,13 +45755,13 @@ I_events_0 = [
 "part_person": [
 626
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8376
+8374
 ],
 "date": "1754-12-23",
 "date_sdn": 2362052,
@@ -45715,7 +45772,7 @@ I_events_0 = [
 "part_person": [
 626
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -45738,7 +45795,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8464
+8462
 ],
 "date": "noin 1693",
 "date_sdn": 2339417,
@@ -45827,7 +45884,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8464
+8462
 ],
 "date": "1772-02-03",
 "date_sdn": 2368303,
@@ -45861,7 +45918,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8413
+8411
 ],
 "date": "noin 1680",
 "date_sdn": 2334668,
@@ -45897,7 +45954,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8413
+8411
 ],
 "date": "1759-08-07",
 "date_sdn": 2363740,
@@ -45931,7 +45988,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8493
+8491
 ],
 "date": "1759-08-01",
 "date_sdn": 2363734,
@@ -46066,7 +46123,7 @@ I_events_0 = [
 "part_person": [
 630
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -46083,7 +46140,7 @@ I_events_0 = [
 "part_person": [
 630
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -46106,7 +46163,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8363
+8361
 ],
 "date": "noin 1732",
 "date_sdn": 2353660,
@@ -46177,7 +46234,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8363
+8361
 ],
 "date": "1797-08-07",
 "date_sdn": 2377620,
@@ -46211,7 +46268,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8521
+8519
 ],
 "date": "noin 1675",
 "date_sdn": 2332842,
@@ -46256,13 +46313,13 @@ I_events_0 = [
 "part_person": [
 632
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8521
+8519
 ],
 "date": "1753-02-18",
 "date_sdn": 2361379,
@@ -46296,7 +46353,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8537
+8535
 ],
 "date": "1786-04-13",
 "date_sdn": 2373486,
@@ -46515,7 +46572,7 @@ I_events_0 = [
 "part_person": [
 635
 ],
-"place": 1296,
+"place": 1297,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -46549,7 +46606,7 @@ I_events_0 = [
 "part_person": [
 635
 ],
-"place": 1297,
+"place": 1298,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -46567,7 +46624,7 @@ I_events_0 = [
 "part_person": [
 635
 ],
-"place": 1297,
+"place": 1298,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -46584,7 +46641,7 @@ I_events_0 = [
 "part_person": [
 635
 ],
-"place": 1297,
+"place": 1298,
 "text": "",
 "type": "Kuolema"
 },
@@ -46908,7 +46965,7 @@ I_events_0 = [
 "part_person": [
 638
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -46928,7 +46985,7 @@ I_events_0 = [
 "part_person": [
 638
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -47944,7 +48001,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8206
+8204
 ],
 "date": "1641 ja 1647 v\u00e4lill\u00e4",
 "date_sdn": 2320424,
@@ -48165,7 +48222,7 @@ I_events_0 = [
 {
 "cita": [
 106,
-7865
+7863
 ],
 "date": "1650 - 1654",
 "date_sdn": 2323711,
@@ -48202,7 +48259,7 @@ I_events_0 = [
 79,
 106,
 154,
-7865
+7863
 ],
 "date": "1655 - 1669",
 "date_sdn": 2325537,
@@ -48238,7 +48295,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7878
+7876
 ],
 "date": "noin 1645",
 "date_sdn": 2321885,
@@ -48273,7 +48330,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8614
+8612
 ],
 "date": "1711 - 1713",
 "date_sdn": 2345990,
@@ -48308,7 +48365,7 @@ I_events_0 = [
 {
 "cita": [
 2753,
-7878
+7876
 ],
 "date": "1722-04-15 j\u00e4lkeen",
 "date_sdn": 2350112,
@@ -49100,7 +49157,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8389
+8387
 ],
 "date": "noin 1703",
 "date_sdn": 2343068,
@@ -49153,7 +49210,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1756-06-25",
 "date_sdn": 2362602,
@@ -49476,7 +49533,7 @@ I_events_0 = [
 "part_person": [
 665
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -49493,7 +49550,7 @@ I_events_0 = [
 "part_person": [
 665
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Kuolema"
 }
@@ -49568,7 +49625,7 @@ I_events_0 = [
 "part_person": [
 666
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -49585,7 +49642,7 @@ I_events_0 = [
 "part_person": [
 666
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Kuolema"
 },
@@ -49812,7 +49869,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7877
+7875
 ],
 "date": "noin 1687",
 "date_sdn": 2337225,
@@ -49830,7 +49887,7 @@ I_events_0 = [
 {
 "cita": [
 5514,
-8614
+8612
 ],
 "date": "1711 - 1712",
 "date_sdn": 2345990,
@@ -49875,7 +49932,7 @@ I_events_0 = [
 "part_person": [
 670
 ],
-"place": 1264,
+"place": 1265,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -49898,7 +49955,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7877
+7875
 ],
 "date": "1729-08-08",
 "date_sdn": 2352784,
@@ -49918,7 +49975,7 @@ I_events_0 = [
 {
 "cita": [
 6,
-7878
+7876
 ],
 "date": "arviolta 1640",
 "date_sdn": 2320058,
@@ -49936,7 +49993,7 @@ I_events_0 = [
 {
 "cita": [
 107,
-7878
+7876
 ],
 "date": "1669 - 1672",
 "date_sdn": 2330651,
@@ -49971,7 +50028,7 @@ I_events_0 = [
 {
 "cita": [
 5514,
-8614
+8612
 ],
 "date": "1711 - 1713",
 "date_sdn": 2345990,
@@ -50517,7 +50574,7 @@ I_events_0 = [
 "cita": [
 3700,
 5406,
-7847
+7845
 ],
 "date": "1704 - 1708",
 "date_sdn": 2343433,
@@ -50634,7 +50691,7 @@ I_events_0 = [
 {
 "cita": [
 66,
-8008
+8006
 ],
 "date": "noin 1510",
 "date_sdn": 2272576,
@@ -50849,7 +50906,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8032
+8030
 ],
 "date": "1662",
 "date_sdn": 2328094,
@@ -50933,7 +50990,7 @@ I_events_0 = [
 {
 "cita": [
 69,
-8033
+8031
 ],
 "date": "noin 1602",
 "date_sdn": 2306179,
@@ -51003,7 +51060,7 @@ I_events_0 = [
 {
 "cita": [
 69,
-8032
+8030
 ],
 "date": "1618 - 1657",
 "date_sdn": 2312023,
@@ -51071,7 +51128,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7852
+7850
 ],
 "date": "1514",
 "date_sdn": 2274037,
@@ -51088,7 +51145,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8033
+8031
 ],
 "date": "noin 1530",
 "date_sdn": 2279881,
@@ -51105,7 +51162,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8033
+8031
 ],
 "date": "ennen 1536",
 "date_sdn": 2282072,
@@ -51156,8 +51213,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7852,
-8032
+7850,
+8030
 ],
 "date": "1556 - 1562",
 "date_sdn": 2289377,
@@ -51229,7 +51286,7 @@ I_events_0 = [
 "cita": [
 7531,
 7538,
-8032
+8030
 ],
 "date": "1556 - 1562",
 "date_sdn": 2289377,
@@ -51541,7 +51598,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8465
+8463
 ],
 "date": "1771-07-10",
 "date_sdn": 2368095,
@@ -52074,14 +52131,14 @@ I_events_0 = [
 "part_person": [
 695
 ],
-"place": 1309,
+"place": 1310,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
 18,
-8290
+8288
 ],
 "date": "1469-12-01 j\u00e4lkeen",
 "date_sdn": 2257936,
@@ -52634,7 +52691,7 @@ I_events_0 = [
 "part_person": [
 700
 ],
-"place": 1313,
+"place": 1314,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -52651,7 +52708,7 @@ I_events_0 = [
 "part_person": [
 700
 ],
-"place": 1313,
+"place": 1314,
 "text": "",
 "type": "Kuolema"
 },
@@ -53030,8 +53087,8 @@ I_events_0 = [
 {
 "cita": [
 84,
-8005,
-8578
+8003,
+8576
 ],
 "date": "",
 "date_sdn": 0,
@@ -53097,7 +53154,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8578
+8576
 ],
 "date": "noin 1470",
 "date_sdn": 2257967,
@@ -53218,7 +53275,7 @@ I_events_0 = [
 {
 "cita": [
 87,
-7824
+7822
 ],
 "date": "noin 1430",
 "date_sdn": 2243357,
@@ -53252,7 +53309,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7996
+7994
 ],
 "date": "ennen 1437",
 "date_sdn": 2245914,
@@ -53269,7 +53326,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7996
+7994
 ],
 "date": "noin 1437",
 "date_sdn": 2245914,
@@ -53304,7 +53361,7 @@ I_events_0 = [
 {
 "cita": [
 83,
-8578
+8576
 ],
 "date": "noin 1480",
 "date_sdn": 2261619,
@@ -53390,7 +53447,7 @@ I_events_0 = [
 {
 "cita": [
 86,
-8685
+8683
 ],
 "date": "1439 - 1469",
 "date_sdn": 2246644,
@@ -53401,7 +53458,7 @@ I_events_0 = [
 "part_person": [
 707
 ],
-"place": 1309,
+"place": 1310,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -53440,7 +53497,7 @@ I_events_0 = [
 {
 "cita": [
 163,
-7997
+7995
 ],
 "date": "noin 1530",
 "date_sdn": 2279881,
@@ -53490,7 +53547,7 @@ I_events_0 = [
 {
 "cita": [
 90,
-8006
+8004
 ],
 "date": "1433 - 1451",
 "date_sdn": 2244453,
@@ -53575,7 +53632,7 @@ I_events_0 = [
 {
 "cita": [
 91,
-8006
+8004
 ],
 "date": "1467",
 "date_sdn": 2256871,
@@ -57658,7 +57715,7 @@ I_events_0 = [
 "part_person": [
 751
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -57677,7 +57734,7 @@ I_events_0 = [
 "part_person": [
 751
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -57694,7 +57751,7 @@ I_events_0 = [
 "part_person": [
 751
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -57711,7 +57768,7 @@ I_events_0 = [
 "part_person": [
 751
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Kuolema"
 },
@@ -57850,7 +57907,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8031
+8029
 ],
 "date": "1447",
 "date_sdn": 2249566,
@@ -58435,7 +58492,7 @@ I_events_0 = [
 {
 "cita": [
 205,
-8276
+8274
 ],
 "date": "1445 - 1480",
 "date_sdn": 2248836,
@@ -58481,7 +58538,7 @@ I_events_0 = [
 "part_person": [
 762
 ],
-"place": 1286,
+"place": 1287,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -58742,7 +58799,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7999
+7997
 ],
 "date": "",
 "date_sdn": 0,
@@ -58877,7 +58934,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1528 - 1539",
 "date_sdn": 2279150,
@@ -58895,7 +58952,7 @@ I_events_0 = [
 {
 "cita": [
 71,
-7975
+7973
 ],
 "date": "1520 j\u00e4lkeen",
 "date_sdn": 2276228,
@@ -58912,7 +58969,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1562",
 "date_sdn": 2291569,
@@ -58929,7 +58986,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7976
+7974
 ],
 "date": "1566-07-25 j\u00e4lkeen",
 "date_sdn": 2293235,
@@ -59085,7 +59142,7 @@ I_events_0 = [
 "part_person": [
 770
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -59102,7 +59159,7 @@ I_events_0 = [
 "part_person": [
 770
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -59119,7 +59176,7 @@ I_events_0 = [
 "part_person": [
 770
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Kuolema"
 },
@@ -59171,13 +59228,13 @@ I_events_0 = [
 "part_person": [
 771
 ],
-"place": 1272,
+"place": 1273,
 "text": "",
 "type": "Asepalvelus"
 },
 {
 "cita": [
-8145
+8143
 ],
 "date": "1723-10-11",
 "date_sdn": 2350656,
@@ -59350,7 +59407,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8028
+8026
 ],
 "date": "1693",
 "date_sdn": 2339417,
@@ -59367,7 +59424,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8032
+8030
 ],
 "date": "1693 - 1703",
 "date_sdn": 2339417,
@@ -59449,7 +59506,7 @@ I_events_0 = [
 {
 "cita": [
 4448,
-7871
+7869
 ],
 "date": "1593 - 1614",
 "date_sdn": 2302892,
@@ -59468,7 +59525,7 @@ I_events_0 = [
 "cita": [
 142,
 4375,
-7871
+7869
 ],
 "date": "1614 - 1629",
 "date_sdn": 2310562,
@@ -59929,7 +59986,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8032
+8030
 ],
 "date": "noin 1662",
 "date_sdn": 2328094,
@@ -60303,7 +60360,7 @@ I_events_0 = [
 "part_person": [
 784
 ],
-"place": 1288,
+"place": 1289,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -60320,7 +60377,7 @@ I_events_0 = [
 "part_person": [
 784
 ],
-"place": 1275,
+"place": 1276,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -60407,7 +60464,7 @@ I_events_0 = [
 "part_person": [
 784
 ],
-"place": 1275,
+"place": 1276,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -60734,7 +60791,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8416
+8414
 ],
 "date": "noin 1722",
 "date_sdn": 2350008,
@@ -60786,7 +60843,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8416
+8414
 ],
 "date": "1760-04-10",
 "date_sdn": 2363987,
@@ -60854,7 +60911,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7883
+7881
 ],
 "date": "1600 ja 1618 v\u00e4lill\u00e4",
 "date_sdn": 2305448,
@@ -61509,7 +61566,7 @@ I_events_0 = [
 5246,
 5247,
 5248,
-8610
+8608
 ],
 "date": "1539 - 1560",
 "date_sdn": 2283168,
@@ -62896,7 +62953,7 @@ I_events_0 = [
 "part_person": [
 817
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -64075,7 +64132,7 @@ I_events_0 = [
 "cita": [
 6136,
 6137,
-8609
+8607
 ],
 "date": "1639 - 1655",
 "date_sdn": 2319693,
@@ -64127,7 +64184,7 @@ I_events_0 = [
 {
 "cita": [
 4772,
-8609
+8607
 ],
 "date": "1545 - 1558",
 "date_sdn": 2285360,
@@ -64180,7 +64237,7 @@ I_events_0 = [
 4776,
 5189,
 6136,
-8609
+8607
 ],
 "date": "1607 - 1639",
 "date_sdn": 2308005,
@@ -64299,7 +64356,7 @@ I_events_0 = [
 {
 "cita": [
 4772,
-8609
+8607
 ],
 "date": "1539 - 1544",
 "date_sdn": 2283168,
@@ -64421,7 +64478,7 @@ I_events_0 = [
 "cita": [
 6135,
 6138,
-8609
+8607
 ],
 "date": "1691 - 1712",
 "date_sdn": 2338686,
@@ -64696,7 +64753,7 @@ I_events_0 = [
 "part_person": [
 842
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -64713,7 +64770,7 @@ I_events_0 = [
 "part_person": [
 842
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -64730,7 +64787,7 @@ I_events_0 = [
 "part_person": [
 842
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Kuolema"
 },
@@ -64964,7 +65021,7 @@ I_events_0 = [
 4772,
 4773,
 4774,
-8609
+8607
 ],
 "date": "1559 - 1590",
 "date_sdn": 2290473,
@@ -65030,7 +65087,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8468
+8466
 ],
 "date": "noin 1711",
 "date_sdn": 2345990,
@@ -65115,7 +65172,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8468
+8466
 ],
 "date": "1781-02-05",
 "date_sdn": 2371593,
@@ -65202,7 +65259,7 @@ I_events_0 = [
 {
 "cita": [
 7140,
-8503
+8501
 ],
 "date": "1772-11-15",
 "date_sdn": 2368589,
@@ -65686,7 +65743,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8215
+8213
 ],
 "date": "1891-02-28",
 "date_sdn": 2411792,
@@ -65704,7 +65761,7 @@ I_events_0 = [
 {
 "cita": [
 7670,
-8423
+8421
 ],
 "date": "1891-02-28 - 1895",
 "date_sdn": 2411792,
@@ -65723,7 +65780,7 @@ I_events_0 = [
 "cita": [
 7634,
 7666,
-8423
+8421
 ],
 "date": "1895 - 1937",
 "date_sdn": 2413195,
@@ -65821,7 +65878,7 @@ I_events_0 = [
 "part_person": [
 855
 ],
-"place": 1303,
+"place": 1304,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -65889,7 +65946,7 @@ I_events_0 = [
 "part_person": [
 855
 ],
-"place": 1262,
+"place": 1263,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -65965,7 +66022,7 @@ I_events_0 = [
 {
 "cita": [
 7337,
-8216
+8214
 ],
 "date": "1869 - 1878-02-02",
 "date_sdn": 2403699,
@@ -65982,7 +66039,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8216
+8214
 ],
 "date": "1878-02-02",
 "date_sdn": 2407018,
@@ -66034,7 +66091,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8219
+8217
 ],
 "date": "1890 - 1891-02-06",
 "date_sdn": 2411369,
@@ -66051,7 +66108,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8215
+8213
 ],
 "date": "1891-02-28",
 "date_sdn": 2411792,
@@ -66068,7 +66125,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8423
+8421
 ],
 "date": "1891 - 1895",
 "date_sdn": 2411734,
@@ -66136,7 +66193,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8362
+8360
 ],
 "date": "noin 1727",
 "date_sdn": 2351834,
@@ -66207,7 +66264,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8362
+8360
 ],
 "date": "1796-11-24",
 "date_sdn": 2377364,
@@ -66360,13 +66417,13 @@ I_events_0 = [
 "part_person": [
 858
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8529
+8527
 ],
 "date": "1789-04-14",
 "date_sdn": 2374583,
@@ -66377,7 +66434,7 @@ I_events_0 = [
 "part_person": [
 858
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -66512,7 +66569,7 @@ I_events_0 = [
 "part_person": [
 861
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -66546,7 +66603,7 @@ I_events_0 = [
 "part_person": [
 861
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -66567,7 +66624,7 @@ I_events_0 = [
 "part_person": [
 861
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -66584,7 +66641,7 @@ I_events_0 = [
 "part_person": [
 861
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -66607,7 +66664,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8405
+8403
 ],
 "date": "noin 1680",
 "date_sdn": 2334668,
@@ -66642,7 +66699,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-01-11",
 "date_sdn": 2360245,
@@ -66676,7 +66733,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7903
+7901
 ],
 "date": "1758-08-16",
 "date_sdn": 2363384,
@@ -66721,7 +66778,7 @@ I_events_0 = [
 "part_person": [
 863
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -66741,7 +66798,7 @@ I_events_0 = [
 "part_person": [
 863
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -66758,7 +66815,7 @@ I_events_0 = [
 "part_person": [
 863
 ],
-"place": 1260,
+"place": 1261,
 "text": "",
 "type": "Kuolema"
 }
@@ -66867,7 +66924,7 @@ I_events_0 = [
 {
 "cita": [
 78,
-7864
+7862
 ],
 "date": "1632 - 1640",
 "date_sdn": 2317136,
@@ -67037,13 +67094,13 @@ I_events_0 = [
 "part_person": [
 867
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8495
+8493
 ],
 "date": "1784-02-09",
 "date_sdn": 2372692,
@@ -67054,7 +67111,7 @@ I_events_0 = [
 "part_person": [
 867
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -67088,7 +67145,7 @@ I_events_0 = [
 "part_person": [
 868
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -67113,7 +67170,7 @@ I_events_0 = [
 {
 "cita": [
 5537,
-7785
+7784
 ],
 "date": "1918 - 1939",
 "date_sdn": 2421595,
@@ -67124,13 +67181,13 @@ I_events_0 = [
 "part_person": [
 868
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939 - 1941",
 "date_sdn": 2429265,
@@ -67147,7 +67204,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1941 - 1944",
 "date_sdn": 2429996,
@@ -67164,7 +67221,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1944 - 1946",
 "date_sdn": 2431091,
@@ -67181,7 +67238,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1946 - 1947",
 "date_sdn": 2431822,
@@ -67276,7 +67333,7 @@ I_events_0 = [
 "part_person": [
 869
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -67296,7 +67353,7 @@ I_events_0 = [
 "part_person": [
 869
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -67313,7 +67370,7 @@ I_events_0 = [
 "part_person": [
 869
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -67337,7 +67394,7 @@ I_events_0 = [
 {
 "cita": [
 6921,
-8424
+8422
 ],
 "date": "noin 1707",
 "date_sdn": 2344529,
@@ -67382,7 +67439,7 @@ I_events_0 = [
 "part_person": [
 870
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -67406,13 +67463,13 @@ I_events_0 = [
 "part_person": [
 870
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8424
+8422
 ],
 "date": "1777-04-15",
 "date_sdn": 2370201,
@@ -67423,7 +67480,7 @@ I_events_0 = [
 "part_person": [
 870
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -67446,7 +67503,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8411
+8409
 ],
 "date": "1774-10-31",
 "date_sdn": 2369304,
@@ -67457,7 +67514,7 @@ I_events_0 = [
 "part_person": [
 871
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -67475,7 +67532,7 @@ I_events_0 = [
 "part_person": [
 871
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -67494,7 +67551,7 @@ I_events_0 = [
 "part_person": [
 871
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -67511,7 +67568,7 @@ I_events_0 = [
 "part_person": [
 871
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -67555,7 +67612,7 @@ I_events_0 = [
 4992,
 4995,
 5077,
-8444
+8442
 ],
 "date": "1874 - 1903",
 "date_sdn": 2405525,
@@ -67566,7 +67623,7 @@ I_events_0 = [
 "part_person": [
 872
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -67593,7 +67650,7 @@ I_events_0 = [
 4876,
 4992,
 5079,
-7785
+7784
 ],
 "date": "1904-12-05 - 1944",
 "date_sdn": 2416820,
@@ -67604,13 +67661,13 @@ I_events_0 = [
 "part_person": [
 872
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939 - 1941",
 "date_sdn": 2429265,
@@ -67627,7 +67684,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1941 - 1944",
 "date_sdn": 2429996,
@@ -67638,13 +67695,13 @@ I_events_0 = [
 "part_person": [
 872
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1944 - 1946",
 "date_sdn": 2431091,
@@ -67661,7 +67718,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1946 - 1953",
 "date_sdn": 2431822,
@@ -67678,7 +67735,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1954 - 1957",
 "date_sdn": 2434744,
@@ -67695,7 +67752,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1958 - 1959",
 "date_sdn": 2436205,
@@ -67713,7 +67770,7 @@ I_events_0 = [
 {
 "cita": [
 9,
-7785
+7784
 ],
 "date": "1959",
 "date_sdn": 2436570,
@@ -67758,7 +67815,7 @@ I_events_0 = [
 "part_person": [
 873
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -67776,7 +67833,7 @@ I_events_0 = [
 "part_person": [
 873
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -67795,7 +67852,7 @@ I_events_0 = [
 "part_person": [
 873
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -67812,7 +67869,7 @@ I_events_0 = [
 "part_person": [
 873
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -67846,7 +67903,7 @@ I_events_0 = [
 "part_person": [
 874
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -67866,7 +67923,7 @@ I_events_0 = [
 "part_person": [
 874
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -67884,7 +67941,7 @@ I_events_0 = [
 "part_person": [
 874
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -67901,7 +67958,7 @@ I_events_0 = [
 "part_person": [
 874
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -67925,7 +67982,7 @@ I_events_0 = [
 {
 "cita": [
 3608,
-8418
+8416
 ],
 "date": "noin 1675",
 "date_sdn": 2332842,
@@ -67970,7 +68027,7 @@ I_events_0 = [
 "part_person": [
 875
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -67992,13 +68049,13 @@ I_events_0 = [
 "part_person": [
 875
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-01-30",
 "date_sdn": 2364282,
@@ -68009,7 +68066,7 @@ I_events_0 = [
 "part_person": [
 875
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -68043,7 +68100,7 @@ I_events_0 = [
 "part_person": [
 876
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -68054,7 +68111,7 @@ I_events_0 = [
 4995,
 5077,
 6647,
-8444
+8442
 ],
 "date": "1881 - 1901",
 "date_sdn": 2408082,
@@ -68065,7 +68122,7 @@ I_events_0 = [
 "part_person": [
 876
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -68090,7 +68147,7 @@ I_events_0 = [
 {
 "cita": [
 5006,
-8386
+8384
 ],
 "date": "1901 - 1902",
 "date_sdn": 2415386,
@@ -68101,7 +68158,7 @@ I_events_0 = [
 "part_person": [
 876
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -68119,7 +68176,7 @@ I_events_0 = [
 "part_person": [
 876
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -68139,7 +68196,7 @@ I_events_0 = [
 "part_person": [
 876
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -68174,7 +68231,7 @@ I_events_0 = [
 "part_person": [
 876
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -68244,13 +68301,13 @@ I_events_0 = [
 "part_person": [
 877
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
 {
 "cita": [
-8035
+8033
 ],
 "date": "1942 ja 1944 v\u00e4lill\u00e4",
 "date_sdn": 2430361,
@@ -68267,7 +68324,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1945 - 2012",
 "date_sdn": 2431457,
@@ -68284,7 +68341,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1949",
 "date_sdn": 2432918,
@@ -68305,7 +68362,7 @@ I_events_0 = [
 {
 "cita": [
 7693,
-8037
+8035
 ],
 "date": "2012-04-24",
 "date_sdn": 2456042,
@@ -68471,7 +68528,7 @@ I_events_0 = [
 "part_person": [
 880
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -68488,7 +68545,7 @@ I_events_0 = [
 "part_person": [
 880
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -68510,7 +68567,7 @@ I_events_0 = [
 "part_person": [
 880
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -68527,7 +68584,7 @@ I_events_0 = [
 "part_person": [
 880
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -68561,7 +68618,7 @@ I_events_0 = [
 "part_person": [
 881
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -68580,7 +68637,7 @@ I_events_0 = [
 "part_person": [
 881
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -68599,7 +68656,7 @@ I_events_0 = [
 "part_person": [
 881
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -68616,7 +68673,7 @@ I_events_0 = [
 "part_person": [
 881
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -68650,13 +68707,13 @@ I_events_0 = [
 "part_person": [
 882
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
 {
 "cita": [
-8445
+8443
 ],
 "date": "1893 - 1918",
 "date_sdn": 2412465,
@@ -68667,7 +68724,7 @@ I_events_0 = [
 "part_person": [
 882
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -68701,13 +68758,13 @@ I_events_0 = [
 "part_person": [
 882
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8633
+8631
 ],
 "date": "1958 - 1974",
 "date_sdn": 2436205,
@@ -69292,7 +69349,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8433
+8431
 ],
 "date": "1771-03-14",
 "date_sdn": 2367977,
@@ -69445,7 +69502,7 @@ I_events_0 = [
 "part_person": [
 891
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -69474,7 +69531,7 @@ I_events_0 = [
 4432,
 4513,
 6722,
-8484
+8482
 ],
 "date": "1733 - 1793",
 "date_sdn": 2354026,
@@ -69491,7 +69548,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8548
+8546
 ],
 "date": "1793-02-16",
 "date_sdn": 2375987,
@@ -69525,7 +69582,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8491
+8489
 ],
 "date": "1780-01-03",
 "date_sdn": 2371194,
@@ -69639,7 +69696,7 @@ I_events_0 = [
 "part_person": [
 893
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -69656,7 +69713,7 @@ I_events_0 = [
 "part_person": [
 893
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -69797,7 +69854,7 @@ I_events_0 = [
 "part_person": [
 895
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -69805,8 +69862,8 @@ I_events_0 = [
 "cita": [
 5134,
 5136,
-8451,
-8452
+8449,
+8450
 ],
 "date": "1882 - 1905",
 "date_sdn": 2408447,
@@ -69817,13 +69874,13 @@ I_events_0 = [
 "part_person": [
 895
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-8452
+8450
 ],
 "date": "1900",
 "date_sdn": 2415021,
@@ -69853,7 +69910,7 @@ I_events_0 = [
 "part_person": [
 895
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -69870,7 +69927,7 @@ I_events_0 = [
 "part_person": [
 895
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -69997,7 +70054,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8563
+8561
 ],
 "date": "noin 1718",
 "date_sdn": 2348547,
@@ -70069,7 +70126,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8563
+8561
 ],
 "date": "1795-04-15",
 "date_sdn": 2376775,
@@ -70171,7 +70228,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8475
+8473
 ],
 "date": "1782-02-17",
 "date_sdn": 2371970,
@@ -70206,7 +70263,7 @@ I_events_0 = [
 {
 "cita": [
 6634,
-8384
+8382
 ],
 "date": "noin 1671",
 "date_sdn": 2331381,
@@ -70262,7 +70319,7 @@ I_events_0 = [
 "cita": [
 2823,
 6722,
-8384
+8382
 ],
 "date": "1737 - 1756",
 "date_sdn": 2355487,
@@ -70279,7 +70336,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8384
+8382
 ],
 "date": "1756-05-18",
 "date_sdn": 2362564,
@@ -70382,7 +70439,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8538
+8536
 ],
 "date": "1790-06-08",
 "date_sdn": 2375003,
@@ -70461,7 +70518,7 @@ I_events_0 = [
 "part_person": [
 901
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -70481,7 +70538,7 @@ I_events_0 = [
 "part_person": [
 901
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -70498,7 +70555,7 @@ I_events_0 = [
 "part_person": [
 901
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -71886,7 +71943,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7812
+7810
 ],
 "date": "noin 1637",
 "date_sdn": 2318963,
@@ -71974,7 +72031,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7812
+7810
 ],
 "date": "ennen 1731",
 "date_sdn": 2353295,
@@ -72186,7 +72243,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8493
+8491
 ],
 "date": "1759-08-01",
 "date_sdn": 2363734,
@@ -72197,7 +72254,7 @@ I_events_0 = [
 "part_person": [
 922
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -72214,7 +72271,7 @@ I_events_0 = [
 "part_person": [
 922
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -72233,7 +72290,7 @@ I_events_0 = [
 "part_person": [
 922
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72250,7 +72307,7 @@ I_events_0 = [
 "part_person": [
 922
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72267,7 +72324,7 @@ I_events_0 = [
 "part_person": [
 922
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -72290,7 +72347,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8382
+8380
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -72301,7 +72358,7 @@ I_events_0 = [
 "part_person": [
 923
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -72319,7 +72376,7 @@ I_events_0 = [
 "part_person": [
 923
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -72342,7 +72399,7 @@ I_events_0 = [
 "part_person": [
 923
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72365,7 +72422,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8382
+8380
 ],
 "date": "1773-12-22",
 "date_sdn": 2368991,
@@ -72376,7 +72433,7 @@ I_events_0 = [
 "part_person": [
 923
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -72432,7 +72489,7 @@ I_events_0 = [
 "part_person": [
 924
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72449,7 +72506,7 @@ I_events_0 = [
 "part_person": [
 924
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -72515,7 +72572,7 @@ I_events_0 = [
 "part_person": [
 926
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -72532,7 +72589,7 @@ I_events_0 = [
 "part_person": [
 926
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -72551,7 +72608,7 @@ I_events_0 = [
 "part_person": [
 926
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72569,7 +72626,7 @@ I_events_0 = [
 "part_person": [
 926
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72586,7 +72643,7 @@ I_events_0 = [
 "part_person": [
 926
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72603,7 +72660,7 @@ I_events_0 = [
 "part_person": [
 926
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -72626,7 +72683,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8562
+8560
 ],
 "date": "1790-03-24",
 "date_sdn": 2374927,
@@ -72637,7 +72694,7 @@ I_events_0 = [
 "part_person": [
 927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -72656,7 +72713,7 @@ I_events_0 = [
 "part_person": [
 927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -72673,7 +72730,7 @@ I_events_0 = [
 "part_person": [
 927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72690,7 +72747,7 @@ I_events_0 = [
 "part_person": [
 927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -72707,7 +72764,7 @@ I_events_0 = [
 "part_person": [
 927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -72897,7 +72954,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8002
+8000
 ],
 "date": "",
 "date_sdn": 0,
@@ -75780,7 +75837,7 @@ I_events_0 = [
 {
 "cita": [
 6469,
-8155
+8153
 ],
 "date": "1730",
 "date_sdn": 2352930,
@@ -75865,7 +75922,7 @@ I_events_0 = [
 "cita": [
 4026,
 6034,
-8666
+8664
 ],
 "date": "1684 - 1688",
 "date_sdn": 2336129,
@@ -76058,7 +76115,7 @@ I_events_0 = [
 "cita": [
 5638,
 5639,
-8612
+8610
 ],
 "date": "1682 - 1709",
 "date_sdn": 2335399,
@@ -76118,7 +76175,7 @@ I_events_0 = [
 "part_person": [
 969
 ],
-"place": 1269,
+"place": 1270,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -76143,7 +76200,7 @@ I_events_0 = [
 "cita": [
 5638,
 5641,
-8612
+8610
 ],
 "date": "1661 - 1681",
 "date_sdn": 2327729,
@@ -76171,7 +76228,7 @@ I_events_0 = [
 "part_person": [
 969
 ],
-"place": 1269,
+"place": 1270,
 "text": "",
 "type": "Kuolema"
 },
@@ -76212,7 +76269,7 @@ I_events_0 = [
 {
 "cita": [
 5787,
-8613
+8611
 ],
 "date": "1705 - 1734",
 "date_sdn": 2343799,
@@ -76290,7 +76347,7 @@ I_events_0 = [
 "part_person": [
 971
 ],
-"place": 1269,
+"place": 1270,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -76347,7 +76404,7 @@ I_events_0 = [
 "cita": [
 5640,
 5641,
-8612
+8610
 ],
 "date": "1634 - 1660",
 "date_sdn": 2317867,
@@ -76381,7 +76438,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8384
+8382
 ],
 "date": "noin 1695",
 "date_sdn": 2340147,
@@ -76432,7 +76489,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8384
+8382
 ],
 "date": "1756-01-03",
 "date_sdn": 2362428,
@@ -76816,7 +76873,7 @@ I_events_0 = [
 {
 "cita": [
 3432,
-8437
+8435
 ],
 "date": "noin 1683",
 "date_sdn": 2335764,
@@ -76886,7 +76943,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8437
+8435
 ],
 "date": "1765-05-20",
 "date_sdn": 2365853,
@@ -77009,7 +77066,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8550
+8548
 ],
 "date": "noin 1692",
 "date_sdn": 2339051,
@@ -77061,7 +77118,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8550
+8548
 ],
 "date": "1773-03-25",
 "date_sdn": 2368719,
@@ -77106,7 +77163,7 @@ I_events_0 = [
 "part_person": [
 981
 ],
-"place": 1307,
+"place": 1308,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -77138,7 +77195,7 @@ I_events_0 = [
 "part_person": [
 981
 ],
-"place": 1307,
+"place": 1308,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -77166,7 +77223,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8462
+8460
 ],
 "date": "1781-01-28",
 "date_sdn": 2371585,
@@ -77226,7 +77283,7 @@ I_events_0 = [
 "part_person": [
 982
 ],
-"place": 1307,
+"place": 1308,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -78326,7 +78383,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8506
+8504
 ],
 "date": "1711",
 "date_sdn": 2345990,
@@ -78360,7 +78417,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8506
+8504
 ],
 "date": "1752-04-09",
 "date_sdn": 2361064,
@@ -78598,7 +78655,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8370
+8368
 ],
 "date": "noin 1690",
 "date_sdn": 2338321,
@@ -78632,7 +78689,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8370
+8368
 ],
 "date": "1754-09-30",
 "date_sdn": 2361968,
@@ -78666,7 +78723,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8403
+8401
 ],
 "date": "noin 1697",
 "date_sdn": 2340878,
@@ -78736,7 +78793,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8403
+8401
 ],
 "date": "1759-01-26",
 "date_sdn": 2363547,
@@ -78770,7 +78827,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8551
+8549
 ],
 "date": "1772-05-19",
 "date_sdn": 2368409,
@@ -78894,7 +78951,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8531
+8529
 ],
 "date": "1790-02-07",
 "date_sdn": 2374882,
@@ -79231,7 +79288,7 @@ I_events_0 = [
 "part_person": [
 1009
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -79250,7 +79307,7 @@ I_events_0 = [
 "part_person": [
 1009
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -79267,7 +79324,7 @@ I_events_0 = [
 "part_person": [
 1009
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -81283,7 +81340,7 @@ I_events_0 = [
 "part_person": [
 1030
 ],
-"place": 1267,
+"place": 1268,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -81300,7 +81357,7 @@ I_events_0 = [
 "part_person": [
 1030
 ],
-"place": 1267,
+"place": 1268,
 "text": "",
 "type": "Kuolema"
 }
@@ -81403,7 +81460,7 @@ I_events_0 = [
 "part_person": [
 1032
 ],
-"place": 1267,
+"place": 1268,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -81561,7 +81618,7 @@ I_events_0 = [
 {
 "cita": [
 165,
-8273
+8271
 ],
 "date": "1537 - 1553",
 "date_sdn": 2282438,
@@ -81579,7 +81636,7 @@ I_events_0 = [
 {
 "cita": [
 165,
-8273
+8271
 ],
 "date": "1553 ja 1556 v\u00e4lill\u00e4",
 "date_sdn": 2288282,
@@ -81713,7 +81770,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8007
+8005
 ],
 "date": "noin 1420",
 "date_sdn": 2239704,
@@ -81724,7 +81781,7 @@ I_events_0 = [
 "part_person": [
 1038
 ],
-"place": 1322,
+"place": 1323,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -81924,7 +81981,7 @@ I_events_0 = [
 {
 "cita": [
 2266,
-8370
+8368
 ],
 "date": "noin 1665",
 "date_sdn": 2329190,
@@ -81961,7 +82018,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8370
+8368
 ],
 "date": "1754-07-16",
 "date_sdn": 2361892,
@@ -82119,7 +82176,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8563
+8561
 ],
 "date": "1795-04-07",
 "date_sdn": 2376767,
@@ -82495,7 +82552,7 @@ I_events_0 = [
 "part_person": [
 1048
 ],
-"place": 1307,
+"place": 1308,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -82518,7 +82575,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8469
+8467
 ],
 "date": "1757-09-19",
 "date_sdn": 2363053,
@@ -82571,7 +82628,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8565
+8563
 ],
 "date": "1796-02-20",
 "date_sdn": 2377086,
@@ -82713,7 +82770,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8367
+8365
 ],
 "date": "1798-09-02",
 "date_sdn": 2378011,
@@ -83067,7 +83124,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8483
+8481
 ],
 "date": "1770-08-29",
 "date_sdn": 2367780,
@@ -83201,7 +83258,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1954",
 "date_sdn": 2434744,
@@ -83218,7 +83275,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "ennen 1965",
 "date_sdn": 2438762,
@@ -83471,14 +83528,14 @@ I_events_0 = [
 "part_person": [
 1061
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
 {
 "cita": [
-7803,
-8582
+7801,
+8580
 ],
 "date": "1944 - 1973",
 "date_sdn": 2431091,
@@ -83495,7 +83552,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8583
+8581
 ],
 "date": "1995-12-13",
 "date_sdn": 2450065,
@@ -83631,7 +83688,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8448
+8446
 ],
 "date": "1777-02-14",
 "date_sdn": 2370141,
@@ -83680,7 +83737,7 @@ I_events_0 = [
 "part_person": [
 1063
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -83697,7 +83754,7 @@ I_events_0 = [
 "part_person": [
 1063
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -83714,7 +83771,7 @@ I_events_0 = [
 "part_person": [
 1063
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -83737,7 +83794,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8506
+8504
 ],
 "date": "noin 1665",
 "date_sdn": 2329190,
@@ -83772,7 +83829,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8506
+8504
 ],
 "date": "1752-06-21",
 "date_sdn": 2361137,
@@ -83783,7 +83840,7 @@ I_events_0 = [
 "part_person": [
 1064
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -83853,7 +83910,7 @@ I_events_0 = [
 "part_person": [
 1065
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -83870,7 +83927,7 @@ I_events_0 = [
 "part_person": [
 1065
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -83904,7 +83961,7 @@ I_events_0 = [
 "part_person": [
 1066
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -83921,7 +83978,7 @@ I_events_0 = [
 "part_person": [
 1066
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -83942,7 +83999,7 @@ I_events_0 = [
 "part_person": [
 1066
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -83959,7 +84016,7 @@ I_events_0 = [
 "part_person": [
 1066
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -83974,7 +84031,7 @@ I_events_0 = [
 "part_person": [
 1066
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 }
@@ -84140,7 +84197,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8438
+8436
 ],
 "date": "1778-04-05",
 "date_sdn": 2370556,
@@ -84308,7 +84365,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8523
+8521
 ],
 "date": "1788-02-15",
 "date_sdn": 2374159,
@@ -84342,7 +84399,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8465
+8463
 ],
 "date": "1771-07-09",
 "date_sdn": 2368094,
@@ -84359,7 +84416,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8465
+8463
 ],
 "date": "1771-07-10",
 "date_sdn": 2368095,
@@ -84477,7 +84534,7 @@ I_events_0 = [
 "part_person": [
 1072
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -84509,7 +84566,7 @@ I_events_0 = [
 "part_person": [
 1072
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -84529,7 +84586,7 @@ I_events_0 = [
 "part_person": [
 1072
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -84546,7 +84603,7 @@ I_events_0 = [
 "part_person": [
 1072
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -84569,7 +84626,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8358
+8356
 ],
 "date": "noin 1702",
 "date_sdn": 2342703,
@@ -84580,7 +84637,7 @@ I_events_0 = [
 "part_person": [
 1073
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -84602,13 +84659,13 @@ I_events_0 = [
 "part_person": [
 1073
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8358
+8356
 ],
 "date": "1753-12-31",
 "date_sdn": 2361695,
@@ -84619,7 +84676,7 @@ I_events_0 = [
 "part_person": [
 1073
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -84653,7 +84710,7 @@ I_events_0 = [
 "part_person": [
 1074
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -84671,7 +84728,7 @@ I_events_0 = [
 "part_person": [
 1074
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -84690,7 +84747,7 @@ I_events_0 = [
 "part_person": [
 1074
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -84707,7 +84764,7 @@ I_events_0 = [
 "part_person": [
 1074
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -84808,7 +84865,7 @@ I_events_0 = [
 "part_person": [
 1076
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -84831,7 +84888,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8422
+8420
 ],
 "date": "noin 1740",
 "date_sdn": 2356582,
@@ -84849,7 +84906,7 @@ I_events_0 = [
 {
 "cita": [
 5447,
-8422
+8420
 ],
 "date": "1760 - 1763",
 "date_sdn": 2363887,
@@ -84866,7 +84923,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8422
+8420
 ],
 "date": "1763-01-01",
 "date_sdn": 2364983,
@@ -85054,7 +85111,7 @@ I_events_0 = [
 "part_person": [
 1080
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -85072,7 +85129,7 @@ I_events_0 = [
 "part_person": [
 1080
 ],
-"place": 1306,
+"place": 1307,
 "text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nOrvoksi j\u00e4\u00e4neen Lena Petersdotter Inkisen vanhempina lastenkirjassa ovat Abram Abramsson Inkinen ja Anna Mattsdotter N\u00e4nnim\u00e4inen. Heill\u00e4 on lapsia, mutta Lenalla ei ole elossa ainuttakaan t\u00e4yssisarusta eik\u00e4 edes puolisisarusta oman \u00e4idin tai oman is\u00e4n puolelta. Tapahtumien kulku: Lenan vanhemmat vihittiin 11.12.1793, he saivat ainakin 10 lasta, joista kuitenkin vain Lena selviytyi elossa aikuisik\u00e4\u00e4n asti, \u00e4iti Anna Henriksdotter Inkinen kuoli 19.3.1808, is\u00e4 Peter Henriksson Inkinen vihittiin 13.12.1808 Anna Mattsdotter N\u00e4nnim\u00e4isen kanssa, is\u00e4 kuoli 19.5.1809, ja \u00e4itipuoli vihittiin 27.2.1810 Abram Abramsson Inkisen kanssa.\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "type": "Asuinpaikka"
 },
@@ -85266,7 +85323,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8471
+8469
 ],
 "date": "1778-04-05",
 "date_sdn": 2370556,
@@ -85277,7 +85334,7 @@ I_events_0 = [
 "part_person": [
 1083
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -85295,7 +85352,7 @@ I_events_0 = [
 "part_person": [
 1083
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -85313,7 +85370,7 @@ I_events_0 = [
 "part_person": [
 1083
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -85408,7 +85465,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1756-06-11",
 "date_sdn": 2362588,
@@ -85453,7 +85510,7 @@ I_events_0 = [
 "part_person": [
 1085
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -85580,7 +85637,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8454
+8452
 ],
 "date": "noin 1698",
 "date_sdn": 2341243,
@@ -85623,7 +85680,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8454
+8452
 ],
 "date": "1780-02-18",
 "date_sdn": 2371240,
@@ -85657,7 +85714,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8395
+8393
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -85691,13 +85748,13 @@ I_events_0 = [
 "part_person": [
 1088
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8395
+8393
 ],
 "date": "1757-08-31",
 "date_sdn": 2363034,
@@ -85708,7 +85765,7 @@ I_events_0 = [
 "part_person": [
 1088
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -85740,7 +85797,7 @@ I_events_0 = [
 "part_person": [
 1089
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -85758,7 +85815,7 @@ I_events_0 = [
 "part_person": [
 1089
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -85776,7 +85833,7 @@ I_events_0 = [
 "part_person": [
 1089
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -85793,7 +85850,7 @@ I_events_0 = [
 "part_person": [
 1089
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -85810,7 +85867,7 @@ I_events_0 = [
 "part_person": [
 1089
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -85833,7 +85890,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8559
+8557
 ],
 "date": "1768-01-27",
 "date_sdn": 2366835,
@@ -85844,7 +85901,7 @@ I_events_0 = [
 "part_person": [
 1090
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -85862,7 +85919,7 @@ I_events_0 = [
 "part_person": [
 1090
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -85880,7 +85937,7 @@ I_events_0 = [
 "part_person": [
 1090
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -85897,7 +85954,7 @@ I_events_0 = [
 "part_person": [
 1090
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -86317,7 +86374,7 @@ I_events_0 = [
 5214,
 5824,
 5981,
-8613
+8611
 ],
 "date": "1735 - 1765",
 "date_sdn": 2354756,
@@ -86600,7 +86657,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8156
+8154
 ],
 "date": "1730 - 1740",
 "date_sdn": 2352930,
@@ -86669,7 +86726,7 @@ I_events_0 = [
 {
 "cita": [
 5787,
-8613
+8611
 ],
 "date": "1705 - 1734",
 "date_sdn": 2343799,
@@ -86778,7 +86835,7 @@ I_events_0 = [
 5826,
 5981,
 6391,
-8613
+8611
 ],
 "date": "1765 - 1812",
 "date_sdn": 2365714,
@@ -88422,7 +88479,7 @@ I_events_0 = [
 "part_person": [
 1116
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -88496,7 +88553,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8535
+8533
 ],
 "date": "noin 1668",
 "date_sdn": 2330285,
@@ -88547,7 +88604,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8535
+8533
 ],
 "date": "1753",
 "date_sdn": 2361331,
@@ -88666,7 +88723,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8439
+8437
 ],
 "date": "1765-07-26",
 "date_sdn": 2365920,
@@ -88993,7 +89050,7 @@ I_events_0 = [
 "part_person": [
 1122
 ],
-"place": 1275,
+"place": 1276,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -89130,7 +89187,7 @@ I_events_0 = [
 "part_person": [
 1123
 ],
-"place": 1275,
+"place": 1276,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -89396,7 +89453,7 @@ I_events_0 = [
 {
 "cita": [
 2884,
-8387
+8385
 ],
 "date": "1881 - 1893",
 "date_sdn": 2408082,
@@ -89413,7 +89470,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8505
+8503
 ],
 "date": "1893 - 1896-04-21",
 "date_sdn": 2412465,
@@ -89430,7 +89487,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8147
+8145
 ],
 "date": "1896-04-21",
 "date_sdn": 2413671,
@@ -89448,7 +89505,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8077
+8075
 ],
 "date": "1896-04-21",
 "date_sdn": 2413671,
@@ -89466,7 +89523,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8204
+8202
 ],
 "date": "1896-04-21 - 1897-09-04",
 "date_sdn": 2413671,
@@ -89483,7 +89540,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8132
+8130
 ],
 "date": "1897-09-04",
 "date_sdn": 2414172,
@@ -89501,7 +89558,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8133
+8131
 ],
 "date": "1897-09-15",
 "date_sdn": 2414183,
@@ -89548,7 +89605,7 @@ I_events_0 = [
 "part_person": [
 1123
 ],
-"place": 1301,
+"place": 1302,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -89657,7 +89714,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8533
+8531
 ],
 "date": "noin 1713",
 "date_sdn": 2346721,
@@ -89694,7 +89751,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8533
+8531
 ],
 "date": "1773-01-27",
 "date_sdn": 2368662,
@@ -89728,7 +89785,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8530
+8528
 ],
 "date": "noin 1710",
 "date_sdn": 2345625,
@@ -89765,7 +89822,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8530
+8528
 ],
 "date": "1789-12-29",
 "date_sdn": 2374842,
@@ -90980,7 +91037,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1945 - 1960",
 "date_sdn": 2431457,
@@ -90997,7 +91054,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1960 - 1990",
 "date_sdn": 2436935,
@@ -91116,7 +91173,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8408
+8406
 ],
 "date": "1776-10-16",
 "date_sdn": 2370020,
@@ -91480,7 +91537,7 @@ I_events_0 = [
 {
 "cita": [
 7303,
-8437
+8435
 ],
 "date": "noin 1677",
 "date_sdn": 2333573,
@@ -91555,7 +91612,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8437
+8435
 ],
 "date": "1765-05-04",
 "date_sdn": 2365837,
@@ -91625,7 +91682,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8425
+8423
 ],
 "date": "1777-05-03",
 "date_sdn": 2370219,
@@ -91731,7 +91788,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1945 - 1947",
 "date_sdn": 2431457,
@@ -91799,7 +91856,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1941 ja 1944 v\u00e4lill\u00e4",
 "date_sdn": 2429996,
@@ -91817,8 +91874,8 @@ I_events_0 = [
 {
 "cita": [
 96,
-7785,
-7804
+7784,
+7802
 ],
 "date": "1944 - 2005",
 "date_sdn": 2431091,
@@ -91923,7 +91980,7 @@ I_events_0 = [
 {
 "cita": [
 203,
-7785
+7784
 ],
 "date": "1923-11-09",
 "date_sdn": 2423733,
@@ -91991,7 +92048,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1945 - 1960",
 "date_sdn": 2431457,
@@ -92008,7 +92065,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1960 - 1990",
 "date_sdn": 2436935,
@@ -92026,7 +92083,7 @@ I_events_0 = [
 {
 "cita": [
 203,
-7785
+7784
 ],
 "date": "1990-08-31",
 "date_sdn": 2448135,
@@ -92058,7 +92115,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7895
+7893
 ],
 "date": "1990-10-22",
 "date_sdn": 2448187,
@@ -92111,8 +92168,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8038
+7784,
+8036
 ],
 "date": "1945 - 1970",
 "date_sdn": 2431457,
@@ -92129,7 +92186,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "noin 1995",
 "date_sdn": 2449719,
@@ -92309,7 +92366,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8454
+8452
 ],
 "date": "1780-01-17",
 "date_sdn": 2371208,
@@ -92364,7 +92421,7 @@ I_events_0 = [
 3947,
 4552,
 4628,
-7786
+7784
 ],
 "date": "1891 - 1914",
 "date_sdn": 2411734,
@@ -92417,7 +92474,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1945 - 1960",
 "date_sdn": 2431457,
@@ -92435,7 +92492,7 @@ I_events_0 = [
 {
 "cita": [
 7735,
-7785
+7784
 ],
 "date": "1960 - 1974",
 "date_sdn": 2436935,
@@ -92796,7 +92853,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8436
+8434
 ],
 "date": "1778-02-23",
 "date_sdn": 2370515,
@@ -92830,7 +92887,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8486
+8484
 ],
 "date": "1779-05-11",
 "date_sdn": 2370957,
@@ -93089,7 +93146,7 @@ I_events_0 = [
 "part_person": [
 1166
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -93300,7 +93357,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8653
+8651
 ],
 "date": "1933 - 1934",
 "date_sdn": 2427074,
@@ -93317,7 +93374,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8653
+8651
 ],
 "date": "1934-12-01 - 1935-11-15",
 "date_sdn": 2427773,
@@ -93334,7 +93391,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1935 - 1939",
 "date_sdn": 2427804,
@@ -93351,7 +93408,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8653
+8651
 ],
 "date": "1939-10-07 - 1939-10-14",
 "date_sdn": 2429544,
@@ -93368,7 +93425,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939 - 1941",
 "date_sdn": 2429265,
@@ -93385,7 +93442,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1941 - 1944",
 "date_sdn": 2429996,
@@ -93402,7 +93459,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1944 - 1946",
 "date_sdn": 2431091,
@@ -93419,8 +93476,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7898,
-8652
+7896,
+8650
 ],
 "date": "1946 - 1960",
 "date_sdn": 2431822,
@@ -93437,7 +93494,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1954 - 1957",
 "date_sdn": 2434744,
@@ -93454,7 +93511,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1956 - 1958",
 "date_sdn": 2435474,
@@ -93471,7 +93528,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1958",
 "date_sdn": 2436205,
@@ -93489,7 +93546,7 @@ I_events_0 = [
 {
 "cita": [
 7622,
-7898
+7896
 ],
 "date": "1960-08-19",
 "date_sdn": 2437166,
@@ -93523,7 +93580,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7898
+7896
 ],
 "date": "1960-10-11",
 "date_sdn": 2437219,
@@ -93570,7 +93627,7 @@ I_events_0 = [
 "part_person": [
 1169
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -93682,7 +93739,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7816
+7814
 ],
 "date": "1719",
 "date_sdn": 2348912,
@@ -93699,8 +93756,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7814,
-7815
+7812,
+7813
 ],
 "date": "1720 - 1721",
 "date_sdn": 2349277,
@@ -94397,7 +94454,7 @@ I_events_0 = [
 {
 "cita": [
 2884,
-8387
+8385
 ],
 "date": "1881 - 1893",
 "date_sdn": 2408082,
@@ -94414,7 +94471,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8505
+8503
 ],
 "date": "1893 - 1896-04-21",
 "date_sdn": 2412465,
@@ -94431,7 +94488,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8147
+8145
 ],
 "date": "1896-04-21",
 "date_sdn": 2413671,
@@ -94449,7 +94506,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8077
+8075
 ],
 "date": "1896-04-21",
 "date_sdn": 2413671,
@@ -94467,7 +94524,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8204
+8202
 ],
 "date": "1896-04-21 - 1897-09-04",
 "date_sdn": 2413671,
@@ -94484,7 +94541,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8132
+8130
 ],
 "date": "1897-09-04",
 "date_sdn": 2414172,
@@ -94502,7 +94559,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8133
+8131
 ],
 "date": "1897-09-15",
 "date_sdn": 2414183,
@@ -94549,7 +94606,7 @@ I_events_0 = [
 "part_person": [
 1175
 ],
-"place": 1301,
+"place": 1302,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -94750,8 +94807,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8201,
-8244
+8199,
+8242
 ],
 "date": "1861",
 "date_sdn": 2400777,
@@ -94769,7 +94826,7 @@ I_events_0 = [
 {
 "cita": [
 7230,
-8244
+8242
 ],
 "date": "1866 - 1881",
 "date_sdn": 2402603,
@@ -94786,7 +94843,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8148
+8146
 ],
 "date": "1881 - 1884",
 "date_sdn": 2408082,
@@ -94803,8 +94860,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8148,
-8201
+8146,
+8199
 ],
 "date": "1884-09-05",
 "date_sdn": 2409425,
@@ -94976,7 +95033,7 @@ I_events_0 = [
 {
 "cita": [
 188,
-8231
+8229
 ],
 "date": "1890-04-17",
 "date_sdn": 2411475,
@@ -95100,7 +95157,7 @@ I_events_0 = [
 "cita": [
 188,
 7667,
-7785
+7784
 ],
 "date": "1937 - 1966",
 "date_sdn": 2428535,
@@ -95221,7 +95278,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1969",
 "date_sdn": 2440223,
@@ -95268,7 +95325,7 @@ I_events_0 = [
 "part_person": [
 1181
 ],
-"place": 1312,
+"place": 1313,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -95285,7 +95342,7 @@ I_events_0 = [
 "part_person": [
 1181
 ],
-"place": 1312,
+"place": 1313,
 "text": "",
 "type": "Kuolema"
 }
@@ -95686,7 +95743,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8471
+8469
 ],
 "date": "1778-03-31",
 "date_sdn": 2370551,
@@ -95792,7 +95849,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8377
+8375
 ],
 "date": "1767",
 "date_sdn": 2366444,
@@ -95894,7 +95951,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8494
+8492
 ],
 "date": "1780-08-05",
 "date_sdn": 2371409,
@@ -96141,7 +96198,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8462
+8460
 ],
 "date": "1781-01-06",
 "date_sdn": 2371563,
@@ -96212,7 +96269,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8498
+8496
 ],
 "date": "1784-06-16",
 "date_sdn": 2372820,
@@ -96432,7 +96489,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8443
+8441
 ],
 "date": "1767-02-01",
 "date_sdn": 2366475,
@@ -96665,7 +96722,7 @@ I_events_0 = [
 3258,
 3824,
 3848,
-8558
+8556
 ],
 "date": "1761 - 1794",
 "date_sdn": 2364253,
@@ -96682,7 +96739,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8558
+8556
 ],
 "date": "1794-04-27",
 "date_sdn": 2376422,
@@ -96786,7 +96843,7 @@ I_events_0 = [
 {
 "cita": [
 2806,
-8533
+8531
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -96827,7 +96884,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8533
+8531
 ],
 "date": "1772-12-15",
 "date_sdn": 2368619,
@@ -96948,7 +97005,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8418
+8416
 ],
 "date": "noin 1693",
 "date_sdn": 2339417,
@@ -97020,7 +97077,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-02-26",
 "date_sdn": 2364309,
@@ -97172,7 +97229,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8461
+8459
 ],
 "date": "1777-12-24",
 "date_sdn": 2370454,
@@ -97278,7 +97335,7 @@ I_events_0 = [
 {
 "cita": [
 3957,
-8421
+8419
 ],
 "date": "1754-11-13",
 "date_sdn": 2362012,
@@ -97348,7 +97405,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8565
+8563
 ],
 "date": "1796-02-11",
 "date_sdn": 2377077,
@@ -97705,7 +97762,7 @@ I_events_0 = [
 {
 "cita": [
 3258,
-8432
+8430
 ],
 "date": "noin 1708",
 "date_sdn": 2344894,
@@ -97742,7 +97799,7 @@ I_events_0 = [
 "cita": [
 2924,
 3258,
-8432
+8430
 ],
 "date": "1754 - 1771",
 "date_sdn": 2361696,
@@ -97759,7 +97816,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8432
+8430
 ],
 "date": "1771-06-17",
 "date_sdn": 2368072,
@@ -97880,7 +97937,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8498
+8496
 ],
 "date": "1784-05-20",
 "date_sdn": 2372793,
@@ -97946,7 +98003,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8431
+8429
 ],
 "date": "noin 1703",
 "date_sdn": 2343068,
@@ -98016,7 +98073,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8431
+8429
 ],
 "date": "1764-02-07",
 "date_sdn": 2365385,
@@ -98051,7 +98108,7 @@ I_events_0 = [
 {
 "cita": [
 3697,
-8514
+8512
 ],
 "date": "noin 1743",
 "date_sdn": 2357678,
@@ -98104,7 +98161,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8514
+8512
 ],
 "date": "1787-10-31",
 "date_sdn": 2374052,
@@ -98260,7 +98317,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8484
+8482
 ],
 "date": "1783-01-01",
 "date_sdn": 2372288,
@@ -98662,7 +98719,7 @@ I_events_0 = [
 "part_person": [
 1224
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -98679,7 +98736,7 @@ I_events_0 = [
 "part_person": [
 1224
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -98696,7 +98753,7 @@ I_events_0 = [
 "part_person": [
 1224
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Kuolema"
 },
@@ -99427,8 +99484,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8164,
-8167
+8162,
+8165
 ],
 "date": "1889 - 1907",
 "date_sdn": 2411004,
@@ -99446,7 +99503,7 @@ I_events_0 = [
 {
 "cita": [
 5009,
-8228
+8226
 ],
 "date": "1907 - 1930",
 "date_sdn": 2417577,
@@ -100306,7 +100363,7 @@ I_events_0 = [
 "part_person": [
 1243
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -100637,7 +100694,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8503
+8501
 ],
 "date": "1772-09-20",
 "date_sdn": 2368533,
@@ -100671,7 +100728,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8450
+8448
 ],
 "date": "noin 1682",
 "date_sdn": 2335399,
@@ -100705,7 +100762,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8450
+8448
 ],
 "date": "1768",
 "date_sdn": 2366809,
@@ -100722,7 +100779,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8450
+8448
 ],
 "date": "1768-01-29",
 "date_sdn": 2366837,
@@ -100792,7 +100849,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8562
+8560
 ],
 "date": "1790 - 1799",
 "date_sdn": 2374845,
@@ -100860,7 +100917,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8403
+8401
 ],
 "date": "noin 1709",
 "date_sdn": 2345260,
@@ -100896,7 +100953,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8403
+8401
 ],
 "date": "1759-01-27",
 "date_sdn": 2363548,
@@ -100931,7 +100988,7 @@ I_events_0 = [
 {
 "cita": [
 4210,
-8521
+8519
 ],
 "date": "noin 1685",
 "date_sdn": 2336495,
@@ -100967,7 +101024,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8521
+8519
 ],
 "date": "1753-02-04",
 "date_sdn": 2361365,
@@ -101034,7 +101091,7 @@ I_events_0 = [
 {
 "cita": [
 4074,
-8460
+8458
 ],
 "date": "noin 1698",
 "date_sdn": 2341243,
@@ -101071,7 +101128,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8460
+8458
 ],
 "date": "1768-12-29",
 "date_sdn": 2367172,
@@ -101186,7 +101243,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8594
+8592
 ],
 "date": "1610 ja 1619 v\u00e4lill\u00e4",
 "date_sdn": 2309101,
@@ -101484,7 +101541,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8373
+8371
 ],
 "date": "1795-10-01",
 "date_sdn": 2376944,
@@ -101573,7 +101630,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8370
+8368
 ],
 "date": "noin 1682",
 "date_sdn": 2335399,
@@ -101626,7 +101683,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8370
+8368
 ],
 "date": "1754-03-22",
 "date_sdn": 2361776,
@@ -102376,7 +102433,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8263
+8261
 ],
 "date": "1601-07-04 ja 1604-02-05 v\u00e4lill\u00e4",
 "date_sdn": 2305998,
@@ -102444,7 +102501,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8229
+8227
 ],
 "date": "1612-01-31",
 "date_sdn": 2309861,
@@ -102511,7 +102568,7 @@ I_events_0 = [
 {
 "cita": [
 4031,
-8245
+8243
 ],
 "date": "1547 - 1559",
 "date_sdn": 2286090,
@@ -102834,7 +102891,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8437
+8435
 ],
 "date": "1765-02-04",
 "date_sdn": 2365748,
@@ -102868,7 +102925,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8520
+8518
 ],
 "date": "1751-01-07",
 "date_sdn": 2360606,
@@ -103011,7 +103068,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8437
+8435
 ],
 "date": "1765-01-24",
 "date_sdn": 2365737,
@@ -104936,7 +104993,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7901
+7899
 ],
 "date": "1768",
 "date_sdn": 2366809,
@@ -104953,7 +105010,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7901
+7899
 ],
 "date": "1768-03-21",
 "date_sdn": 2366889,
@@ -105024,7 +105081,7 @@ I_events_0 = [
 5826,
 5981,
 6391,
-8613
+8611
 ],
 "date": "1765 - 1789",
 "date_sdn": 2365714,
@@ -105202,7 +105259,7 @@ I_events_0 = [
 3499,
 6147,
 6763,
-7847
+7845
 ],
 "date": "1743 - 1755",
 "date_sdn": 2357678,
@@ -105393,7 +105450,7 @@ I_events_0 = [
 {
 "cita": [
 7282,
-8382
+8380
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -105446,7 +105503,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8382
+8380
 ],
 "date": "1773-11-30",
 "date_sdn": 2368969,
@@ -106309,7 +106366,7 @@ I_events_0 = [
 "part_person": [
 1316
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -106377,7 +106434,7 @@ I_events_0 = [
 "part_person": [
 1317
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -106434,7 +106491,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8422
+8420
 ],
 "date": "noin 1737",
 "date_sdn": 2355487,
@@ -106469,7 +106526,7 @@ I_events_0 = [
 {
 "cita": [
 5327,
-8422
+8420
 ],
 "date": "1758 - 1762",
 "date_sdn": 2363157,
@@ -106486,7 +106543,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8422
+8420
 ],
 "date": "1762-06-26",
 "date_sdn": 2364794,
@@ -106572,7 +106629,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8535
+8533
 ],
 "date": "1753-05-01",
 "date_sdn": 2361451,
@@ -106825,7 +106882,7 @@ I_events_0 = [
 "part_person": [
 1322
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -106851,7 +106908,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8509
+8507
 ],
 "date": "1785-09-18",
 "date_sdn": 2373279,
@@ -106917,7 +106974,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8449
+8447
 ],
 "date": "noin 1688",
 "date_sdn": 2337590,
@@ -106928,7 +106985,7 @@ I_events_0 = [
 "part_person": [
 1324
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -106968,13 +107025,13 @@ I_events_0 = [
 "part_person": [
 1324
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8449
+8447
 ],
 "date": "1779-09-15",
 "date_sdn": 2371084,
@@ -106985,7 +107042,7 @@ I_events_0 = [
 "part_person": [
 1324
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -107434,7 +107491,7 @@ I_events_0 = [
 "part_person": [
 1330
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -107451,7 +107508,7 @@ I_events_0 = [
 "part_person": [
 1330
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Kuolema"
 },
@@ -107503,7 +107560,7 @@ I_events_0 = [
 "part_person": [
 1331
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -107520,7 +107577,7 @@ I_events_0 = [
 "part_person": [
 1331
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -107765,7 +107822,7 @@ I_events_0 = [
 {
 "cita": [
 3337,
-8137
+8135
 ],
 "date": "1699 - 1704",
 "date_sdn": 2341608,
@@ -108003,7 +108060,7 @@ I_events_0 = [
 "part_person": [
 1337
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -108021,7 +108078,7 @@ I_events_0 = [
 "part_person": [
 1337
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -108193,7 +108250,7 @@ I_events_0 = [
 "part_person": [
 1339
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -108213,7 +108270,7 @@ I_events_0 = [
 "part_person": [
 1339
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -108230,7 +108287,7 @@ I_events_0 = [
 "part_person": [
 1339
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Kuolema"
 },
@@ -109565,7 +109622,7 @@ I_events_0 = [
 "part_person": [
 1354
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -109582,7 +109639,7 @@ I_events_0 = [
 "part_person": [
 1354
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -109599,7 +109656,7 @@ I_events_0 = [
 "part_person": [
 1354
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Kuolema"
 },
@@ -109637,7 +109694,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8202
+8200
 ],
 "date": "1509-09-26",
 "date_sdn": 2272479,
@@ -110175,7 +110232,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8300
+8298
 ],
 "date": "1940 - 1972",
 "date_sdn": 2429630,
@@ -110192,7 +110249,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "noin 1972",
 "date_sdn": 2441318,
@@ -110209,7 +110266,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "noin 1972",
 "date_sdn": 2441318,
@@ -111597,7 +111654,7 @@ I_events_0 = [
 "cita": [
 2576,
 7123,
-8429
+8427
 ],
 "date": "1743 - 1755",
 "date_sdn": 2357678,
@@ -112769,7 +112826,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7894
+7892
 ],
 "date": "1608 ja 1628 v\u00e4lill\u00e4",
 "date_sdn": 2308370,
@@ -112888,7 +112945,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8691
+8689
 ],
 "date": "1658 ja 1691 v\u00e4lill\u00e4",
 "date_sdn": 2326633,
@@ -112973,7 +113030,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7812
+7810
 ],
 "date": "noin 1697",
 "date_sdn": 2340878,
@@ -113124,7 +113181,7 @@ I_events_0 = [
 "part_person": [
 1388
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -113232,7 +113289,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8368
+8366
 ],
 "date": "1798-10-15",
 "date_sdn": 2378054,
@@ -113277,7 +113334,7 @@ I_events_0 = [
 "part_person": [
 1391
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -113525,7 +113582,7 @@ I_events_0 = [
 "part_person": [
 1393
 ],
-"place": 1249,
+"place": 1250,
 "text": "",
 "type": "Kuolema"
 },
@@ -113581,7 +113638,7 @@ I_events_0 = [
 {
 "cita": [
 69,
-8033
+8031
 ],
 "date": "1603 - 1622",
 "date_sdn": 2306544,
@@ -113730,7 +113787,7 @@ I_events_0 = [
 {
 "cita": [
 7568,
-7785
+7784
 ],
 "date": "1964 - 1970",
 "date_sdn": 2438396,
@@ -113815,7 +113872,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8545
+8543
 ],
 "date": "1765-05-12",
 "date_sdn": 2365845,
@@ -113890,7 +113947,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8450
+8448
 ],
 "date": "noin 1702",
 "date_sdn": 2342703,
@@ -113938,13 +113995,13 @@ I_events_0 = [
 "part_person": [
 1400
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8450
+8448
 ],
 "date": "1767-11-16",
 "date_sdn": 2366763,
@@ -113955,7 +114012,7 @@ I_events_0 = [
 "part_person": [
 1400
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -114031,7 +114088,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8436
+8434
 ],
 "date": "1778-03-19",
 "date_sdn": 2370539,
@@ -114066,7 +114123,7 @@ I_events_0 = [
 {
 "cita": [
 5925,
-8439
+8437
 ],
 "date": "noin 1697",
 "date_sdn": 2340878,
@@ -114120,7 +114177,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8439
+8437
 ],
 "date": "1766-01-04",
 "date_sdn": 2366082,
@@ -114154,7 +114211,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8405
+8403
 ],
 "date": "noin 1670",
 "date_sdn": 2331016,
@@ -114182,13 +114239,13 @@ I_events_0 = [
 "part_person": [
 1403
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-06-02",
 "date_sdn": 2360387,
@@ -114199,7 +114256,7 @@ I_events_0 = [
 "part_person": [
 1403
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -114361,7 +114418,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8439
+8437
 ],
 "date": "1766-03-23",
 "date_sdn": 2366160,
@@ -114601,7 +114658,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8368
+8366
 ],
 "date": "1798-10-26",
 "date_sdn": 2378065,
@@ -114780,7 +114837,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8508
+8506
 ],
 "date": "1785-04-25",
 "date_sdn": 2373133,
@@ -114872,7 +114929,7 @@ I_events_0 = [
 "part_person": [
 1412
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -115048,7 +115105,7 @@ I_events_0 = [
 "part_person": [
 1414
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -115066,7 +115123,7 @@ I_events_0 = [
 "part_person": [
 1414
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -115083,7 +115140,7 @@ I_events_0 = [
 "part_person": [
 1414
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -115219,7 +115276,7 @@ I_events_0 = [
 "part_person": [
 1416
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -115241,7 +115298,7 @@ I_events_0 = [
 "part_person": [
 1416
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -115258,7 +115315,7 @@ I_events_0 = [
 "part_person": [
 1416
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -115730,7 +115787,7 @@ I_events_0 = [
 124,
 5723,
 5726,
-7846
+7844
 ],
 "date": "1684 - 1702",
 "date_sdn": 2336129,
@@ -115977,8 +116034,8 @@ I_events_0 = [
 5430,
 5431,
 7260,
-8211,
-8317
+8209,
+8315
 ],
 "date": "1553 - 1584",
 "date_sdn": 2288282,
@@ -116368,7 +116425,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8349
+8347
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -116423,7 +116480,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8349
+8347
 ],
 "date": "1771-01-09",
 "date_sdn": 2367913,
@@ -117066,7 +117123,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8459
+8457
 ],
 "date": "noin 1703",
 "date_sdn": 2343068,
@@ -117107,7 +117164,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8459
+8457
 ],
 "date": "1780-08-20",
 "date_sdn": 2371424,
@@ -117275,7 +117332,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8391
+8389
 ],
 "date": "1774-07-03",
 "date_sdn": 2369184,
@@ -117568,7 +117625,7 @@ I_events_0 = [
 "part_person": [
 1444
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -118115,7 +118172,7 @@ I_events_0 = [
 {
 "cita": [
 2322,
-8475
+8473
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -118151,7 +118208,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8475
+8473
 ],
 "date": "1782-02-14",
 "date_sdn": 2371967,
@@ -118386,7 +118443,7 @@ I_events_0 = [
 {
 "cita": [
 3608,
-8384
+8382
 ],
 "date": "noin 1693",
 "date_sdn": 2339417,
@@ -118433,13 +118490,13 @@ I_events_0 = [
 "part_person": [
 1452
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8384
+8382
 ],
 "date": "1756-03-29",
 "date_sdn": 2362514,
@@ -118450,7 +118507,7 @@ I_events_0 = [
 "part_person": [
 1452
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -118889,7 +118946,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8439
+8437
 ],
 "date": "noin 1686",
 "date_sdn": 2336860,
@@ -118940,7 +118997,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8439
+8437
 ],
 "date": "1766-01-28",
 "date_sdn": 2366106,
@@ -119429,7 +119486,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8503
+8501
 ],
 "date": "noin 1730",
 "date_sdn": 2352930,
@@ -119446,7 +119503,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8503
+8501
 ],
 "date": "1772-07-12",
 "date_sdn": 2368463,
@@ -119701,7 +119758,7 @@ I_events_0 = [
 "part_person": [
 1466
 ],
-"place": 1319,
+"place": 1320,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -119806,7 +119863,7 @@ I_events_0 = [
 "part_person": [
 1467
 ],
-"place": 1319,
+"place": 1320,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -119823,7 +119880,7 @@ I_events_0 = [
 "part_person": [
 1467
 ],
-"place": 1319,
+"place": 1320,
 "text": "",
 "type": "Kuolema"
 },
@@ -120326,7 +120383,7 @@ I_events_0 = [
 "part_person": [
 1473
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -120343,7 +120400,7 @@ I_events_0 = [
 "part_person": [
 1473
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -120362,7 +120419,7 @@ I_events_0 = [
 "part_person": [
 1473
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -120379,7 +120436,7 @@ I_events_0 = [
 "part_person": [
 1473
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Kuolema"
 },
@@ -120516,7 +120573,7 @@ I_events_0 = [
 "part_person": [
 1475
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -120538,7 +120595,7 @@ I_events_0 = [
 "part_person": [
 1475
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -120555,7 +120612,7 @@ I_events_0 = [
 "part_person": [
 1475
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Kuolema"
 },
@@ -120730,7 +120787,7 @@ I_events_0 = [
 "part_person": [
 1478
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -120749,7 +120806,7 @@ I_events_0 = [
 "part_person": [
 1478
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -120785,7 +120842,7 @@ I_events_0 = [
 "part_person": [
 1478
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Kuolema"
 },
@@ -120890,7 +120947,7 @@ I_events_0 = [
 "part_person": [
 1480
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -120967,7 +121024,7 @@ I_events_0 = [
 {
 "cita": [
 161,
-7855
+7853
 ],
 "date": "1634",
 "date_sdn": 2317867,
@@ -120984,7 +121041,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7855
+7853
 ],
 "date": "1635 - 1639",
 "date_sdn": 2318232,
@@ -121172,7 +121229,7 @@ I_events_0 = [
 {
 "cita": [
 2232,
-7908
+7906
 ],
 "date": "1669 - 1697",
 "date_sdn": 2330651,
@@ -121955,7 +122012,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1949",
 "date_sdn": 2432918,
@@ -122042,7 +122099,7 @@ I_events_0 = [
 "part_person": [
 1489
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -122065,7 +122122,7 @@ I_events_0 = [
 "part_person": [
 1489
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -122084,7 +122141,7 @@ I_events_0 = [
 "part_person": [
 1489
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -122101,7 +122158,7 @@ I_events_0 = [
 "part_person": [
 1489
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -122776,7 +122833,7 @@ I_events_0 = [
 "part_person": [
 1496
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -123202,7 +123259,7 @@ I_events_0 = [
 {
 "cita": [
 6780,
-8156
+8154
 ],
 "date": "1730 - 1748",
 "date_sdn": 2352930,
@@ -123317,7 +123374,7 @@ I_events_0 = [
 "part_person": [
 1502
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -123336,7 +123393,7 @@ I_events_0 = [
 "part_person": [
 1502
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -123396,8 +123453,8 @@ I_events_0 = [
 4778,
 4779,
 4780,
-8308,
-8315
+8306,
+8313
 ],
 "date": "1585 - 1629",
 "date_sdn": 2299970,
@@ -123446,7 +123503,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8212
+8210
 ],
 "date": "1551 - 1572",
 "date_sdn": 2287551,
@@ -123463,7 +123520,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8060
+8058
 ],
 "date": "1558",
 "date_sdn": 2290108,
@@ -123480,7 +123537,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8212
+8210
 ],
 "date": "1564",
 "date_sdn": 2292299,
@@ -124268,7 +124325,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8480
+8478
 ],
 "date": "1758-06-05",
 "date_sdn": 2363312,
@@ -124399,7 +124456,7 @@ I_events_0 = [
 "part_person": [
 1514
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -124517,7 +124574,7 @@ I_events_0 = [
 "part_person": [
 1516
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -124637,7 +124694,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8415
+8413
 ],
 "date": "1776-01-04",
 "date_sdn": 2369734,
@@ -124838,7 +124895,7 @@ I_events_0 = [
 "part_person": [
 1521
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -124855,7 +124912,7 @@ I_events_0 = [
 "part_person": [
 1521
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -124872,7 +124929,7 @@ I_events_0 = [
 "part_person": [
 1521
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -126417,7 +126474,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8439
+8437
 ],
 "date": "1766-01-01",
 "date_sdn": 2366079,
@@ -126451,7 +126508,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8375
+8373
 ],
 "date": "1752-10-06",
 "date_sdn": 2361244,
@@ -126641,7 +126698,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8547
+8545
 ],
 "date": "noin 1718",
 "date_sdn": 2348547,
@@ -126678,7 +126735,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8547
+8545
 ],
 "date": "1792-05-09",
 "date_sdn": 2375704,
@@ -126812,7 +126869,7 @@ I_events_0 = [
 "part_person": [
 1546
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -126829,7 +126886,7 @@ I_events_0 = [
 "part_person": [
 1546
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -127110,7 +127167,7 @@ I_events_0 = [
 "cita": [
 3311,
 5245,
-7845
+7843
 ],
 "date": "1711 - 1722",
 "date_sdn": 2345990,
@@ -127726,7 +127783,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8526
+8524
 ],
 "date": "1788-10-06",
 "date_sdn": 2374393,
@@ -127879,7 +127936,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8523
+8521
 ],
 "date": "1788",
 "date_sdn": 2374114,
@@ -127896,7 +127953,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8523
+8521
 ],
 "date": "1788-02-01",
 "date_sdn": 2374145,
@@ -127999,7 +128056,7 @@ I_events_0 = [
 {
 "cita": [
 3572,
-8401
+8399
 ],
 "date": "noin 1706",
 "date_sdn": 2344164,
@@ -128084,7 +128141,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8401
+8399
 ],
 "date": "1775-02-06",
 "date_sdn": 2369402,
@@ -128118,7 +128175,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8357
+8355
 ],
 "date": "noin 1711",
 "date_sdn": 2345990,
@@ -128141,7 +128198,7 @@ I_events_0 = [
 6226,
 6930,
 6981,
-8357
+8355
 ],
 "date": "1745 - 1773",
 "date_sdn": 2358409,
@@ -128158,7 +128215,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8357
+8355
 ],
 "date": "1773-07-23",
 "date_sdn": 2368839,
@@ -128224,7 +128281,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "1610 - 1615",
 "date_sdn": 2309101,
@@ -128241,7 +128298,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "1625-02-09",
 "date_sdn": 2314619,
@@ -128261,7 +128318,7 @@ I_events_0 = [
 {
 "cita": [
 4683,
-7897
+7895
 ],
 "date": "1920-07-30",
 "date_sdn": 2422536,
@@ -128316,7 +128373,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939 ja 1944 v\u00e4lill\u00e4",
 "date_sdn": 2429265,
@@ -128333,7 +128390,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1940 - 1941",
 "date_sdn": 2429630,
@@ -128350,8 +128407,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8301
+7784,
+8299
 ],
 "date": "1944 - 1947",
 "date_sdn": 2431091,
@@ -128368,8 +128425,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8641
+7784,
+8639
 ],
 "date": "1947 - 2015",
 "date_sdn": 2432187,
@@ -128386,7 +128443,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7897
+7895
 ],
 "date": "2015-02-12",
 "date_sdn": 2457066,
@@ -128958,7 +129015,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7967
+7965
 ],
 "date": "noin 1650",
 "date_sdn": 2323711,
@@ -129399,7 +129456,7 @@ I_events_0 = [
 "part_person": [
 1577
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -129416,7 +129473,7 @@ I_events_0 = [
 "part_person": [
 1577
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -129433,7 +129490,7 @@ I_events_0 = [
 "part_person": [
 1577
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -129631,7 +129688,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8508
+8506
 ],
 "date": "1785-04-09",
 "date_sdn": 2373117,
@@ -129809,7 +129866,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8527
+8525
 ],
 "date": "1784-12-24",
 "date_sdn": 2373011,
@@ -129913,7 +129970,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8521
+8519
 ],
 "date": "noin 1693",
 "date_sdn": 2339417,
@@ -129967,7 +130024,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8521
+8519
 ],
 "date": "1753-02-14",
 "date_sdn": 2361375,
@@ -130124,7 +130181,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8479
+8477
 ],
 "date": "1782-07-29",
 "date_sdn": 2372132,
@@ -130158,7 +130215,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8455
+8453
 ],
 "date": "1757-01-07",
 "date_sdn": 2362798,
@@ -130210,7 +130267,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8560
+8558
 ],
 "date": "1794-06-09",
 "date_sdn": 2376465,
@@ -130260,7 +130317,7 @@ I_events_0 = [
 {
 "cita": [
 4657,
-8249
+8247
 ],
 "date": "1540 - 1552",
 "date_sdn": 2283533,
@@ -130309,7 +130366,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8248
+8246
 ],
 "date": "1540 - 1543",
 "date_sdn": 2283533,
@@ -130358,7 +130415,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8248
+8246
 ],
 "date": "1544 - 1556",
 "date_sdn": 2284994,
@@ -130563,7 +130620,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8318
+8316
 ],
 "date": "1648 - 1663",
 "date_sdn": 2322980,
@@ -130695,7 +130752,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8671
+8669
 ],
 "date": "1686",
 "date_sdn": 2336860,
@@ -130838,7 +130895,7 @@ I_events_0 = [
 "part_person": [
 1595
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -130874,7 +130931,7 @@ I_events_0 = [
 "part_person": [
 1595
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -130894,7 +130951,7 @@ I_events_0 = [
 "part_person": [
 1595
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -130913,7 +130970,7 @@ I_events_0 = [
 "part_person": [
 1595
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -130930,7 +130987,7 @@ I_events_0 = [
 "part_person": [
 1595
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Kuolema"
 },
@@ -131668,7 +131725,7 @@ I_events_0 = [
 "part_person": [
 1606
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -131760,7 +131817,7 @@ I_events_0 = [
 "part_person": [
 1607
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -131779,7 +131836,7 @@ I_events_0 = [
 "part_person": [
 1607
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -131796,7 +131853,7 @@ I_events_0 = [
 "part_person": [
 1607
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Kuolema"
 },
@@ -132050,7 +132107,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8320
+8318
 ],
 "date": "noin 1669",
 "date_sdn": 2330651,
@@ -132772,7 +132829,7 @@ I_events_0 = [
 "part_person": [
 1618
 ],
-"place": 1256,
+"place": 1257,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -132789,7 +132846,7 @@ I_events_0 = [
 "part_person": [
 1618
 ],
-"place": 1256,
+"place": 1257,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -133232,7 +133289,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939 ja 1944 v\u00e4lill\u00e4",
 "date_sdn": 2429265,
@@ -133249,8 +133306,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8038
+7784,
+8036
 ],
 "date": "1945 - 1970",
 "date_sdn": 2431457,
@@ -133773,7 +133830,7 @@ I_events_0 = [
 2224,
 5879,
 5880,
-8054
+8052
 ],
 "date": "ennen 1629",
 "date_sdn": 2316041,
@@ -133828,7 +133885,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8154
+8152
 ],
 "date": "noin 1647",
 "date_sdn": 2322615,
@@ -133907,7 +133964,7 @@ I_events_0 = [
 "part_person": [
 1633
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -133924,7 +133981,7 @@ I_events_0 = [
 "part_person": [
 1633
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Kuolema"
 }
@@ -134316,7 +134373,7 @@ I_events_0 = [
 "part_person": [
 1638
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -134379,7 +134436,7 @@ I_events_0 = [
 2723,
 3139,
 3324,
-8073
+8071
 ],
 "date": "1678 - 1700",
 "date_sdn": 2333938,
@@ -134905,7 +134962,7 @@ I_events_0 = [
 {
 "cita": [
 6251,
-7905
+7903
 ],
 "date": "1566 - 1570",
 "date_sdn": 2293030,
@@ -134939,7 +134996,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7905
+7903
 ],
 "date": "arviolta 1550",
 "date_sdn": 2287186,
@@ -137160,7 +137217,7 @@ I_events_0 = [
 {
 "cita": [
 5104,
-8173
+8171
 ],
 "date": "1722 - 1739",
 "date_sdn": 2350008,
@@ -137310,7 +137367,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8050
+8048
 ],
 "date": "ennen 1662-06-27",
 "date_sdn": 2328271,
@@ -137431,8 +137488,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8207,
-8208
+8205,
+8206
 ],
 "date": "1745 - 1767",
 "date_sdn": 2358409,
@@ -138404,7 +138461,7 @@ I_events_0 = [
 "cita": [
 5511,
 6070,
-8161
+8159
 ],
 "date": "1722 - 1742",
 "date_sdn": 2350008,
@@ -139296,7 +139353,7 @@ I_events_0 = [
 "part_person": [
 1702
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -139313,7 +139370,7 @@ I_events_0 = [
 "part_person": [
 1702
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -139330,7 +139387,7 @@ I_events_0 = [
 "part_person": [
 1702
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -139617,7 +139674,7 @@ I_events_0 = [
 {
 "cita": [
 6116,
-8614
+8612
 ],
 "date": "1722 - 1730",
 "date_sdn": 2350008,
@@ -139666,7 +139723,7 @@ I_events_0 = [
 "part_person": [
 1706
 ],
-"place": 1264,
+"place": 1265,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -139743,7 +139800,7 @@ I_events_0 = [
 2387,
 4071,
 4157,
-8613
+8611
 ],
 "date": "1797 - 1812",
 "date_sdn": 2377402,
@@ -139934,7 +139991,7 @@ I_events_0 = [
 {
 "cita": [
 7657,
-7983
+7981
 ],
 "date": "1694 - 1737",
 "date_sdn": 2339782,
@@ -139999,7 +140056,7 @@ I_events_0 = [
 "part_person": [
 1708
 ],
-"place": 1276,
+"place": 1277,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -140958,7 +141015,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8693
+8691
 ],
 "date": "arviolta 1640",
 "date_sdn": 2320058,
@@ -141194,7 +141251,7 @@ I_events_0 = [
 "part_person": [
 1720
 ],
-"place": 1252,
+"place": 1253,
 "text": "",
 "type": "Hautaus"
 }
@@ -141259,7 +141316,7 @@ I_events_0 = [
 "cita": [
 188,
 5742,
-7785
+7784
 ],
 "date": "1937 - 1964",
 "date_sdn": 2428535,
@@ -142058,7 +142115,7 @@ I_events_0 = [
 "part_person": [
 1729
 ],
-"place": 1252,
+"place": 1253,
 "text": "",
 "type": "Kuolema"
 }
@@ -142304,7 +142361,7 @@ I_events_0 = [
 {
 "cita": [
 2823,
-8389
+8387
 ],
 "date": "1754 - 1756",
 "date_sdn": 2361696,
@@ -142321,7 +142378,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1756-08-25",
 "date_sdn": 2362663,
@@ -142496,7 +142553,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8548
+8546
 ],
 "date": "1792-12-21",
 "date_sdn": 2375930,
@@ -142530,7 +142587,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8491
+8489
 ],
 "date": "1779-12-06",
 "date_sdn": 2371166,
@@ -142804,7 +142861,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8523
+8521
 ],
 "date": "1788-02-19",
 "date_sdn": 2374163,
@@ -142910,7 +142967,7 @@ I_events_0 = [
 {
 "cita": [
 6568,
-8496
+8494
 ],
 "date": "1724",
 "date_sdn": 2350738,
@@ -142944,7 +143001,7 @@ I_events_0 = [
 "cita": [
 2576,
 7123,
-8429
+8427
 ],
 "date": "1743 - 1755",
 "date_sdn": 2357678,
@@ -142962,7 +143019,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8496
+8494
 ],
 "date": "1784-03-29",
 "date_sdn": 2372741,
@@ -143857,7 +143914,7 @@ I_events_0 = [
 "part_person": [
 1752
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -143874,7 +143931,7 @@ I_events_0 = [
 "part_person": [
 1752
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -143891,7 +143948,7 @@ I_events_0 = [
 "part_person": [
 1752
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -144002,7 +144059,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8649
+8647
 ],
 "date": "noin 1675",
 "date_sdn": 2332842,
@@ -144036,7 +144093,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8649
+8647
 ],
 "date": "1729-12",
 "date_sdn": 2352899,
@@ -144118,7 +144175,7 @@ I_events_0 = [
 "part_person": [
 1755
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -144136,7 +144193,7 @@ I_events_0 = [
 "part_person": [
 1755
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -144154,7 +144211,7 @@ I_events_0 = [
 "part_person": [
 1755
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Kuolema"
 },
@@ -144432,7 +144489,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8346
+8344
 ],
 "date": "1810-12-01",
 "date_sdn": 2382483,
@@ -144574,7 +144631,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8521
+8519
 ],
 "date": "noin 1712",
 "date_sdn": 2346355,
@@ -144628,7 +144685,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8521
+8519
 ],
 "date": "1753-02-24",
 "date_sdn": 2361385,
@@ -144851,7 +144908,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8441
+8439
 ],
 "date": "1766-04-27",
 "date_sdn": 2366195,
@@ -145018,7 +145075,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8488
+8486
 ],
 "date": "noin 1710",
 "date_sdn": 2345625,
@@ -145070,7 +145127,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8488
+8486
 ],
 "date": "1772-04-05",
 "date_sdn": 2368365,
@@ -145105,7 +145162,7 @@ I_events_0 = [
 {
 "cita": [
 3271,
-8460
+8458
 ],
 "date": "noin 1682",
 "date_sdn": 2335399,
@@ -145148,7 +145205,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8460
+8458
 ],
 "date": "1769-02-14",
 "date_sdn": 2367219,
@@ -145406,7 +145463,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8418
+8416
 ],
 "date": "noin 1712",
 "date_sdn": 2346355,
@@ -145441,7 +145498,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-01-30",
 "date_sdn": 2364282,
@@ -145593,7 +145650,7 @@ I_events_0 = [
 "part_person": [
 1773
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -145610,7 +145667,7 @@ I_events_0 = [
 "part_person": [
 1773
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -145627,13 +145684,13 @@ I_events_0 = [
 "part_person": [
 1773
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8514
+8512
 ],
 "date": "1787-11-02",
 "date_sdn": 2374054,
@@ -145644,7 +145701,7 @@ I_events_0 = [
 "part_person": [
 1773
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -146312,7 +146369,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8430
+8428
 ],
 "date": "noin 1686",
 "date_sdn": 2336860,
@@ -146360,13 +146417,13 @@ I_events_0 = [
 "part_person": [
 1783
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8430
+8428
 ],
 "date": "1763-09-20",
 "date_sdn": 2365245,
@@ -146377,7 +146434,7 @@ I_events_0 = [
 "part_person": [
 1783
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -146468,7 +146525,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8478
+8476
 ],
 "date": "1770-03-19",
 "date_sdn": 2367617,
@@ -146503,7 +146560,7 @@ I_events_0 = [
 {
 "cita": [
 7303,
-8470
+8468
 ],
 "date": "noin 1688",
 "date_sdn": 2337590,
@@ -146541,7 +146598,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8470
+8468
 ],
 "date": "1769-06-23",
 "date_sdn": 2367348,
@@ -147401,7 +147458,7 @@ I_events_0 = [
 "part_person": [
 1795
 ],
-"place": 1320,
+"place": 1321,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -147455,7 +147512,7 @@ I_events_0 = [
 "part_person": [
 1795
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -147472,7 +147529,7 @@ I_events_0 = [
 "part_person": [
 1795
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Kuolema"
 },
@@ -147714,7 +147771,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8698
+8696
 ],
 "date": "1681-05-01",
 "date_sdn": 2335154,
@@ -148065,7 +148122,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8294
+8292
 ],
 "date": "1559",
 "date_sdn": 2290473,
@@ -148083,7 +148140,7 @@ I_events_0 = [
 {
 "cita": [
 1653,
-8294
+8292
 ],
 "date": "1559",
 "date_sdn": 2290473,
@@ -148171,7 +148228,7 @@ I_events_0 = [
 {
 "cita": [
 1966,
-8294
+8292
 ],
 "date": "noin 1574",
 "date_sdn": 2295952,
@@ -148819,7 +148876,7 @@ I_events_0 = [
 "part_person": [
 1808
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -149308,7 +149365,7 @@ I_events_0 = [
 "part_person": [
 1813
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -149703,7 +149760,7 @@ I_events_0 = [
 "part_person": [
 1816
 ],
-"place": 1315,
+"place": 1316,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -150084,7 +150141,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8540
+8538
 ],
 "date": "1790-09-20",
 "date_sdn": 2375107,
@@ -150295,7 +150352,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8557
+8555
 ],
 "date": "1789-03-28",
 "date_sdn": 2374566,
@@ -150543,7 +150600,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8500
+8498
 ],
 "date": "1781-04-23",
 "date_sdn": 2371670,
@@ -150900,7 +150957,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8405
+8403
 ],
 "date": "noin 1670",
 "date_sdn": 2331016,
@@ -150917,7 +150974,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750",
 "date_sdn": 2360235,
@@ -150934,7 +150991,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-02-16",
 "date_sdn": 2360281,
@@ -150994,7 +151051,7 @@ I_events_0 = [
 "part_person": [
 1833
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Kuolema"
 },
@@ -151243,7 +151300,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8031
+8029
 ],
 "date": "1431",
 "date_sdn": 2243722,
@@ -151316,7 +151373,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8474
+8472
 ],
 "date": "1781-08-14",
 "date_sdn": 2371783,
@@ -151401,7 +151458,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8466
+8464
 ],
 "date": "noin 1675",
 "date_sdn": 2332842,
@@ -151439,7 +151496,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8466
+8464
 ],
 "date": "1751-09-16",
 "date_sdn": 2360858,
@@ -151611,7 +151668,7 @@ I_events_0 = [
 "cita": [
 157,
 163,
-7825
+7823
 ],
 "date": "noin 1530",
 "date_sdn": 2279881,
@@ -151950,7 +152007,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8055
+8053
 ],
 "date": "1679 ja 1681 v\u00e4lill\u00e4",
 "date_sdn": 2334303,
@@ -152412,7 +152469,7 @@ I_events_0 = [
 "part_person": [
 1854
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -152432,7 +152489,7 @@ I_events_0 = [
 "part_person": [
 1854
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -152501,7 +152558,7 @@ I_events_0 = [
 "part_person": [
 1855
 ],
-"place": 1277,
+"place": 1278,
 "text": "",
 "type": "Kuolema"
 },
@@ -152620,7 +152677,7 @@ I_events_0 = [
 "part_person": [
 1857
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -152638,7 +152695,7 @@ I_events_0 = [
 "part_person": [
 1857
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -152655,7 +152712,7 @@ I_events_0 = [
 "part_person": [
 1857
 ],
-"place": 1263,
+"place": 1264,
 "text": "",
 "type": "Kuolema"
 },
@@ -152986,7 +153043,7 @@ I_events_0 = [
 "part_person": [
 1861
 ],
-"place": 1253,
+"place": 1254,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -153420,7 +153477,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8066
+8064
 ],
 "date": "1679",
 "date_sdn": 2334303,
@@ -153507,7 +153564,7 @@ I_events_0 = [
 "cita": [
 5870,
 6256,
-7834
+7832
 ],
 "date": "1700 - 1733",
 "date_sdn": 2341973,
@@ -153524,7 +153581,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8128
+8126
 ],
 "date": "1707",
 "date_sdn": 2344529,
@@ -153850,7 +153907,7 @@ I_events_0 = [
 "part_person": [
 1870
 ],
-"place": 1297,
+"place": 1298,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -153867,7 +153924,7 @@ I_events_0 = [
 "part_person": [
 1870
 ],
-"place": 1297,
+"place": 1298,
 "text": "",
 "type": "Kuolema"
 },
@@ -154598,7 +154655,7 @@ I_events_0 = [
 "cita": [
 5638,
 5639,
-8612
+8610
 ],
 "date": "1691 - 1694",
 "date_sdn": 2338686,
@@ -155168,7 +155225,7 @@ I_events_0 = [
 "cita": [
 4652,
 5042,
-8615
+8613
 ],
 "date": "1621 - 1633",
 "date_sdn": 2313119,
@@ -155274,7 +155331,7 @@ I_events_0 = [
 5197,
 5761,
 6139,
-8615
+8613
 ],
 "date": "1556 - 1580",
 "date_sdn": 2289377,
@@ -155438,7 +155495,7 @@ I_events_0 = [
 5189,
 5642,
 5643,
-8615
+8613
 ],
 "date": "1634 - 1665",
 "date_sdn": 2317867,
@@ -155611,7 +155668,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8463
+8461
 ],
 "date": "noin 1719",
 "date_sdn": 2348912,
@@ -155659,13 +155716,13 @@ I_events_0 = [
 "part_person": [
 1890
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8463
+8461
 ],
 "date": "1769-02-27",
 "date_sdn": 2367232,
@@ -155676,7 +155733,7 @@ I_events_0 = [
 "part_person": [
 1890
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -155802,7 +155859,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8482
+8480
 ],
 "date": "1782-11-25",
 "date_sdn": 2372251,
@@ -155924,7 +155981,7 @@ I_events_0 = [
 {
 "cita": [
 5615,
-8478
+8476
 ],
 "date": "noin 1682",
 "date_sdn": 2335399,
@@ -155994,7 +156051,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8478
+8476
 ],
 "date": "1770-02-07",
 "date_sdn": 2367577,
@@ -156112,7 +156169,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8546
+8544
 ],
 "date": "1791-06-14",
 "date_sdn": 2375374,
@@ -156307,7 +156364,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8517
+8515
 ],
 "date": "1772-12-15",
 "date_sdn": 2368619,
@@ -156341,7 +156398,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8376
+8374
 ],
 "date": "noin 1696",
 "date_sdn": 2340512,
@@ -156393,7 +156450,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8376
+8374
 ],
 "date": "1754-11-02",
 "date_sdn": 2362001,
@@ -156481,7 +156538,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8485
+8483
 ],
 "date": "1783-01-17",
 "date_sdn": 2372304,
@@ -156565,7 +156622,7 @@ I_events_0 = [
 {
 "cita": [
 3432,
-8443
+8441
 ],
 "date": "noin 1689",
 "date_sdn": 2337956,
@@ -156636,7 +156693,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8443
+8441
 ],
 "date": "1767-03-26",
 "date_sdn": 2366528,
@@ -156670,7 +156727,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8388
+8386
 ],
 "date": "noin 1707",
 "date_sdn": 2344529,
@@ -156708,7 +156765,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8388
+8386
 ],
 "date": "1774-01-04",
 "date_sdn": 2369004,
@@ -156770,7 +156827,7 @@ I_events_0 = [
 "part_person": [
 1904
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -156845,7 +156902,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8525
+8523
 ],
 "date": "1762-11-17",
 "date_sdn": 2364938,
@@ -156856,7 +156913,7 @@ I_events_0 = [
 "part_person": [
 1906
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -156874,7 +156931,7 @@ I_events_0 = [
 "part_person": [
 1906
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -156893,7 +156950,7 @@ I_events_0 = [
 "part_person": [
 1906
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -156910,7 +156967,7 @@ I_events_0 = [
 "part_person": [
 1906
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -156927,7 +156984,7 @@ I_events_0 = [
 "part_person": [
 1906
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -156996,7 +157053,7 @@ I_events_0 = [
 "part_person": [
 1907
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -157014,7 +157071,7 @@ I_events_0 = [
 "part_person": [
 1907
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -157031,7 +157088,7 @@ I_events_0 = [
 "part_person": [
 1907
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -157082,7 +157139,7 @@ I_events_0 = [
 "part_person": [
 1908
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -157105,7 +157162,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8453
+8451
 ],
 "date": "1777-04-12",
 "date_sdn": 2370198,
@@ -157116,7 +157173,7 @@ I_events_0 = [
 "part_person": [
 1909
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -157133,7 +157190,7 @@ I_events_0 = [
 "part_person": [
 1909
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -157151,7 +157208,7 @@ I_events_0 = [
 "part_person": [
 1909
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -157168,7 +157225,7 @@ I_events_0 = [
 "part_person": [
 1909
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -157191,7 +157248,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8431
+8429
 ],
 "date": "noin 1680",
 "date_sdn": 2334668,
@@ -157242,13 +157299,13 @@ I_events_0 = [
 "part_person": [
 1910
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8431
+8429
 ],
 "date": "1764-10-18",
 "date_sdn": 2365639,
@@ -157259,7 +157316,7 @@ I_events_0 = [
 "part_person": [
 1910
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -157293,7 +157350,7 @@ I_events_0 = [
 "part_person": [
 1911
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -157420,7 +157477,7 @@ I_events_0 = [
 "part_person": [
 1912
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -157439,7 +157496,7 @@ I_events_0 = [
 "part_person": [
 1912
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -157456,7 +157513,7 @@ I_events_0 = [
 "part_person": [
 1912
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -157479,7 +157536,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8491
+8489
 ],
 "date": "1779-12-26",
 "date_sdn": 2371186,
@@ -157490,7 +157547,7 @@ I_events_0 = [
 "part_person": [
 1913
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -157508,7 +157565,7 @@ I_events_0 = [
 "part_person": [
 1913
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -157525,7 +157582,7 @@ I_events_0 = [
 "part_person": [
 1913
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -157542,7 +157599,7 @@ I_events_0 = [
 "part_person": [
 1913
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -157576,7 +157633,7 @@ I_events_0 = [
 "part_person": [
 1914
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -157594,7 +157651,7 @@ I_events_0 = [
 "part_person": [
 1914
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -157810,7 +157867,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1742",
 "date_sdn": 2357313,
@@ -158001,7 +158058,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8407
+8405
 ],
 "date": "1775-03-01",
 "date_sdn": 2369425,
@@ -158035,7 +158092,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8376
+8374
 ],
 "date": "noin 1707",
 "date_sdn": 2344529,
@@ -158087,7 +158144,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8376
+8374
 ],
 "date": "1755-02-10",
 "date_sdn": 2362101,
@@ -158350,7 +158407,7 @@ I_events_0 = [
 "part_person": [
 1923
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -158612,7 +158669,7 @@ I_events_0 = [
 "part_person": [
 1926
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -158631,7 +158688,7 @@ I_events_0 = [
 "part_person": [
 1926
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -158648,7 +158705,7 @@ I_events_0 = [
 "part_person": [
 1926
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -158665,7 +158722,7 @@ I_events_0 = [
 "part_person": [
 1926
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Kuolema"
 },
@@ -158688,7 +158745,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8510
+8508
 ],
 "date": "1782-10-28",
 "date_sdn": 2372223,
@@ -158734,7 +158791,7 @@ I_events_0 = [
 "part_person": [
 1927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -158751,7 +158808,7 @@ I_events_0 = [
 "part_person": [
 1927
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -158774,7 +158831,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8416
+8414
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -158842,7 +158899,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8416
+8414
 ],
 "date": "1760-12-19",
 "date_sdn": 2364240,
@@ -158877,7 +158934,7 @@ I_events_0 = [
 {
 "cita": [
 3359,
-8370
+8368
 ],
 "date": "noin 1680",
 "date_sdn": 2334668,
@@ -158928,7 +158985,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8370
+8368
 ],
 "date": "1754-02-26",
 "date_sdn": 2361752,
@@ -158962,7 +159019,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8384
+8382
 ],
 "date": "noin 1705",
 "date_sdn": 2343799,
@@ -159030,7 +159087,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8384
+8382
 ],
 "date": "1756-03-21",
 "date_sdn": 2362506,
@@ -159443,7 +159500,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8476
+8474
 ],
 "date": "1770-01-16",
 "date_sdn": 2367555,
@@ -159477,7 +159534,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8556
+8554
 ],
 "date": "1788-06-17",
 "date_sdn": 2374282,
@@ -159808,7 +159865,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8457
+8455
 ],
 "date": "noin 1718",
 "date_sdn": 2348547,
@@ -159844,7 +159901,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8457
+8455
 ],
 "date": "1780-03-07",
 "date_sdn": 2371258,
@@ -160053,7 +160110,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8472
+8470
 ],
 "date": "1749 - 1781",
 "date_sdn": 2359870,
@@ -160070,7 +160127,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8472
+8470
 ],
 "date": "1781-05-22",
 "date_sdn": 2371699,
@@ -160157,7 +160214,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8363
+8361
 ],
 "date": "1797-06-04",
 "date_sdn": 2377556,
@@ -160726,7 +160783,7 @@ I_events_0 = [
 {
 "cita": [
 3467,
-8409
+8407
 ],
 "date": "noin 1711",
 "date_sdn": 2345990,
@@ -160782,7 +160839,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8409
+8407
 ],
 "date": "1759-05-10",
 "date_sdn": 2363651,
@@ -160816,7 +160873,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8564
+8562
 ],
 "date": "1769-04-06",
 "date_sdn": 2367270,
@@ -160974,7 +161031,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8546
+8544
 ],
 "date": "1791-07-06",
 "date_sdn": 2375396,
@@ -161064,7 +161121,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8456
+8454
 ],
 "date": "1768-04-04",
 "date_sdn": 2366903,
@@ -161147,7 +161204,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8360
+8358
 ],
 "date": "1791-11-28",
 "date_sdn": 2375541,
@@ -161284,13 +161341,13 @@ I_events_0 = [
 "part_person": [
 1958
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8549
+8547
 ],
 "date": "1793-05-13",
 "date_sdn": 2376073,
@@ -161301,7 +161358,7 @@ I_events_0 = [
 "part_person": [
 1958
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -162335,7 +162392,7 @@ I_events_0 = [
 "part_person": [
 1972
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -162352,7 +162409,7 @@ I_events_0 = [
 "part_person": [
 1972
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -162369,7 +162426,7 @@ I_events_0 = [
 "part_person": [
 1972
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -162988,7 +163045,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8218
+8216
 ],
 "date": "1629 - 1630",
 "date_sdn": 2316041,
@@ -163281,7 +163338,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8483
+8481
 ],
 "date": "noin 1717",
 "date_sdn": 2348182,
@@ -163302,8 +163359,8 @@ I_events_0 = [
 3412,
 6223,
 6929,
-8429,
-8483
+8427,
+8481
 ],
 "date": "1745 - 1755",
 "date_sdn": 2358409,
@@ -163320,7 +163377,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8483
+8481
 ],
 "date": "1770-09-18",
 "date_sdn": 2367800,
@@ -163805,7 +163862,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8668
+8666
 ],
 "date": "noin 1624",
 "date_sdn": 2314214,
@@ -163855,7 +163912,7 @@ I_events_0 = [
 {
 "cita": [
 3607,
-7866
+7864
 ],
 "date": "1656 - 1687",
 "date_sdn": 2325902,
@@ -163873,7 +163930,7 @@ I_events_0 = [
 {
 "cita": [
 4281,
-7866
+7864
 ],
 "date": "1687 - 1697",
 "date_sdn": 2337225,
@@ -163909,7 +163966,7 @@ I_events_0 = [
 {
 "cita": [
 6034,
-8665
+8663
 ],
 "date": "1697-06-06",
 "date_sdn": 2341034,
@@ -164089,7 +164146,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8149
+8147
 ],
 "date": "1724",
 "date_sdn": 2350738,
@@ -164600,7 +164657,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8513
+8511
 ],
 "date": "1787-02-03",
 "date_sdn": 2373782,
@@ -165087,7 +165144,7 @@ I_events_0 = [
 5664,
 6029,
 7194,
-8384
+8382
 ],
 "date": "1724 - 1756",
 "date_sdn": 2350738,
@@ -165104,7 +165161,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8384
+8382
 ],
 "date": "1756-01-20",
 "date_sdn": 2362445,
@@ -165191,7 +165248,7 @@ I_events_0 = [
 {
 "cita": [
 2924,
-8432
+8430
 ],
 "date": "1754 - 1771",
 "date_sdn": 2361696,
@@ -165225,7 +165282,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8531
+8529
 ],
 "date": "1790-03-25",
 "date_sdn": 2374928,
@@ -165378,7 +165435,7 @@ I_events_0 = [
 {
 "cita": [
 4594,
-8616
+8614
 ],
 "date": "1581 - 1597",
 "date_sdn": 2298509,
@@ -165446,7 +165503,7 @@ I_events_0 = [
 "cita": [
 6135,
 6138,
-8609
+8607
 ],
 "date": "1691 - 1712",
 "date_sdn": 2338686,
@@ -165515,7 +165572,7 @@ I_events_0 = [
 4591,
 4888,
 5504,
-8616
+8614
 ],
 "date": "1626 - 1639",
 "date_sdn": 2314945,
@@ -165564,7 +165621,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8616
+8614
 ],
 "date": "1507",
 "date_sdn": 2271480,
@@ -165614,7 +165671,7 @@ I_events_0 = [
 {
 "cita": [
 4595,
-8616
+8614
 ],
 "date": "1600 - 1618",
 "date_sdn": 2305448,
@@ -165663,7 +165720,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8616
+8614
 ],
 "date": "1470",
 "date_sdn": 2257967,
@@ -165715,7 +165772,7 @@ I_events_0 = [
 4592,
 4593,
 4594,
-8616
+8614
 ],
 "date": "1554 - 1580",
 "date_sdn": 2288647,
@@ -165749,7 +165806,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7875
+7873
 ],
 "date": "1621",
 "date_sdn": 2313119,
@@ -165786,7 +165843,7 @@ I_events_0 = [
 4888,
 4889,
 4890,
-8616
+8614
 ],
 "date": "1644 - 1676",
 "date_sdn": 2321519,
@@ -166336,7 +166393,7 @@ I_events_0 = [
 "part_person": [
 2017
 ],
-"place": 1281,
+"place": 1282,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -167018,7 +167075,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8094
+8092
 ],
 "date": "1589",
 "date_sdn": 2301431,
@@ -167157,8 +167214,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8164,
-8167
+8162,
+8165
 ],
 "date": "1889 - 1907",
 "date_sdn": 2411004,
@@ -167175,7 +167232,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8167
+8165
 ],
 "date": "1907-12-11",
 "date_sdn": 2417921,
@@ -167211,7 +167268,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1924 - 1946",
 "date_sdn": 2423786,
@@ -167228,7 +167285,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1946 - 1947",
 "date_sdn": 2431822,
@@ -167245,7 +167302,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1947 - 2018",
 "date_sdn": 2432187,
@@ -167387,7 +167444,7 @@ I_events_0 = [
 {
 "cita": [
 40,
-8174
+8172
 ],
 "date": "1885-11-14",
 "date_sdn": 2409860,
@@ -167421,8 +167478,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8162,
-8166
+8160,
+8164
 ],
 "date": "1889 - 1907",
 "date_sdn": 2411004,
@@ -167457,8 +167514,8 @@ I_events_0 = [
 {
 "cita": [
 5009,
-8167,
-8228
+8165,
+8226
 ],
 "date": "1907 - 1967",
 "date_sdn": 2417577,
@@ -167652,7 +167709,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8277
+8275
 ],
 "date": "1797-03-25",
 "date_sdn": 2377485,
@@ -167917,13 +167974,13 @@ I_events_0 = [
 "part_person": [
 2031
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8560
+8558
 ],
 "date": "1794-09-16",
 "date_sdn": 2376564,
@@ -167934,7 +167991,7 @@ I_events_0 = [
 "part_person": [
 2031
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -168161,7 +168218,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8384
+8382
 ],
 "date": "noin 1718",
 "date_sdn": 2348547,
@@ -168195,7 +168252,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8384
+8382
 ],
 "date": "1756-04-06",
 "date_sdn": 2362522,
@@ -168298,7 +168355,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8397
+8395
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -168352,7 +168409,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8397
+8395
 ],
 "date": "1774",
 "date_sdn": 2369001,
@@ -168369,7 +168426,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8397
+8395
 ],
 "date": "1774",
 "date_sdn": 2369001,
@@ -168510,7 +168567,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8481
+8479
 ],
 "date": "1770-05-27",
 "date_sdn": 2367686,
@@ -169803,7 +169860,7 @@ I_events_0 = [
 "part_person": [
 2056
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -169822,7 +169879,7 @@ I_events_0 = [
 "part_person": [
 2056
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -169839,7 +169896,7 @@ I_events_0 = [
 "part_person": [
 2056
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 }
@@ -170005,7 +170062,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8431
+8429
 ],
 "date": "1764-06-22",
 "date_sdn": 2365521,
@@ -170188,7 +170245,7 @@ I_events_0 = [
 "part_person": [
 2060
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -170292,7 +170349,7 @@ I_events_0 = [
 "part_person": [
 2061
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -170328,7 +170385,7 @@ I_events_0 = [
 "part_person": [
 2061
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -170349,7 +170406,7 @@ I_events_0 = [
 "part_person": [
 2061
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -170366,7 +170423,7 @@ I_events_0 = [
 "part_person": [
 2061
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -170432,7 +170489,7 @@ I_events_0 = [
 "part_person": [
 2062
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -170490,7 +170547,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8468
+8466
 ],
 "date": "1781-03-25",
 "date_sdn": 2371641,
@@ -170611,7 +170668,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8349
+8347
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -170681,7 +170738,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8349
+8347
 ],
 "date": "1771-02-21",
 "date_sdn": 2367956,
@@ -170747,7 +170804,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8420
+8418
 ],
 "date": "1754-10-20",
 "date_sdn": 2361988,
@@ -170835,7 +170892,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8501
+8499
 ],
 "date": "1781-09-22",
 "date_sdn": 2371822,
@@ -170899,7 +170956,7 @@ I_events_0 = [
 "part_person": [
 2067
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -171342,7 +171399,7 @@ I_events_0 = [
 2412,
 2425,
 6620,
-8075
+8073
 ],
 "date": "1789 - 1831",
 "date_sdn": 2374480,
@@ -172205,7 +172262,7 @@ I_events_0 = [
 "part_person": [
 2083
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -172222,7 +172279,7 @@ I_events_0 = [
 "part_person": [
 2083
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Kuolema"
 },
@@ -172800,7 +172857,7 @@ I_events_0 = [
 "part_person": [
 2089
 ],
-"place": 1256,
+"place": 1257,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -172944,7 +173001,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8171
+8169
 ],
 "date": "1895-07-15",
 "date_sdn": 2413390,
@@ -172961,7 +173018,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8163
+8161
 ],
 "date": "1911",
 "date_sdn": 2419038,
@@ -172978,9 +173035,9 @@ I_events_0 = [
 },
 {
 "cita": [
-8061,
-8223,
-8224
+8059,
+8221,
+8222
 ],
 "date": "1913-11-07",
 "date_sdn": 2420079,
@@ -173730,7 +173787,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8416
+8414
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -173781,7 +173838,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8416
+8414
 ],
 "date": "1760-01-26",
 "date_sdn": 2363912,
@@ -174001,7 +174058,7 @@ I_events_0 = [
 "part_person": [
 2101
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -174018,7 +174075,7 @@ I_events_0 = [
 "part_person": [
 2101
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -174035,7 +174092,7 @@ I_events_0 = [
 "part_person": [
 2101
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -174142,7 +174199,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1756-11-14",
 "date_sdn": 2362744,
@@ -174176,7 +174233,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8398
+8396
 ],
 "date": "1774-04-06",
 "date_sdn": 2369096,
@@ -174337,7 +174394,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8546
+8544
 ],
 "date": "1791-10-04",
 "date_sdn": 2375486,
@@ -174444,7 +174501,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8553
+8551
 ],
 "date": "1751-09-26",
 "date_sdn": 2360868,
@@ -174531,7 +174588,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8532
+8530
 ],
 "date": "1764-03-08",
 "date_sdn": 2365415,
@@ -174569,7 +174626,7 @@ I_events_0 = [
 2412,
 2425,
 6620,
-8075
+8073
 ],
 "date": "1789 - 1833",
 "date_sdn": 2374480,
@@ -174654,7 +174711,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939 ja 1944 v\u00e4lill\u00e4",
 "date_sdn": 2429265,
@@ -174671,7 +174728,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1958",
 "date_sdn": 2436205,
@@ -174688,7 +174745,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1965",
 "date_sdn": 2438762,
@@ -174722,7 +174779,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8418
+8416
 ],
 "date": "noin 1717",
 "date_sdn": 2348182,
@@ -174761,7 +174818,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-07-05",
 "date_sdn": 2364438,
@@ -174866,7 +174923,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8365
+8363
 ],
 "date": "1792-11-29",
 "date_sdn": 2375908,
@@ -174912,7 +174969,7 @@ I_events_0 = [
 "part_person": [
 2112
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -174929,7 +174986,7 @@ I_events_0 = [
 "part_person": [
 2112
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -174946,7 +175003,7 @@ I_events_0 = [
 "part_person": [
 2112
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -174963,7 +175020,7 @@ I_events_0 = [
 "part_person": [
 2112
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -174980,7 +175037,7 @@ I_events_0 = [
 "part_person": [
 2112
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -175031,7 +175088,7 @@ I_events_0 = [
 "part_person": [
 2113
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -175117,7 +175174,7 @@ I_events_0 = [
 "part_person": [
 2114
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -175136,13 +175193,13 @@ I_events_0 = [
 "part_person": [
 2114
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8516
+8514
 ],
 "date": "1788-01-06",
 "date_sdn": 2374119,
@@ -175153,7 +175210,7 @@ I_events_0 = [
 "part_person": [
 2114
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -175176,7 +175233,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8514
+8512
 ],
 "date": "noin 1714",
 "date_sdn": 2347086,
@@ -175233,7 +175290,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8514
+8512
 ],
 "date": "1787-08-17",
 "date_sdn": 2373977,
@@ -175427,7 +175484,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8447
+8445
 ],
 "date": "1767-04-22",
 "date_sdn": 2366555,
@@ -175530,7 +175587,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8436
+8434
 ],
 "date": "1778-02-07",
 "date_sdn": 2370499,
@@ -176410,7 +176467,7 @@ I_events_0 = [
 "part_person": [
 2129
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -176498,7 +176555,7 @@ I_events_0 = [
 "part_person": [
 2130
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -177220,7 +177277,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8405
+8403
 ],
 "date": "noin 1698",
 "date_sdn": 2341243,
@@ -177277,7 +177334,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-07-01",
 "date_sdn": 2360416,
@@ -177467,7 +177524,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8458
+8456
 ],
 "date": "1777-11-13",
 "date_sdn": 2370413,
@@ -177608,7 +177665,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8538
+8536
 ],
 "date": "1790-09-07",
 "date_sdn": 2375094,
@@ -177676,7 +177733,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1742",
 "date_sdn": 2357313,
@@ -177710,7 +177767,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8389
+8387
 ],
 "date": "1756-08-30",
 "date_sdn": 2362668,
@@ -177848,7 +177905,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7803
+7801
 ],
 "date": "1937 j\u00e4lkeen",
 "date_sdn": 2428535,
@@ -177865,7 +177922,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7803
+7801
 ],
 "date": "1947 - 1950",
 "date_sdn": 2432187,
@@ -177882,7 +177939,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7803
+7801
 ],
 "date": "1950 - 1951",
 "date_sdn": 2433283,
@@ -177900,8 +177957,8 @@ I_events_0 = [
 {
 "cita": [
 96,
-7785,
-7803
+7784,
+7801
 ],
 "date": "1952 - 2005",
 "date_sdn": 2434013,
@@ -177919,7 +177976,7 @@ I_events_0 = [
 {
 "cita": [
 95,
-7803
+7801
 ],
 "date": "2005-03-17",
 "date_sdn": 2453447,
@@ -177953,7 +178010,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8543
+8541
 ],
 "date": "1765-01-22",
 "date_sdn": 2365735,
@@ -178713,7 +178770,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8561
+8559
 ],
 "date": "1768-08-30",
 "date_sdn": 2367051,
@@ -178936,7 +178993,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8467
+8465
 ],
 "date": "1778-02-20",
 "date_sdn": 2370512,
@@ -179162,7 +179219,7 @@ I_events_0 = [
 "cita": [
 4328,
 5399,
-8401
+8399
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -179221,7 +179278,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8401
+8399
 ],
 "date": "1775-02-14",
 "date_sdn": 2369410,
@@ -179378,7 +179435,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8519
+8517
 ],
 "date": "1772-01-21",
 "date_sdn": 2368290,
@@ -179524,7 +179581,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8439
+8437
 ],
 "date": "noin 1702",
 "date_sdn": 2342703,
@@ -179577,7 +179634,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8439
+8437
 ],
 "date": "1765-09-20",
 "date_sdn": 2365976,
@@ -179628,9 +179685,9 @@ I_events_0 = [
 },
 {
 "cita": [
-7803,
-8582,
-8583
+7801,
+8580,
+8581
 ],
 "date": "1944 - 1973",
 "date_sdn": 2431091,
@@ -179647,7 +179704,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8583
+8581
 ],
 "date": "1973-11-02",
 "date_sdn": 2441989,
@@ -180629,7 +180686,7 @@ I_events_0 = [
 "part_person": [
 2176
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -180646,7 +180703,7 @@ I_events_0 = [
 "part_person": [
 2176
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -180890,7 +180947,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8360
+8358
 ],
 "date": "1791-11-21",
 "date_sdn": 2375534,
@@ -180970,7 +181027,7 @@ I_events_0 = [
 "part_person": [
 2180
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -181044,7 +181101,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8412
+8410
 ],
 "date": "1754-04-26",
 "date_sdn": 2361811,
@@ -181055,7 +181112,7 @@ I_events_0 = [
 "part_person": [
 2181
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -181074,7 +181131,7 @@ I_events_0 = [
 "part_person": [
 2181
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -181145,7 +181202,7 @@ I_events_0 = [
 "part_person": [
 2182
 ],
-"place": 1305,
+"place": 1306,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -181177,7 +181234,7 @@ I_events_0 = [
 "part_person": [
 2182
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -181198,13 +181255,13 @@ I_events_0 = [
 "part_person": [
 2182
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8397
+8395
 ],
 "date": "1774-10-20",
 "date_sdn": 2369293,
@@ -181215,7 +181272,7 @@ I_events_0 = [
 "part_person": [
 2182
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -181239,7 +181296,7 @@ I_events_0 = [
 {
 "cita": [
 2809,
-8524
+8522
 ],
 "date": "noin 1732",
 "date_sdn": 2353660,
@@ -181294,7 +181351,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8524
+8522
 ],
 "date": "1788-05-01",
 "date_sdn": 2374235,
@@ -181328,7 +181385,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8418
+8416
 ],
 "date": "noin 1693",
 "date_sdn": 2339417,
@@ -181366,7 +181423,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-03-08",
 "date_sdn": 2364319,
@@ -181415,8 +181472,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7975,
-8007
+7973,
+8005
 ],
 "date": "noin 1485",
 "date_sdn": 2263446,
@@ -181484,7 +181541,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7849
+7847
 ],
 "date": "noin 1600",
 "date_sdn": 2305448,
@@ -181501,7 +181558,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7849
+7847
 ],
 "date": "noin 1611",
 "date_sdn": 2309466,
@@ -181520,7 +181577,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7849
+7847
 ],
 "date": "noin 1590",
 "date_sdn": 2301796,
@@ -181556,7 +181613,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7849
+7847
 ],
 "date": "1624 - 1649",
 "date_sdn": 2314214,
@@ -181573,7 +181630,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7849
+7847
 ],
 "date": "1654",
 "date_sdn": 2325172,
@@ -181592,7 +181649,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7849
+7847
 ],
 "date": "arviolta 1630",
 "date_sdn": 2316406,
@@ -181648,7 +181705,7 @@ I_events_0 = [
 {
 "cita": [
 3293,
-7849
+7847
 ],
 "date": "1712 ja 1730 v\u00e4lill\u00e4",
 "date_sdn": 2346355,
@@ -182077,7 +182134,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8418
+8416
 ],
 "date": "noin 1711",
 "date_sdn": 2345990,
@@ -182113,7 +182170,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-06-04",
 "date_sdn": 2364407,
@@ -182190,13 +182247,13 @@ I_events_0 = [
 "part_person": [
 2195
 ],
-"place": 1271,
+"place": 1272,
 "text": "",
 "type": "Syntym\u00e4"
 },
 {
 "cita": [
-8007
+8005
 ],
 "date": "noin 1430",
 "date_sdn": 2243357,
@@ -182213,7 +182270,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1436",
 "date_sdn": 2245548,
@@ -182224,13 +182281,13 @@ I_events_0 = [
 "part_person": [
 2195
 ],
-"place": 1271,
+"place": 1272,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1437",
 "date_sdn": 2245914,
@@ -182247,7 +182304,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1438-02",
 "date_sdn": 2246310,
@@ -182266,7 +182323,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8007
+8005
 ],
 "date": "arviolta 1485",
 "date_sdn": 2263446,
@@ -182283,7 +182340,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1525-04-01",
 "date_sdn": 2278145,
@@ -182300,7 +182357,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1525-04-01",
 "date_sdn": 2278145,
@@ -182317,7 +182374,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7975
+7973
 ],
 "date": "1527 - 1529",
 "date_sdn": 2278785,
@@ -182334,7 +182391,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7976
+7974
 ],
 "date": "1535",
 "date_sdn": 2281707,
@@ -182351,7 +182408,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7976
+7974
 ],
 "date": "noin 1550",
 "date_sdn": 2287186,
@@ -182495,7 +182552,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8482
+8480
 ],
 "date": "1782-11-07",
 "date_sdn": 2372233,
@@ -182631,7 +182688,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8376
+8374
 ],
 "date": "noin 1673",
 "date_sdn": 2332112,
@@ -182683,7 +182740,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8376
+8374
 ],
 "date": "1755-02-13",
 "date_sdn": 2362104,
@@ -182717,7 +182774,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8446
+8444
 ],
 "date": "noin 1711",
 "date_sdn": 2345990,
@@ -182740,7 +182797,7 @@ I_events_0 = [
 6226,
 6930,
 6981,
-8446
+8444
 ],
 "date": "1745 - 1779",
 "date_sdn": 2358409,
@@ -182757,7 +182814,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8446
+8444
 ],
 "date": "1779-03-22",
 "date_sdn": 2370907,
@@ -182841,7 +182898,7 @@ I_events_0 = [
 {
 "cita": [
 5447,
-8422
+8420
 ],
 "date": "1760 - 1763",
 "date_sdn": 2363887,
@@ -182945,7 +183002,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8370
+8368
 ],
 "date": "noin 1713",
 "date_sdn": 2346721,
@@ -182990,7 +183047,7 @@ I_events_0 = [
 "part_person": [
 2204
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -183014,7 +183071,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8370
+8368
 ],
 "date": "1754-09-25",
 "date_sdn": 2361963,
@@ -183098,7 +183155,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8478
+8476
 ],
 "date": "noin 1703",
 "date_sdn": 2343068,
@@ -183135,7 +183192,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8478
+8476
 ],
 "date": "1770-02-03",
 "date_sdn": 2367573,
@@ -183320,7 +183377,7 @@ I_events_0 = [
 "part_person": [
 2208
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -183337,7 +183394,7 @@ I_events_0 = [
 "part_person": [
 2208
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -183886,8 +183943,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7868,
-8672
+7866,
+8670
 ],
 "date": "1637 - 1678",
 "date_sdn": 2318963,
@@ -183919,7 +183976,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8672
+8670
 ],
 "date": "1645 - 1678-01-13",
 "date_sdn": 2321885,
@@ -183936,7 +183993,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8688
+8686
 ],
 "date": "1656",
 "date_sdn": 2325902,
@@ -183973,7 +184030,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8672
+8670
 ],
 "date": "1679",
 "date_sdn": 2334303,
@@ -184069,7 +184126,7 @@ I_events_0 = [
 "part_person": [
 2216
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184088,7 +184145,7 @@ I_events_0 = [
 "part_person": [
 2216
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -184124,7 +184181,7 @@ I_events_0 = [
 "part_person": [
 2216
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -184145,7 +184202,7 @@ I_events_0 = [
 "part_person": [
 2216
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184162,7 +184219,7 @@ I_events_0 = [
 "part_person": [
 2216
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184284,7 +184341,7 @@ I_events_0 = [
 "part_person": [
 2218
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184317,7 +184374,7 @@ I_events_0 = [
 "part_person": [
 2218
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -184337,7 +184394,7 @@ I_events_0 = [
 "part_person": [
 2218
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184354,7 +184411,7 @@ I_events_0 = [
 "part_person": [
 2218
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184406,7 +184463,7 @@ I_events_0 = [
 "part_person": [
 2219
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184423,7 +184480,7 @@ I_events_0 = [
 "part_person": [
 2219
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184457,7 +184514,7 @@ I_events_0 = [
 "part_person": [
 2220
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184475,7 +184532,7 @@ I_events_0 = [
 "part_person": [
 2220
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184492,7 +184549,7 @@ I_events_0 = [
 "part_person": [
 2220
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184515,7 +184572,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8426
+8424
 ],
 "date": "1775-10-22",
 "date_sdn": 2369660,
@@ -184526,7 +184583,7 @@ I_events_0 = [
 "part_person": [
 2221
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184543,7 +184600,7 @@ I_events_0 = [
 "part_person": [
 2221
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -184562,7 +184619,7 @@ I_events_0 = [
 "part_person": [
 2221
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184579,7 +184636,7 @@ I_events_0 = [
 "part_person": [
 2221
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184602,7 +184659,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8361
+8359
 ],
 "date": "1792-01-22",
 "date_sdn": 2375596,
@@ -184613,7 +184670,7 @@ I_events_0 = [
 "part_person": [
 2222
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184632,7 +184689,7 @@ I_events_0 = [
 "part_person": [
 2222
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184649,7 +184706,7 @@ I_events_0 = [
 "part_person": [
 2222
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184822,7 +184879,7 @@ I_events_0 = [
 "part_person": [
 2224
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184839,7 +184896,7 @@ I_events_0 = [
 "part_person": [
 2224
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184873,7 +184930,7 @@ I_events_0 = [
 "part_person": [
 2225
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184905,7 +184962,7 @@ I_events_0 = [
 "part_person": [
 2225
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -184925,7 +184982,7 @@ I_events_0 = [
 "part_person": [
 2225
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -184942,7 +184999,7 @@ I_events_0 = [
 "part_person": [
 2225
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -184976,7 +185033,7 @@ I_events_0 = [
 "part_person": [
 2226
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -184994,7 +185051,7 @@ I_events_0 = [
 "part_person": [
 2226
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -185014,7 +185071,7 @@ I_events_0 = [
 "part_person": [
 2226
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -185031,7 +185088,7 @@ I_events_0 = [
 "part_person": [
 2226
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -185054,7 +185111,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8449
+8447
 ],
 "date": "noin 1707",
 "date_sdn": 2344529,
@@ -185082,7 +185139,7 @@ I_events_0 = [
 "part_person": [
 2227
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -185100,7 +185157,7 @@ I_events_0 = [
 "part_person": [
 2227
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -185117,13 +185174,13 @@ I_events_0 = [
 "part_person": [
 2227
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8449
+8447
 ],
 "date": "1779-11-08",
 "date_sdn": 2371138,
@@ -185134,7 +185191,7 @@ I_events_0 = [
 "part_person": [
 2227
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -185168,7 +185225,7 @@ I_events_0 = [
 "part_person": [
 2228
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -185185,7 +185242,7 @@ I_events_0 = [
 "part_person": [
 2228
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -185203,7 +185260,7 @@ I_events_0 = [
 "part_person": [
 2228
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -185220,7 +185277,7 @@ I_events_0 = [
 "part_person": [
 2228
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -185254,7 +185311,7 @@ I_events_0 = [
 "part_person": [
 2229
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -185271,7 +185328,7 @@ I_events_0 = [
 "part_person": [
 2229
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -185288,7 +185345,7 @@ I_events_0 = [
 "part_person": [
 2229
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -185311,7 +185368,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8457
+8455
 ],
 "date": "noin 1705",
 "date_sdn": 2343799,
@@ -185348,13 +185405,13 @@ I_events_0 = [
 "part_person": [
 2230
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8457
+8455
 ],
 "date": "1780-05-30",
 "date_sdn": 2371342,
@@ -185365,7 +185422,7 @@ I_events_0 = [
 "part_person": [
 2230
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -186077,7 +186134,7 @@ I_events_0 = [
 "part_person": [
 2239
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -186098,7 +186155,7 @@ I_events_0 = [
 "part_person": [
 2239
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -186115,7 +186172,7 @@ I_events_0 = [
 "part_person": [
 2239
 ],
-"place": 1265,
+"place": 1266,
 "text": "",
 "type": "Kuolema"
 },
@@ -187411,7 +187468,7 @@ I_events_0 = [
 "part_person": [
 2254
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -188093,7 +188150,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1958",
 "date_sdn": 2436205,
@@ -188110,7 +188167,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1965",
 "date_sdn": 2438762,
@@ -188145,7 +188202,7 @@ I_events_0 = [
 {
 "cita": [
 3782,
-8302
+8300
 ],
 "date": "1918-06-28",
 "date_sdn": 2421773,
@@ -188162,7 +188219,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1946 - 1960",
 "date_sdn": 2431822,
@@ -188179,8 +188236,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8584
+7784,
+8582
 ],
 "date": "1961 - 2000",
 "date_sdn": 2437301,
@@ -188969,7 +189026,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8517
+8515
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -189022,7 +189079,7 @@ I_events_0 = [
 {
 "cita": [
 2552,
-8517
+8515
 ],
 "date": "1763 - 1772",
 "date_sdn": 2364983,
@@ -189039,7 +189096,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8517
+8515
 ],
 "date": "1772-12-31",
 "date_sdn": 2368635,
@@ -189264,7 +189321,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8489
+8487
 ],
 "date": "1750-04-09",
 "date_sdn": 2360333,
@@ -189312,13 +189369,13 @@ I_events_0 = [
 "part_person": [
 2278
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8364
+8362
 ],
 "date": "1798-01-24",
 "date_sdn": 2377790,
@@ -189329,7 +189386,7 @@ I_events_0 = [
 "part_person": [
 2278
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -189492,7 +189549,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8481
+8479
 ],
 "date": "1770-06-11",
 "date_sdn": 2367701,
@@ -189991,7 +190048,7 @@ I_events_0 = [
 "cita": [
 3794,
 3856,
-8427
+8425
 ],
 "date": "1892 - 1912",
 "date_sdn": 2412099,
@@ -190009,7 +190066,7 @@ I_events_0 = [
 {
 "cita": [
 3794,
-8427
+8425
 ],
 "date": "1908-06-08",
 "date_sdn": 2418101,
@@ -190027,8 +190084,8 @@ I_events_0 = [
 {
 "cita": [
 3856,
-8157,
-8222
+8155,
+8220
 ],
 "date": "1912-08-26",
 "date_sdn": 2419641,
@@ -192223,7 +192280,7 @@ I_events_0 = [
 "part_person": [
 2311
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -192241,7 +192298,7 @@ I_events_0 = [
 "part_person": [
 2311
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -192258,7 +192315,7 @@ I_events_0 = [
 "part_person": [
 2311
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Kuolema"
 },
@@ -192864,7 +192921,7 @@ I_events_0 = [
 "cita": [
 5214,
 5824,
-8613
+8611
 ],
 "date": "1735 - 1760",
 "date_sdn": 2354756,
@@ -192915,7 +192972,7 @@ I_events_0 = [
 [
 {
 "cita": [
-7879
+7877
 ],
 "date": "noin 1680",
 "date_sdn": 2334668,
@@ -192933,7 +192990,7 @@ I_events_0 = [
 {
 "cita": [
 5514,
-8614
+8612
 ],
 "date": "1711 - 1712",
 "date_sdn": 2345990,
@@ -192967,7 +193024,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8614
+8612
 ],
 "date": "1722",
 "date_sdn": 2350008,
@@ -193741,7 +193798,7 @@ I_events_0 = [
 "part_person": [
 2327
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -193758,7 +193815,7 @@ I_events_0 = [
 "part_person": [
 2327
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Kuolema"
 },
@@ -193811,7 +193868,7 @@ I_events_0 = [
 "part_person": [
 2328
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -193828,7 +193885,7 @@ I_events_0 = [
 "part_person": [
 2328
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -193947,7 +194004,7 @@ I_events_0 = [
 "part_person": [
 2329
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -193964,7 +194021,7 @@ I_events_0 = [
 "part_person": [
 2329
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 }
@@ -194060,7 +194117,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8431
+8429
 ],
 "date": "noin 1694",
 "date_sdn": 2339782,
@@ -194113,7 +194170,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8431
+8429
 ],
 "date": "1764-09-09",
 "date_sdn": 2365600,
@@ -194176,7 +194233,7 @@ I_events_0 = [
 "part_person": [
 2332
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -194687,7 +194744,7 @@ I_events_0 = [
 {
 "cita": [
 2676,
-8405
+8403
 ],
 "date": "noin 1670",
 "date_sdn": 2331016,
@@ -194727,7 +194784,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8405
+8403
 ],
 "date": "1750-02-04",
 "date_sdn": 2360269,
@@ -194828,7 +194885,7 @@ I_events_0 = [
 {
 "cita": [
 7341,
-8404
+8402
 ],
 "date": "noin 1718",
 "date_sdn": 2348547,
@@ -194883,7 +194940,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8404
+8402
 ],
 "date": "1771-04-28",
 "date_sdn": 2368022,
@@ -194917,7 +194974,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8556
+8554
 ],
 "date": "1788-07-07",
 "date_sdn": 2374302,
@@ -195200,7 +195257,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8417
+8415
 ],
 "date": "1776-06-04",
 "date_sdn": 2369886,
@@ -195430,7 +195487,7 @@ I_events_0 = [
 3838,
 6831,
 7407,
-8386
+8384
 ],
 "date": "1886 - 1906",
 "date_sdn": 2409908,
@@ -195475,7 +195532,7 @@ I_events_0 = [
 "part_person": [
 2345
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -195492,7 +195549,7 @@ I_events_0 = [
 "part_person": [
 2345
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -195515,7 +195572,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8504
+8502
 ],
 "date": "1771-12-22",
 "date_sdn": 2368260,
@@ -195644,7 +195701,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8514
+8512
 ],
 "date": "1787-08-29",
 "date_sdn": 2373989,
@@ -195858,7 +195915,7 @@ I_events_0 = [
 "part_person": [
 2350
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -195875,7 +195932,7 @@ I_events_0 = [
 "part_person": [
 2350
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -195892,7 +195949,7 @@ I_events_0 = [
 "part_person": [
 2350
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -195915,7 +195972,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8477
+8475
 ],
 "date": "noin 1719",
 "date_sdn": 2348912,
@@ -196002,7 +196059,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8477
+8475
 ],
 "date": "1782-04-26",
 "date_sdn": 2372038,
@@ -196102,7 +196159,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8388
+8386
 ],
 "date": "1773-12-29",
 "date_sdn": 2368998,
@@ -196191,7 +196248,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8457
+8455
 ],
 "date": "1780-02-23",
 "date_sdn": 2371245,
@@ -196287,7 +196344,7 @@ I_events_0 = [
 "part_person": [
 2355
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -196313,7 +196370,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8508
+8506
 ],
 "date": "1785-05-12",
 "date_sdn": 2373150,
@@ -196868,7 +196925,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8457
+8455
 ],
 "date": "1780-04-23",
 "date_sdn": 2371305,
@@ -197047,7 +197104,7 @@ I_events_0 = [
 {
 "cita": [
 6838,
-8475
+8473
 ],
 "date": "noin 1701",
 "date_sdn": 2342338,
@@ -197155,7 +197212,7 @@ I_events_0 = [
 {
 "cita": [
 7378,
-8475
+8473
 ],
 "date": "1782-01-13",
 "date_sdn": 2371935,
@@ -198432,7 +198489,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8037
+8035
 ],
 "date": "1917-02-07",
 "date_sdn": 2421267,
@@ -198449,8 +198506,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8035
+7784,
+8033
 ],
 "date": "1939 ja 1944 v\u00e4lill\u00e4",
 "date_sdn": 2429265,
@@ -198467,7 +198524,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8035
+8033
 ],
 "date": "1944-06-27 j\u00e4lkeen",
 "date_sdn": 2431269,
@@ -198484,8 +198541,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8036
+7784,
+8034
 ],
 "date": "1945 - 1966",
 "date_sdn": 2431457,
@@ -198502,7 +198559,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1949",
 "date_sdn": 2432918,
@@ -198522,8 +198579,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8035,
-8037
+8033,
+8035
 ],
 "date": "1966-06-25",
 "date_sdn": 2439302,
@@ -199778,7 +199835,7 @@ I_events_0 = [
 "part_person": [
 2391
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -199796,7 +199853,7 @@ I_events_0 = [
 "part_person": [
 2391
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -200837,7 +200894,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8098
+8096
 ],
 "date": "1697",
 "date_sdn": 2340878,
@@ -200936,7 +200993,7 @@ I_events_0 = [
 "part_person": [
 2402
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -200959,7 +201016,7 @@ I_events_0 = [
 "part_person": [
 2402
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -200976,7 +201033,7 @@ I_events_0 = [
 "part_person": [
 2402
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -202117,7 +202174,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8266
+8264
 ],
 "date": "1602",
 "date_sdn": 2306179,
@@ -202215,7 +202272,7 @@ I_events_0 = [
 "part_person": [
 2419
 ],
-"place": 1276,
+"place": 1277,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -202301,7 +202358,7 @@ I_events_0 = [
 "part_person": [
 2420
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -202428,7 +202485,7 @@ I_events_0 = [
 3684,
 6069,
 6419,
-8044
+8042
 ],
 "date": "1567 - 1585",
 "date_sdn": 2293395,
@@ -202610,7 +202667,7 @@ I_events_0 = [
 "part_person": [
 2424
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -202627,7 +202684,7 @@ I_events_0 = [
 "part_person": [
 2424
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Kuolema"
 },
@@ -202769,7 +202826,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7887
+7885
 ],
 "date": "noin 1671",
 "date_sdn": 2331381,
@@ -203097,7 +203154,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8530
+8528
 ],
 "date": "1789-09-08",
 "date_sdn": 2374730,
@@ -203131,7 +203188,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8446
+8444
 ],
 "date": "noin 1713",
 "date_sdn": 2346721,
@@ -203203,7 +203260,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8446
+8444
 ],
 "date": "1779-01-13",
 "date_sdn": 2370839,
@@ -203307,7 +203364,7 @@ I_events_0 = [
 "part_person": [
 2434
 ],
-"place": 1257,
+"place": 1258,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -203593,7 +203650,7 @@ I_events_0 = [
 {
 "cita": [
 6711,
-8672
+8670
 ],
 "date": "1684 - 1694",
 "date_sdn": 2336129,
@@ -203660,7 +203717,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8057
+8055
 ],
 "date": "1574",
 "date_sdn": 2295952,
@@ -203677,7 +203734,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8057
+8055
 ],
 "date": "1584 - 1605",
 "date_sdn": 2299604,
@@ -203763,7 +203820,7 @@ I_events_0 = [
 {
 "cita": [
 171,
-8272
+8270
 ],
 "date": "1608 - 1609",
 "date_sdn": 2308370,
@@ -203774,7 +203831,7 @@ I_events_0 = [
 "part_person": [
 2438
 ],
-"place": 1284,
+"place": 1285,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -203815,8 +203872,8 @@ I_events_0 = [
 },
 {
 "cita": [
-8074,
-8272
+8072,
+8270
 ],
 "date": "noin 1618",
 "date_sdn": 2312023,
@@ -203834,7 +203891,7 @@ I_events_0 = [
 {
 "cita": [
 4287,
-8272
+8270
 ],
 "date": "1618 ja 1636 v\u00e4lill\u00e4",
 "date_sdn": 2312023,
@@ -203869,7 +203926,7 @@ I_events_0 = [
 {
 "cita": [
 5560,
-7891
+7889
 ],
 "date": "1635 - 1646",
 "date_sdn": 2318232,
@@ -203921,7 +203978,7 @@ I_events_0 = [
 {
 "cita": [
 165,
-7891
+7889
 ],
 "date": "1609",
 "date_sdn": 2308736,
@@ -204025,7 +204082,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7891
+7889
 ],
 "date": "noin 1634",
 "date_sdn": 2317867,
@@ -204059,7 +204116,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8273
+8271
 ],
 "date": "1566",
 "date_sdn": 2293030,
@@ -204187,7 +204244,7 @@ I_events_0 = [
 "part_person": [
 2443
 ],
-"place": 1261,
+"place": 1262,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -204368,7 +204425,7 @@ I_events_0 = [
 "cita": [
 50,
 6801,
-7869
+7867
 ],
 "date": "1721 - 1751",
 "date_sdn": 2349643,
@@ -204385,7 +204442,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8370
+8368
 ],
 "date": "1754-08-06",
 "date_sdn": 2361913,
@@ -204485,7 +204542,7 @@ I_events_0 = [
 "cita": [
 4266,
 4631,
-7869
+7867
 ],
 "date": "1751 - 1783",
 "date_sdn": 2360600,
@@ -204995,7 +205052,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8668
+8666
 ],
 "date": "noin 1624",
 "date_sdn": 2314214,
@@ -205012,7 +205069,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7866
+7864
 ],
 "date": "1625 - 1628",
 "date_sdn": 2314580,
@@ -205029,7 +205086,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7866
+7864
 ],
 "date": "1628 - 1646",
 "date_sdn": 2315675,
@@ -205063,7 +205120,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8668
+8666
 ],
 "date": "1646",
 "date_sdn": 2322250,
@@ -205878,7 +205935,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8379
+8377
 ],
 "date": "noin 1727",
 "date_sdn": 2351834,
@@ -205895,7 +205952,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8379
+8377
 ],
 "date": "1755-09-14",
 "date_sdn": 2362317,
@@ -205978,7 +206035,7 @@ I_events_0 = [
 "part_person": [
 2461
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -205997,7 +206054,7 @@ I_events_0 = [
 "part_person": [
 2461
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -206385,7 +206442,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8443
+8441
 ],
 "date": "noin 1704",
 "date_sdn": 2343433,
@@ -206471,7 +206528,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8443
+8441
 ],
 "date": "1767-03-24",
 "date_sdn": 2366526,
@@ -206745,7 +206802,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8422
+8420
 ],
 "date": "noin 1715",
 "date_sdn": 2347451,
@@ -206836,7 +206893,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8422
+8420
 ],
 "date": "ennen 1763",
 "date_sdn": 2364983,
@@ -206853,7 +206910,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8422
+8420
 ],
 "date": "1763-03-07",
 "date_sdn": 2365048,
@@ -206902,7 +206959,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8554
+8552
 ],
 "date": "1753-12-09",
 "date_sdn": 2361673,
@@ -207211,7 +207268,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8118
+8116
 ],
 "date": "1711",
 "date_sdn": 2345990,
@@ -207447,7 +207504,7 @@ I_events_0 = [
 "cita": [
 5405,
 5406,
-7847
+7845
 ],
 "date": "1689 - 1704",
 "date_sdn": 2337956,
@@ -207608,7 +207665,7 @@ I_events_0 = [
 "part_person": [
 2479
 ],
-"place": 1302,
+"place": 1303,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -207835,7 +207892,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8031
+8029
 ],
 "date": "1447",
 "date_sdn": 2249566,
@@ -207886,7 +207943,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8270
+8268
 ],
 "date": "1476 j\u00e4lkeen",
 "date_sdn": 2260158,
@@ -207920,7 +207977,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "",
 "date_sdn": 0,
@@ -207937,7 +207994,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "1403 - 1407",
 "date_sdn": 2233495,
@@ -207954,7 +208011,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "1407-10-07 j\u00e4lkeen",
 "date_sdn": 2235235,
@@ -207971,7 +208028,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "",
 "date_sdn": 0,
@@ -207988,7 +208045,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "",
 "date_sdn": 0,
@@ -208005,7 +208062,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "1415",
 "date_sdn": 2237878,
@@ -208022,7 +208079,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8031
+8029
 ],
 "date": "1431",
 "date_sdn": 2243722,
@@ -208039,7 +208096,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7813
+7811
 ],
 "date": "",
 "date_sdn": 0,
@@ -208156,7 +208213,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8293
+8291
 ],
 "date": "1386",
 "date_sdn": 2227287,
@@ -208965,7 +209022,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8670
+8668
 ],
 "date": "noin 1560",
 "date_sdn": 2290838,
@@ -208982,7 +209039,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "noin 1580",
 "date_sdn": 2298143,
@@ -208999,7 +209056,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "1586-10-24",
 "date_sdn": 2300631,
@@ -209010,13 +209067,13 @@ I_events_0 = [
 "part_person": [
 2494
 ],
-"place": 1284,
+"place": 1285,
 "text": "",
 "type": "Oppiarvo"
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "1588-09-19",
 "date_sdn": 2301327,
@@ -209027,13 +209084,13 @@ I_events_0 = [
 "part_person": [
 2494
 ],
-"place": 1284,
+"place": 1285,
 "text": "",
 "type": "Oppiarvo"
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "1588-10-31",
 "date_sdn": 2301369,
@@ -209050,8 +209107,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7867,
-8670
+7865,
+8668
 ],
 "date": "1589-05-25 - 1615",
 "date_sdn": 2301575,
@@ -209068,8 +209125,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7872,
-8670
+7870,
+8668
 ],
 "date": "1595-10-22 - 1606",
 "date_sdn": 2303916,
@@ -209086,7 +209143,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8670
+8668
 ],
 "date": "1615",
 "date_sdn": 2310927,
@@ -209106,7 +209163,7 @@ I_events_0 = [
 {
 "cita": [
 6307,
-8473
+8471
 ],
 "date": "noin 1696",
 "date_sdn": 2340512,
@@ -209174,7 +209231,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8473
+8471
 ],
 "date": "1769-08-19",
 "date_sdn": 2367405,
@@ -209208,7 +209265,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8499
+8497
 ],
 "date": "1760-04-21",
 "date_sdn": 2363998,
@@ -209257,7 +209314,7 @@ I_events_0 = [
 "part_person": [
 2496
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -209291,7 +209348,7 @@ I_events_0 = [
 "part_person": [
 2496
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -209761,7 +209818,7 @@ I_events_0 = [
 {
 "cita": [
 5154,
-8511
+8509
 ],
 "date": "1761-04-21",
 "date_sdn": 2364363,
@@ -209987,7 +210044,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8418
+8416
 ],
 "date": "noin 1711",
 "date_sdn": 2345990,
@@ -210032,7 +210089,7 @@ I_events_0 = [
 "part_person": [
 2505
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210050,7 +210107,7 @@ I_events_0 = [
 "part_person": [
 2505
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210073,7 +210130,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-01-19",
 "date_sdn": 2364271,
@@ -210084,7 +210141,7 @@ I_events_0 = [
 "part_person": [
 2505
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -210107,7 +210164,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8402
+8400
 ],
 "date": "1754-02-13",
 "date_sdn": 2361739,
@@ -210118,7 +210175,7 @@ I_events_0 = [
 "part_person": [
 2506
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -210136,7 +210193,7 @@ I_events_0 = [
 "part_person": [
 2506
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -210156,7 +210213,7 @@ I_events_0 = [
 "part_person": [
 2506
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210173,7 +210230,7 @@ I_events_0 = [
 "part_person": [
 2506
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -210242,7 +210299,7 @@ I_events_0 = [
 "part_person": [
 2507
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210259,7 +210316,7 @@ I_events_0 = [
 "part_person": [
 2507
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210278,7 +210335,7 @@ I_events_0 = [
 "part_person": [
 2507
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210319,7 +210376,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8428
+8426
 ],
 "date": "1777-06-21",
 "date_sdn": 2370268,
@@ -210402,7 +210459,7 @@ I_events_0 = [
 "part_person": [
 2508
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210470,7 +210527,7 @@ I_events_0 = [
 "part_person": [
 2509
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -210494,7 +210551,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8450
+8448
 ],
 "date": "1767-12-08",
 "date_sdn": 2366785,
@@ -210634,7 +210691,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1940",
 "date_sdn": 2429630,
@@ -210734,7 +210791,7 @@ I_events_0 = [
 "part_person": [
 2511
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -210793,7 +210850,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8497
+8495
 ],
 "date": "1781-03-14",
 "date_sdn": 2371630,
@@ -210879,7 +210936,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8372
+8370
 ],
 "date": "1795-02-17",
 "date_sdn": 2376718,
@@ -210890,7 +210947,7 @@ I_events_0 = [
 "part_person": [
 2513
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -210908,7 +210965,7 @@ I_events_0 = [
 "part_person": [
 2513
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -211015,7 +211072,7 @@ I_events_0 = [
 "part_person": [
 2514
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -211115,7 +211172,7 @@ I_events_0 = [
 "part_person": [
 2515
 ],
-"place": 1279,
+"place": 1280,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -211140,7 +211197,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8565
+8563
 ],
 "date": "1796-01-21",
 "date_sdn": 2377056,
@@ -211185,7 +211242,7 @@ I_events_0 = [
 "part_person": [
 2516
 ],
-"place": 1311,
+"place": 1312,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -211203,7 +211260,7 @@ I_events_0 = [
 "part_person": [
 2516
 ],
-"place": 1311,
+"place": 1312,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -211313,7 +211370,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8558
+8556
 ],
 "date": "1794-04-26",
 "date_sdn": 2376421,
@@ -211441,7 +211498,7 @@ I_events_0 = [
 "part_person": [
 2519
 ],
-"place": 1302,
+"place": 1303,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -211661,7 +211718,7 @@ I_events_0 = [
 "part_person": [
 2522
 ],
-"place": 1286,
+"place": 1287,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -211782,14 +211839,14 @@ I_events_0 = [
 "part_person": [
 2523
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-7785,
-8633
+7784,
+8631
 ],
 "date": "1958 - 1975",
 "date_sdn": 2436205,
@@ -212005,7 +212062,7 @@ I_events_0 = [
 {
 "cita": [
 5615,
-8483
+8481
 ],
 "date": "noin 1723",
 "date_sdn": 2350373,
@@ -212058,7 +212115,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8371
+8369
 ],
 "date": "1761 - 1767",
 "date_sdn": 2364253,
@@ -212092,7 +212149,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8483
+8481
 ],
 "date": "1770-06-18",
 "date_sdn": 2367708,
@@ -212207,7 +212264,7 @@ I_events_0 = [
 "part_person": [
 2528
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -212224,7 +212281,7 @@ I_events_0 = [
 "part_person": [
 2528
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -212247,7 +212304,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1946 - 1960",
 "date_sdn": 2431822,
@@ -212264,8 +212321,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8584
+7784,
+8582
 ],
 "date": "1961 - 1986",
 "date_sdn": 2437301,
@@ -212312,7 +212369,7 @@ I_events_0 = [
 "part_person": [
 2529
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -212329,13 +212386,13 @@ I_events_0 = [
 "part_person": [
 2529
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1954",
 "date_sdn": 2434744,
@@ -212352,7 +212409,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "ennen 1965",
 "date_sdn": 2438762,
@@ -212457,7 +212514,7 @@ I_events_0 = [
 "part_person": [
 2531
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -212474,14 +212531,14 @@ I_events_0 = [
 "part_person": [
 2531
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
 7568,
-7785
+7784
 ],
 "date": "1964 - 1970",
 "date_sdn": 2438396,
@@ -212498,7 +212555,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "",
 "date_sdn": 0,
@@ -212518,7 +212575,7 @@ I_events_0 = [
 {
 "cita": [
 4641,
-7896
+7894
 ],
 "date": "1920-07-01",
 "date_sdn": 2422507,
@@ -212529,7 +212586,7 @@ I_events_0 = [
 "part_person": [
 2532
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -212565,13 +212622,13 @@ I_events_0 = [
 "part_person": [
 2532
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1927 - 1932",
 "date_sdn": 2424882,
@@ -212582,7 +212639,7 @@ I_events_0 = [
 "part_person": [
 2532
 ],
-"place": 1304,
+"place": 1305,
 "text": "",
 "type": "Koulutus"
 },
@@ -212614,13 +212671,13 @@ I_events_0 = [
 "part_person": [
 2532
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1946 - 1948",
 "date_sdn": 2431822,
@@ -212653,7 +212710,7 @@ I_events_0 = [
 {
 "cita": [
 2193,
-7785
+7784
 ],
 "date": "1948 - 1992",
 "date_sdn": 2432552,
@@ -212670,7 +212727,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1962 - 1965",
 "date_sdn": 2437666,
@@ -212687,7 +212744,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1965 - 1968",
 "date_sdn": 2438762,
@@ -212704,7 +212761,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1992 - 1993",
 "date_sdn": 2448623,
@@ -212737,7 +212794,7 @@ I_events_0 = [
 {
 "cita": [
 2194,
-7896
+7894
 ],
 "date": "1998-04-04",
 "date_sdn": 2450908,
@@ -212769,7 +212826,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7896
+7894
 ],
 "date": "1998-07-01",
 "date_sdn": 2450996,
@@ -212905,7 +212962,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8547
+8545
 ],
 "date": "1792-09-06",
 "date_sdn": 2375824,
@@ -213026,8 +213083,8 @@ I_events_0 = [
 },
 {
 "cita": [
-7785,
-8069
+7784,
+8067
 ],
 "date": "1901 - 1930",
 "date_sdn": 2415386,
@@ -213045,7 +213102,7 @@ I_events_0 = [
 {
 "cita": [
 5006,
-8386
+8384
 ],
 "date": "1901 - 1902",
 "date_sdn": 2415386,
@@ -213074,7 +213131,7 @@ I_events_0 = [
 "part_person": [
 2535
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -213094,13 +213151,13 @@ I_events_0 = [
 "part_person": [
 2535
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-7801
+7799
 ],
 "date": "1919",
 "date_sdn": 2421960,
@@ -213128,7 +213185,7 @@ I_events_0 = [
 "part_person": [
 2535
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -213240,7 +213297,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8515
+8513
 ],
 "date": "1784-03-01",
 "date_sdn": 2372713,
@@ -213491,7 +213548,7 @@ I_events_0 = [
 "part_person": [
 2542
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -213508,13 +213565,13 @@ I_events_0 = [
 "part_person": [
 2542
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-8598
+8596
 ],
 "date": "1952",
 "date_sdn": 2434013,
@@ -213531,7 +213588,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1956 - 1993",
 "date_sdn": 2435474,
@@ -213548,7 +213605,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8599
+8597
 ],
 "date": "1993-01-19",
 "date_sdn": 2449007,
@@ -213559,7 +213616,7 @@ I_events_0 = [
 "part_person": [
 2542
 ],
-"place": 1320,
+"place": 1321,
 "text": "",
 "type": "Kuolema"
 }
@@ -213578,7 +213635,7 @@ I_events_0 = [
 "part_person": [
 2543
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -213595,7 +213652,7 @@ I_events_0 = [
 "part_person": [
 2543
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -213618,7 +213675,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1960",
 "date_sdn": 2436935,
@@ -213635,7 +213692,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "",
 "date_sdn": 0,
@@ -213748,7 +213805,7 @@ I_events_0 = [
 6831,
 7407,
 7423,
-8386
+8384
 ],
 "date": "1886 - 1906",
 "date_sdn": 2409908,
@@ -213987,7 +214044,7 @@ I_events_0 = [
 {
 "cita": [
 4152,
-8457
+8455
 ],
 "date": "noin 1688",
 "date_sdn": 2337590,
@@ -214040,7 +214097,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8457
+8455
 ],
 "date": "1780-03-16",
 "date_sdn": 2371267,
@@ -214689,7 +214746,7 @@ I_events_0 = [
 "part_person": [
 2555
 ],
-"place": 1313,
+"place": 1314,
 "text": "",
 "type": "Kuolema"
 },
@@ -214877,7 +214934,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8599
+8597
 ],
 "date": "1916-05-16",
 "date_sdn": 2421000,
@@ -214888,13 +214945,13 @@ I_events_0 = [
 "part_person": [
 2559
 ],
-"place": 1320,
+"place": 1321,
 "text": "",
 "type": "Syntym\u00e4"
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1939-11-30 - 1940-03-13",
 "date_sdn": 2429598,
@@ -214911,7 +214968,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1941 - 1944",
 "date_sdn": 2429996,
@@ -214928,7 +214985,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8598
+8596
 ],
 "date": "1952",
 "date_sdn": 2434013,
@@ -214945,7 +215002,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1956 - 1993",
 "date_sdn": 2435474,
@@ -214962,7 +215019,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1960",
 "date_sdn": 2436935,
@@ -214979,7 +215036,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8599
+8597
 ],
 "date": "2007-03-18",
 "date_sdn": 2454178,
@@ -214990,7 +215047,7 @@ I_events_0 = [
 "part_person": [
 2559
 ],
-"place": 1320,
+"place": 1321,
 "text": "",
 "type": "Kuolema"
 }
@@ -215043,7 +215100,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8599
+8597
 ],
 "date": "2018-12-22",
 "date_sdn": 2458475,
@@ -215090,7 +215147,7 @@ I_events_0 = [
 "part_person": [
 2561
 ],
-"place": 1255,
+"place": 1256,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -215438,7 +215495,7 @@ I_events_0 = [
 {
 "cita": [
 6634,
-8422
+8420
 ],
 "date": "noin 1682",
 "date_sdn": 2335399,
@@ -215476,7 +215533,7 @@ I_events_0 = [
 "cita": [
 2823,
 6722,
-8422
+8420
 ],
 "date": "1737 - 1763",
 "date_sdn": 2355487,
@@ -215493,7 +215550,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8422
+8420
 ],
 "date": "1763-01-22",
 "date_sdn": 2365004,
@@ -215837,7 +215894,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8139
+8137
 ],
 "date": "1721-09-16 - 1723-08-26",
 "date_sdn": 2349901,
@@ -215848,13 +215905,13 @@ I_events_0 = [
 "part_person": [
 2569
 ],
-"place": 1314,
+"place": 1315,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-8139
+8137
 ],
 "date": "1721-09-16 - 1723-08-26",
 "date_sdn": 2349901,
@@ -216686,7 +216743,7 @@ I_events_0 = [
 4655,
 4656,
 4657,
-8249
+8247
 ],
 "date": "1558 - 1606",
 "date_sdn": 2290108,
@@ -216703,7 +216760,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8095
+8093
 ],
 "date": "1589",
 "date_sdn": 2301431,
@@ -216720,7 +216777,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8134
+8132
 ],
 "date": "1589 ja 1600 v\u00e4lill\u00e4",
 "date_sdn": 2301431,
@@ -217648,7 +217705,7 @@ I_events_0 = [
 {
 "cita": [
 6409,
-8450
+8448
 ],
 "date": "noin 1695",
 "date_sdn": 2340147,
@@ -217659,7 +217716,7 @@ I_events_0 = [
 "part_person": [
 2587
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -217685,13 +217742,13 @@ I_events_0 = [
 "part_person": [
 2587
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8450
+8448
 ],
 "date": "1767-10-22",
 "date_sdn": 2366738,
@@ -217702,7 +217759,7 @@ I_events_0 = [
 "part_person": [
 2587
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -217725,7 +217782,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8539
+8537
 ],
 "date": "1786-10-24",
 "date_sdn": 2373680,
@@ -217736,7 +217793,7 @@ I_events_0 = [
 "part_person": [
 2588
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -217755,7 +217812,7 @@ I_events_0 = [
 "part_person": [
 2588
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -217772,7 +217829,7 @@ I_events_0 = [
 "part_person": [
 2588
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -217831,7 +217888,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8366
+8364
 ],
 "date": "noin 1718",
 "date_sdn": 2348547,
@@ -217866,7 +217923,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8366
+8364
 ],
 "date": "1798-06-02",
 "date_sdn": 2377919,
@@ -217900,8 +217957,8 @@ I_events_0 = [
 [
 {
 "cita": [
-8392,
-8425
+8390,
+8423
 ],
 "date": "1753-11-07",
 "date_sdn": 2361641,
@@ -217952,7 +218009,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8425
+8423
 ],
 "date": "1777-06-02",
 "date_sdn": 2370249,
@@ -218201,7 +218258,7 @@ I_events_0 = [
 "part_person": [
 2594
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -218220,7 +218277,7 @@ I_events_0 = [
 "part_person": [
 2594
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -218237,7 +218294,7 @@ I_events_0 = [
 "part_person": [
 2594
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -218710,7 +218767,7 @@ I_events_0 = [
 "cita": [
 6005,
 6500,
-8440
+8438
 ],
 "date": "noin 1710",
 "date_sdn": 2345625,
@@ -218757,13 +218814,13 @@ I_events_0 = [
 "part_person": [
 2600
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8440
+8438
 ],
 "date": "1778-10-09",
 "date_sdn": 2370743,
@@ -218774,7 +218831,7 @@ I_events_0 = [
 "part_person": [
 2600
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -218941,7 +218998,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8150
+8148
 ],
 "date": "1725 ja 1735 v\u00e4lill\u00e4",
 "date_sdn": 2351104,
@@ -219278,7 +219335,7 @@ I_events_0 = [
 {
 "cita": [
 7345,
-8200
+8198
 ],
 "date": "1751 ja 1768 v\u00e4lill\u00e4",
 "date_sdn": 2360600,
@@ -219381,7 +219438,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8154
+8152
 ],
 "date": "noin 1647",
 "date_sdn": 2322615,
@@ -219992,7 +220049,7 @@ I_events_0 = [
 {
 "cita": [
 7337,
-8216
+8214
 ],
 "date": "1869-04-25 - 1878-02-02",
 "date_sdn": 2403813,
@@ -220044,7 +220101,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8219
+8217
 ],
 "date": "1890 - 1891-02-06",
 "date_sdn": 2411369,
@@ -220061,7 +220118,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8423
+8421
 ],
 "date": "1891 - 1895",
 "date_sdn": 2411734,
@@ -220079,7 +220136,7 @@ I_events_0 = [
 {
 "cita": [
 7634,
-8423
+8421
 ],
 "date": "1895 - 1910",
 "date_sdn": 2413195,
@@ -220252,7 +220309,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8237
+8235
 ],
 "date": "1625 - 1666",
 "date_sdn": 2314580,
@@ -220316,7 +220373,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8237
+8235
 ],
 "date": "noin 1585",
 "date_sdn": 2299970,
@@ -220484,7 +220541,7 @@ I_events_0 = [
 {
 "cita": [
 6880,
-8379
+8377
 ],
 "date": "noin 1710",
 "date_sdn": 2345625,
@@ -220537,7 +220594,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8379
+8377
 ],
 "date": "1755-11-26",
 "date_sdn": 2362390,
@@ -220656,7 +220713,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7891
+7889
 ],
 "date": "noin 1640",
 "date_sdn": 2320058,
@@ -220692,7 +220749,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7891
+7889
 ],
 "date": "noin 1659",
 "date_sdn": 2326998,
@@ -220818,7 +220875,7 @@ I_events_0 = [
 "cita": [
 5561,
 5562,
-7891
+7889
 ],
 "date": "1660 - 1694",
 "date_sdn": 2327363,
@@ -221110,7 +221167,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8512
+8510
 ],
 "date": "1786-05-12",
 "date_sdn": 2373515,
@@ -221578,7 +221635,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8358
+8356
 ],
 "date": "noin 1693",
 "date_sdn": 2339417,
@@ -221633,7 +221690,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8358
+8356
 ],
 "date": "1754-01-06",
 "date_sdn": 2361701,
@@ -221668,7 +221725,7 @@ I_events_0 = [
 {
 "cita": [
 40,
-8226
+8224
 ],
 "date": "1896-10-25",
 "date_sdn": 2413858,
@@ -221686,8 +221743,8 @@ I_events_0 = [
 {
 "cita": [
 7666,
-8227,
-8230
+8225,
+8228
 ],
 "date": "1896 - 1917",
 "date_sdn": 2413560,
@@ -221722,7 +221779,7 @@ I_events_0 = [
 {
 "cita": [
 5009,
-8228
+8226
 ],
 "date": "1917 - 1967",
 "date_sdn": 2421230,
@@ -221739,7 +221796,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1967 - 1992",
 "date_sdn": 2439492,
@@ -221773,7 +221830,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7785
+7784
 ],
 "date": "1992",
 "date_sdn": 2448623,
@@ -221845,7 +221902,7 @@ I_events_0 = [
 {
 "cita": [
 2884,
-8387
+8385
 ],
 "date": "1881 - 1893",
 "date_sdn": 2408082,
@@ -221863,7 +221920,7 @@ I_events_0 = [
 {
 "cita": [
 7670,
-8505
+8503
 ],
 "date": "1893 - 1895",
 "date_sdn": 2412465,
@@ -221882,7 +221939,7 @@ I_events_0 = [
 "cita": [
 7634,
 7666,
-8423
+8421
 ],
 "date": "1895 - 1937",
 "date_sdn": 2413195,
@@ -222366,7 +222423,7 @@ I_events_0 = [
 "part_person": [
 2640
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -222416,7 +222473,7 @@ I_events_0 = [
 "part_person": [
 2641
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -222467,7 +222524,7 @@ I_events_0 = [
 "part_person": [
 2642
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -222501,7 +222558,7 @@ I_events_0 = [
 "part_person": [
 2643
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -222547,7 +222604,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8498
+8496
 ],
 "date": "1784-06-20",
 "date_sdn": 2372824,
@@ -222669,7 +222726,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8399
+8397
 ],
 "date": "noin 1699",
 "date_sdn": 2341608,
@@ -222705,7 +222762,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8399
+8397
 ],
 "date": "1758-02-28",
 "date_sdn": 2363215,
@@ -222912,7 +222969,7 @@ I_events_0 = [
 "part_person": [
 2648
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -222982,7 +223039,7 @@ I_events_0 = [
 "part_person": [
 2649
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -222999,7 +223056,7 @@ I_events_0 = [
 "part_person": [
 2649
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -223016,7 +223073,7 @@ I_events_0 = [
 "part_person": [
 2649
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -223033,7 +223090,7 @@ I_events_0 = [
 "part_person": [
 2649
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Kuolema"
 },
@@ -223211,7 +223268,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8399
+8397
 ],
 "date": "noin 1714",
 "date_sdn": 2347086,
@@ -223222,7 +223279,7 @@ I_events_0 = [
 "part_person": [
 2652
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -223239,7 +223296,7 @@ I_events_0 = [
 "part_person": [
 2652
 ],
-"place": 1258,
+"place": 1259,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -223264,7 +223321,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8399
+8397
 ],
 "date": "1758-01-05",
 "date_sdn": 2363161,
@@ -223309,7 +223366,7 @@ I_events_0 = [
 "part_person": [
 2653
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -223327,7 +223384,7 @@ I_events_0 = [
 "part_person": [
 2653
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -223362,7 +223419,7 @@ I_events_0 = [
 "part_person": [
 2653
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -223379,7 +223436,7 @@ I_events_0 = [
 "part_person": [
 2653
 ],
-"place": 1268,
+"place": 1269,
 "text": "",
 "type": "Kuolema"
 },
@@ -223477,7 +223534,7 @@ I_events_0 = [
 "part_person": [
 2655
 ],
-"place": 1269,
+"place": 1270,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -223488,7 +223545,7 @@ I_events_0 = [
 5247,
 5248,
 5249,
-8612
+8610
 ],
 "date": "1548 - 1606",
 "date_sdn": 2286455,
@@ -223568,7 +223625,7 @@ I_events_0 = [
 "part_person": [
 2656
 ],
-"place": 1270,
+"place": 1271,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -223899,7 +223956,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8631
+8629
 ],
 "date": "1915-07-03",
 "date_sdn": 2420682,
@@ -223916,7 +223973,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8631
+8629
 ],
 "date": "noin 1935",
 "date_sdn": 2427804,
@@ -223933,7 +223990,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8631
+8629
 ],
 "date": "noin 1950",
 "date_sdn": 2433283,
@@ -223950,7 +224007,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8631
+8629
 ],
 "date": "noin 1950",
 "date_sdn": 2433283,
@@ -223967,7 +224024,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8631
+8629
 ],
 "date": "2000-09-05",
 "date_sdn": 2451793,
@@ -224022,7 +224079,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7853
+7851
 ],
 "date": "1940",
 "date_sdn": 2429630,
@@ -224107,7 +224164,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7985
+7983
 ],
 "date": "1940",
 "date_sdn": 2429630,
@@ -224124,7 +224181,7 @@ I_events_0 = [
 },
 {
 "cita": [
-7986
+7984
 ],
 "date": "noin 1944",
 "date_sdn": 2431091,
@@ -224332,7 +224389,7 @@ I_events_0 = [
 "part_person": [
 2664
 ],
-"place": 1283,
+"place": 1284,
 "text": "",
 "type": "Kuolema"
 },
@@ -224356,7 +224413,7 @@ I_events_0 = [
 {
 "cita": [
 7140,
-8550
+8548
 ],
 "date": "noin 1708",
 "date_sdn": 2344894,
@@ -224427,7 +224484,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8550
+8548
 ],
 "date": "1773-05-03",
 "date_sdn": 2368758,
@@ -224461,7 +224518,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8535
+8533
 ],
 "date": "noin 1677",
 "date_sdn": 2333573,
@@ -224495,7 +224552,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8535
+8533
 ],
 "date": "1753-09-10",
 "date_sdn": 2361583,
@@ -224531,7 +224588,7 @@ I_events_0 = [
 "cita": [
 5445,
 6307,
-8544
+8542
 ],
 "date": "noin 1722",
 "date_sdn": 2350008,
@@ -224615,7 +224672,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8544
+8542
 ],
 "date": "1791-04-27",
 "date_sdn": 2375326,
@@ -224753,7 +224810,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8032
+8030
 ],
 "date": "noin 1662",
 "date_sdn": 2328094,
@@ -224813,7 +224870,7 @@ I_events_0 = [
 "part_person": [
 2670
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -224831,7 +224888,7 @@ I_events_0 = [
 "part_person": [
 2670
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -224848,7 +224905,7 @@ I_events_0 = [
 "part_person": [
 2670
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -224882,7 +224939,7 @@ I_events_0 = [
 "part_person": [
 2671
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -224901,7 +224958,7 @@ I_events_0 = [
 "part_person": [
 2671
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -224919,7 +224976,7 @@ I_events_0 = [
 "part_person": [
 2671
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -224938,7 +224995,7 @@ I_events_0 = [
 "part_person": [
 2671
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -224955,7 +225012,7 @@ I_events_0 = [
 "part_person": [
 2671
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Kuolema"
 },
@@ -225008,7 +225065,7 @@ I_events_0 = [
 "part_person": [
 2672
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225042,7 +225099,7 @@ I_events_0 = [
 "part_person": [
 2672
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225060,7 +225117,7 @@ I_events_0 = [
 "part_person": [
 2672
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225078,7 +225135,7 @@ I_events_0 = [
 "part_person": [
 2672
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225182,7 +225239,7 @@ I_events_0 = [
 "part_person": [
 2673
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225216,7 +225273,7 @@ I_events_0 = [
 "part_person": [
 2674
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -225233,7 +225290,7 @@ I_events_0 = [
 "part_person": [
 2674
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225250,7 +225307,7 @@ I_events_0 = [
 "part_person": [
 2674
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225270,7 +225327,7 @@ I_events_0 = [
 "part_person": [
 2674
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225287,7 +225344,7 @@ I_events_0 = [
 "part_person": [
 2674
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -225358,7 +225415,7 @@ I_events_0 = [
 "part_person": [
 2675
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225397,7 +225454,7 @@ I_events_0 = [
 "part_person": [
 2675
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225414,7 +225471,7 @@ I_events_0 = [
 "part_person": [
 2675
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -225463,7 +225520,7 @@ I_events_0 = [
 "part_person": [
 2676
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225485,7 +225542,7 @@ I_events_0 = [
 "part_person": [
 2676
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225502,7 +225559,7 @@ I_events_0 = [
 "part_person": [
 2676
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225519,7 +225576,7 @@ I_events_0 = [
 "part_person": [
 2676
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Kuolema"
 },
@@ -225571,7 +225628,7 @@ I_events_0 = [
 "part_person": [
 2677
 ],
-"place": 1290,
+"place": 1291,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225657,7 +225714,7 @@ I_events_0 = [
 "part_person": [
 2678
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -225677,7 +225734,7 @@ I_events_0 = [
 "part_person": [
 2678
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225695,7 +225752,7 @@ I_events_0 = [
 "part_person": [
 2678
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225800,7 +225857,7 @@ I_events_0 = [
 "part_person": [
 2679
 ],
-"place": 1313,
+"place": 1314,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -225834,7 +225891,7 @@ I_events_0 = [
 "part_person": [
 2679
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225854,7 +225911,7 @@ I_events_0 = [
 "part_person": [
 2679
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225873,7 +225930,7 @@ I_events_0 = [
 "part_person": [
 2679
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -225890,7 +225947,7 @@ I_events_0 = [
 "part_person": [
 2679
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Kuolema"
 },
@@ -225946,7 +226003,7 @@ I_events_0 = [
 "part_person": [
 2680
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -226109,7 +226166,7 @@ I_events_0 = [
 "part_person": [
 2681
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226126,7 +226183,7 @@ I_events_0 = [
 "part_person": [
 2681
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226145,7 +226202,7 @@ I_events_0 = [
 "part_person": [
 2681
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226162,7 +226219,7 @@ I_events_0 = [
 "part_person": [
 2681
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -226218,7 +226275,7 @@ I_events_0 = [
 "part_person": [
 2682
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226239,7 +226296,7 @@ I_events_0 = [
 "part_person": [
 2682
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226256,7 +226313,7 @@ I_events_0 = [
 "part_person": [
 2682
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226273,7 +226330,7 @@ I_events_0 = [
 "part_person": [
 2682
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -226324,7 +226381,7 @@ I_events_0 = [
 "part_person": [
 2683
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226344,7 +226401,7 @@ I_events_0 = [
 "part_person": [
 2683
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226361,7 +226418,7 @@ I_events_0 = [
 "part_person": [
 2683
 ],
-"place": 1289,
+"place": 1290,
 "text": "",
 "type": "Kuolema"
 },
@@ -226416,7 +226473,7 @@ I_events_0 = [
 "part_person": [
 2684
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226502,7 +226559,7 @@ I_events_0 = [
 "part_person": [
 2685
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226556,7 +226613,7 @@ I_events_0 = [
 "part_person": [
 2685
 ],
-"place": 1292,
+"place": 1293,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226590,7 +226647,7 @@ I_events_0 = [
 "part_person": [
 2685
 ],
-"place": 1313,
+"place": 1314,
 "text": "",
 "type": "Kuolema"
 },
@@ -226641,7 +226698,7 @@ I_events_0 = [
 "part_person": [
 2686
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226659,7 +226716,7 @@ I_events_0 = [
 "part_person": [
 2686
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226695,7 +226752,7 @@ I_events_0 = [
 "part_person": [
 2686
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226712,7 +226769,7 @@ I_events_0 = [
 "part_person": [
 2686
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Kuolema"
 },
@@ -226763,7 +226820,7 @@ I_events_0 = [
 "part_person": [
 2687
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226780,7 +226837,7 @@ I_events_0 = [
 "part_person": [
 2687
 ],
-"place": 1293,
+"place": 1294,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -226797,7 +226854,7 @@ I_events_0 = [
 "part_person": [
 2687
 ],
-"place": 1254,
+"place": 1255,
 "text": "",
 "type": "Kuolema"
 },
@@ -226831,7 +226888,7 @@ I_events_0 = [
 "part_person": [
 2688
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -226849,7 +226906,7 @@ I_events_0 = [
 "part_person": [
 2688
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -226974,7 +227031,7 @@ I_events_0 = [
 "part_person": [
 2689
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -226996,7 +227053,7 @@ I_events_0 = [
 "part_person": [
 2689
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227015,13 +227072,13 @@ I_events_0 = [
 "part_person": [
 2689
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8347
+8345
 ],
 "date": "1803-08",
 "date_sdn": 2379804,
@@ -227032,7 +227089,7 @@ I_events_0 = [
 "part_person": [
 2689
 ],
-"place": 1294,
+"place": 1295,
 "text": "",
 "type": "Kuolema"
 },
@@ -227083,7 +227140,7 @@ I_events_0 = [
 "part_person": [
 2690
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227104,7 +227161,7 @@ I_events_0 = [
 "part_person": [
 2690
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227125,7 +227182,7 @@ I_events_0 = [
 "part_person": [
 2690
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227143,7 +227200,7 @@ I_events_0 = [
 "part_person": [
 2690
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227160,7 +227217,7 @@ I_events_0 = [
 "part_person": [
 2690
 ],
-"place": 1291,
+"place": 1292,
 "text": "",
 "type": "Kuolema"
 },
@@ -227247,7 +227304,7 @@ I_events_0 = [
 "part_person": [
 2691
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227264,7 +227321,7 @@ I_events_0 = [
 "part_person": [
 2691
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227300,7 +227357,7 @@ I_events_0 = [
 "part_person": [
 2692
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -227317,7 +227374,7 @@ I_events_0 = [
 "part_person": [
 2692
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -227341,7 +227398,7 @@ I_events_0 = [
 "part_person": [
 2692
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227358,7 +227415,7 @@ I_events_0 = [
 "part_person": [
 2692
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Kuolema"
 },
@@ -227409,7 +227466,7 @@ I_events_0 = [
 "part_person": [
 2693
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -227427,7 +227484,7 @@ I_events_0 = [
 "part_person": [
 2693
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227447,7 +227504,7 @@ I_events_0 = [
 "part_person": [
 2693
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227464,7 +227521,7 @@ I_events_0 = [
 "part_person": [
 2693
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Kuolema"
 },
@@ -227498,7 +227555,7 @@ I_events_0 = [
 "part_person": [
 2694
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -227518,7 +227575,7 @@ I_events_0 = [
 "part_person": [
 2694
 ],
-"place": 1295,
+"place": 1296,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -227610,7 +227667,7 @@ I_events_0 = [
 "part_person": [
 2695
 ],
-"place": 1296,
+"place": 1297,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227627,7 +227684,7 @@ I_events_0 = [
 "part_person": [
 2695
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227645,7 +227702,7 @@ I_events_0 = [
 "part_person": [
 2695
 ],
-"place": 1296,
+"place": 1297,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227699,7 +227756,7 @@ I_events_0 = [
 "part_person": [
 2695
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227716,7 +227773,7 @@ I_events_0 = [
 "part_person": [
 2695
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Kuolema"
 },
@@ -227752,7 +227809,7 @@ I_events_0 = [
 "part_person": [
 2696
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -227772,7 +227829,7 @@ I_events_0 = [
 "part_person": [
 2696
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227810,7 +227867,7 @@ I_events_0 = [
 "part_person": [
 2696
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227829,7 +227886,7 @@ I_events_0 = [
 "part_person": [
 2696
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -227865,7 +227922,7 @@ I_events_0 = [
 "part_person": [
 2697
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -227886,7 +227943,7 @@ I_events_0 = [
 "part_person": [
 2697
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228051,7 +228108,7 @@ I_events_0 = [
 "part_person": [
 2698
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228069,7 +228126,7 @@ I_events_0 = [
 "part_person": [
 2698
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228086,7 +228143,7 @@ I_events_0 = [
 "part_person": [
 2698
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Kuolema"
 },
@@ -228155,7 +228212,7 @@ I_events_0 = [
 "part_person": [
 2699
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228173,7 +228230,7 @@ I_events_0 = [
 "part_person": [
 2699
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228192,7 +228249,7 @@ I_events_0 = [
 "part_person": [
 2699
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228209,7 +228266,7 @@ I_events_0 = [
 "part_person": [
 2699
 ],
-"place": 1298,
+"place": 1299,
 "text": "",
 "type": "Kuolema"
 },
@@ -228243,7 +228300,7 @@ I_events_0 = [
 "part_person": [
 2700
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -228261,7 +228318,7 @@ I_events_0 = [
 "part_person": [
 2700
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228471,7 +228528,7 @@ I_events_0 = [
 "part_person": [
 2702
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -228541,7 +228598,7 @@ I_events_0 = [
 "part_person": [
 2703
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -228561,7 +228618,7 @@ I_events_0 = [
 "part_person": [
 2703
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228667,7 +228724,7 @@ I_events_0 = [
 "part_person": [
 2704
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -228684,7 +228741,7 @@ I_events_0 = [
 "part_person": [
 2704
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228704,7 +228761,7 @@ I_events_0 = [
 "part_person": [
 2704
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228721,7 +228778,7 @@ I_events_0 = [
 "part_person": [
 2704
 ],
-"place": 1317,
+"place": 1318,
 "text": "",
 "type": "Kuolema"
 },
@@ -228778,7 +228835,7 @@ I_events_0 = [
 "part_person": [
 2705
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -228798,7 +228855,7 @@ I_events_0 = [
 "part_person": [
 2705
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228904,7 +228961,7 @@ I_events_0 = [
 "part_person": [
 2706
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228922,7 +228979,7 @@ I_events_0 = [
 "part_person": [
 2706
 ],
-"place": 1318,
+"place": 1319,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -228989,7 +229046,7 @@ I_events_0 = [
 "part_person": [
 2707
 ],
-"place": 1316,
+"place": 1317,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -229058,7 +229115,7 @@ I_events_0 = [
 "part_person": [
 2708
 ],
-"place": 1273,
+"place": 1274,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -229093,13 +229150,13 @@ I_events_0 = [
 "part_person": [
 2708
 ],
-"place": 1264,
+"place": 1265,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8614
+8612
 ],
 "date": "1742 j\u00e4lkeen",
 "date_sdn": 2357313,
@@ -229199,7 +229256,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8416
+8414
 ],
 "date": "noin 1680",
 "date_sdn": 2334668,
@@ -229252,7 +229309,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8416
+8414
 ],
 "date": "1760-05-01",
 "date_sdn": 2364008,
@@ -229388,7 +229445,7 @@ I_events_0 = [
 {
 "cita": [
 3608,
-8413
+8411
 ],
 "date": "noin 1692",
 "date_sdn": 2339051,
@@ -229426,7 +229483,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8413
+8411
 ],
 "date": "1759-07-07",
 "date_sdn": 2363709,
@@ -229528,7 +229585,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8538
+8536
 ],
 "date": "noin 1713",
 "date_sdn": 2346721,
@@ -229576,7 +229633,7 @@ I_events_0 = [
 "part_person": [
 2715
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -229593,13 +229650,13 @@ I_events_0 = [
 "part_person": [
 2715
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-8538
+8536
 ],
 "date": "1790-07-13",
 "date_sdn": 2375038,
@@ -229610,7 +229667,7 @@ I_events_0 = [
 "part_person": [
 2715
 ],
-"place": 1306,
+"place": 1307,
 "text": "",
 "type": "Kuolema"
 },
@@ -229634,7 +229691,7 @@ I_events_0 = [
 {
 "cita": [
 2266,
-8418
+8416
 ],
 "date": "noin 1716",
 "date_sdn": 2347816,
@@ -229686,7 +229743,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8418
+8416
 ],
 "date": "1761-02-09",
 "date_sdn": 2364292,
@@ -229795,7 +229852,7 @@ I_events_0 = [
 },
 {
 "cita": [
-8528
+8526
 ],
 "date": "1789-01-16",
 "date_sdn": 2374495,
@@ -229829,7 +229886,7 @@ I_events_0 = [
 [
 {
 "cita": [
-8383
+8381
 ],
 "date": "1753-04-15",
 "date_sdn": 2361435,
@@ -229965,7 +230022,7 @@ I_events_0 = [
 "part_person": [
 2719
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -230035,7 +230092,7 @@ I_events_0 = [
 "part_person": [
 2720
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -230052,7 +230109,7 @@ I_events_0 = [
 "part_person": [
 2720
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -230179,7 +230236,7 @@ I_events_0 = [
 "part_person": [
 2721
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -230196,7 +230253,7 @@ I_events_0 = [
 "part_person": [
 2721
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -230213,7 +230270,7 @@ I_events_0 = [
 "part_person": [
 2721
 ],
-"place": 1323,
+"place": 1324,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -230230,7 +230287,7 @@ I_events_0 = [
 "part_person": [
 2721
 ],
-"place": 1257,
+"place": 1258,
 "text": "",
 "type": "Ammatti tai asema"
 },
