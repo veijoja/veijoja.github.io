@@ -1,0 +1,7 @@
+/* This stylesheet will infuence nr & name of report sections */
+/* when Report layout:Paragraph style is checked */
+/* You can edit it by hand with e.g. Notepad */
+/* Of relevance is the definition of style elements for class "p" of*/
+/* HTML element <a>*/
+
+a.p {color:maroon; font-size:12pt} 
