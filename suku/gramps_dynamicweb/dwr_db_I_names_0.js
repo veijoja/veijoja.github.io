@@ -9083,24 +9083,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": ", Mauno",
-"given": "Mauno",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-""
-],
-"title": "",
-"type": "Syntym\u00e4nimi"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": ", Michel Hinckasson",
 "given": "Michel",
 "nick": "",
@@ -16925,8 +16907,8 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-4882,
-4884
+4883,
+4885
 ],
 "date": "",
 "fam_nick": "",
@@ -22082,6 +22064,40 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "J\u00e4rvinen, Elma Elina",
+"given": "Elma Elina",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"J\u00e4rvinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kammonen",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Kammonen"
+],
+"title": "",
+"type": "Avionimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "J\u00e4rvinen, Heikki Johannes",
 "given": "Heikki Johannes",
 "nick": "",
@@ -23075,6 +23091,24 @@ I_names_0 = [
 "suffix": "Juhonpoika",
 "surnames": [
 "Kallonen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kammonen, Pentti",
+"given": "Pentti",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Kammonen"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -29090,6 +29124,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Lepola, Pentti",
+"given": "Pentti",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Lepola"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Lepp\u00e4j\u00e4rvi, Stina Liisa Kustaantyt\u00e4r",
 "given": "Stina Liisa",
 "nick": "",
@@ -31193,6 +31245,24 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "Matikainen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Matilainen, Mauno",
+"given": "Mauno",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Matilainen"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
@@ -46711,6 +46781,24 @@ I_names_0 = [
 "suffix": "Olofsson",
 "surnames": [
 "Suutari"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "S\u00e4rkikanta, Heikki Juhani",
+"given": "Heikki Juhani",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"S\u00e4rkikanta"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"

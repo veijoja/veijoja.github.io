@@ -1904,6 +1904,14 @@ S_repo_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
 "r_idx": 12
 }
 ],
@@ -3017,6 +3025,14 @@ S_repo_0 = [
 "media_type": "Sanomalehti",
 "note": "",
 "r_idx": 33
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
 }
 ],
 [
@@ -9812,6 +9828,14 @@ S_repo_0 = [
 "media_type": "Kirja",
 "note": "",
 "r_idx": 28
+}
+],
+[
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
 }
 ],
 [

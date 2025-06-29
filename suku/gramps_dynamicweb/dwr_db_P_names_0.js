@@ -876,6 +876,20 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Halolanm\u00e4en kansakoulu"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Halolanm\u00e4ki"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Hamina"
 },
 {
@@ -1814,6 +1828,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Huurretie 5"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Hyhky"
 }
 ],
@@ -1836,6 +1857,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Hyrkk\u00f6l\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Hyvink\u00e4\u00e4"
 }
 ],
 [
@@ -2355,6 +2383,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Julkuj\u00e4rvi"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Juokslahti"
 }
 ],
@@ -2769,6 +2804,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Karjula"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Karkeala"
 }
 ],
 [
@@ -3286,6 +3328,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Gerkn\u00e4s"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kirkonkyl\u00e4n koulu"
 }
 ],
 [
@@ -3918,6 +3967,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Lahdenkyl\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kuoreveden kunta"
 }
 ],
 [
@@ -4641,6 +4697,18 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Lupra"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Lvov"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Lviv"
 }
 ],
 [
@@ -8690,6 +8758,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Suhonkyl\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Suinula"
 }
 ],
@@ -8809,6 +8884,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Suonenjoki"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Sysm\u00e4"
 }
 ],
@@ -8817,6 +8899,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "S\u00e4llinlahti"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "S\u00e4rkikanta"
 }
 ],
 [
@@ -9048,6 +9137,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Tavela"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Teboil Julkuj\u00e4rvi"
 }
 ],
 [
@@ -9472,6 +9568,25 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Ukonpelto"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Ukraina"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Ukraine"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Ulvila"
 },
 {
@@ -9611,6 +9726,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Uudenmaan ja H\u00e4meen l\u00e4\u00e4nin ratsuv\u00e4kirykmentti"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Uudenmaan maaseutuopisto"
 }
 ],
 [
@@ -9814,6 +9936,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Valkj\u00e4rvi"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Valma Lepola Ky"
 }
 ],
 [

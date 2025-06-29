@@ -2175,6 +2175,7 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-07-05\n</p><p>\n<b>\nSivu: \n</b>\nHuittula, mm. kyl\u00e4n kantatalot\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-02-18\n</p><p>\n<b>\nSivu: \n</b>\nHulipas yksin\u00e4istalo ja Rassinoja\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-10\n</p><p>\n<b>\nSivu: \n</b>\nHumppila, V\u00e4h\u00e4-K\u00e4tt\u00f6 Koivisto Humppila: mm. Gabriel Henricss M\u00e4xberg, Maria Samuelsd Barck ja Anna Larsd \u00c4hrling\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-06-27\n</p><p>\n<b>\nSivu: \n</b>\nHuoltoasemat Yl\u00f6j\u00e4rvell\u00e4 ennen ja nyt, julkaistu 11.10.2023\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-02-07\n</p><p>\n<b>\nSivu: \n</b>\nHuomioita ja teorioita\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-11\n</p><p>\n<b>\nSivu: \n</b>\nHuovila, taulu 1: mm. lautamiehet Per Sigfridsson \"Huilu-Pieti\" ja Olof Nilsson V\u00e4lkki\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-11\n</p><p>\n<b>\nSivu: \n</b>\nHuovila, taulu 1: mm. Olof Nilsson V\u00e4lkki\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",
@@ -4999,7 +5000,6 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 324, sivu 664: Yl\u00e4j\u00e4rvi No 4 Kruunun R\u00e4lssi Hiiri ja Lappalainen\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-01-01\n</p><p>\n<b>\nSivu: \n</b>\njakso 324, sivu 672: Yl\u00e4j\u00e4rvi N:o 5 Inkinen\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-10-18\n</p><p>\n<b>\nSivu: \n</b>\njakso 324, sivu x: vihityt 1846 huhtikuu - kes\u00e4kuu, viimeinen merkint\u00e4 jatkuu seuraavassa jaksossa\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-18\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu 320: Yll\u00e4j\u00e4rvi No 1\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2021-04-05\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu 652-653: D\u00f6de och begrafne \u00e5r 1830 April - Julii\n</p>"
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-18\n</p><p>\n<b>\nSivu: \n</b>\njakso 325, sivu 320: Yll\u00e4j\u00e4rvi No 1\n</p>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_text_0.js');

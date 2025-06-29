@@ -244,6 +244,7 @@ S_publ_0 = [
 "",
 "",
 "",
+"",
 "Kyl\u00e4voimaa-projektin aikana 2012-2014 luotu sivusto",
 "",
 "",
@@ -349,6 +350,7 @@ S_publ_0 = [
 "",
 "",
 "Museovirasto",
+"",
 "",
 "",
 "",
@@ -1232,6 +1234,7 @@ S_publ_0 = [
 "",
 "",
 "",
+"Yl\u00f6jarviseura",
 ""
 ]
 Dwr.ScriptLoaded('dwr_db_S_publ_0.js');

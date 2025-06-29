@@ -240,6 +240,7 @@ S_title_0 = [
 "Kaukolan srk - syntyneet, vihityt ja kuolleet 1811-1839",
 "Kaukolan srk - tippikirja 1832-1847 (I Aa:8)",
 "Kaukolan srk -rippikirja 1848-1867 (I Aa:10 II)",
+"Kaupparekisteri",
 "Keuruu HisKi haudatut",
 "Keuruu HisKi kastetut",
 "Keuruu HisKi vihityt",
@@ -380,6 +381,7 @@ S_title_0 = [
 "Kuoreveden srk - syntyneet, vihityt ja kuolleet 1701-1763",
 "Kuoreveden srk - syntyneet, vihityt ja kuolleet 1764-1809",
 "Kuorevesi-M\u00e4ntt\u00e4-Vilppula -paikallislehti",
+"Kuvia Hyvink\u00e4\u00e4lt\u00e4, www.hyvinkaakuvat.com",
 "K\u00e4kisalmen kaupunki- ja maasrk - kuolleet 1734-1767",
 "K\u00e4kisalmen kaupunki- ja maasrk - kuolleet 1805-1839",
 "K\u00e4kisalmen kaupunki- ja maasrk - rippikirja 1690-1710 (I Aa:1)",
@@ -1232,6 +1234,7 @@ S_title_0 = [
 "Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1744-1744 (KO a:61)",
 "Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1745-1745 (KO a:62)",
 "Yl\u00e4-Satakunnan tuomiokunnan renovoidut tuomiokirjat - Varsinaisten asioiden p\u00f6yt\u00e4kirjat 1746-1746 (KO a:63)",
+"Yl\u00f6j\u00e4rven Muisti, ylojarvenmuisti.ylojarviseura.net",
 "Yl\u00f6j\u00e4rven Uutiset -sanomalehti"
 ]
 Dwr.ScriptLoaded('dwr_db_S_title_0.js');

@@ -244,6 +244,7 @@ S_text_0 = [
 "",
 "",
 "",
+"",
 "<p>\n<b>\nJulkaisutiedot: \n</b>\nKyl\u00e4voimaa-projektin aikana 2012-2014 luotu sivusto\n</p>",
 "",
 "",
@@ -380,6 +381,7 @@ S_text_0 = [
 "",
 "",
 "",
+"<p>\n<b>\nLyhennys: \n</b>\nMaaseutuopisto\n</p>",
 "",
 "",
 "",
@@ -1232,6 +1234,7 @@ S_text_0 = [
 "",
 "",
 "",
+"<p>\n<b>\nJulkaisutiedot: \n</b>\nYl\u00f6jarviseura\n</p>",
 ""
 ]
 Dwr.ScriptLoaded('dwr_db_S_text_0.js');
