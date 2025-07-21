@@ -4150,6 +4150,14 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 48
+}
+],
+[
+{
+"call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "r_idx": 48
@@ -6322,14 +6330,6 @@ S_repo_0 = [
 "media_type": "Kirja",
 "note": "",
 "r_idx": 58
-}
-],
-[
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
-"r_idx": 3
 }
 ],
 [
@@ -9164,6 +9164,14 @@ S_repo_0 = [
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "r_idx": 48
+}
+],
+[
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"r_idx": 3
 }
 ],
 [

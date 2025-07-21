@@ -1999,6 +1999,11 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "H\u00f6ytee"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "H\u00f6ydes"
 }
 ],
 [
@@ -3621,6 +3626,11 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Kopsamo"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kopsama"
 }
 ],
 [
@@ -4348,6 +4358,18 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Lapinlahti"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Lapintaival"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Pohjoisniemen Mannila"
 }
 ],
 [
@@ -5577,6 +5599,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "M\u00e4lk\u00f6l\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "M\u00e4mmisaari"
 }
 ],
 [
@@ -7027,6 +7056,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Puukkoinen"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Puumala"
 }
 ],
 [

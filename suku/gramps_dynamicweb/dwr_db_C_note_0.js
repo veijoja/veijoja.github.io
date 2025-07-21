@@ -650,6 +650,9 @@ C_note_0 = [
 "",
 "",
 "",
+"<div>\n<i class=\"NoteType\">\nLainaus\n</i>\n<div class=\"grampsstylednote\">\n<p>\n\"... V 1561 l\u00f6ytyy Puumalan historian is\u00e4nt\u00e4luettelon Kitulan nelj\u00e4nneskunnasta (Kitulan kyl\u00e4ss\u00e4 talo n:o 1 vv 1540-1562) Hannu Nenonen, h\u00e4nen halliannassaan on tuolloin ollut yksi tilus, jonka arvoksi on m\u00e4\u00e4r\u00e4tty 8 veromarkkaa. Samalla tilalla on asunut lis\u00e4ksi Heikki ja Tuomas Viuhkoinen, mutta heid\u00e4n suhteensa Nenosiin ei selvi\u00e4 Kitulan Nenoset eiv\u00e4t Puumalassa olleet mit\u00e4\u00e4n \"valtasukuja\", heit\u00e4 on ollut vain yhdess\u00e4 talossa eik\u00e4 heit\u00e4 n\u00e4y enemp\u00e4\u00e4 rikosreksiteriss\u00e4 kuin hallintomiehin\u00e4k\u00e4\u00e4n. Vuoden 1571 hopeaveroluettelossa tilalla oli karjaa 1 lammas ja 1 hevonen, omaisuuden arvo 11 mk. N\u00e4ytt\u00e4\u00e4 hyvin uskottavalta, ett\u00e4 Suur-Ruoveden Pihlajalahden kyl\u00e4ss\u00e4 v:sta 1569 asuneet veljekset Olli ja Pekka Hannunpoika Nenoinen ovat t\u00e4m\u00e4n Hannun poikia. He saapuivat Ruoveden er\u00e4maihin Rautalammin kautta. (Dos Kauko Pirinen: Savon Historia II ja Mauno Jokipii: Wanhan Ruoveden Historia) Prof Saloheimon mukaan on todenn\u00e4k\u00f6ist\u00e4, ett\u00e4 muutto Puumalasta Ruovedelle on tapahtunut yht\u00e4jaksoisesti. Tuolloin vesireitit olivat asukakiden hyvin tuntemia ja jonkinlainen tiest\u00f6 oli k\u00e4yt\u00f6ss\u00e4. Savosta muutettiin vilkkaasti Pohjois-H\u00e4meeseen ja Pohjanmaalle...\"\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"",
+"",
 "",
 "",
 "",
@@ -2988,6 +2991,7 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=10026629994&amp;aineistoId=1228764844\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6030077857&amp;aineistoId=1165814956\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6030056837&amp;aineistoId=1164843098\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia//viewer/?fileId=6020049717&amp;aineistoId=1157183899\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9293654408&amp;aineistoId=1215550794\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=10025585804&amp;aineistoId=1229544800\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=10025577213&amp;aineistoId=1229407733\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -2995,7 +2999,6 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5918293632&amp;aineistoId=1227382761\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6030028541&amp;aineistoId=1164934658\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=10025586774&amp;aineistoId=1229511241\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6020049258&amp;aineistoId=1157183899\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9847240962&amp;aineistoId=1201699682\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5835888253&amp;aineistoId=1201519494\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5963010166&amp;aineistoId=1224875900\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -3895,7 +3898,7 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5737595137&amp;aineistoId=3613596306\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5737308195&amp;aineistoId=3618543708\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6168488909&amp;aineistoId=1164195493\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5814229649&amp;aineistoId=1157164322\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia//viewer/?fileId=5814229907&amp;aineistoId=1157164322\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttp://www.sukuhistoria.fi/sshy/sivut/jasenille/paikat.php?bid=33836&amp;pnum=19\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9791466965&amp;aineistoId=1224949903\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9917614099&amp;aineistoId=1840083429\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -4542,7 +4545,6 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5918293374&amp;aineistoId=1227382761\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6030028265&amp;aineistoId=1164934658\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5814414961&amp;aineistoId=1157371145\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\n https://astia.narc.fi/uusiastia/viewer/?fileId=8163553858&amp;aineistoId=1818920222<br />\nOriveden talvik\u00e4r\u00e4j\u00e4t 3-5.2.1690<br />\ns. 1386<br />\nEfter landsh\u00f6f:ns resolution b\u00f6r f\u00f6rdetta jachtfougden i Ruowesi och Keuru Johan Jacobsson f\u00f6r sin giordh tienst pro 1689 \u00e5thniuta sin jachtfougdecap:r, men det oachtadt hade den nyss tillsatte skallfougden Hendrich Olofsson, som boendes \u00e4hr i Kuorewesi cappellegi\u00e4ldh och Lachdis by, samme cap:r upbuhrit.\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9791688009&amp;aineistoId=1224455144\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6030010976&amp;aineistoId=1164255007\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450218864&amp;aineistoId=1226504823\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -4998,8 +5000,6 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5866625933&amp;aineistoId=1161666295\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450906146&amp;aineistoId=1228689363\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450840108&amp;aineistoId=1226695773\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450300254&amp;aineistoId=1226728007\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5812107342&amp;aineistoId=1839958726\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450784647&amp;aineistoId=1226560033\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>"
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450300254&amp;aineistoId=1226728007\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_note_0.js');

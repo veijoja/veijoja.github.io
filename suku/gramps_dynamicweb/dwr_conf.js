@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Jämsän seudun ja Karjalankannaksen väkeä";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 8705,
-    "F": 1594,
-    "I": 2726,
+    "C": 8776,
+    "F": 1600,
+    "I": 2732,
     "M": 0,
-    "N": 579,
-    "P": 1343,
+    "N": 578,
+    "P": 1346,
     "R": 90,
-    "S": 1235
+    "S": 1236
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];

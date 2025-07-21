@@ -11201,11 +11201,11 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Aakkola, Hindrich Hindrichsson",
+"full": "Aakkola, Hindrich Hendersson",
 "given": "Hindrich",
 "nick": "",
 "note": "",
-"suffix": "Hindrichsson",
+"suffix": "Hendersson",
 "surnames": [
 "Aakkola"
 ],
@@ -16907,8 +16907,8 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-4883,
-4885
+4885,
+4887
 ],
 "date": "",
 "fam_nick": "",
@@ -24214,6 +24214,42 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Kavala, Oluff Persson",
+"given": "Oluff",
+"nick": "",
+"note": "",
+"suffix": "Persson",
+"surnames": [
+"Kavala"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kavala, Per Oluffson",
+"given": "Per",
+"nick": "",
+"note": "",
+"suffix": "Oluffson",
+"surnames": [
+"Kavala"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Keikkala, Clemet Mattsson",
 "given": "Clemet",
 "nick": "",
@@ -28442,6 +28478,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "Laalahti, Henrich Olsson",
+"given": "Henrich",
+"nick": "",
+"note": "",
+"suffix": "Olsson",
+"surnames": [
+"Laalahti"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "Laalahti, Henrik Michelsson",
 "given": "Henrik",
 "nick": "",
@@ -28470,6 +28524,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Laalahti, Olof Henrichsson",
+"given": "Olof",
+"nick": "",
+"note": "",
+"suffix": "Henrichsson",
+"surnames": [
+"Laalahti"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -31014,24 +31086,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Marttila, M\u00e5rten Henricsson",
-"given": "M\u00e5rten",
-"nick": "",
-"note": "",
-"suffix": "Henricsson",
-"surnames": [
-"Marttila"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -34998,6 +35052,24 @@ I_names_0 = [
 "fam_nick": "",
 "full": "Nenonen, Erich",
 "given": "Erich",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Nenonen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Nenonen, Hans",
+"given": "Hans",
 "nick": "",
 "note": "",
 "suffix": "",
@@ -46510,11 +46582,47 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Suinu, Henrik",
-"given": "Henrik",
+"full": "Suinu, Clemeth",
+"given": "Clemeth",
 "nick": "",
 "note": "",
 "suffix": "",
+"surnames": [
+"Suinu"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Suinu, Henrich",
+"given": "Henrich",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Suinu"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Suinu, M\u00e5rten Henricsson",
+"given": "M\u00e5rten",
+"nick": "",
+"note": "",
+"suffix": "Henricsson",
 "surnames": [
 "Suinu"
 ],
@@ -48540,24 +48648,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Tottinen, Thomas J\u00f6nsson",
-"given": "Thomas",
-"nick": "",
-"note": "",
-"suffix": "J\u00f6nsson",
-"surnames": [
-"Tottinen"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Tuna, Maria",
 "given": "Maria",
 "nick": "",
@@ -48827,6 +48917,24 @@ I_names_0 = [
 "nick": "",
 "note": "",
 "suffix": "",
+"surnames": [
+"Tuottinen"
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Tuottinen, Thomas J\u00f6nsson",
+"given": "Thomas",
+"nick": "",
+"note": "",
+"suffix": "J\u00f6nsson",
 "surnames": [
 "Tuottinen"
 ],

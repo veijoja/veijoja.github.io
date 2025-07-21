@@ -523,7 +523,6 @@ N_surname_0 = [
 "Tomperi",
 "Tontti",
 "Torkkeli",
-"Tottinen",
 "Tuna",
 "Tunkelo",
 "Tuokko",

@@ -1179,6 +1179,7 @@ S_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hteen lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://kaino.kotus.fi/www/verkkojulkaisut/julk68/Varsinais-Suomen_kylannimet.pdf\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "",
 "",
