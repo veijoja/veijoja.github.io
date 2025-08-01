@@ -114,6 +114,7 @@ S_text_0 = [
 "",
 "",
 "<p>\n<b>\nJulkaisutiedot: \n</b>\nSuomalaisen Kirjallisuuden Seura, Helsinki 1881\n</p>",
+"<p>\n<b>\nTekij\u00e4: \n</b>\nRapo, Seppo\n</p>",
 "",
 "",
 "<p>\n<b>\nTekij\u00e4: \n</b>\nJ\u00e4ppinen, Veijo\n</p><p>\n<b>\nLyhennys: \n</b>\nMusta Rudolf\n</p><p>\n<b>\nJulkaisutiedot: \n</b>\nVerkkojulkaisu 2007, URL https://veijoja.github.io/keskinen/\n</p>",

@@ -114,6 +114,7 @@ S_title_0 = [
 "Lohjan srk - syntyneiden ja kastettujen luettelot 1844-1889",
 "Lohjan srk - vihityt 1810-1889 (MKO230-234)",
 "Luettelo kaikista rustholleista Suomen Suuriruhtinaanmaassa",
+"Luovutettu Karjala -sivusto, www.luovutettukarjala.fi",
 "Luovutetun Etel\u00e4-Karjalan pit\u00e4j\u00e4t, www.luovutetunetelakarjalanpitajat.fi",
 "Muolaan srk - lastenkirja 1910-1919 (I Ab:14, Oravala - Wesikkala)",
 "Musta Rudolf - Sotilasmestari Martti Keskisen muistelmat",

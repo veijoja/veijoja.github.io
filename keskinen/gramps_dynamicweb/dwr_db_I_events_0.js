@@ -15,7 +15,7 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -34,7 +34,7 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -71,7 +71,7 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 249,
+"place": 250,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -89,7 +89,7 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 138,
+"place": 139,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -107,7 +107,7 @@ I_events_0 = [
 "part_person": [
 0
 ],
-"place": 138,
+"place": 139,
 "text": "",
 "type": "Kuolema"
 },
@@ -142,7 +142,7 @@ I_events_0 = [
 "part_person": [
 1
 ],
-"place": 249,
+"place": 250,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -178,7 +178,7 @@ I_events_0 = [
 "part_person": [
 1
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -198,7 +198,7 @@ I_events_0 = [
 "part_person": [
 1
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -215,7 +215,7 @@ I_events_0 = [
 "part_person": [
 1
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Kuolema"
 },
@@ -269,7 +269,7 @@ I_events_0 = [
 "part_person": [
 2
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -287,7 +287,7 @@ I_events_0 = [
 "part_person": [
 2
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -305,7 +305,7 @@ I_events_0 = [
 "part_person": [
 2
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Kuolema"
 },
@@ -440,7 +440,7 @@ I_events_0 = [
 "part_person": [
 4
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -457,7 +457,7 @@ I_events_0 = [
 "part_person": [
 4
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -511,7 +511,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -529,7 +529,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -546,7 +546,7 @@ I_events_0 = [
 "part_person": [
 5
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Kuolema"
 },
@@ -597,7 +597,7 @@ I_events_0 = [
 "part_person": [
 6
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -615,13 +615,13 @@ I_events_0 = [
 "part_person": [
 6
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-796
+795
 ],
 "date": "1781-10-20",
 "date_sdn": 2371850,
@@ -632,7 +632,7 @@ I_events_0 = [
 "part_person": [
 6
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Kuolema"
 },
@@ -710,7 +710,7 @@ I_events_0 = [
 },
 {
 "cita": [
-346
+347
 ],
 "date": "1790-04-18",
 "date_sdn": 2374952,
@@ -727,7 +727,7 @@ I_events_0 = [
 },
 {
 "cita": [
-346
+347
 ],
 "date": "1790-04-25",
 "date_sdn": 2374959,
@@ -738,7 +738,7 @@ I_events_0 = [
 "part_person": [
 7
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -774,7 +774,7 @@ I_events_0 = [
 "part_person": [
 8
 ],
-"place": 210,
+"place": 211,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -793,7 +793,7 @@ I_events_0 = [
 "part_person": [
 8
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -810,7 +810,7 @@ I_events_0 = [
 "part_person": [
 8
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -828,13 +828,13 @@ I_events_0 = [
 "part_person": [
 8
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-351
+352
 ],
 "date": "1791-11-27",
 "date_sdn": 2375540,
@@ -860,7 +860,7 @@ I_events_0 = [
 "part_person": [
 8
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -880,7 +880,7 @@ I_events_0 = [
 "part_person": [
 9
 ],
-"place": 240,
+"place": 241,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -932,7 +932,7 @@ I_events_0 = [
 "part_person": [
 9
 ],
-"place": 174,
+"place": 175,
 "text": "",
 "type": "Hautaus"
 }
@@ -971,7 +971,7 @@ I_events_0 = [
 "part_person": [
 10
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -988,7 +988,7 @@ I_events_0 = [
 "part_person": [
 10
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1005,7 +1005,7 @@ I_events_0 = [
 "part_person": [
 10
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Kuolema"
 },
@@ -1046,7 +1046,7 @@ I_events_0 = [
 {
 "cita": [
 32,
-353,
+354,
 513,
 537,
 576,
@@ -1083,7 +1083,7 @@ I_events_0 = [
 "part_person": [
 11
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1100,7 +1100,7 @@ I_events_0 = [
 "part_person": [
 11
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1117,7 +1117,7 @@ I_events_0 = [
 "part_person": [
 11
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Kuolema"
 },
@@ -1202,7 +1202,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 196,
+"place": 197,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1253,7 +1253,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 144,
+"place": 145,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1270,7 +1270,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 121,
+"place": 122,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1305,7 +1305,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 243,
+"place": 244,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1339,7 +1339,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 243,
+"place": 244,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1390,7 +1390,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 124,
+"place": 125,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1407,7 +1407,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 124,
+"place": 125,
 "text": "",
 "type": "Kuolema"
 },
@@ -1422,7 +1422,7 @@ I_events_0 = [
 "part_person": [
 12
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -1443,7 +1443,7 @@ I_events_0 = [
 "part_person": [
 13
 ],
-"place": 179,
+"place": 180,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -1461,7 +1461,7 @@ I_events_0 = [
 "part_person": [
 13
 ],
-"place": 179,
+"place": 180,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1557,7 +1557,7 @@ I_events_0 = [
 [
 {
 "cita": [
-371
+372
 ],
 "date": "noin 1665",
 "date_sdn": 2329190,
@@ -1591,7 +1591,7 @@ I_events_0 = [
 },
 {
 "cita": [
-371
+372
 ],
 "date": "1759-02-03",
 "date_sdn": 2363555,
@@ -1602,7 +1602,7 @@ I_events_0 = [
 "part_person": [
 14
 ],
-"place": 150,
+"place": 151,
 "text": "",
 "type": "Kuolema"
 },
@@ -1617,7 +1617,7 @@ I_events_0 = [
 "part_person": [
 14
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -1656,7 +1656,7 @@ I_events_0 = [
 "part_person": [
 15
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -1673,7 +1673,7 @@ I_events_0 = [
 "part_person": [
 15
 ],
-"place": 120,
+"place": 121,
 "text": "",
 "type": "Kuolema"
 },
@@ -1725,7 +1725,7 @@ I_events_0 = [
 "part_person": [
 16
 ],
-"place": 249,
+"place": 250,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -1914,7 +1914,7 @@ I_events_0 = [
 "part_person": [
 17
 ],
-"place": 199,
+"place": 200,
 "text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHaudattu kirkkomaalle (kyrkog\u00e5rden)\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "type": "Hautaus"
 }
@@ -2043,7 +2043,7 @@ I_events_0 = [
 "part_person": [
 19
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2060,7 +2060,7 @@ I_events_0 = [
 "part_person": [
 19
 ],
-"place": 120,
+"place": 121,
 "text": "",
 "type": "Kuolema"
 },
@@ -2085,7 +2085,7 @@ I_events_0 = [
 "cita": [
 146,
 203,
-374
+375
 ],
 "date": "1720",
 "date_sdn": 2349277,
@@ -2130,7 +2130,7 @@ I_events_0 = [
 "part_person": [
 20
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2150,7 +2150,7 @@ I_events_0 = [
 "part_person": [
 20
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2167,7 +2167,7 @@ I_events_0 = [
 "part_person": [
 20
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2184,7 +2184,7 @@ I_events_0 = [
 "part_person": [
 20
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Kuolema"
 },
@@ -2348,7 +2348,7 @@ I_events_0 = [
 "part_person": [
 22
 ],
-"place": 199,
+"place": 200,
 "text": "",
 "type": "Hautaus"
 }
@@ -2356,7 +2356,7 @@ I_events_0 = [
 [
 {
 "cita": [
-363
+364
 ],
 "date": "noin 1686",
 "date_sdn": 2336860,
@@ -2384,13 +2384,13 @@ I_events_0 = [
 "part_person": [
 23
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-363
+364
 ],
 "date": "1742-05",
 "date_sdn": 2357433,
@@ -2401,7 +2401,7 @@ I_events_0 = [
 "part_person": [
 23
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Kuolema"
 },
@@ -2435,7 +2435,7 @@ I_events_0 = [
 "part_person": [
 24
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -2469,7 +2469,7 @@ I_events_0 = [
 "part_person": [
 24
 ],
-"place": 131,
+"place": 132,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2507,7 +2507,7 @@ I_events_0 = [
 "part_person": [
 24
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2524,7 +2524,7 @@ I_events_0 = [
 "part_person": [
 24
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Kuolema"
 },
@@ -2539,7 +2539,7 @@ I_events_0 = [
 "part_person": [
 24
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -2628,7 +2628,7 @@ I_events_0 = [
 "part_person": [
 25
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2646,7 +2646,7 @@ I_events_0 = [
 "part_person": [
 25
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Kuolema"
 },
@@ -2680,7 +2680,7 @@ I_events_0 = [
 "part_person": [
 26
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -2785,7 +2785,7 @@ I_events_0 = [
 "part_person": [
 26
 ],
-"place": 244,
+"place": 245,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -2825,7 +2825,7 @@ I_events_0 = [
 },
 {
 "cita": [
-373
+374
 ],
 "date": "1856-01-28",
 "date_sdn": 2398977,
@@ -2955,7 +2955,7 @@ I_events_0 = [
 "part_person": [
 27
 ],
-"place": 234,
+"place": 235,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -3023,7 +3023,7 @@ I_events_0 = [
 "part_person": [
 27
 ],
-"place": 122,
+"place": 123,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3084,7 +3084,7 @@ I_events_0 = [
 },
 {
 "cita": [
-359
+360
 ],
 "date": "1897-09-16",
 "date_sdn": 2414184,
@@ -3170,7 +3170,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3187,13 +3187,13 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-361
+362
 ],
 "date": "1899-09-29",
 "date_sdn": 2414927,
@@ -3204,7 +3204,7 @@ I_events_0 = [
 "part_person": [
 28
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Kuolema"
 },
@@ -3270,7 +3270,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3307,7 +3307,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 249,
+"place": 250,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3325,7 +3325,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 138,
+"place": 139,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3361,7 +3361,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3381,7 +3381,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3398,7 +3398,7 @@ I_events_0 = [
 "part_person": [
 29
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Kuolema"
 },
@@ -3552,7 +3552,7 @@ I_events_0 = [
 "part_person": [
 30
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -3571,7 +3571,7 @@ I_events_0 = [
 "part_person": [
 31
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -3589,7 +3589,7 @@ I_events_0 = [
 "part_person": [
 31
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -3679,7 +3679,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 191,
+"place": 192,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -3697,7 +3697,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 191,
+"place": 192,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -3732,7 +3732,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -3766,7 +3766,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3817,7 +3817,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 234,
+"place": 235,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3885,7 +3885,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 180,
+"place": 181,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3903,7 +3903,7 @@ I_events_0 = [
 "part_person": [
 32
 ],
-"place": 237,
+"place": 238,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -3971,7 +3971,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -3988,7 +3988,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 131,
+"place": 132,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4026,7 +4026,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4044,7 +4044,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4061,7 +4061,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 141,
+"place": 142,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4078,7 +4078,7 @@ I_events_0 = [
 "part_person": [
 33
 ],
-"place": 141,
+"place": 142,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4132,7 +4132,7 @@ I_events_0 = [
 "part_person": [
 34
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4149,7 +4149,7 @@ I_events_0 = [
 "part_person": [
 34
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4166,7 +4166,7 @@ I_events_0 = [
 "part_person": [
 34
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Kuolema"
 }
@@ -4246,7 +4246,7 @@ I_events_0 = [
 },
 {
 "cita": [
-348
+349
 ],
 "date": "1835-09-24",
 "date_sdn": 2391546,
@@ -4272,7 +4272,7 @@ I_events_0 = [
 "part_person": [
 35
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -4293,7 +4293,7 @@ I_events_0 = [
 "part_person": [
 36
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -4311,7 +4311,7 @@ I_events_0 = [
 "part_person": [
 36
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4331,7 +4331,7 @@ I_events_0 = [
 "part_person": [
 36
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4348,7 +4348,7 @@ I_events_0 = [
 "part_person": [
 36
 ],
-"place": 135,
+"place": 136,
 "text": "",
 "type": "Kuolema"
 },
@@ -4397,7 +4397,7 @@ I_events_0 = [
 "part_person": [
 37
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4414,7 +4414,7 @@ I_events_0 = [
 "part_person": [
 37
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Kuolema"
 }
@@ -4422,7 +4422,7 @@ I_events_0 = [
 [
 {
 "cita": [
-360
+361
 ],
 "date": "noin 1657",
 "date_sdn": 2326268,
@@ -4457,7 +4457,7 @@ I_events_0 = [
 },
 {
 "cita": [
-360
+361
 ],
 "date": "1735",
 "date_sdn": 2354756,
@@ -4474,7 +4474,7 @@ I_events_0 = [
 },
 {
 "cita": [
-360
+361
 ],
 "date": "1735-01",
 "date_sdn": 2354756,
@@ -4500,7 +4500,7 @@ I_events_0 = [
 "part_person": [
 38
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -4553,7 +4553,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4604,7 +4604,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 234,
+"place": 235,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4689,7 +4689,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 180,
+"place": 181,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4706,7 +4706,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 237,
+"place": 238,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4723,7 +4723,7 @@ I_events_0 = [
 "part_person": [
 39
 ],
-"place": 237,
+"place": 238,
 "text": "",
 "type": "Kuolema"
 },
@@ -4757,7 +4757,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -4776,7 +4776,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -4793,7 +4793,7 @@ I_events_0 = [
 "part_person": [
 40
 ],
-"place": 191,
+"place": 192,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4898,7 +4898,7 @@ I_events_0 = [
 "part_person": [
 41
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -4915,7 +4915,7 @@ I_events_0 = [
 "part_person": [
 41
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Kuolema"
 },
@@ -4938,7 +4938,7 @@ I_events_0 = [
 [
 {
 "cita": [
-377
+378
 ],
 "date": "noin 1700",
 "date_sdn": 2341973,
@@ -4967,13 +4967,13 @@ I_events_0 = [
 "part_person": [
 42
 ],
-"place": 212,
+"place": 213,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-377
+378
 ],
 "date": "1772-04-13",
 "date_sdn": 2368373,
@@ -4984,7 +4984,7 @@ I_events_0 = [
 "part_person": [
 42
 ],
-"place": 189,
+"place": 190,
 "text": "",
 "type": "Kuolema"
 },
@@ -4999,7 +4999,7 @@ I_events_0 = [
 "part_person": [
 42
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -5051,7 +5051,7 @@ I_events_0 = [
 "part_person": [
 43
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -5175,7 +5175,7 @@ I_events_0 = [
 "part_person": [
 44
 ],
-"place": 199,
+"place": 200,
 "text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHaudattu kirkolle (\u00e5 kyrkn)\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "type": "Hautaus"
 }
@@ -5443,7 +5443,7 @@ I_events_0 = [
 "part_person": [
 47
 ],
-"place": 174,
+"place": 175,
 "text": "",
 "type": "Hautaus"
 }
@@ -5540,7 +5540,7 @@ I_events_0 = [
 },
 {
 "cita": [
-349
+350
 ],
 "date": "1836-03-24",
 "date_sdn": 2391728,
@@ -5566,7 +5566,7 @@ I_events_0 = [
 "part_person": [
 48
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -5585,7 +5585,7 @@ I_events_0 = [
 "part_person": [
 49
 ],
-"place": 150,
+"place": 151,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -5645,7 +5645,7 @@ I_events_0 = [
 },
 {
 "cita": [
-377
+378
 ],
 "date": "1772-04-24",
 "date_sdn": 2368384,
@@ -5656,7 +5656,7 @@ I_events_0 = [
 "part_person": [
 49
 ],
-"place": 150,
+"place": 151,
 "text": "",
 "type": "Kuolema"
 },
@@ -5759,7 +5759,7 @@ I_events_0 = [
 "part_person": [
 51
 ],
-"place": 150,
+"place": 151,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -5823,7 +5823,7 @@ I_events_0 = [
 },
 {
 "cita": [
-370
+371
 ],
 "date": "1808-03-21",
 "date_sdn": 2381498,
@@ -5840,7 +5840,7 @@ I_events_0 = [
 },
 {
 "cita": [
-370
+371
 ],
 "date": "1808-03-27",
 "date_sdn": 2381504,
@@ -5851,7 +5851,7 @@ I_events_0 = [
 "part_person": [
 51
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -5925,7 +5925,7 @@ I_events_0 = [
 "part_person": [
 52
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -5949,7 +5949,7 @@ I_events_0 = [
 {
 "cita": [
 53,
-344
+345
 ],
 "date": "1784 - 1785",
 "date_sdn": 2372653,
@@ -5977,7 +5977,7 @@ I_events_0 = [
 "part_person": [
 52
 ],
-"place": 194,
+"place": 195,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -5994,7 +5994,7 @@ I_events_0 = [
 "part_person": [
 52
 ],
-"place": 194,
+"place": 195,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6094,7 +6094,7 @@ I_events_0 = [
 "part_person": [
 53
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -6167,7 +6167,7 @@ I_events_0 = [
 "part_person": [
 54
 ],
-"place": 122,
+"place": 123,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6308,7 +6308,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 134,
+"place": 135,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6342,7 +6342,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 125,
+"place": 126,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6359,7 +6359,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 134,
+"place": 135,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6376,7 +6376,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 160,
+"place": 161,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6393,7 +6393,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 134,
+"place": 135,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6427,7 +6427,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6461,7 +6461,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 182,
+"place": 183,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6527,7 +6527,7 @@ I_events_0 = [
 "part_person": [
 55
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -6580,7 +6580,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 144,
+"place": 145,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -6597,7 +6597,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 121,
+"place": 122,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -6632,7 +6632,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 243,
+"place": 244,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -6666,7 +6666,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 243,
+"place": 244,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -6734,7 +6734,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 222,
+"place": 223,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6751,7 +6751,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 222,
+"place": 223,
 "text": "",
 "type": "L\u00e4ht\u00f6muutto"
 },
@@ -6768,7 +6768,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6786,7 +6786,7 @@ I_events_0 = [
 "part_person": [
 56
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6877,7 +6877,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -6896,7 +6896,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -6913,13 +6913,13 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-347
+348
 ],
 "date": "1781-04-19",
 "date_sdn": 2371666,
@@ -6930,7 +6930,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Kuolema"
 },
@@ -6945,7 +6945,7 @@ I_events_0 = [
 "part_person": [
 57
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -6964,7 +6964,7 @@ I_events_0 = [
 "part_person": [
 58
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -6982,7 +6982,7 @@ I_events_0 = [
 "part_person": [
 58
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7000,7 +7000,7 @@ I_events_0 = [
 "part_person": [
 58
 ],
-"place": 185,
+"place": 186,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7026,7 +7026,7 @@ I_events_0 = [
 },
 {
 "cita": [
-358
+359
 ],
 "date": "1794-04-21",
 "date_sdn": 2376416,
@@ -7052,7 +7052,7 @@ I_events_0 = [
 "part_person": [
 58
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -7071,7 +7071,7 @@ I_events_0 = [
 "part_person": [
 59
 ],
-"place": 211,
+"place": 212,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -7088,7 +7088,7 @@ I_events_0 = [
 "part_person": [
 59
 ],
-"place": 189,
+"place": 190,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -7140,7 +7140,7 @@ I_events_0 = [
 "part_person": [
 59
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -7174,7 +7174,7 @@ I_events_0 = [
 "part_person": [
 60
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7192,7 +7192,7 @@ I_events_0 = [
 "part_person": [
 60
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7210,7 +7210,7 @@ I_events_0 = [
 "part_person": [
 60
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7328,7 +7328,7 @@ I_events_0 = [
 "part_person": [
 62
 ],
-"place": 248,
+"place": 249,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7349,7 +7349,7 @@ I_events_0 = [
 "part_person": [
 62
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7366,7 +7366,7 @@ I_events_0 = [
 "part_person": [
 62
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Kuolema"
 },
@@ -7400,7 +7400,7 @@ I_events_0 = [
 "part_person": [
 63
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -7417,7 +7417,7 @@ I_events_0 = [
 "part_person": [
 63
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7434,7 +7434,7 @@ I_events_0 = [
 "part_person": [
 63
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7455,7 +7455,7 @@ I_events_0 = [
 "part_person": [
 63
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7472,13 +7472,13 @@ I_events_0 = [
 "part_person": [
 63
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-400
+401
 ],
 "date": "1801-08-13",
 "date_sdn": 2379086,
@@ -7489,7 +7489,7 @@ I_events_0 = [
 "part_person": [
 63
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Kuolema"
 },
@@ -7523,7 +7523,7 @@ I_events_0 = [
 "part_person": [
 64
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -7544,7 +7544,7 @@ I_events_0 = [
 "part_person": [
 64
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7561,7 +7561,7 @@ I_events_0 = [
 "part_person": [
 64
 ],
-"place": 194,
+"place": 195,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7578,7 +7578,7 @@ I_events_0 = [
 "part_person": [
 64
 ],
-"place": 194,
+"place": 195,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7595,7 +7595,7 @@ I_events_0 = [
 "part_person": [
 64
 ],
-"place": 114,
+"place": 115,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7718,7 +7718,7 @@ I_events_0 = [
 "part_person": [
 65
 ],
-"place": 198,
+"place": 199,
 "text": "",
 "type": "Hautaus"
 }
@@ -7786,7 +7786,7 @@ I_events_0 = [
 "part_person": [
 67
 ],
-"place": 194,
+"place": 195,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -7803,7 +7803,7 @@ I_events_0 = [
 "part_person": [
 67
 ],
-"place": 119,
+"place": 120,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -7956,7 +7956,7 @@ I_events_0 = [
 },
 {
 "cita": [
-372
+373
 ],
 "date": "1809-04-21",
 "date_sdn": 2381894,
@@ -7982,7 +7982,7 @@ I_events_0 = [
 "part_person": [
 68
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -8001,7 +8001,7 @@ I_events_0 = [
 "part_person": [
 69
 ],
-"place": 220,
+"place": 221,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -8061,7 +8061,7 @@ I_events_0 = [
 },
 {
 "cita": [
-376
+377
 ],
 "date": "1820-04-16",
 "date_sdn": 2385907,
@@ -8087,7 +8087,7 @@ I_events_0 = [
 "part_person": [
 69
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -8124,7 +8124,7 @@ I_events_0 = [
 "part_person": [
 70
 ],
-"place": 150,
+"place": 151,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8194,7 +8194,7 @@ I_events_0 = [
 "part_person": [
 71
 ],
-"place": 248,
+"place": 249,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8211,7 +8211,7 @@ I_events_0 = [
 "part_person": [
 71
 ],
-"place": 248,
+"place": 249,
 "text": "",
 "type": "Kuolema"
 },
@@ -8352,7 +8352,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 128,
+"place": 129,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8370,7 +8370,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 193,
+"place": 194,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8387,7 +8387,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 166,
+"place": 167,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8439,7 +8439,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8457,7 +8457,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8477,7 +8477,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8494,7 +8494,7 @@ I_events_0 = [
 "part_person": [
 73
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Kuolema"
 },
@@ -8528,7 +8528,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -8546,7 +8546,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -8563,7 +8563,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 134,
+"place": 135,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8597,7 +8597,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8631,7 +8631,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 182,
+"place": 183,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8699,7 +8699,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 130,
+"place": 131,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8733,7 +8733,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 169,
+"place": 170,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8768,7 +8768,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 183,
+"place": 184,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8785,7 +8785,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 182,
+"place": 183,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -8802,7 +8802,7 @@ I_events_0 = [
 "part_person": [
 74
 ],
-"place": 182,
+"place": 183,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9013,7 +9013,7 @@ I_events_0 = [
 "part_person": [
 77
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9034,7 +9034,7 @@ I_events_0 = [
 "part_person": [
 77
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9051,13 +9051,13 @@ I_events_0 = [
 "part_person": [
 77
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-401
+402
 ],
 "date": "1801-11-13",
 "date_sdn": 2379178,
@@ -9068,7 +9068,7 @@ I_events_0 = [
 "part_person": [
 77
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Kuolema"
 },
@@ -9117,7 +9117,7 @@ I_events_0 = [
 "part_person": [
 78
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9135,7 +9135,7 @@ I_events_0 = [
 "part_person": [
 78
 ],
-"place": 233,
+"place": 234,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9169,7 +9169,7 @@ I_events_0 = [
 "part_person": [
 79
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -9188,7 +9188,7 @@ I_events_0 = [
 "part_person": [
 79
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9205,7 +9205,7 @@ I_events_0 = [
 "part_person": [
 79
 ],
-"place": 197,
+"place": 198,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9348,7 +9348,7 @@ I_events_0 = [
 "part_person": [
 80
 ],
-"place": 249,
+"place": 250,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -9484,14 +9484,14 @@ I_events_0 = [
 "part_person": [
 81
 ],
-"place": 127,
+"place": 128,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
 245,
-403
+404
 ],
 "date": "1719-11",
 "date_sdn": 2349216,
@@ -9502,7 +9502,7 @@ I_events_0 = [
 "part_person": [
 81
 ],
-"place": 129,
+"place": 130,
 "text": "",
 "type": "Kuolema"
 },
@@ -9552,7 +9552,7 @@ I_events_0 = [
 "part_person": [
 82
 ],
-"place": 212,
+"place": 213,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9750,7 +9750,7 @@ I_events_0 = [
 "part_person": [
 84
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9767,7 +9767,7 @@ I_events_0 = [
 "part_person": [
 84
 ],
-"place": 142,
+"place": 143,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9785,7 +9785,7 @@ I_events_0 = [
 "part_person": [
 84
 ],
-"place": 122,
+"place": 123,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9836,7 +9836,7 @@ I_events_0 = [
 "part_person": [
 84
 ],
-"place": 140,
+"place": 141,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9870,7 +9870,7 @@ I_events_0 = [
 "part_person": [
 85
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -9892,7 +9892,7 @@ I_events_0 = [
 "part_person": [
 85
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9910,7 +9910,7 @@ I_events_0 = [
 "part_person": [
 85
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -9927,7 +9927,7 @@ I_events_0 = [
 "part_person": [
 85
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Kuolema"
 },
@@ -9997,7 +9997,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 241,
+"place": 242,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10050,7 +10050,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 144,
+"place": 145,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10067,7 +10067,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 121,
+"place": 122,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10102,7 +10102,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 243,
+"place": 244,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10136,7 +10136,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 243,
+"place": 244,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10187,7 +10187,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 124,
+"place": 125,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10205,7 +10205,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 222,
+"place": 223,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10276,7 +10276,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 187,
+"place": 188,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10293,7 +10293,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 201,
+"place": 202,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10310,7 +10310,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 201,
+"place": 202,
 "text": "",
 "type": "Kuolema"
 },
@@ -10325,7 +10325,7 @@ I_events_0 = [
 "part_person": [
 86
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -10362,7 +10362,7 @@ I_events_0 = [
 "part_person": [
 87
 ],
-"place": 119,
+"place": 120,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10447,7 +10447,7 @@ I_events_0 = [
 "part_person": [
 88
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -10465,7 +10465,7 @@ I_events_0 = [
 "part_person": [
 88
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10487,7 +10487,7 @@ I_events_0 = [
 "part_person": [
 88
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10504,7 +10504,7 @@ I_events_0 = [
 "part_person": [
 88
 ],
-"place": 159,
+"place": 160,
 "text": "",
 "type": "Kuolema"
 },
@@ -10538,7 +10538,7 @@ I_events_0 = [
 "part_person": [
 89
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -10555,7 +10555,7 @@ I_events_0 = [
 "part_person": [
 89
 ],
-"place": 188,
+"place": 189,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -10574,7 +10574,7 @@ I_events_0 = [
 "part_person": [
 89
 ],
-"place": 156,
+"place": 157,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -10704,7 +10704,7 @@ I_events_0 = [
 },
 {
 "cita": [
-350
+351
 ],
 "date": "1844-01-11",
 "date_sdn": 2394577,
@@ -10730,7 +10730,7 @@ I_events_0 = [
 "part_person": [
 90
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -10804,7 +10804,7 @@ I_events_0 = [
 "part_person": [
 91
 ],
-"place": 181,
+"place": 182,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10875,7 +10875,7 @@ I_events_0 = [
 "part_person": [
 92
 ],
-"place": 191,
+"place": 192,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -10963,7 +10963,7 @@ I_events_0 = [
 "part_person": [
 93
 ],
-"place": 143,
+"place": 144,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -10980,7 +10980,7 @@ I_events_0 = [
 "part_person": [
 93
 ],
-"place": 209,
+"place": 210,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -10997,7 +10997,7 @@ I_events_0 = [
 "part_person": [
 93
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11018,7 +11018,7 @@ I_events_0 = [
 "part_person": [
 93
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11035,7 +11035,7 @@ I_events_0 = [
 "part_person": [
 93
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Kuolema"
 },
@@ -11058,7 +11058,7 @@ I_events_0 = [
 [
 {
 "cita": [
-369
+370
 ],
 "date": "1861-05-09",
 "date_sdn": 2400905,
@@ -11069,13 +11069,13 @@ I_events_0 = [
 "part_person": [
 94
 ],
-"place": 164,
+"place": 165,
 "text": "",
 "type": "Syntym\u00e4"
 },
 {
 "cita": [
-369
+370
 ],
 "date": "ennen 1890",
 "date_sdn": 2411369,
@@ -11086,14 +11086,14 @@ I_events_0 = [
 "part_person": [
 94
 ],
-"place": 164,
+"place": 165,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-369,
-375
+370,
+376
 ],
 "date": "1890 - 1903",
 "date_sdn": 2411369,
@@ -11104,7 +11104,7 @@ I_events_0 = [
 "part_person": [
 94
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11126,7 +11126,7 @@ I_events_0 = [
 "part_person": [
 94
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11143,7 +11143,7 @@ I_events_0 = [
 "part_person": [
 94
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Kuolema"
 }
@@ -11162,7 +11162,7 @@ I_events_0 = [
 "part_person": [
 95
 ],
-"place": 249,
+"place": 250,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -11255,7 +11255,7 @@ I_events_0 = [
 },
 {
 "cita": [
-375
+376
 ],
 "date": "1906-09-18 - 1911",
 "date_sdn": 2417472,
@@ -11266,7 +11266,7 @@ I_events_0 = [
 "part_person": [
 96
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11285,14 +11285,14 @@ I_events_0 = [
 "part_person": [
 96
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-356,
-368
+357,
+369
 ],
 "date": "1915",
 "date_sdn": 2420499,
@@ -11303,7 +11303,7 @@ I_events_0 = [
 "part_person": [
 96
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11321,7 +11321,7 @@ I_events_0 = [
 "part_person": [
 96
 ],
-"place": 161,
+"place": 162,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11339,7 +11339,7 @@ I_events_0 = [
 "part_person": [
 96
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11360,7 +11360,7 @@ I_events_0 = [
 "part_person": [
 96
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11394,7 +11394,7 @@ I_events_0 = [
 "part_person": [
 97
 ],
-"place": 198,
+"place": 199,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -11582,7 +11582,7 @@ I_events_0 = [
 "part_person": [
 99
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -11601,14 +11601,14 @@ I_events_0 = [
 "part_person": [
 99
 ],
-"place": 155,
+"place": 156,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
 159,
-366,
+367,
 459,
 488
 ],
@@ -11621,7 +11621,7 @@ I_events_0 = [
 "part_person": [
 99
 ],
-"place": 165,
+"place": 166,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11638,13 +11638,13 @@ I_events_0 = [
 "part_person": [
 99
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-366
+367
 ],
 "date": "1790-03-28",
 "date_sdn": 2374931,
@@ -11663,7 +11663,7 @@ I_events_0 = [
 [
 {
 "cita": [
-368
+369
 ],
 "date": "noin 1887",
 "date_sdn": 2410273,
@@ -11682,9 +11682,9 @@ I_events_0 = [
 "cita": [
 9,
 26,
-356,
-368,
-793
+357,
+369,
+792
 ],
 "date": "1914 - 1915",
 "date_sdn": 2420134,
@@ -11712,7 +11712,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -11729,7 +11729,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 161,
+"place": 162,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11747,7 +11747,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11766,7 +11766,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11801,7 +11801,7 @@ I_events_0 = [
 "part_person": [
 100
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -11825,7 +11825,7 @@ I_events_0 = [
 {
 "cita": [
 26,
-356
+357
 ],
 "date": "1915-06-09",
 "date_sdn": 2420658,
@@ -11836,7 +11836,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 147,
+"place": 148,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -11853,7 +11853,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -11870,7 +11870,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11887,7 +11887,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Koulutus"
 },
@@ -11904,7 +11904,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 229,
+"place": 230,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -11921,7 +11921,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 223,
+"place": 224,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -11944,7 +11944,7 @@ I_events_0 = [
 },
 {
 "cita": [
-383
+384
 ],
 "date": "2001-08-06",
 "date_sdn": 2452128,
@@ -11955,7 +11955,7 @@ I_events_0 = [
 "part_person": [
 101
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Kuolema"
 }
@@ -11974,7 +11974,7 @@ I_events_0 = [
 "part_person": [
 102
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -11993,7 +11993,7 @@ I_events_0 = [
 106,
 107
 ],
-"place": 115,
+"place": 116,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12031,7 +12031,7 @@ I_events_0 = [
 106,
 107
 ],
-"place": 216,
+"place": 217,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12049,7 +12049,7 @@ I_events_0 = [
 102,
 107
 ],
-"place": 168,
+"place": 169,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12067,7 +12067,7 @@ I_events_0 = [
 102,
 107
 ],
-"place": 205,
+"place": 206,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12139,7 +12139,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -12157,7 +12157,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12192,7 +12192,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 219,
+"place": 220,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12244,7 +12244,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 228,
+"place": 229,
 "text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHeikki Keskinen oli Suomen sis\u00e4llissodassa Tampereen silloisen it\u00e4naapurikunnan Messukyl\u00e4n rintamalla kuormastossa ambulanssimiehen\u00e4 valkoisten rintamapuolella, vaikka kuului ty\u00f6v\u00e4enyhdistykseen. Sodan aikana lahtarit tulivat pari kertaa \"hakemaan\" h\u00e4nt\u00e4 kotoa, jossa h\u00e4n ei ollut, koska oli rintamalla, viel\u00e4p\u00e4 rintaman samalla puolella. Heikin poika Martti muisteli, ett\u00e4 niihin noutajiin kuului h\u00e4nen mummonsa sukulaisia: \"Siin\u00e4 oli toosilaisia mukana hakijoissa. Tied\u00e4n sen, kun vanhin veljeni on kertonut. Veli oli sanonut, ettei h\u00e4n ole kotona. Ne olivat niit\u00e4 partioita, jotka tekiv\u00e4t omaan laskuunsa aika paljon.\"\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "type": "Ammatti tai asema"
 },
@@ -12261,7 +12261,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 231,
+"place": 232,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12279,7 +12279,7 @@ I_events_0 = [
 103,
 111
 ],
-"place": 178,
+"place": 179,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12296,7 +12296,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 136,
+"place": 137,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12365,7 +12365,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 227,
+"place": 228,
 "text": "<div>\n<i class=\"NoteType\">\nTapahtuman lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nHeikki Keskinen myi Tampereen kaupungin soraa Ratinassa, Vilusen montulla ja yleisen sairaalan alapuolella olevalla montulla. Ihmiset ostivat sorakupongit kaupungilta, Heikki antoi kuponkeja vastaan soraa ja tilitti kupongit kaupungille rahatoimikamariin.\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "type": "Ammatti tai asema"
 },
@@ -12419,7 +12419,7 @@ I_events_0 = [
 "part_person": [
 103
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Kuolema"
 }
@@ -12427,7 +12427,7 @@ I_events_0 = [
 [
 {
 "cita": [
-362
+363
 ],
 "date": "1904-01-29",
 "date_sdn": 2416509,
@@ -12455,7 +12455,7 @@ I_events_0 = [
 "part_person": [
 104
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12491,7 +12491,7 @@ I_events_0 = [
 "part_person": [
 104
 ],
-"place": 225,
+"place": 226,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12525,7 +12525,7 @@ I_events_0 = [
 "part_person": [
 104
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Kuolema"
 }
@@ -12561,7 +12561,7 @@ I_events_0 = [
 "part_person": [
 105
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12615,7 +12615,7 @@ I_events_0 = [
 "part_person": [
 106
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -12634,7 +12634,7 @@ I_events_0 = [
 106,
 107
 ],
-"place": 115,
+"place": 116,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12672,7 +12672,7 @@ I_events_0 = [
 106,
 107
 ],
-"place": 216,
+"place": 217,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12708,7 +12708,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 219,
+"place": 220,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -12725,7 +12725,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 219,
+"place": 220,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12759,7 +12759,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 178,
+"place": 179,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12776,7 +12776,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 136,
+"place": 137,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12909,7 +12909,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 221,
+"place": 222,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12926,7 +12926,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 167,
+"place": 168,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12960,7 +12960,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 117,
+"place": 118,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -12979,7 +12979,7 @@ I_events_0 = [
 106,
 107
 ],
-"place": 115,
+"place": 116,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -12996,7 +12996,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 167,
+"place": 168,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13034,7 +13034,7 @@ I_events_0 = [
 106,
 107
 ],
-"place": 216,
+"place": 217,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13052,7 +13052,7 @@ I_events_0 = [
 102,
 107
 ],
-"place": 168,
+"place": 169,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13087,7 +13087,7 @@ I_events_0 = [
 102,
 107
 ],
-"place": 205,
+"place": 206,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13122,13 +13122,13 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Asuinpaikka"
 },
 {
 "cita": [
-397
+398
 ],
 "date": "2004-12-18",
 "date_sdn": 2453358,
@@ -13139,7 +13139,7 @@ I_events_0 = [
 "part_person": [
 107
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Kuolema"
 },
@@ -13210,7 +13210,7 @@ I_events_0 = [
 "part_person": [
 109
 ],
-"place": 213,
+"place": 214,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -13234,9 +13234,9 @@ I_events_0 = [
 },
 {
 "cita": [
-345,
-357,
-364
+346,
+358,
+365
 ],
 "date": "1774 - 1795",
 "date_sdn": 2369001,
@@ -13247,7 +13247,7 @@ I_events_0 = [
 "part_person": [
 109
 ],
-"place": 165,
+"place": 166,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13264,7 +13264,7 @@ I_events_0 = [
 "part_person": [
 109
 ],
-"place": 248,
+"place": 249,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13281,7 +13281,7 @@ I_events_0 = [
 "part_person": [
 109
 ],
-"place": 202,
+"place": 203,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13302,7 +13302,7 @@ I_events_0 = [
 "part_person": [
 109
 ],
-"place": 177,
+"place": 178,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13339,7 +13339,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -13356,7 +13356,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 137,
+"place": 138,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13390,7 +13390,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 182,
+"place": 183,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13528,7 +13528,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13545,7 +13545,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 142,
+"place": 143,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13563,7 +13563,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 122,
+"place": 123,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13615,7 +13615,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 140,
+"place": 141,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13632,7 +13632,7 @@ I_events_0 = [
 "part_person": [
 110
 ],
-"place": 140,
+"place": 141,
 "text": "",
 "type": "Kuolema"
 }
@@ -13651,7 +13651,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -13669,7 +13669,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 157,
+"place": 158,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13686,7 +13686,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 142,
+"place": 143,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13704,7 +13704,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 122,
+"place": 123,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13804,7 +13804,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 207,
+"place": 208,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -13813,7 +13813,7 @@ I_events_0 = [
 0,
 165,
 180,
-354
+355
 ],
 "date": "1902 - 1931",
 "date_sdn": 2415751,
@@ -13858,7 +13858,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 219,
+"place": 220,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13894,7 +13894,7 @@ I_events_0 = [
 103,
 111
 ],
-"place": 178,
+"place": 179,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13911,7 +13911,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 136,
+"place": 137,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -13953,7 +13953,7 @@ I_events_0 = [
 },
 {
 "cita": [
-354,
+355,
 611
 ],
 "date": "1931-06-02",
@@ -13965,7 +13965,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 136,
+"place": 137,
 "text": "",
 "type": "Kuolema"
 },
@@ -13980,7 +13980,7 @@ I_events_0 = [
 "part_person": [
 111
 ],
-"place": 226,
+"place": 227,
 "text": "",
 "type": "Hautaus"
 }
@@ -14017,7 +14017,7 @@ I_events_0 = [
 "part_person": [
 112
 ],
-"place": 198,
+"place": 199,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14034,7 +14034,7 @@ I_events_0 = [
 "part_person": [
 112
 ],
-"place": 198,
+"place": 199,
 "text": "",
 "type": "L\u00e4ht\u00f6muutto"
 },
@@ -14086,7 +14086,7 @@ I_events_0 = [
 "part_person": [
 112
 ],
-"place": 181,
+"place": 182,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14207,7 +14207,7 @@ I_events_0 = [
 "part_person": [
 113
 ],
-"place": 248,
+"place": 249,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14224,7 +14224,7 @@ I_events_0 = [
 "part_person": [
 113
 ],
-"place": 248,
+"place": 249,
 "text": "",
 "type": "Kuolema"
 },
@@ -14258,7 +14258,7 @@ I_events_0 = [
 "part_person": [
 114
 ],
-"place": 175,
+"place": 176,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -14275,7 +14275,7 @@ I_events_0 = [
 "part_person": [
 114
 ],
-"place": 223,
+"place": 224,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -14328,7 +14328,7 @@ I_events_0 = [
 "part_person": [
 115
 ],
-"place": 123,
+"place": 124,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -14345,7 +14345,7 @@ I_events_0 = [
 "part_person": [
 115
 ],
-"place": 123,
+"place": 124,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14363,7 +14363,7 @@ I_events_0 = [
 "part_person": [
 115
 ],
-"place": 220,
+"place": 221,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14388,7 +14388,7 @@ I_events_0 = [
 },
 {
 "cita": [
-378
+379
 ],
 "date": "1827-03-11",
 "date_sdn": 2388427,
@@ -14414,7 +14414,7 @@ I_events_0 = [
 "part_person": [
 115
 ],
-"place": 151,
+"place": 152,
 "text": "",
 "type": "Hautaus"
 }
@@ -14472,7 +14472,7 @@ I_events_0 = [
 "part_person": [
 116
 ],
-"place": 145,
+"place": 146,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14524,7 +14524,7 @@ I_events_0 = [
 "part_person": [
 116
 ],
-"place": 218,
+"place": 219,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14541,7 +14541,7 @@ I_events_0 = [
 "part_person": [
 116
 ],
-"place": 206,
+"place": 207,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14558,7 +14558,7 @@ I_events_0 = [
 "part_person": [
 116
 ],
-"place": 206,
+"place": 207,
 "text": "",
 "type": "Kuolema"
 },
@@ -14628,7 +14628,7 @@ I_events_0 = [
 "part_person": [
 117
 ],
-"place": 145,
+"place": 146,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14680,7 +14680,7 @@ I_events_0 = [
 "part_person": [
 117
 ],
-"place": 218,
+"place": 219,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14782,7 +14782,7 @@ I_events_0 = [
 "part_person": [
 118
 ],
-"place": 146,
+"place": 147,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -14958,7 +14958,7 @@ I_events_0 = [
 "part_person": [
 119
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Syntym\u00e4"
 },
@@ -14976,7 +14976,7 @@ I_events_0 = [
 "part_person": [
 119
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -14993,7 +14993,7 @@ I_events_0 = [
 "part_person": [
 119
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15011,7 +15011,7 @@ I_events_0 = [
 "part_person": [
 119
 ],
-"place": 236,
+"place": 237,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15126,7 +15126,7 @@ I_events_0 = [
 },
 {
 "cita": [
-355
+356
 ],
 "date": "1894-01-07",
 "date_sdn": 2412836,
@@ -15188,7 +15188,7 @@ I_events_0 = [
 "part_person": [
 121
 ],
-"place": 204,
+"place": 205,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15228,7 +15228,7 @@ I_events_0 = [
 },
 {
 "cita": [
-367
+368
 ],
 "date": "1821-12",
 "date_sdn": 2386501,
@@ -15312,7 +15312,7 @@ I_events_0 = [
 "part_person": [
 121
 ],
-"place": 181,
+"place": 182,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15329,7 +15329,7 @@ I_events_0 = [
 "part_person": [
 121
 ],
-"place": 181,
+"place": 182,
 "text": "",
 "type": "Kuolema"
 },
@@ -15418,7 +15418,7 @@ I_events_0 = [
 "part_person": [
 122
 ],
-"place": 181,
+"place": 182,
 "text": "",
 "type": "Asuinpaikka"
 },
@@ -15435,7 +15435,7 @@ I_events_0 = [
 "part_person": [
 122
 ],
-"place": 181,
+"place": 182,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15527,7 +15527,7 @@ I_events_0 = [
 {
 "cita": [
 123,
-369
+370
 ],
 "date": "1861-05-13",
 "date_sdn": 2400909,
@@ -15561,7 +15561,7 @@ I_events_0 = [
 },
 {
 "cita": [
-375
+376
 ],
 "date": "1898 - 1903",
 "date_sdn": 2414291,
@@ -15572,7 +15572,7 @@ I_events_0 = [
 "part_person": [
 123
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15590,13 +15590,13 @@ I_events_0 = [
 "part_person": [
 123
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
 {
 "cita": [
-375
+376
 ],
 "date": "1906-09-18 - 1911",
 "date_sdn": 2417472,
@@ -15607,7 +15607,7 @@ I_events_0 = [
 "part_person": [
 123
 ],
-"place": 214,
+"place": 215,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15624,7 +15624,7 @@ I_events_0 = [
 "part_person": [
 123
 ],
-"place": 224,
+"place": 225,
 "text": "",
 "type": "Ammatti tai asema"
 },
@@ -15641,7 +15641,7 @@ I_events_0 = [
 "part_person": [
 123
 ],
-"place": 186,
+"place": 187,
 "text": "",
 "type": "Ammatti tai asema"
 },

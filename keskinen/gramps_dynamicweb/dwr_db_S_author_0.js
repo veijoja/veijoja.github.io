@@ -114,6 +114,7 @@ S_author_0 = [
 "",
 "",
 "",
+"Rapo, Seppo",
 "",
 "",
 "J\u00e4ppinen, Veijo",

@@ -903,6 +903,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Luovutettu Karjala"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Luutnantin virkatalo"
 },
 {
@@ -1175,7 +1182,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Orivesi"
+"name": "Oriveden kyl\u00e4"
 }
 ],
 [
@@ -1765,11 +1772,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Finland"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Finland"
 }
 ],
 [
@@ -2004,88 +2006,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Vejby"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Ven\u00e4j\u00e4"
-},
-{
-"date": "ennen 1944-09-18",
-"date_sdn": 2431352,
-"name": "Russland"
-},
-{
-"date": "ennen 1944-09-18",
-"date_sdn": 2431352,
-"name": "Russia"
-},
-{
-"date": "ennen 1944-09-18",
-"date_sdn": 2431352,
-"name": "Ven\u00e4j\u00e4"
-},
-{
-"date": "ennen 1944-09-18",
-"date_sdn": 2431352,
-"name": "\u0420\u043e\u0441\u0441\u0438\u0301\u044f"
-},
-{
-"date": "ennen 1944-09-18",
-"date_sdn": 2431352,
-"name": "Ryssland"
-},
-{
-"date": "1944-09-19 - 1990-06-11",
-"date_sdn": 2431353,
-"name": "Soviet Union"
-},
-{
-"date": "1944-09-19 - 1990-06-11",
-"date_sdn": 2431353,
-"name": "Sovjetunionen"
-},
-{
-"date": "1944-09-19 - 1990-06-11",
-"date_sdn": 2431353,
-"name": "Sowjetunion"
-},
-{
-"date": "1944-09-19 - 1990-06-11",
-"date_sdn": 2431353,
-"name": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0421\u043e\u044e\u0437"
-},
-{
-"date": "1944-09-19 - 1990-06-11",
-"date_sdn": 2431353,
-"name": "Neuvostoliitto"
-},
-{
-"date": "1990-06-12 j\u00e4lkeen",
-"date_sdn": 2448055,
-"name": "Russland"
-},
-{
-"date": "1990-06-12 j\u00e4lkeen",
-"date_sdn": 2448055,
-"name": "Russia"
-},
-{
-"date": "1990-06-12 j\u00e4lkeen",
-"date_sdn": 2448055,
-"name": "Ven\u00e4j\u00e4"
-},
-{
-"date": "1990-06-12 j\u00e4lkeen",
-"date_sdn": 2448055,
-"name": "\u0420\u043e\u0441\u0441\u0438\u0301\u044f"
-},
-{
-"date": "1990-06-12 j\u00e4lkeen",
-"date_sdn": 2448055,
-"name": "Ryssland"
 }
 ],
 [

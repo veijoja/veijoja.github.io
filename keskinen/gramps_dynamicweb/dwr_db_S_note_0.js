@@ -200,6 +200,7 @@ S_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hteen lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nKysymyksi\u00e4, tarkempaa tietoa suvun tapahtumista, ja muuta vastaavaa palautetta J\u00e4ppinen, Keskinen ja Loimusalo -sukuihin liittyv\u00e4\u00e4 voi vuonna 2023 toimittaa palautesivulta osoitteessa https://veijoja.github.io/suku/\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "",
 "",

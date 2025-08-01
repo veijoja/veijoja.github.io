@@ -901,6 +901,14 @@ S_repo_0 = [
 [
 {
 "call_number": "",
+"media_type": "Kirja",
+"note": "",
+"r_idx": 9
+}
+],
+[
+{
+"call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "r_idx": 9
