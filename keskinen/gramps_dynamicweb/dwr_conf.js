@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Kari Keskisen esivanhemmat";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 797,
-    "F": 60,
-    "I": 124,
+    "C": 4243,
+    "F": 791,
+    "I": 1354,
     "M": 0,
-    "N": 18,
-    "P": 280,
-    "R": 22,
-    "S": 235
+    "N": 265,
+    "P": 1204,
+    "R": 57,
+    "S": 625
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'>&copy; 2025 Veijo Jäppinen</p>";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2026 Veijo Jäppinen</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
@@ -117,7 +117,7 @@ __ = {
 "Alternate Marriage": "Avoliitto",
 "Alternate Name": "Vaihtoehtoinen nimi",
 "Ancestors": "Esivanhemmat",
-"Associations": "Liitokset",
+"Associations": "Suhteet",
 "Attribute": "Ominaisuus",
 "Attributes": "Ominaisuudet",
 "Author": "Tekijä",
