@@ -992,6 +992,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Erkkil\u00e4n rustholli"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Ervalla herrg\u00e5rd"
 }
 ],
@@ -1820,13 +1827,6 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Hauta kirkossa"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
 "name": "Haviseva"
 }
 ],
@@ -2436,6 +2436,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Itil\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "It\u00e4-Jerusalem"
 }
 ],
@@ -2557,6 +2564,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Julita socken"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Junnila"
 }
 ],
 [
@@ -3799,13 +3813,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Lemo"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Lemu"
 }
 ],
 [
@@ -6027,7 +6034,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Ribe Cathedral -tuomiokirkko"
+"name": "Ribe Cathedral"
 }
 ],
 [
@@ -6406,23 +6413,6 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Sahraj\u00e4rvi"
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"name": "Saksan liittotasavalta"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Germany"
-},
-{
-"date": "",
-"date_sdn": 0,
-"name": "Bundesrepublik Deutschland"
 }
 ],
 [

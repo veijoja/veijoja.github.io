@@ -102,6 +102,7 @@ S_author_0 = [
 "",
 "",
 "",
+"",
 "V\u00e4h\u00e4kangas, Tapio",
 "Vuorela, Juha",
 "",

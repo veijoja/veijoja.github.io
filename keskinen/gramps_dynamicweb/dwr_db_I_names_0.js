@@ -331,6 +331,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Albrecht der B\u00e4r",
+"given": "Albrecht",
+"nick": "",
+"note": "",
+"suffix": "der B\u00e4r",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Aldon\u00e7a",
 "given": "Aldon\u00e7a",
 "nick": "",
@@ -2545,6 +2563,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Erik IV Plovpenning",
+"given": "Erik",
+"nick": "",
+"note": "",
+"suffix": "IV Plovpenning",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Erling",
 "given": "Erling",
 "nick": "",
@@ -2939,6 +2975,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Gorm den Gamle",
+"given": "Gorm",
+"nick": "",
+"note": "",
+"suffix": "den Gamle",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Greta Johansdotter",
 "given": "Greta",
 "nick": "",
@@ -3063,6 +3117,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Harald Bl\u00e5tann",
+"given": "Harald",
+"nick": "",
+"note": "",
+"suffix": "Bl\u00e5tann",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Harald H\u00e5kansson",
 "given": "Harald",
 "nick": "",
@@ -3073,6 +3145,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tuntematon"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Harald IV Gille",
+"given": "Harald",
+"nick": "",
+"note": "",
+"suffix": "IV Gille",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -3513,11 +3603,29 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": ", H\u00e5kon V Magnusson den eldre",
-"given": "H\u00e5kon V",
+"full": ", H\u00e5kon IV H\u00e5konsson den Gamle",
+"given": "H\u00e5kon",
 "nick": "",
 "note": "",
-"suffix": "Magnusson den eldre",
+"suffix": "IV H\u00e5konsson den Gamle",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", H\u00e5kon V Magnusson",
+"given": "H\u00e5kon",
+"nick": "",
+"note": "",
+"suffix": "V Magnusson",
 "surnames": [
 ""
 ],
@@ -4755,6 +4863,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Knut Lavard",
+"given": "Knut",
+"nick": "",
+"note": "",
+"suffix": "Lavard",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Knut Magnusson",
 "given": "Knut",
 "nick": "",
@@ -5285,6 +5411,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tuntematon"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Magnus VI H\u00e5konsson Lagab\u00f8ter",
+"given": "Magnus",
+"nick": "",
+"note": "",
+"suffix": "VI H\u00e5konsson Lagab\u00f8ter",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -7369,6 +7513,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Sigrid den Fagra",
+"given": "Sigrid",
+"nick": "",
+"note": "",
+"suffix": "den Fagra",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Sigrid Torkjellsdotter",
 "given": "Sigrid",
 "nick": "",
@@ -7855,6 +8017,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Svend Tvesk\u00e6g",
+"given": "Svend",
+"nick": "",
+"note": "",
+"suffix": "Tvesk\u00e6g",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Sverker I den \u00e4ldre",
 "given": "Sverker",
 "nick": "",
@@ -8117,6 +8297,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tuntematon"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Valdemar I den store",
+"given": "Valdemar",
+"nick": "",
+"note": "",
+"suffix": "I den store",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -10079,24 +10277,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Bl\u00e5tann, Harald",
-"given": "Harald",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Bl\u00e5tann"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Boll, Eva Andersdotter",
 "given": "Eva",
 "nick": "",
@@ -10644,96 +10824,6 @@ I_names_0 = [
 "suffix": "",
 "surnames": [
 "B\u00e4k"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "den Fagra, Sigrid",
-"given": "Sigrid",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"den Fagra"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "den Gamle, Gorm",
-"given": "Gorm",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"den Gamle"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "den Gamle, H\u00e5kon IV H\u00e5konsson",
-"given": "H\u00e5kon",
-"nick": "",
-"note": "",
-"suffix": "IV H\u00e5konsson",
-"surnames": [
-"den Gamle"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "den store, Valdemar I",
-"given": "Valdemar",
-"nick": "",
-"note": "",
-"suffix": "I",
-"surnames": [
-"den store"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "der B\u00e4r, Albrecht",
-"given": "Albrecht",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"der B\u00e4r"
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
@@ -11725,24 +11815,6 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Gille, Harald IV",
-"given": "Harald IV",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Gille"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
 }
 ],
 [
@@ -15670,10 +15742,10 @@ I_names_0 = [
 "date": "",
 "fam_nick": "",
 "full": "Keskinen, Kari Mikael",
-"given": "Kari",
+"given": "Kari Mikael",
 "nick": "",
 "note": "",
-"suffix": "Mikael",
+"suffix": "",
 "surnames": [
 "Keskinen"
 ],
@@ -16855,24 +16927,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "Lagab\u00f8ter, Magnus VI H\u00e5konsson",
-"given": "Magnus",
-"nick": "",
-"note": "",
-"suffix": "VI H\u00e5konsson",
-"surnames": [
-"Lagab\u00f8ter"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": "Laurila, Anders Andersson",
 "given": "Anders",
 "nick": "",
@@ -17276,24 +17330,6 @@ I_names_0 = [
 "suffix": "Henricsson",
 "surnames": [
 "Laurila"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Lavard, Knut",
-"given": "Knut",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Lavard"
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
@@ -19956,24 +19992,6 @@ I_names_0 = [
 "suffix": "Klausdotter",
 "surnames": [
 "Plata"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Plovpenning, Erik IV",
-"given": "Erik IV",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Plovpenning"
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
@@ -23440,24 +23458,6 @@ I_names_0 = [
 "suffix": "Henricsson",
 "surnames": [
 "Tuhola"
-],
-"title": "",
-"type": "Tunnettu my\u00f6s"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
-"full": "Tvesk\u00e6g, Svend",
-"given": "Svend",
-"nick": "",
-"note": "",
-"suffix": "",
-"surnames": [
-"Tvesk\u00e6g"
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"

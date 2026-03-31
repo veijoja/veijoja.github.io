@@ -233,6 +233,7 @@ S_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hteen lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://helda.helsinki.fi/bitstreams/081787d8-322d-4813-a9e3-b70973cdf823/download\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "",
 "",

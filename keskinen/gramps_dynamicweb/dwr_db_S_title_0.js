@@ -77,6 +77,7 @@ S_title_0 = [
 "HisKi - Tietoja Suomen seurakunnista, hiski.genealogia.fi/seurakunnat/",
 "Historisk tidskrift",
 "H\u00e4meen kyl\u00e4nnimet",
+"H\u00e4meen l\u00e4\u00e4nin henkikirjat - Henkikirja 1887-1887 (H:75)",
 "H\u00e4meen l\u00e4\u00e4nin henkikirjat - Henkikirja 1917-1917 (H:234)",
 "H\u00e4meen l\u00e4\u00e4nin henkikirjat - Henkikirja 1918-1918 (H:244)",
 "H\u00e4meen l\u00e4\u00e4nin henkikirjat - Henkikirja 1919-1919 (H:254)",

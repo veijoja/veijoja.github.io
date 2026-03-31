@@ -153,6 +153,7 @@ S_publ_0 = [
 "",
 "",
 "",
+"",
 "Studia Biographica 4. Helsinki, Suomalaisen Kirjallisuuden Seura, 1997\u2013",
 "URL www.karisalmi.fi",
 "",

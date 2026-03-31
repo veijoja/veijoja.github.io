@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Kari Keskisen esivanhemmat";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 4243,
+    "C": 4255,
     "F": 791,
     "I": 1354,
     "M": 0,
-    "N": 265,
+    "N": 255,
     "P": 1204,
     "R": 57,
-    "S": 625
+    "S": 626
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];

@@ -102,6 +102,7 @@ S_text_0 = [
 "",
 "",
 "",
+"",
 "<p>\n<b>\nTekij\u00e4: \n</b>\nV\u00e4h\u00e4kangas, Tapio\n</p>",
 "<p>\n<b>\nTekij\u00e4: \n</b>\nVuorela, Juha\n</p>",
 "",
