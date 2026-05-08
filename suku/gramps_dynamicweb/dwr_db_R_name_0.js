@@ -18,6 +18,7 @@ R_name_0 = [
 "H\u00e4meen l\u00e4\u00e4nin henkikirjat",
 "H\u00e4meen l\u00e4\u00e4nin jalkav\u00e4kirykmentiin arkisto",
 "H\u00e4meen voutikuntien tilej\u00e4",
+"Ikaalisten tuomiokunnan arkisto (TMA)",
 "Ilmajoen seurakunnan arkisto",
 "Isonkyr\u00f6n seurakunnan arkisto",
 "Jokioisten seurakunnan arkisto",

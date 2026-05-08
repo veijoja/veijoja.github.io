@@ -22,6 +22,7 @@ R_type_0 = [
 "Arkisto",
 "Arkisto",
 "Arkisto",
+"Arkisto",
 "Kokoelma",
 "Arkisto",
 "Kokoelma",

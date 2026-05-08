@@ -19,6 +19,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Ahlainen"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Aitolahti"
 }
 ],
@@ -112,6 +119,18 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Alakangas"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Alakyl\u00e4"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Nederby"
 }
 ],
 [
@@ -545,6 +564,20 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Edsbergs socken"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Eerola"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Eerola"
 }
 ],
@@ -602,6 +635,20 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Erkkil\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Er\u00e4j\u00e4rven kappeliseurakunta"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Er\u00e4j\u00e4rven saarnahuonekunta"
 }
 ],
 [
@@ -783,6 +830,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Haapam\u00e4ki"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Haapaniemi"
 }
 ],
 [
@@ -996,6 +1050,18 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Harjunp\u00e4\u00e4"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "H\u00e4rp\u00f6"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Harola"
 }
 ],
@@ -1039,6 +1105,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Hattula"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Hattulan kihlakunta"
 }
 ],
 [
@@ -1511,6 +1584,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Heponiemi"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Herttuala"
 }
 ],
 [
@@ -2290,6 +2370,11 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Jaarlan rustholli"
+},
+{
+"date": "1810 j\u00e4lkeen",
+"date_sdn": 2382149,
+"name": "V\u00e4h\u00e4-Jaarila"
 }
 ],
 [
@@ -2829,6 +2914,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Karkun seurakunta"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Karonen"
 }
 ],
@@ -2884,6 +2976,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Kaskinen"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kassor"
 }
 ],
 [
@@ -3461,6 +3560,23 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Kokem\u00e4ensaari"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kyl\u00e4saari"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Inder\u00f6"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Kokkila"
 }
 ],
@@ -3549,6 +3665,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Koljonkanta eli Solala"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Kolmikymmenvuotinen sota"
 }
 ],
 [
@@ -4542,6 +4665,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Lindk\u00f6ping"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Linkka"
 }
 ],
@@ -4829,6 +4959,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "L\u00e4nsi-G\u00f6\u00f6tanmaan lipullinen"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "L\u00e4stil\u00e4"
 }
 ],
@@ -4893,6 +5030,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Makkola"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Malminkortteli N:o 139"
 }
 ],
 [
@@ -6025,6 +6169,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "N\u00e4rke"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "N\u00e4rv\u00e4"
 }
 ],
@@ -6180,6 +6331,18 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ostamo"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Otila"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Uotila"
 }
 ],
 [
@@ -6413,6 +6576,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Paraisten kirkko"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Paraisten seurakunta"
 }
 ],
 [
@@ -6893,6 +7063,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Porin l\u00e4\u00e4nin jalkav\u00e4kirykmentti"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Porin seurakunta"
 }
 ],
 [
@@ -7392,6 +7569,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Rajalahti"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Rakkolanjoki"
 }
 ],
@@ -7639,6 +7823,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Riseberga kloster"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Ristsepp\u00e4l\u00e4"
 }
 ],
@@ -7760,6 +7951,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ruovesi"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Rupisuu"
 }
 ],
 [
@@ -8480,6 +8678,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Sepp\u00e4l\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Seurasalmi"
 }
 ],
@@ -8632,7 +8837,7 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"name": "Siuro"
+"name": "Siurola"
 }
 ],
 [
@@ -8647,6 +8852,20 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Skaffari"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Sk\u00f6llersta kyrka"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Sk\u00f6llersta socken"
 }
 ],
 [
@@ -8851,6 +9070,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Suomaseman rustholli"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Suomen aatelislipullinen"
 }
 ],
 [
@@ -9144,6 +9370,42 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Tarto"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tartu"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tarton yliopisto"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tartu \u00dclikool"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tartu universitet"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Tartumaa"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Tasala"
 }
 ],
@@ -9337,6 +9599,13 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Toppola"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Torinkortteli"
 }
 ],
 [
@@ -9671,6 +9940,20 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Uppland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Uppsala universitet"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "Uppsala"
 }
 ],
 [
@@ -10579,6 +10862,18 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "Vittinkil\u00e4"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Sepp\u00e4l\u00e4 ja Penttil\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "Volossula"
 }
 ],
@@ -10734,6 +11029,13 @@ P_names_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"name": "V\u00e4stmanland"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "name": "V\u00e4\u00e4k\u00e4s"
 }
 ],
@@ -10870,6 +11172,11 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "Ylinen"
+},
+{
+"date": "",
+"date_sdn": 0,
+"name": "Yl\u00e4nen"
 }
 ],
 [
@@ -11121,6 +11428,27 @@ P_names_0 = [
 "date": "",
 "date_sdn": 0,
 "name": "\u00c4yr\u00e4p\u00e4\u00e4"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "\u00d6rebro l\u00e4n"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "\u00d6rebro"
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"name": "\u00d6sterg\u00f6tland"
 }
 ]
 ]

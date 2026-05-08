@@ -7,14 +7,14 @@ DWR_VERSION_500 = true;
 TITLE = "Jämsän seudun ja Karjalankannaksen väkeä";
 SPLIT = 5000;
 DB_SIZES = {
-    "C": 8776,
-    "F": 1600,
-    "I": 2732,
+    "C": 8915,
+    "F": 1623,
+    "I": 2768,
     "M": 0,
     "N": 578,
-    "P": 1346,
-    "R": 90,
-    "S": 1236
+    "P": 1385,
+    "R": 91,
+    "S": 1246
 };NB_GENERATIONS_MAX = 8;
 PAGES_FILE = ["index.html", "", "tree_svg.html", "custom_1.html", "custom_2.html"];
 PAGES_TITLE = ["Kotisivu", "Hakemistot", "Sukupuu", "Info", "Contact"];
@@ -69,7 +69,7 @@ SVG_TREE_COLOR_SCHEME2 = ["#e5bffc", "#bfbffc", "#bfdefc", "#b7dbc5", "#cef6d1"]
 FOOTER="";
 HEADER="";
 BRAND_TITLE="";
-COPYRIGHT="<p class=\'copyright\'>&copy; 2025 Veijo Jäppinen</p>";
+COPYRIGHT="<p class=\'copyright\'>&copy; 2026 Veijo Jäppinen</p>";
 INDEX_SURNAMES_TYPE=false;
 INDEX_PERSONS_TYPE=true;
 INDEX_FAMILIES_TYPE=true;
