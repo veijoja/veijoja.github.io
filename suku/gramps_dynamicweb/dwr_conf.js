@@ -223,7 +223,7 @@ __ = {
 "SVG tree graph shape": "SVG-puun kaavion muoto",
 "SVG tree graph type": "SVG-puun kaaviotyyppi",
 "SVG tree parents distribution": "SVG-puun vanhempien jakauma",
-"Save tree as file": "Tallenna puu tiedostona",
+"Save tree as file": "(Tallenna tiedostona - Ei käytössä)",
 "Search:": "Etsi:",
 "Select the background color scheme": "Valitse taustan värijärjestelmä",
 "Select the children distribution (fan charts only)": "Valitse lasten jakautuma (vain viuhkamallit)",
