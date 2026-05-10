@@ -123948,7 +123948,7 @@ I_events_0 = [
 "cita": [],
 "date": "noin 1690",
 "date_sdn": 2338321,
-"descr": "jahtivouti (skallfoug)",
+"descr": "jahtivouti (skallfogde)",
 "gid": "E14412",
 "media": [],
 "part_family": [],
