@@ -12,26 +12,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "ennen 1971-12-31",
 "date_sdn": 2441317,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1972 j\u00e4lkeen",
 "date_sdn": 2441318,
-"pdx": 875
+"pdx": 876
 }
 ],
 [
 {
 "date": "1924 - 1965-12-31",
 "date_sdn": 2423786,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1923-12-31",
@@ -41,26 +41,26 @@ P_enclosed_by_0 = [
 {
 "date": "1966 j\u00e4lkeen",
 "date_sdn": 2439127,
-"pdx": 1143
+"pdx": 1144
 }
 ],
 [
 {
 "date": "1483 j\u00e4lkeen",
 "date_sdn": 2262715,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1482-12-31",
 "date_sdn": 2262714,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1266
+"pdx": 1267
 }
 ],
 [
@@ -88,14 +88,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 822
+"pdx": 823
 }
 ],
 [
@@ -109,21 +109,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1281
+"pdx": 1282
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 850
+"pdx": 851
 }
 ],
 [
@@ -137,7 +137,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -158,14 +158,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 880
+"pdx": 881
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1370
+"pdx": 1371
 }
 ],
 [],
@@ -180,21 +180,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1156
+"pdx": 1157
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 879
+"pdx": 880
 }
 ],
 [
@@ -215,14 +215,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 973
+"pdx": 974
 }
 ],
 [
@@ -243,14 +243,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
 {
 "date": "1724 - 1944-09-18",
 "date_sdn": 2350738,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1723-12-31",
@@ -288,14 +288,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1367
+"pdx": 1368
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 774
+"pdx": 775
 }
 ],
 [
@@ -309,7 +309,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
@@ -323,7 +323,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1223
+"pdx": 1224
 }
 ],
 [
@@ -351,7 +351,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -368,12 +368,12 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1603-12-31",
 "date_sdn": 2306908,
-"pdx": 1133
+"pdx": 1134
 },
 {
 "date": "1604 - 1651-12-31",
 "date_sdn": 2306909,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -385,21 +385,21 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 937
+"pdx": 938
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 797
+"pdx": 798
 }
 ],
 [
@@ -427,21 +427,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1079
+"pdx": 1080
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1108
+"pdx": 1109
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 866
+"pdx": 867
 }
 ],
 [
@@ -462,7 +462,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1339
+"pdx": 1340
 }
 ],
 [
@@ -483,7 +483,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 900
+"pdx": 901
 }
 ],
 [
@@ -539,14 +539,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1229
+"pdx": 1230
 }
 ],
 [
@@ -567,14 +567,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1335
+"pdx": 1336
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -588,38 +588,38 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1016
+"pdx": 1017
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 778
+"pdx": 779
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 778
+"pdx": 779
 }
 ],
 [
 {
 "date": "1870-01-01 - 1972-12-31",
 "date_sdn": 2404064,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1869-12-31",
 "date_sdn": 2404063,
-"pdx": 779
+"pdx": 780
 },
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -631,7 +631,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -666,42 +666,42 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1265
+"pdx": 1266
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1212
+"pdx": 1213
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 783
+"pdx": 784
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -715,14 +715,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1225
+"pdx": 1226
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
@@ -736,21 +736,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 881
+"pdx": 882
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 836
+"pdx": 837
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1079
+"pdx": 1080
 }
 ],
 [
@@ -764,7 +764,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ],
 [
@@ -792,14 +792,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -813,40 +813,40 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 976
+"pdx": 977
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 1037
+"pdx": 1038
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 896
+"pdx": 897
 }
 ],
 [
@@ -881,6 +881,13 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"pdx": 1124
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "pdx": 1123
 }
 ],
@@ -888,21 +895,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 802
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 801
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -916,7 +916,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1377
+"pdx": 1378
 }
 ],
 [
@@ -944,7 +944,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -958,7 +958,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
@@ -972,63 +972,63 @@ P_enclosed_by_0 = [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "1200 - 1219-06-14",
 "date_sdn": 2159351,
-"pdx": 900
+"pdx": 901
 },
 {
 "date": "1219-06-15 - 1345-12-31",
 "date_sdn": 2166456,
-"pdx": 1144
+"pdx": 1145
 },
 {
 "date": "1346 - 1560-12-31",
 "date_sdn": 2212677,
-"pdx": 1025
+"pdx": 1026
 },
 {
 "date": "1561 - 1721-08-29",
 "date_sdn": 2291204,
-"pdx": 980
+"pdx": 981
 },
 {
 "date": "1721-08-30 - 1918-02-23",
 "date_sdn": 2349884,
-"pdx": 1272
+"pdx": 1273
 },
 {
 "date": "1918-02-24 - 1940-07-31",
 "date_sdn": 2421649,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1272
+"pdx": 1273
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1211
+"pdx": 1212
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1141
+"pdx": 1142
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 783
+"pdx": 784
 }
 ],
 [
@@ -1063,14 +1063,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -1084,14 +1084,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1098
+"pdx": 1099
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -1110,19 +1110,19 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "ennen 1977-12-31",
 "date_sdn": 2443509,
-"pdx": 1201
+"pdx": 1202
 },
 {
 "date": "1978 j\u00e4lkeen",
 "date_sdn": 2443510,
-"pdx": 1245
+"pdx": 1246
 }
 ],
 [
@@ -1136,7 +1136,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 859
+"pdx": 860
 }
 ],
 [
@@ -1213,63 +1213,63 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 776
+"pdx": 777
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 796
+"pdx": 797
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 845
+"pdx": 846
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 859
+"pdx": 860
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 915
+"pdx": 916
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 982
+"pdx": 983
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1005
+"pdx": 1006
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1013
+"pdx": 1014
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1221
+"pdx": 1222
 }
 ],
 [
@@ -1283,7 +1283,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1019
+"pdx": 1020
 }
 ],
 [
@@ -1325,70 +1325,70 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 796
+"pdx": 797
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 815
+"pdx": 816
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 915
+"pdx": 916
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1019
+"pdx": 1020
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1053
+"pdx": 1054
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1080
+"pdx": 1081
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1221
+"pdx": 1222
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1280
+"pdx": 1281
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1038
+"pdx": 1039
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 895
+"pdx": 896
 }
 ],
 [
@@ -1430,14 +1430,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 862
+"pdx": 863
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
@@ -1451,7 +1451,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1184
+"pdx": 1185
 }
 ],
 [
@@ -1493,7 +1493,7 @@ P_enclosed_by_0 = [
 {
 "date": "1889 - 1944-09-18",
 "date_sdn": 2411004,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1888-12-31",
@@ -1510,7 +1510,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -1524,7 +1524,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 837
+"pdx": 838
 }
 ],
 [
@@ -1538,26 +1538,19 @@ P_enclosed_by_0 = [
 {
 "date": "1550-06-12 j\u00e4lkeen",
 "date_sdn": 2287348,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1550-06-11",
 "date_sdn": 2287347,
-"pdx": 881
+"pdx": 882
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 868
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 348
+"pdx": 869
 }
 ],
 [
@@ -1571,14 +1564,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 834
+"pdx": 348
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 835
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -1590,14 +1590,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1266
+"pdx": 1267
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 881
+"pdx": 882
 }
 ],
 [
@@ -1611,7 +1611,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -1623,7 +1623,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -1649,14 +1649,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 862
+"pdx": 863
 }
 ],
 [
@@ -1677,21 +1677,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1211
+"pdx": 1212
 }
 ],
 [
@@ -1719,14 +1719,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
@@ -1747,28 +1747,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 872
+"pdx": 873
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 951
+"pdx": 952
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
@@ -1789,21 +1789,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 896
+"pdx": 897
 }
 ],
 [
@@ -1815,21 +1815,21 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 913
+"pdx": 914
 }
 ],
 [
@@ -1843,7 +1843,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1325
+"pdx": 1326
 }
 ],
 [
@@ -1864,7 +1864,7 @@ P_enclosed_by_0 = [
 {
 "date": "1937 j\u00e4lkeen",
 "date_sdn": 2428535,
-"pdx": 1143
+"pdx": 1144
 },
 {
 "date": "ennen 1936-12-31",
@@ -1883,35 +1883,35 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1250
+"pdx": 1251
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 788
+"pdx": 789
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1334
+"pdx": 1335
 }
 ],
 [
@@ -1925,7 +1925,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
@@ -1937,45 +1937,45 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1603-12-31",
 "date_sdn": 2306908,
-"pdx": 1133
+"pdx": 1134
 },
 {
 "date": "1604 - 1651-12-31",
 "date_sdn": 2306909,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "1639 j\u00e4lkeen",
 "date_sdn": 2319693,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1638-12-31",
 "date_sdn": 2319692,
-"pdx": 1256
+"pdx": 1257
 }
 ],
 [
@@ -1989,7 +1989,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1334
+"pdx": 1335
 }
 ],
 [
@@ -2003,14 +2003,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 987
+"pdx": 988
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 775
+"pdx": 776
 }
 ],
 [
@@ -2022,35 +2022,35 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1292
+"pdx": 1293
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
@@ -2064,7 +2064,7 @@ P_enclosed_by_0 = [
 {
 "date": "1641 j\u00e4lkeen",
 "date_sdn": 2320424,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1640-12-31",
@@ -2076,7 +2076,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 868
+"pdx": 869
 }
 ],
 [
@@ -2097,7 +2097,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1015
+"pdx": 1016
 }
 ],
 [
@@ -2111,12 +2111,12 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1721-08-29",
 "date_sdn": 2349883,
-"pdx": 980
+"pdx": 981
 },
 {
 "date": "1721-08-30 j\u00e4lkeen",
 "date_sdn": 2349884,
-"pdx": 1272
+"pdx": 1273
 }
 ],
 [
@@ -2130,7 +2130,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 836
+"pdx": 837
 }
 ],
 [
@@ -2172,7 +2172,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -2200,7 +2200,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1009
+"pdx": 1010
 }
 ],
 [
@@ -2214,14 +2214,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1146
+"pdx": 1147
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -2235,7 +2235,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 865
+"pdx": 866
 }
 ],
 [
@@ -2249,7 +2249,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -2284,7 +2284,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 881
+"pdx": 882
 }
 ],
 [
@@ -2326,7 +2326,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 819
+"pdx": 820
 }
 ],
 [
@@ -2347,7 +2347,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1369
+"pdx": 1370
 }
 ],
 [
@@ -2375,14 +2375,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 950
+"pdx": 951
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1301
+"pdx": 1302
 }
 ],
 [
@@ -2396,21 +2396,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1009
+"pdx": 1010
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -2424,7 +2424,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -2436,19 +2436,19 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1307
+"pdx": 1308
 }
 ],
 [
 {
 "date": "1449 j\u00e4lkeen",
 "date_sdn": 2250297,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1448-12-31",
 "date_sdn": 2250296,
-"pdx": 1124
+"pdx": 1125
 }
 ],
 [
@@ -2462,14 +2462,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -2495,7 +2495,7 @@ P_enclosed_by_0 = [
 {
 "date": "1922 j\u00e4lkeen",
 "date_sdn": 2423056,
-"pdx": 1143
+"pdx": 1144
 },
 {
 "date": "ennen 1921-12-31",
@@ -2514,7 +2514,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
@@ -2528,7 +2528,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -2540,7 +2540,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -2554,7 +2554,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1976-12-31",
 "date_sdn": 2443144,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1977 j\u00e4lkeen",
@@ -2566,7 +2566,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -2587,26 +2587,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "ennen 1992-12-31",
 "date_sdn": 2448988,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1993 j\u00e4lkeen",
 "date_sdn": 2448989,
-"pdx": 1234
+"pdx": 1235
 }
 ],
 [
@@ -2627,7 +2627,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 943
+"pdx": 944
 }
 ],
 [
@@ -2655,12 +2655,12 @@ P_enclosed_by_0 = [
 {
 "date": "1366 j\u00e4lkeen",
 "date_sdn": 2219982,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1365-12-31",
 "date_sdn": 2219981,
-"pdx": 858
+"pdx": 859
 }
 ],
 [
@@ -2674,7 +2674,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -2688,7 +2688,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -2702,40 +2702,40 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 976
+"pdx": 977
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 846
+"pdx": 847
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 927
+"pdx": 928
 }
 ],
 [
 {
 "date": "1614 - 2012-12-31",
 "date_sdn": 2310562,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2013 j\u00e4lkeen",
@@ -2759,33 +2759,33 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1251
+"pdx": 1252
 }
 ],
 [
 {
 "date": "ennen 1972-12-31",
 "date_sdn": 2441683,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1255
+"pdx": 1256
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 997
+"pdx": 998
 }
 ],
 [
@@ -2799,24 +2799,24 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1193
+"pdx": 1194
 }
 ],
 [
 {
 "date": "1869 - 1968-12-31",
 "date_sdn": 2403699,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1868-12-31",
 "date_sdn": 2403698,
-"pdx": 1051
+"pdx": 1052
 },
 {
 "date": "1969 j\u00e4lkeen",
 "date_sdn": 2440223,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
@@ -2837,7 +2837,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 951
+"pdx": 952
 }
 ],
 [
@@ -2851,21 +2851,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 814
+"pdx": 815
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1113
+"pdx": 1114
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -2893,7 +2893,7 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1381
+"pdx": 1382
 },
 {
 "date": "ennen 1925-12-31",
@@ -2912,7 +2912,7 @@ P_enclosed_by_0 = [
 {
 "date": "1868 - 1944-09-18",
 "date_sdn": 2403333,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1692-12-31",
@@ -2922,7 +2922,7 @@ P_enclosed_by_0 = [
 {
 "date": "1693 - 1867-12-31",
 "date_sdn": 2339417,
-"pdx": 998
+"pdx": 999
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -2983,49 +2983,49 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1369
+"pdx": 1370
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1146
+"pdx": 1147
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1297
+"pdx": 1298
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
@@ -3039,7 +3039,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -3051,7 +3051,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -3121,7 +3121,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 932
+"pdx": 933
 }
 ],
 [
@@ -3142,7 +3142,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1138
+"pdx": 1139
 }
 ],
 [
@@ -3156,17 +3156,17 @@ P_enclosed_by_0 = [
 {
 "date": "1652 j\u00e4lkeen",
 "date_sdn": 2324441,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1570-12-31",
 "date_sdn": 2294855,
-"pdx": 858
+"pdx": 859
 },
 {
 "date": "1571 - 1651-12-31",
 "date_sdn": 2294856,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -3180,7 +3180,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -3194,7 +3194,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1267
+"pdx": 1268
 }
 ],
 [
@@ -3206,14 +3206,14 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -3241,14 +3241,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 975
+"pdx": 976
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1235
+"pdx": 1236
 }
 ],
 [
@@ -3276,14 +3276,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 972
+"pdx": 973
 }
 ],
 [
 {
 "date": "1871 - 1944-09-18",
 "date_sdn": 2404429,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1870-12-31",
@@ -3314,21 +3314,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 819
+"pdx": 820
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
@@ -3342,7 +3342,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -3370,21 +3370,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1111
+"pdx": 1112
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 875
+"pdx": 876
 }
 ],
 [
@@ -3396,21 +3396,21 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -3424,14 +3424,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1076
+"pdx": 1077
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 855
+"pdx": 856
 }
 ],
 [
@@ -3452,14 +3452,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1059
+"pdx": 1060
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
@@ -3478,7 +3478,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [],
@@ -3486,28 +3486,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 987
+"pdx": 988
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
@@ -3528,7 +3528,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
@@ -3561,7 +3561,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -3575,7 +3575,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -3589,7 +3589,7 @@ P_enclosed_by_0 = [
 {
 "date": "1861 - 2008-12-31",
 "date_sdn": 2400777,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1860-12-31",
@@ -3606,7 +3606,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1378
+"pdx": 1379
 }
 ],
 [
@@ -3620,7 +3620,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -3653,7 +3653,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1968-12-31",
 "date_sdn": 2440222,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1969 - 2008-12-31",
@@ -3691,7 +3691,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -3733,7 +3733,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -3747,7 +3747,7 @@ P_enclosed_by_0 = [
 {
 "date": "1901 - 2010-12-31",
 "date_sdn": 2415386,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1895-12-31",
@@ -3757,7 +3757,7 @@ P_enclosed_by_0 = [
 {
 "date": "1896 - 1900-12-31",
 "date_sdn": 2413560,
-"pdx": 1015
+"pdx": 1016
 },
 {
 "date": "2011 j\u00e4lkeen",
@@ -3769,7 +3769,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -3783,21 +3783,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1130
+"pdx": 1131
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 814
+"pdx": 815
 }
 ],
 [
@@ -3811,14 +3811,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 846
+"pdx": 847
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 846
+"pdx": 847
 }
 ],
 [
@@ -3832,14 +3832,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1192
+"pdx": 1193
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1096
+"pdx": 1097
 }
 ],
 [
@@ -3853,33 +3853,33 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1315
+"pdx": 1316
 },
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 951
+"pdx": 952
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -3905,7 +3905,7 @@ P_enclosed_by_0 = [
 {
 "date": "1954 j\u00e4lkeen",
 "date_sdn": 2434744,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
@@ -3926,7 +3926,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -3940,7 +3940,7 @@ P_enclosed_by_0 = [
 {
 "date": "1873 - 2000-12-31",
 "date_sdn": 2405160,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1872-12-31",
@@ -3978,36 +3978,36 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 985
+"pdx": 986
 },
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 864
+"pdx": 865
 }
 ],
 [
 {
 "date": "1893 - 2008-12-31",
 "date_sdn": 2412465,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1892-12-31",
 "date_sdn": 2412464,
-"pdx": 985
+"pdx": 986
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 1369
+"pdx": 1370
 }
 ],
 [
@@ -4028,7 +4028,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1231
+"pdx": 1232
 }
 ],
 [
@@ -4063,7 +4063,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1055
+"pdx": 1056
 }
 ],
 [
@@ -4082,7 +4082,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -4096,7 +4096,7 @@ P_enclosed_by_0 = [
 {
 "date": "1877 j\u00e4lkeen",
 "date_sdn": 2406621,
-"pdx": 1143
+"pdx": 1144
 },
 {
 "date": "ennen 1876-12-31",
@@ -4108,7 +4108,7 @@ P_enclosed_by_0 = [
 {
 "date": "1870 - 1944-09-18",
 "date_sdn": 2404064,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1869-12-31",
@@ -4125,14 +4125,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -4144,7 +4144,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
@@ -4165,21 +4165,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
@@ -4221,7 +4221,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -4235,26 +4235,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "1468 j\u00e4lkeen",
 "date_sdn": 2257236,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1467-12-31",
 "date_sdn": 2257235,
-"pdx": 1214
+"pdx": 1215
 }
 ],
 [
@@ -4282,7 +4282,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -4294,75 +4294,75 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 946
+"pdx": 947
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 952
+"pdx": 953
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 800
+"pdx": 801
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 862
+"pdx": 863
 }
 ],
 [
 {
 "date": "ennen 2014-12-31",
 "date_sdn": 2457023,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2015 j\u00e4lkeen",
 "date_sdn": 2457024,
-"pdx": 875
+"pdx": 876
 }
 ],
 [
@@ -4376,21 +4376,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -4416,14 +4416,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
@@ -4445,14 +4445,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1384
+"pdx": 1385
 }
 ],
 [
@@ -4466,7 +4466,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 792
+"pdx": 793
 }
 ],
 [
@@ -4487,7 +4487,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
@@ -4508,7 +4508,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
@@ -4522,14 +4522,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -4541,14 +4541,14 @@ P_enclosed_by_0 = [
 {
 "date": "1937 j\u00e4lkeen",
 "date_sdn": 2428535,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -4576,7 +4576,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -4590,14 +4590,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1146
+"pdx": 1147
 }
 ],
 [
@@ -4611,7 +4611,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 998
+"pdx": 999
 }
 ],
 [],
@@ -4619,14 +4619,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1210
+"pdx": 1211
 }
 ],
 [
@@ -4638,21 +4638,21 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1292
+"pdx": 1293
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -4666,14 +4666,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1040
+"pdx": 1041
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1001
+"pdx": 1002
 }
 ],
 [
@@ -4704,33 +4704,33 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "1640 j\u00e4lkeen",
 "date_sdn": 2320058,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1639-12-31",
 "date_sdn": 2320057,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
@@ -4751,7 +4751,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1146
+"pdx": 1147
 }
 ],
 [
@@ -4765,21 +4765,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1161
+"pdx": 1162
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 797
+"pdx": 798
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -4791,28 +4791,28 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1647-12-31",
 "date_sdn": 2322979,
-"pdx": 900
+"pdx": 901
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 865
+"pdx": 866
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 998
+"pdx": 999
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 875
+"pdx": 876
 }
 ],
 [
@@ -4826,14 +4826,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1334
+"pdx": 1335
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 872
+"pdx": 873
 }
 ],
 [
@@ -4868,14 +4868,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 979
+"pdx": 980
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
@@ -4896,7 +4896,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
@@ -4910,42 +4910,42 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1307
+"pdx": 1308
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1223
+"pdx": 1224
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1079
+"pdx": 1080
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -4966,7 +4966,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1193
+"pdx": 1194
 }
 ],
 [
@@ -4987,7 +4987,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 825
+"pdx": 826
 }
 ],
 [
@@ -5001,7 +5001,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 822
+"pdx": 823
 }
 ],
 [
@@ -5013,7 +5013,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -5034,17 +5034,17 @@ P_enclosed_by_0 = [
 {
 "date": "1636 - 1946-12-31",
 "date_sdn": 2318597,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1635-12-31",
 "date_sdn": 2318596,
-"pdx": 858
+"pdx": 859
 },
 {
 "date": "1947 j\u00e4lkeen",
 "date_sdn": 2432187,
-"pdx": 1143
+"pdx": 1144
 }
 ],
 [
@@ -5058,26 +5058,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
 {
 "date": "1894 - 1944-09-18",
 "date_sdn": 2412830,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1893-12-31",
 "date_sdn": 2412829,
-"pdx": 1018
+"pdx": 1019
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -5103,7 +5103,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1223
+"pdx": 1224
 }
 ],
 [
@@ -5124,7 +5124,7 @@ P_enclosed_by_0 = [
 {
 "date": "1865 - 2006-12-31",
 "date_sdn": 2402238,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1864-12-31",
@@ -5148,7 +5148,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -5169,7 +5169,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 872
+"pdx": 873
 }
 ],
 [
@@ -5211,7 +5211,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1367
+"pdx": 1368
 }
 ],
 [
@@ -5225,7 +5225,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1377
+"pdx": 1378
 }
 ],
 [
@@ -5239,12 +5239,12 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1972-12-31",
 "date_sdn": 2441683,
-"pdx": 869
+"pdx": 870
 },
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1307
+"pdx": 1308
 }
 ],
 [
@@ -5263,7 +5263,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -5277,14 +5277,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1285
+"pdx": 1286
 }
 ],
 [
 {
 "date": "1886 j\u00e4lkeen",
 "date_sdn": 2409908,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1885-12-31",
@@ -5303,7 +5303,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -5343,7 +5343,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 970
+"pdx": 971
 }
 ],
 [
@@ -5357,14 +5357,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -5376,7 +5376,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -5397,7 +5397,7 @@ P_enclosed_by_0 = [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1866-12-31",
@@ -5414,28 +5414,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 981
+"pdx": 982
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1042
+"pdx": 1043
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1377
+"pdx": 1378
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 998
+"pdx": 999
 }
 ],
 [
@@ -5449,7 +5449,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -5463,7 +5463,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1247
+"pdx": 1248
 }
 ],
 [
@@ -5477,28 +5477,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 841
+"pdx": 842
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1015
+"pdx": 1016
 }
 ],
 [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1381
+"pdx": 1382
 },
 {
 "date": "ennen 1925-12-31",
@@ -5510,21 +5510,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1307
+"pdx": 1308
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1224
+"pdx": 1225
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -5538,17 +5538,17 @@ P_enclosed_by_0 = [
 {
 "date": "1922 - 2008-12-31",
 "date_sdn": 2423056,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1603-12-31",
 "date_sdn": 2306908,
-"pdx": 1133
+"pdx": 1134
 },
 {
 "date": "1604 - 1627-12-31",
 "date_sdn": 2306909,
-"pdx": 985
+"pdx": 986
 },
 {
 "date": "1628 - 1903-12-31",
@@ -5558,7 +5558,7 @@ P_enclosed_by_0 = [
 {
 "date": "1904 - 1921-12-31",
 "date_sdn": 2416481,
-"pdx": 1302
+"pdx": 1303
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -5584,72 +5584,72 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "ennen 1345-12-31",
 "date_sdn": 2212676,
-"pdx": 1144
+"pdx": 1145
 },
 {
 "date": "1346 - 1580-12-31",
 "date_sdn": 2212677,
-"pdx": 1025
+"pdx": 1026
 },
 {
 "date": "1581 - 1703-12-31",
 "date_sdn": 2298509,
-"pdx": 980
+"pdx": 981
 },
 {
 "date": "1704 - 1920-10-13",
 "date_sdn": 2343433,
-"pdx": 1272
+"pdx": 1273
 },
 {
 "date": "1920-10-14 - 1940-07-31",
 "date_sdn": 2422612,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1272
+"pdx": 1273
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 862
+"pdx": 863
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 852
+"pdx": 853
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1334
+"pdx": 1335
 }
 ],
 [],
@@ -5671,14 +5671,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1164
+"pdx": 1165
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1206
+"pdx": 1207
 }
 ],
 [
@@ -5699,7 +5699,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1334
+"pdx": 1335
 }
 ],
 [
@@ -5727,7 +5727,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
@@ -5741,7 +5741,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 822
+"pdx": 823
 }
 ],
 [
@@ -5755,7 +5755,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1060
+"pdx": 1061
 }
 ],
 [
@@ -5776,7 +5776,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
@@ -5797,38 +5797,38 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1315
+"pdx": 1316
 },
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "1922 j\u00e4lkeen",
 "date_sdn": 2423056,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1921-12-31",
 "date_sdn": 2423055,
-"pdx": 858
+"pdx": 859
 }
 ],
 [
@@ -5856,7 +5856,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -5905,17 +5905,23 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1377
+"pdx": 1378
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1263
+"pdx": 1264
 }
 ],
-[],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 981
+}
+],
 [
 {
 "date": "",
@@ -5927,14 +5933,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 881
+"pdx": 882
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 822
+"pdx": 823
 }
 ],
 [
@@ -5955,6 +5961,13 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"pdx": 701
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "pdx": 686
 }
 ],
@@ -5962,14 +5975,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1358
+"pdx": 1359
 }
 ],
 [
@@ -5983,7 +5996,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1356
+"pdx": 1357
 }
 ],
 [
@@ -5997,42 +6010,42 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 913
+"pdx": 914
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "1540 j\u00e4lkeen",
 "date_sdn": 2283533,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1539-12-31",
@@ -6044,7 +6057,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 951
+"pdx": 952
 }
 ],
 [
@@ -6058,7 +6071,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -6072,7 +6085,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
@@ -6086,7 +6099,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
@@ -6100,14 +6113,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1377
+"pdx": 1378
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 790
+"pdx": 791
 }
 ],
 [
@@ -6140,47 +6153,47 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 874
+"pdx": 875
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 797
+"pdx": 798
 }
 ],
 [
 {
 "date": "1465 j\u00e4lkeen",
 "date_sdn": 2256141,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1464-12-31",
 "date_sdn": 2256140,
-"pdx": 1124
+"pdx": 1125
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -6194,28 +6207,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1015
+"pdx": 1016
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1356
+"pdx": 1357
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 951
+"pdx": 952
 }
 ],
 [
@@ -6250,35 +6263,35 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 858
+"pdx": 859
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1127
+"pdx": 1128
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -6292,28 +6305,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 814
+"pdx": 815
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
@@ -6334,14 +6347,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 822
+"pdx": 823
 }
 ],
 [
@@ -6355,21 +6368,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1222
+"pdx": 1223
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -6390,7 +6403,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
@@ -6446,12 +6459,12 @@ P_enclosed_by_0 = [
 {
 "date": "1362 - 2009-12-31",
 "date_sdn": 2218521,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1361-12-31",
 "date_sdn": 2218520,
-"pdx": 881
+"pdx": 882
 },
 {
 "date": "2010 j\u00e4lkeen",
@@ -6463,12 +6476,12 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 1037
+"pdx": 1038
 }
 ],
 [
@@ -6482,21 +6495,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1072
+"pdx": 1073
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1222
+"pdx": 1223
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1377
+"pdx": 1378
 }
 ],
 [
@@ -6517,26 +6530,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 846
+"pdx": 847
 }
 ],
 [
 {
 "date": "1868 j\u00e4lkeen",
 "date_sdn": 2403333,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1727-12-31",
 "date_sdn": 2352198,
-"pdx": 947
+"pdx": 948
 },
 {
 "date": "1728 - 1855-12-31",
@@ -6588,26 +6601,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "1895 - 1968-12-31",
 "date_sdn": 2413195,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1629-12-31",
 "date_sdn": 2316405,
-"pdx": 985
+"pdx": 986
 },
 {
 "date": "1630 - 1894-12-31",
@@ -6624,14 +6637,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -6643,28 +6656,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 858
+"pdx": 859
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -6678,14 +6691,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 852
+"pdx": 853
 }
 ],
 [
@@ -6706,57 +6719,57 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 927
+"pdx": 928
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "1941 j\u00e4lkeen",
 "date_sdn": 2429996,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1940-12-31",
 "date_sdn": 2429995,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "ennen 1972-12-31",
 "date_sdn": 2441683,
-"pdx": 869
+"pdx": 870
 },
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -6768,19 +6781,19 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1603-12-31",
 "date_sdn": 2306908,
-"pdx": 1133
+"pdx": 1134
 },
 {
 "date": "1604 - 1651-12-31",
 "date_sdn": 2306909,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 992
+"pdx": 993
 }
 ],
 [
@@ -6794,26 +6807,26 @@ P_enclosed_by_0 = [
 {
 "date": "1558-03-08 j\u00e4lkeen",
 "date_sdn": 2290174,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1558-03-07",
 "date_sdn": 2290173,
-"pdx": 1211
+"pdx": 1212
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -6839,28 +6852,28 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 883
+"pdx": 884
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -6874,7 +6887,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 900
+"pdx": 901
 }
 ],
 [
@@ -6886,7 +6899,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -6900,14 +6913,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1279
+"pdx": 1280
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1252
+"pdx": 1253
 }
 ],
 [
@@ -6921,7 +6934,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -6963,7 +6976,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -6977,7 +6990,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [],
@@ -6985,14 +6998,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 903
+"pdx": 1120
 }
 ],
 [
@@ -7004,14 +7010,21 @@ P_enclosed_by_0 = [
 ],
 [
 {
+"date": "",
+"date_sdn": 0,
+"pdx": 905
+}
+],
+[
+{
 "date": "1735 - 1944-09-18",
 "date_sdn": 2354756,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1610-12-31",
 "date_sdn": 2309465,
-"pdx": 1018
+"pdx": 1019
 },
 {
 "date": "1611 - 1734-12-31",
@@ -7028,7 +7041,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -7042,7 +7055,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 908
+"pdx": 909
 }
 ],
 [
@@ -7054,14 +7067,14 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 812
+"pdx": 813
 }
 ],
 [
@@ -7075,7 +7088,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1357
+"pdx": 1358
 }
 ],
 [
@@ -7089,26 +7102,26 @@ P_enclosed_by_0 = [
 {
 "date": "1405 j\u00e4lkeen",
 "date_sdn": 2234226,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1404-12-31",
 "date_sdn": 2234225,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 913
+"pdx": 914
 }
 ],
 [
@@ -7122,7 +7135,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1176
+"pdx": 1177
 }
 ],
 [
@@ -7136,28 +7149,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 928
+"pdx": 929
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1381
+"pdx": 1382
 },
 {
 "date": "ennen 1925-12-31",
@@ -7183,7 +7196,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -7197,7 +7210,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -7211,7 +7224,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -7232,14 +7245,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 952
+"pdx": 953
 }
 ],
 [
@@ -7253,28 +7266,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 937
+"pdx": 938
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1241
+"pdx": 1242
 }
 ],
 [
@@ -7295,14 +7308,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 865
+"pdx": 866
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -7316,14 +7329,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1261
+"pdx": 1262
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -7337,12 +7350,12 @@ P_enclosed_by_0 = [
 {
 "date": "1561 j\u00e4lkeen",
 "date_sdn": 2291204,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1560-12-31",
 "date_sdn": 2291203,
-"pdx": 1124
+"pdx": 1125
 }
 ],
 [
@@ -7356,21 +7369,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1176
+"pdx": 1177
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1015
+"pdx": 1016
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -7382,14 +7395,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 952
+"pdx": 953
 }
 ],
 [
@@ -7403,7 +7416,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 855
+"pdx": 856
 }
 ],
 [
@@ -7424,14 +7437,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 769
+"pdx": 770
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1185
+"pdx": 1186
 }
 ],
 [
@@ -7445,14 +7458,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 962
+"pdx": 963
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -7473,21 +7486,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 886
+"pdx": 887
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
@@ -7515,28 +7528,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 972
+"pdx": 973
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -7550,14 +7563,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 856
+"pdx": 857
 }
 ],
 [
@@ -7569,7 +7582,7 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -7591,47 +7604,47 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 972
+"pdx": 973
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 876
+"pdx": 877
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "1565 j\u00e4lkeen",
 "date_sdn": 2292665,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1564-12-31",
 "date_sdn": 2292664,
-"pdx": 858
+"pdx": 859
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 935
+"pdx": 936
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -7643,7 +7656,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -7664,14 +7677,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -7683,14 +7696,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1330
+"pdx": 1331
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1330
+"pdx": 1331
 }
 ],
 [
@@ -7704,26 +7717,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 846
+"pdx": 847
 }
 ],
 [
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1315
+"pdx": 1316
 },
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "1635 - 1944-09-18",
 "date_sdn": 2318232,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1634-12-31",
@@ -7750,7 +7763,7 @@ P_enclosed_by_0 = [
 {
 "date": "1946 - 2006-12-31",
 "date_sdn": 2431822,
-"pdx": 1175
+"pdx": 1176
 }
 ],
 [
@@ -7764,110 +7777,110 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1279
+"pdx": 1280
 }
 ],
 [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "1200 - 1219-06-14",
 "date_sdn": 2159351,
-"pdx": 900
+"pdx": 901
 },
 {
 "date": "1219-06-15 - 1345-12-31",
 "date_sdn": 2166456,
-"pdx": 1144
+"pdx": 1145
 },
 {
 "date": "1346 - 1560-12-31",
 "date_sdn": 2212677,
-"pdx": 1025
+"pdx": 1026
 },
 {
 "date": "1561 - 1721-08-29",
 "date_sdn": 2291204,
-"pdx": 980
+"pdx": 981
 },
 {
 "date": "1721-08-30 - 1918-02-23",
 "date_sdn": 2349884,
-"pdx": 1272
+"pdx": 1273
 },
 {
 "date": "1918-02-24 - 1940-07-31",
 "date_sdn": 2421649,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1272
+"pdx": 1273
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1006
+"pdx": 1007
 }
 ],
 [
 {
 "date": "1639 j\u00e4lkeen",
 "date_sdn": 2319693,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1638-12-31",
 "date_sdn": 2319692,
-"pdx": 947
+"pdx": 948
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 862
+"pdx": 863
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1015
+"pdx": 1016
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1133
+"pdx": 1134
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1011
+"pdx": 1012
 }
 ],
 [
@@ -7888,26 +7901,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1015
+"pdx": 1016
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "1581 - 2004-12-31",
 "date_sdn": 2298509,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1580-12-31",
 "date_sdn": 2298508,
-"pdx": 913
+"pdx": 914
 },
 {
 "date": "2005 j\u00e4lkeen",
@@ -7924,7 +7937,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -7938,7 +7951,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -7950,115 +7963,115 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
+[],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 901
+}
+],
+[],
 [],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 900
-}
-],
-[],
-[],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 900
+"pdx": 901
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 900
+"pdx": 901
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 900
+"pdx": 901
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1139
+"pdx": 1140
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1033
+"pdx": 1034
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1016
+"pdx": 1017
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1285
+"pdx": 1286
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -8079,7 +8092,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -8093,7 +8106,7 @@ P_enclosed_by_0 = [
 {
 "date": "1866 - 2008-12-31",
 "date_sdn": 2402603,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -8110,7 +8123,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1203
+"pdx": 1204
 }
 ],
 [
@@ -8138,7 +8151,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -8152,49 +8165,42 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1049
+"pdx": 1050
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 856
+"pdx": 857
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 33
+"pdx": 1120
 }
 ],
 [
@@ -8208,7 +8214,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1302
+"pdx": 33
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1303
 }
 ],
 [
@@ -8222,35 +8235,35 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1161
+"pdx": 1162
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -8292,14 +8305,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 943
+"pdx": 944
 }
 ],
 [
@@ -8318,7 +8331,7 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -8339,145 +8352,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1176
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 854
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1076
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 257
-}
-],
-[
-{
-"date": "1425 j\u00e4lkeen",
-"date_sdn": 2241531,
-"pdx": 1122
-},
-{
-"date": "ennen 1424",
-"date_sdn": 2241165,
-"pdx": 881
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1079
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 951
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 608
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 777
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1110
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1122
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 777
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 930
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 458
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1382
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 762
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 980
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1122
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1119
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 1119
+"pdx": 1177
 }
 ],
 [
@@ -8491,6 +8366,144 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
+"pdx": 1077
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 257
+}
+],
+[
+{
+"date": "1425 j\u00e4lkeen",
+"date_sdn": 2241531,
+"pdx": 1123
+},
+{
+"date": "ennen 1424",
+"date_sdn": 2241165,
+"pdx": 882
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1080
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 952
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 608
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 778
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1111
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1123
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 778
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 931
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 458
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1383
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 762
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 981
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1123
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1120
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1120
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 856
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
 "pdx": 3
 }
 ],
@@ -8498,7 +8511,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
@@ -8512,7 +8525,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -8534,7 +8547,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1207
+"pdx": 1208
 }
 ],
 [
@@ -8548,21 +8561,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 814
+"pdx": 815
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1379
+"pdx": 1380
 }
 ],
 [
@@ -8576,7 +8589,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1123
+"pdx": 1124
 }
 ],
 [
@@ -8595,33 +8608,26 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1912-12-31",
 "date_sdn": 2419768,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 985
+"pdx": 986
 },
 {
 "date": "1921 j\u00e4lkeen",
 "date_sdn": 2422691,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
-}
-],
-[
-{
-"date": "",
-"date_sdn": 0,
-"pdx": 411
+"pdx": 1123
 }
 ],
 [
@@ -8635,21 +8641,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 411
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1116
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1117
+}
+],
+[
+{
+"date": "",
+"date_sdn": 0,
+"pdx": 1103
 }
 ],
 [],
@@ -8658,7 +8671,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [],
@@ -8666,21 +8679,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
@@ -8701,14 +8714,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 910
+"pdx": 911
 }
 ],
 [
@@ -8722,26 +8735,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1196
+"pdx": 1197
 }
 ],
 [
 {
 "date": "ennen 1972-12-31",
 "date_sdn": 2441683,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1973 j\u00e4lkeen",
 "date_sdn": 2441684,
-"pdx": 1245
+"pdx": 1246
 }
 ],
 [
@@ -8762,21 +8775,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 798
+"pdx": 799
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1114
+"pdx": 1115
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -8802,21 +8815,21 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [],
@@ -8824,7 +8837,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1160
+"pdx": 1161
 }
 ],
 [
@@ -8859,51 +8872,51 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1152
+"pdx": 1153
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1150
+"pdx": 1151
 }
 ],
 [
 {
 "date": "1991-08-20 j\u00e4lkeen",
 "date_sdn": 2448489,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "ennen 1345-12-31",
 "date_sdn": 2212676,
-"pdx": 1144
+"pdx": 1145
 },
 {
 "date": "1346 - 1580-12-31",
 "date_sdn": 2212677,
-"pdx": 1025
+"pdx": 1026
 },
 {
 "date": "1581 - 1703-12-31",
 "date_sdn": 2298509,
-"pdx": 980
+"pdx": 981
 },
 {
 "date": "1704 - 1920-10-13",
 "date_sdn": 2343433,
-"pdx": 1272
+"pdx": 1273
 },
 {
 "date": "1920-10-14 - 1940-07-31",
 "date_sdn": 2422612,
-"pdx": 1306
+"pdx": 1307
 },
 {
 "date": "1940-08-01 - 1991-08-19",
 "date_sdn": 2429843,
-"pdx": 1272
+"pdx": 1273
 }
 ],
 [
@@ -8917,14 +8930,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1064
+"pdx": 1065
 }
 ],
 [
@@ -8938,7 +8951,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1193
+"pdx": 1194
 }
 ],
 [
@@ -8952,7 +8965,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 777
+"pdx": 778
 }
 ],
 [
@@ -8966,7 +8979,7 @@ P_enclosed_by_0 = [
 {
 "date": "1865 - 1971-12-31",
 "date_sdn": 2402238,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1864-12-31",
@@ -8976,7 +8989,7 @@ P_enclosed_by_0 = [
 {
 "date": "1972 j\u00e4lkeen",
 "date_sdn": 2441318,
-"pdx": 1143
+"pdx": 1144
 }
 ],
 [
@@ -9004,7 +9017,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1223
+"pdx": 1224
 }
 ],
 [
@@ -9018,49 +9031,49 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1120
+"pdx": 1121
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1246
+"pdx": 1247
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 836
+"pdx": 837
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1171
+"pdx": 1172
 }
 ],
 [
 {
 "date": "1937 j\u00e4lkeen",
 "date_sdn": 2428535,
-"pdx": 1143
+"pdx": 1144
 },
 {
 "date": "ennen 1936-12-31",
@@ -9079,7 +9092,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9093,7 +9106,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -9114,14 +9127,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 875
+"pdx": 876
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1182
+"pdx": 1183
 }
 ],
 [
@@ -9149,7 +9162,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ],
 [
@@ -9161,14 +9174,14 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1186
+"pdx": 1187
 }
 ],
 [
@@ -9196,14 +9209,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1229
+"pdx": 1230
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9217,42 +9230,42 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1192
+"pdx": 1193
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1192
+"pdx": 1193
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1192
+"pdx": 1193
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
@@ -9266,7 +9279,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1970-12-31",
 "date_sdn": 2440952,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1971 j\u00e4lkeen",
@@ -9278,7 +9291,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1195
+"pdx": 1196
 }
 ],
 [
@@ -9292,21 +9305,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1334
+"pdx": 1335
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1163
+"pdx": 1164
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 913
+"pdx": 914
 }
 ],
 [],
@@ -9321,7 +9334,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1109
+"pdx": 1110
 }
 ],
 [],
@@ -9329,28 +9342,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 798
+"pdx": 799
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9371,33 +9384,33 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1219
+"pdx": 1220
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1217
+"pdx": 1218
 }
 ],
 [
 {
 "date": "1589 j\u00e4lkeen",
 "date_sdn": 2301431,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1483-12-31",
 "date_sdn": 2263079,
-"pdx": 1133
+"pdx": 1134
 },
 {
 "date": "1484 - 1588-12-31",
@@ -9409,14 +9422,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [],
@@ -9424,38 +9437,38 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1977-12-31",
 "date_sdn": 2443509,
-"pdx": 1201
+"pdx": 1202
 },
 {
 "date": "1978 j\u00e4lkeen",
 "date_sdn": 2443510,
-"pdx": 1245
+"pdx": 1246
 }
 ],
 [
 {
 "date": "ennen 1974-12-31",
 "date_sdn": 2442413,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1975 j\u00e4lkeen",
 "date_sdn": 2442414,
-"pdx": 1233
+"pdx": 1234
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
@@ -9474,7 +9487,7 @@ P_enclosed_by_0 = [
 {
 "date": "2007 j\u00e4lkeen",
 "date_sdn": 2454102,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -9488,17 +9501,17 @@ P_enclosed_by_0 = [
 {
 "date": "1868 j\u00e4lkeen",
 "date_sdn": 2403333,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1638-12-31",
 "date_sdn": 2319692,
-"pdx": 947
+"pdx": 948
 },
 {
 "date": "1639 - 1867-12-31",
 "date_sdn": 2319693,
-"pdx": 1006
+"pdx": 1007
 }
 ],
 [
@@ -9512,21 +9525,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -9545,7 +9558,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1173
+"pdx": 1174
 }
 ],
 [
@@ -9566,19 +9579,19 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "1921 - 1944-09-18",
 "date_sdn": 2422691,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1920-12-31",
 "date_sdn": 2422690,
-"pdx": 1292
+"pdx": 1293
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -9590,7 +9603,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
@@ -9611,7 +9624,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9632,7 +9645,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -9644,12 +9657,12 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1603-12-31",
 "date_sdn": 2306908,
-"pdx": 1133
+"pdx": 1134
 },
 {
 "date": "1604 - 1651-12-31",
 "date_sdn": 2306909,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -9663,7 +9676,7 @@ P_enclosed_by_0 = [
 {
 "date": "1738 - 1944-09-18",
 "date_sdn": 2355852,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1737-12-31",
@@ -9675,14 +9688,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1369
+"pdx": 1370
 }
 ],
 [
@@ -9696,33 +9709,33 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2008-12-31",
 "date_sdn": 2454832,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 1047
+"pdx": 1048
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1115
+"pdx": 1116
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
@@ -9750,7 +9763,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9764,7 +9777,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 2002-12-31",
 "date_sdn": 2452640,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "2003 j\u00e4lkeen",
@@ -9776,7 +9789,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 779
+"pdx": 780
 }
 ],
 [
@@ -9797,14 +9810,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 951
+"pdx": 952
 }
 ],
 [
@@ -9818,7 +9831,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1250
+"pdx": 1251
 }
 ],
 [],
@@ -9826,7 +9839,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -9840,7 +9853,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9854,21 +9867,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1322
+"pdx": 1323
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1051
+"pdx": 1052
 }
 ],
 [
 {
 "date": "1868 j\u00e4lkeen",
 "date_sdn": 2403333,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1867-12-31",
@@ -9880,21 +9893,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1279
+"pdx": 1280
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1163
+"pdx": 1164
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
@@ -9908,7 +9921,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1138
+"pdx": 1139
 }
 ],
 [
@@ -9929,21 +9942,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1284
+"pdx": 1285
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -9955,21 +9968,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1119
+"pdx": 1120
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1289
+"pdx": 1290
 }
 ],
 [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -9981,14 +9994,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1192
+"pdx": 1193
 }
 ],
 [
@@ -10002,26 +10015,26 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1061
+"pdx": 1062
 }
 ],
 [
 {
 "date": "1635 j\u00e4lkeen",
 "date_sdn": 2318232,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1634-12-31",
 "date_sdn": 2318231,
-"pdx": 947
+"pdx": 948
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
@@ -10035,7 +10048,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 992
+"pdx": 993
 }
 ],
 [
@@ -10054,12 +10067,12 @@ P_enclosed_by_0 = [
 {
 "date": "1904 - 2008-12-31",
 "date_sdn": 2416481,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1903-12-31",
 "date_sdn": 2416480,
-"pdx": 985
+"pdx": 986
 },
 {
 "date": "2009 j\u00e4lkeen",
@@ -10071,7 +10084,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1302
+"pdx": 1303
 }
 ],
 [
@@ -10093,12 +10106,12 @@ P_enclosed_by_0 = [
 {
 "date": "1868 j\u00e4lkeen",
 "date_sdn": 2403333,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1867-12-31",
 "date_sdn": 2403332,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -10112,7 +10125,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -10133,7 +10146,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1018
+"pdx": 1019
 }
 ],
 [
@@ -10154,7 +10167,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -10187,12 +10200,12 @@ P_enclosed_by_0 = [
 {
 "date": "1926 j\u00e4lkeen",
 "date_sdn": 2424517,
-"pdx": 1381
+"pdx": 1382
 },
 {
 "date": "ennen 1925-12-31",
 "date_sdn": 2424516,
-"pdx": 1315
+"pdx": 1316
 }
 ],
 [
@@ -10227,14 +10240,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1035
+"pdx": 1036
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1220
+"pdx": 1221
 }
 ],
 [
@@ -10248,28 +10261,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1085
+"pdx": 1086
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1102
+"pdx": 1103
 }
 ],
 [
@@ -10283,21 +10296,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 999
+"pdx": 1000
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -10311,7 +10324,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [],
@@ -10319,7 +10332,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1273
+"pdx": 1274
 }
 ],
 [
@@ -10340,14 +10353,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1342
+"pdx": 1343
 }
 ],
 [
 {
 "date": "1990-10-03 j\u00e4lkeen",
 "date_sdn": 2448168,
-"pdx": 1024
+"pdx": 1025
 },
 {
 "date": "ennen 1295",
@@ -10357,32 +10370,32 @@ P_enclosed_by_0 = [
 {
 "date": "1296 - 1355",
 "date_sdn": 2194415,
-"pdx": 1028
+"pdx": 1029
 },
 {
 "date": "1356 - 1805",
 "date_sdn": 2216329,
-"pdx": 1030
+"pdx": 1031
 },
 {
 "date": "1806 - 1814",
 "date_sdn": 2380688,
-"pdx": 1029
+"pdx": 1030
 },
 {
 "date": "1815 - 1918",
 "date_sdn": 2383975,
-"pdx": 885
+"pdx": 886
 },
 {
 "date": "1919 - 1933-01-29",
 "date_sdn": 2421960,
-"pdx": 1337
+"pdx": 1338
 },
 {
 "date": "1933-01-30 - 1945-07-04",
 "date_sdn": 2427103,
-"pdx": 1027
+"pdx": 1028
 },
 {
 "date": "1945-07-05 - 1949-10-06",
@@ -10392,7 +10405,7 @@ P_enclosed_by_0 = [
 {
 "date": "1949-10-07 - 1990-10-02",
 "date_sdn": 2433197,
-"pdx": 1026
+"pdx": 1027
 }
 ],
 [
@@ -10413,7 +10426,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1344
+"pdx": 1345
 }
 ],
 [
@@ -10427,35 +10440,35 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 880
+"pdx": 881
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1367
+"pdx": 1368
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1370
+"pdx": 1371
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1309
+"pdx": 1310
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 854
+"pdx": 855
 }
 ],
 [
@@ -10469,21 +10482,21 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1060
+"pdx": 1061
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1110
+"pdx": 1111
 }
 ],
 [
@@ -10504,28 +10517,28 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1281
+"pdx": 1282
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1122
+"pdx": 1123
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 943
+"pdx": 944
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1363
+"pdx": 1364
 }
 ],
 [
@@ -10539,7 +10552,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 904
+"pdx": 905
 }
 ],
 [
@@ -10553,24 +10566,24 @@ P_enclosed_by_0 = [
 {
 "date": "1869 - 2008-12-31",
 "date_sdn": 2403699,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1868-12-31",
 "date_sdn": 2403698,
-"pdx": 925
+"pdx": 926
 },
 {
 "date": "2009 j\u00e4lkeen",
 "date_sdn": 2454833,
-"pdx": 925
+"pdx": 926
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1365
+"pdx": 1366
 }
 ],
 [
@@ -10591,12 +10604,12 @@ P_enclosed_by_0 = [
 {
 "date": "1869 j\u00e4lkeen",
 "date_sdn": 2403699,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1868-12-31",
 "date_sdn": 2403698,
-"pdx": 858
+"pdx": 859
 }
 ],
 [
@@ -10631,14 +10644,14 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1016
+"pdx": 1017
 }
 ],
 [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1301
+"pdx": 1302
 }
 ],
 [
@@ -10652,12 +10665,12 @@ P_enclosed_by_0 = [
 {
 "date": "1893 j\u00e4lkeen",
 "date_sdn": 2412465,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "ennen 1892-12-31",
 "date_sdn": 2412464,
-"pdx": 985
+"pdx": 986
 }
 ],
 [
@@ -10671,7 +10684,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 1327
+"pdx": 1328
 }
 ],
 [
@@ -10685,7 +10698,7 @@ P_enclosed_by_0 = [
 {
 "date": "ennen 1944-09-18",
 "date_sdn": 2431352,
-"pdx": 1122
+"pdx": 1123
 },
 {
 "date": "1944-09-19 j\u00e4lkeen",
@@ -10697,7 +10710,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ],
 [
@@ -10711,7 +10724,7 @@ P_enclosed_by_0 = [
 {
 "date": "",
 "date_sdn": 0,
-"pdx": 980
+"pdx": 981
 }
 ]
 ]

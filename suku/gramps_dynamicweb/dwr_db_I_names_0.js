@@ -4427,24 +4427,6 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": ", Eric Abj\u00f6rnsson",
-"given": "Eric",
-"nick": "",
-"note": "",
-"suffix": "Abj\u00f6rnsson",
-"surnames": [
-""
-],
-"title": "",
-"type": "Tuntematon"
-}
-],
-[
-{
-"call": "",
-"cita": [],
-"date": "",
-"fam_nick": "",
 "full": ", Erich Johansson",
 "given": "Erich",
 "nick": "",
@@ -4473,6 +4455,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Erik Abj\u00f6rnsson",
+"given": "Erik",
+"nick": "",
+"note": "",
+"suffix": "Abj\u00f6rnsson",
+"surnames": [
+""
+],
+"title": "",
+"type": "Tuntematon"
 }
 ],
 [
@@ -6255,6 +6255,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tunnettu my\u00f6s"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Kati",
+"given": "Kati",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -9425,6 +9443,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": ", Nina",
+"given": "Nina",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": ", Olof Larsson",
 "given": "Olof",
 "nick": "",
@@ -9525,6 +9561,24 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Tuntematon"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": ", Sami",
+"given": "Sami",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+""
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
 }
 ],
 [
@@ -17213,8 +17267,8 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-4933,
-4935
+4932,
+4934
 ],
 "date": "",
 "fam_nick": "",
@@ -22406,6 +22460,24 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
+"full": "J\u00e4rvinen, Bertta Helena",
+"given": "Bertta Helena",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"J\u00e4rvinen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
 "full": "J\u00e4rvinen, Elma Elina",
 "given": "Elma Elina",
 "nick": "",
@@ -22458,11 +22530,11 @@ I_names_0 = [
 "cita": [],
 "date": "",
 "fam_nick": "",
-"full": "J\u00e4rvinen, Valma Ranni",
+"full": "J\u00e4rvinen, Valma Granni",
 "given": "Valma",
 "nick": "",
 "note": "",
-"suffix": "Ranni",
+"suffix": "Granni",
 "surnames": [
 "J\u00e4rvinen"
 ],
@@ -23433,6 +23505,42 @@ I_names_0 = [
 "suffix": "Juhonpoika",
 "surnames": [
 "Kallonen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kammonen, Hannu",
+"given": "Hannu",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Kammonen"
+],
+"title": "",
+"type": "Syntym\u00e4nimi"
+}
+],
+[
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "Kammonen, Juha V\u00e4in\u00f6",
+"given": "Juha V\u00e4in\u00f6",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"Kammonen"
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"

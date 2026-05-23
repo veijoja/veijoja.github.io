@@ -91,7 +91,6 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-23\n</p><p>\n<b>\nSivu: \n</b>\nDaniel Abrahami, taulu 1: Anna Thomasdotter Toppola\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-23\n</p><p>\n<b>\nSivu: \n</b>\nDaniel Abrahami, taulu 1: Anna Thomasdotter Toppola, puoliso Daniel Abrahami ja heid\u00e4n lapsensa, mm. Anna Danielsdotter\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-10-23\n</p><p>\n<b>\nSivu: \n</b>\nDaniel Abrahami, taulu 3: Anna Danielsdotter Toppola, puoliso Ericus Arvidi Ancherus ja mm. tyt\u00e4r Johanna\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-12-10\n</p><p>\n<b>\nSivu: \n</b>\nDe tidiga \u00e5ren och Fleming\u00adarnas tid -1674\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-03\n</p><p>\n<b>\nSivu: \n</b>\nDeutsche Demokratische Republik\n</p><p>\n<b>\nLuotettavuus: \n</b>\nEritt\u00e4in matala\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-03\n</p><p>\n<b>\nSivu: \n</b>\nDeutsches Reich\n</p><p>\n<b>\nLuotettavuus: \n</b>\nEritt\u00e4in matala\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2026-05-02\n</p><p>\n<b>\nSivu: \n</b>\nDj\u00e4kn, Lydikas\u00f6nernas \u00e4tt: tab 1 Lydeke, tab 2 Klas Dj\u00e4kn gift 1.  gift med Elin av Orkovakkis i Virmo sn i Egentliga Finland, ~1400 gift 2. med Kristina J\u00f6nsdotter, n\u00e4mnd 1435, dotter av riksr\u00e5det J\u00f6ns Andersson (Garp, \u00e4ldre \u00e4tten), barn mm. av 2. gifte Marta Klasdotter gift 1. med J\u00f6ns Olofsson (Tavast, medeltids\u00e4tten), gift 2. med D\u00f6nhoff Calle\n</p>",
@@ -5000,6 +4999,7 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-12-25\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 26: Orihwesi Pawola\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-09-01\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 28-29: 1697\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-19\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 28: K\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 29, vuodet 1712-1718 tai 1730-1736: K\u00e5lemam\u00e4ki\n</p>"
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 29, vuodet 1712-1718 tai 1730-1736: K\u00e5lemam\u00e4ki\n</p>",
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 30, vuodet 1737-1743: Kolemam\u00e4ki\n</p>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_text_0.js');

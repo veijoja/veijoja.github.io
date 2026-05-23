@@ -873,6 +873,7 @@ P_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nPaikan lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nPohjoislahti kuului \"H\u00e4meen Keuruuseen\", joka ennen 1600-luvun puoliv\u00e4li\u00e4 oli pit\u00e4j\u00e4historialtaan erilainen kuin \"Satakunnan Keuruu\".\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "",
 "",

@@ -769,6 +769,7 @@ P_type_0 = [
 "Tila tai talo",
 "Hautausmaa",
 "Kyl\u00e4",
+"Katuosoite",
 "Kyl\u00e4",
 "Kyl\u00e4",
 "Rakennus tai torppa",

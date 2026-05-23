@@ -40,7 +40,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 13,
+"index": 12,
 "note": "",
 "to_father": "Syntym\u00e4",
 "to_mother": "Syntym\u00e4"
@@ -153,7 +153,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 12,
+"index": 14,
 "note": "",
 "to_father": "Syntym\u00e4",
 "to_mother": "Syntym\u00e4"
@@ -489,6 +489,15 @@ I_famc_0 = [
 [],
 [],
 [],
+[
+{
+"cita": [],
+"index": 1449,
+"note": "",
+"to_father": "Syntym\u00e4",
+"to_mother": "Syntym\u00e4"
+}
+],
 [],
 [],
 [],
@@ -750,6 +759,15 @@ I_famc_0 = [
 "to_mother": "Syntym\u00e4"
 }
 ],
+[
+{
+"cita": [],
+"index": 1449,
+"note": "",
+"to_father": "Syntym\u00e4",
+"to_mother": "Syntym\u00e4"
+}
+],
 [],
 [],
 [],
@@ -764,6 +782,15 @@ I_famc_0 = [
 ],
 [],
 [],
+[
+{
+"cita": [],
+"index": 1449,
+"note": "",
+"to_father": "Syntym\u00e4",
+"to_mother": "Syntym\u00e4"
+}
+],
 [],
 [],
 [],
@@ -4842,6 +4869,15 @@ I_famc_0 = [
 "to_mother": "Syntym\u00e4"
 }
 ],
+[
+{
+"cita": [],
+"index": 520,
+"note": "",
+"to_father": "Syntym\u00e4",
+"to_mother": "Syntym\u00e4"
+}
+],
 [],
 [],
 [],
@@ -5134,6 +5170,24 @@ I_famc_0 = [
 }
 ],
 [],
+[
+{
+"cita": [],
+"index": 549,
+"note": "",
+"to_father": "Syntym\u00e4",
+"to_mother": "Syntym\u00e4"
+}
+],
+[
+{
+"cita": [],
+"index": 549,
+"note": "",
+"to_father": "Syntym\u00e4",
+"to_mother": "Syntym\u00e4"
+}
+],
 [],
 [
 {
@@ -7838,7 +7892,7 @@ I_famc_0 = [
 [
 {
 "cita": [],
-"index": 14,
+"index": 13,
 "note": "",
 "to_father": "Syntym\u00e4",
 "to_mother": "Syntym\u00e4"
