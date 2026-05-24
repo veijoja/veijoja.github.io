@@ -4484,6 +4484,7 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-08-23\n</p><p>\n<b>\nSivu: \n</b>\njakso 248: kuolleet 1774 maaliskuu - elokuu\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-06-01\n</p><p>\n<b>\nSivu: \n</b>\njakso 249, sivu 247: Moiniemi Ala Kuusa And. R\u00e4m\u00f6, Johan do, h. Brig. R\u00e4tt\u00f6, ...\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-06-01\n</p><p>\n<b>\nSivu: \n</b>\njakso 249, sivu 248: Kuusa (Ala) No 1\n</p>",
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2026-05-23\n</p><p>\n<b>\nSivu: \n</b>\njakso 249, sivu 276: 1924 maaliskuu\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-16\n</p><p>\n<b>\nSivu: \n</b>\njakso 249, sivu x: Philiby - Filikyl\u00e4 Jacob H\u00e4m\u00e4l\u00e4in, ...\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-05-04\n</p><p>\n<b>\nSivu: \n</b>\njakso 25, sivu 19, vuodet 1747-1752: Wiala Mullicka\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-21\n</p><p>\n<b>\nSivu: \n</b>\njakso 25, sivu 206-207: kuolleet 1846 marraskuu - 1847 maaliskuu\n</p>",
@@ -4999,7 +5000,6 @@ C_text_0 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-12-25\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 26: Orihwesi Pawola\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-09-01\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 28-29: 1697\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-19\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 28: K\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 29, vuodet 1712-1718 tai 1730-1736: K\u00e5lemam\u00e4ki\n</p>",
-"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 30, vuodet 1737-1743: Kolemam\u00e4ki\n</p>"
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 29, vuodet 1712-1718 tai 1730-1736: K\u00e5lemam\u00e4ki\n</p>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_text_0.js');

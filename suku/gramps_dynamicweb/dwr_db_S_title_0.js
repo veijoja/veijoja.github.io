@@ -1155,6 +1155,7 @@ S_title_0 = [
 "Uuusikirkko Vpl HisKi kastetut",
 "Vaasan l\u00e4\u00e4nin henkikirjat - Henkikirja 1809-1809 (Va:1)",
 "Valkeakoski Toppolanm\u00e4ki eli Aln\u00e4s Haudan nro 3 1937 tutkimuskaivaus 2017, Ulla Moilanen",
+"Valkj\u00e4rven srk - syntyneet 1912-1924",
 "Valtakunnallisesti merkitt\u00e4v\u00e4t kulttuurihistorialliset ymp\u00e4rist\u00f6t 1993, www.nba.fi/rky1993/",
 "Valtakunnallisesti merkitt\u00e4v\u00e4t rakennetut kulttuuriymp\u00e4ristot RKY, www.rky.fi",
 "Vanhaa Orivett\u00e4 koskevia tuomiokirjapoimintoja keskiajalta 1870-luvulle",

@@ -86,6 +86,7 @@ R_name_0 = [
 "Uudenkirkon seurakunnan (Viipurin l\u00e4\u00e4ni) arkisto",
 "Uudenmaan ja H\u00e4meen l\u00e4\u00e4nin tilej\u00e4",
 "Vaasan l\u00e4\u00e4nin henkikirjat",
+"Valkj\u00e4rven seurakunnan arkisto",
 "Vanhan Suomen tilej\u00e4",
 "Vetelin seurakunnan arkisto",
 "Viipurin l\u00e4\u00e4nin henkikirjat",

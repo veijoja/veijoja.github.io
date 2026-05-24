@@ -349,6 +349,7 @@ P_name_0 = [
 "Kalliolampi, Myllym\u00e4ki, \u00c4ht\u00e4ri, Suomi",
 "Kalliom\u00e4ki, K\u00f6mi, Pihlajavesi, Keuruu, Suomi",
 "Kaltila, Kuorevesi, J\u00e4ms\u00e4, Suomi",
+"Kamajauhola, Valkj\u00e4rvi",
 "Kangasala, Suomi",
 "Kangasalan kirkko, Kangasala, Suomi",
 "Kangasalan seurakunta, Suomen ev.lut. kirkko",

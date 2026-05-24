@@ -180,7 +180,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"s_idx": 1158
+"s_idx": 1159
 }
 ],
 [
@@ -196,12 +196,6 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1209
-},
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
 "s_idx": 1210
 },
 {
@@ -209,6 +203,12 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1211
+},
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"s_idx": 1212
 }
 ],
 [
@@ -1606,12 +1606,6 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1222
-},
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
 "s_idx": 1223
 },
 {
@@ -1733,6 +1727,12 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1243
+},
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"s_idx": 1244
 }
 ],
 [
@@ -1818,9 +1818,9 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "Sanomalehti",
 "note": "",
-"s_idx": 1245
+"s_idx": 1246
 }
 ],
 [
@@ -3096,7 +3096,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 32
 },
@@ -3228,7 +3228,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 229
 },
@@ -3306,7 +3306,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 381
 },
@@ -3372,7 +3372,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 465
 },
@@ -3414,7 +3414,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 521
 },
@@ -3450,7 +3450,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 582
 },
@@ -3510,7 +3510,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 705
 },
@@ -3552,13 +3552,13 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1056
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1057
 },
@@ -3582,7 +3582,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1064
 },
@@ -3660,7 +3660,7 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1089
 },
@@ -3680,23 +3680,17 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"s_idx": 1154
-},
-{
-"call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
-"note": "",
 "s_idx": 1155
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1156
 },
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Kirja",
 "note": "",
 "s_idx": 1157
 },
@@ -3704,7 +3698,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "S\u00e4hk\u00f6inen",
 "note": "",
-"s_idx": 1186
+"s_idx": 1158
 },
 {
 "call_number": "",
@@ -3714,27 +3708,27 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1188
 },
 {
 "call_number": "",
-"media_type": "Aikakauslehti",
+"media_type": "Kirja",
 "note": "",
-"s_idx": 1205
+"s_idx": 1189
 },
 {
 "call_number": "",
 "media_type": "Aikakauslehti",
 "note": "",
-"s_idx": 1208
+"s_idx": 1206
 },
 {
 "call_number": "",
-"media_type": "S\u00e4hk\u00f6inen",
+"media_type": "Aikakauslehti",
 "note": "",
-"s_idx": 1212
+"s_idx": 1209
 },
 {
 "call_number": "",
@@ -3744,13 +3738,13 @@ R_bks_0 = [
 },
 {
 "call_number": "",
-"media_type": "Verkkotietosanakirja",
+"media_type": "S\u00e4hk\u00f6inen",
 "note": "",
 "s_idx": 1214
 },
 {
 "call_number": "",
-"media_type": "Kirja",
+"media_type": "Verkkotietosanakirja",
 "note": "",
 "s_idx": 1215
 },
@@ -3758,7 +3752,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1244
+"s_idx": 1216
+},
+{
+"call_number": "",
+"media_type": "S\u00e4hk\u00f6inen",
+"note": "",
+"s_idx": 1245
 }
 ],
 [
@@ -4126,7 +4126,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1206
+"s_idx": 1207
 }
 ],
 [
@@ -5314,12 +5314,6 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1216
-},
-{
-"call_number": "",
-"media_type": "Kirja",
-"note": "",
 "s_idx": 1217
 },
 {
@@ -5345,6 +5339,12 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1221
+},
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"s_idx": 1222
 }
 ],
 [
@@ -7358,8 +7358,10 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1159
-},
+"s_idx": 1154
+}
+],
+[
 {
 "call_number": "",
 "media_type": "Kirja",
@@ -7515,15 +7517,15 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1185
-}
-],
-[
+},
 {
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1189
-},
+"s_idx": 1186
+}
+],
+[
 {
 "call_number": "",
 "media_type": "Kirja",
@@ -7541,15 +7543,15 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1192
-}
-],
-[
+},
 {
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1193
-},
+}
+],
+[
 {
 "call_number": "",
 "media_type": "Kirja",
@@ -7585,15 +7587,15 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1199
-}
-],
-[
+},
 {
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1200
-},
+}
+],
+[
 {
 "call_number": "",
 "media_type": "Kirja",
@@ -7605,6 +7607,12 @@ R_bks_0 = [
 "media_type": "Kirja",
 "note": "",
 "s_idx": 1202
+},
+{
+"call_number": "",
+"media_type": "Kirja",
+"note": "",
+"s_idx": 1203
 }
 ],
 [
@@ -7612,13 +7620,13 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1203
+"s_idx": 1204
 },
 {
 "call_number": "",
 "media_type": "Kirja",
 "note": "",
-"s_idx": 1204
+"s_idx": 1205
 }
 ],
 [
@@ -7626,7 +7634,7 @@ R_bks_0 = [
 "call_number": "",
 "media_type": "Aikakauslehti",
 "note": "",
-"s_idx": 1207
+"s_idx": 1208
 }
 ]
 ]

@@ -349,6 +349,7 @@ P_type_0 = [
 "Kyl\u00e4",
 "Tila tai talo",
 "Kyl\u00e4",
+"Kyl\u00e4",
 "Paikkakunta",
 "Kirkko",
 "Seurakunta",

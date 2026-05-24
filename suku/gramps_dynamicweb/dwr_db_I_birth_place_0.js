@@ -1260,7 +1260,7 @@ I_birth_place_0 = [
 "Lapinlahti, Sakkola, Luovutettu Karjala",
 "",
 "",
-"",
+"Kamajauhola, Valkj\u00e4rvi",
 "",
 "",
 "",

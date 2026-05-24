@@ -1155,6 +1155,7 @@ S_text_0 = [
 "",
 "",
 "",
+"",
 "<p>\n<b>\nJulkaisutiedot: \n</b>\nMuseovirasto\n</p>",
 "<p>\n<b>\nJulkaisutiedot: \n</b>\nMuseovirasto\n</p>",
 "<p>\n<b>\nTekij\u00e4: \n</b>\nLehtonen, Antti\n</p><p>\n<b>\nJulkaisutiedot: \n</b>\nJalmari Finnen S\u00e4\u00e4ti\u00f6, Tampereen Historiallinen Seura ry\n</p>",

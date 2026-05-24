@@ -4484,6 +4484,7 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6224286547&amp;aineistoId=1161625251\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9791687945&amp;aineistoId=1224455144\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9392065530&amp;aineistoId=1224529431\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6241173564&amp;aineistoId=1234198365\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9791275121&amp;aineistoId=1226489592\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=7979810308&amp;aineistoId=1839381433\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450349770&amp;aineistoId=1227507809\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -4999,7 +5000,6 @@ C_note_0 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=6169306484&amp;aineistoId=1163737977\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5916147087&amp;aineistoId=1173534701\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9450203625&amp;aineistoId=1226633242\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5817171862&amp;aineistoId=1195353213\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
-"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5817189772&amp;aineistoId=1195362373\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>"
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5817171862&amp;aineistoId=1195353213\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>"
 ]
 Dwr.ScriptLoaded('dwr_db_C_note_0.js');

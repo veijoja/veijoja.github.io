@@ -1,6 +1,7 @@
 // This file is generated
 
 C_text_1 = [
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-22\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 30, vuodet 1737-1743: Kolemam\u00e4ki\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-12\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 30, vuodet 1737-1744: Encoa - Enkkua\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2024-05-12\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 30: 1940 helmikuu - maaliskuu\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2022-04-29\n</p><p>\n<b>\nSivu: \n</b>\njakso 32, sivu 30: Recoila\n</p>",
@@ -2552,6 +2553,7 @@ C_text_1 = [
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-07-29\n</p><p>\n<b>\nSivu: \n</b>\nKalmbergin kartasto 1855: Valkj\u00e4rvi, Muolaa\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-07-29\n</p><p>\n<b>\nSivu: \n</b>\nKalmbergin kartasto 1855: Vihti, Lohja, Nurmij\u00e4rvi, Espoo, Loppi, Nummi, Pusula, Sammatti, Karjalohja, Pyh\u00e4j\u00e4rvi Ul., Suomusj\u00e4rvi, Kiikala, Somero\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-07-29\n</p><p>\n<b>\nSivu: \n</b>\nKalmbergin kartasto 1855: Viipuri, Viipurin maalaiskunta, Heinjoki, Muolaa\n</p>",
+"<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2026-05-23\n</p><p>\n<b>\nSivu: \n</b>\nKamajauhola, samanniminen paikka J\u00e4\u00e4skess\u00e4 ja Valkj\u00e4rvell\u00e4\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-06-27\n</p><p>\n<b>\nSivu: \n</b>\nKammonen Pentti, maanviljelij\u00e4, Valkj\u00e4rvi, Karkeala, osoite v. 1970 Kavala Halli Kuorevesi\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2025-06-27\n</p><p>\n<b>\nSivu: \n</b>\nKammonen Pentti, maanviljelij\u00e4, Valkj\u00e4rvi, Karkeala, osoite v. 1970 Kavala Halli Kuorevesi\n</p>",
 "<p>\n<b>\nP\u00e4iv\u00e4m\u00e4\u00e4r\u00e4: \n</b>\n2023-09-03\n</p><p>\n<b>\nSivu: \n</b>\nKangasala\n</p><p>\n<b>\nLuotettavuus: \n</b>\nMatala\n</p>",

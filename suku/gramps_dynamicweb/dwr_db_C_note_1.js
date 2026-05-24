@@ -1,6 +1,7 @@
 // This file is generated
 
 C_note_1 = [
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5817189772&amp;aineistoId=1195362373\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9791237654&amp;aineistoId=1226453190\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=9791599272&amp;aineistoId=1227523187\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://astia.narc.fi/uusiastia/viewer/?fileId=5817138824&amp;aineistoId=1195341010\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
@@ -2552,6 +2553,7 @@ C_note_1 = [
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://www.doria.fi/handle/10024/117451#&amp;gid=1&amp;pid=1\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://www.doria.fi/handle/10024/117471#&amp;gid=1&amp;pid=1\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://www.doria.fi/handle/10024/117452#&amp;gid=1&amp;pid=1\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
+"<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://kaino.kotus.fi/www/verkkojulkaisut/julk54/Kannaksen_kylat.pdf\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://sukuhaku.genealogia.fi/\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://sukuhaku.genealogia.fi/\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "<div>\n<i class=\"NoteType\">\nL\u00e4hdeteksti\n</i>\n<div class=\"grampsstylednote\">\n<p>\nhttps://hiski.genealogia.fi/seurakunnat/srk?CMD=SRK&amp;ID=159&amp;TYPE=HTML&amp;LANG=FI\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",

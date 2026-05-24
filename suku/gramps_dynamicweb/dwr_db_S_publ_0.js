@@ -1155,6 +1155,7 @@ S_publ_0 = [
 "",
 "",
 "",
+"",
 "Museovirasto",
 "Museovirasto",
 "Jalmari Finnen S\u00e4\u00e4ti\u00f6, Tampereen Historiallinen Seura ry",

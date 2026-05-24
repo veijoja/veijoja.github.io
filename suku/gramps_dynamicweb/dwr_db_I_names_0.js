@@ -17267,8 +17267,8 @@ I_names_0 = [
 {
 "call": "",
 "cita": [
-4932,
-4934
+4933,
+4935
 ],
 "date": "",
 "fam_nick": "",
@@ -22452,6 +22452,22 @@ I_names_0 = [
 ],
 "title": "",
 "type": "Syntym\u00e4nimi"
+},
+{
+"call": "",
+"cita": [],
+"date": "",
+"fam_nick": "",
+"full": "S\u00e4rkikanta",
+"given": "",
+"nick": "",
+"note": "",
+"suffix": "",
+"surnames": [
+"S\u00e4rkikanta"
+],
+"title": "",
+"type": "Avionimi"
 }
 ],
 [

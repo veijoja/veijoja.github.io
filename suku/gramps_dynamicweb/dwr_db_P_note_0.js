@@ -402,6 +402,7 @@ P_note_0 = [
 "",
 "",
 "",
+"",
 "<div>\n<i class=\"NoteType\">\nPaikan lis\u00e4tietoja\n</i>\n<div class=\"grampsstylednote\">\n<p>\nKerkkola-koski -ratsutila eli rustholli sijaitsi J\u00e4ms\u00e4n - J\u00e4ms\u00e4nkosken v\u00e4limailla, Rekolankosken maisemissa, Kerkkolan tilaan sulautuneen Kosken tilan kohdilla.<br />\nL\u00e4hde: museo24, J\u00e4ms\u00e4n s\u00e4teritilat ja virkatalot, <br />\nKerkkolan suurtilan historiaa: http://www.museo24.fi/?action[]=INavigation::viewArticle(5065) / Viitattu 24.2.2022\n</p>\n<p>\nYksi J\u00e4ms\u00e4n ratsutiloista oli kruunun kirjoihin merkitty vuonna 1875 Tuomaalan rusthollin nimell\u00e4 ratsutila, joka sijaitsi J\u00e4ms\u00e4njoen l\u00e4nsirannalla Kerkkolan kyl\u00e4ss\u00e4. Tuomaala tunnettiin paikkakuntalaisten keskuudessa Kosken rusthollin nimell\u00e4. Tila yhdistyi vuonna 1877 Kerkkolan suurtilaan. Useiden Kerkkolan suurtilan tilayhdistymisien my\u00f6t\u00e4 tila tunnettiin paikallisesti Kerkkola-Koskena ja viralliselta nimelt\u00e4\u00e4n Kerkkolana. Tilan augementteina eli apuverotiloina olivat Lahnajoki, Pyntt\u00e4 ja Mellala.<br />\nL\u00e4hde: museo24, J\u00e4ms\u00e4n s\u00e4teritilat ja virkatalot, Ratsutilat eli rusthollit: http://www.museo24.fi/?action[]=INavigation::viewArticle(5051) / Viitattu 8.7.2023\n</p>\n<p>\n&nbsp;\n</p>\n</div>\n</div>",
 "",
 "",
